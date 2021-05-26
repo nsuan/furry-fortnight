@@ -10,15 +10,15 @@ stdClass Object
 COMMISSIONS: By Request
     [protected] => 
     [followers_count] => 273
-    [friends_count] => 465
+    [friends_count] => 466
     [listed_count] => 0
     [created_at] => Sun Dec 09 15:23:39 +0000 2018
-    [favourites_count] => 13026
+    [favourites_count] => 13028
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2469
+    [statuses_count] => 2472
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
