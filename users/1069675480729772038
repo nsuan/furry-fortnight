@@ -1,27 +1,23 @@
 stdClass Object
 (
-    [id] => 943276439671115781
-    [id_str] => 943276439671115781
-    [name] => Nidarosis is feeling nostalgic 🍒
-    [screen_name] => Nidarosis
-    [location] => Suramar
+    [id] => 1069675480729772038
+    [id_str] => 1069675480729772038
+    [name] => Sidorra
+    [screen_name] => Sidorrable
+    [location] => Dutchland
     [url] => 
-    [description] => 🌻Draws sometimes, she/her (21+)
-🌻Not taking commissions
-🌻Icon by @ pebster_
-
-    Currently playing: FFXIV
+    [description] => Artist in learning. Love everything fantasy! She/her
     [protected] => 
-    [followers_count] => 9452
-    [friends_count] => 721
-    [listed_count] => 64
-    [created_at] => Wed Dec 20 00:26:43 +0000 2017
-    [favourites_count] => 28936
+    [followers_count] => 18
+    [friends_count] => 460
+    [listed_count] => 0
+    [created_at] => Mon Dec 03 19:31:23 +0000 2018
+    [favourites_count] => 315
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16136
+    [statuses_count] => 657
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,10 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1390677129847791617/9pjOYplQ_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1390677129847791617/9pjOYplQ_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/943276439671115781/1621983311
-    [profile_link_color] => 1B95E0
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1069675785903095811/u3CHzE8T_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1069675785903095811/u3CHzE8T_normal.jpg
+    [profile_link_color] => 7FDBB6
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
