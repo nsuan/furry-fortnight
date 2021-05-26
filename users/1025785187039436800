@@ -1,0 +1,50 @@
+stdClass Object
+(
+    [id] => 1025785187039436800
+    [id_str] => 1025785187039436800
+    [name] => im yell
+    [screen_name] => rantmaddie1
+    [location] => 
+    [url] => 
+    [description] => personal account where I yell in peace, 18+ may like/retweet lewd shit
+    [protected] => 1
+    [followers_count] => 29
+    [friends_count] => 196
+    [listed_count] => 0
+    [created_at] => Sat Aug 04 16:47:01 +0000 2018
+    [favourites_count] => 4284
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 3897
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1025785412319686656/NA4uBhVR_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1025785412319686656/NA4uBhVR_normal.jpg
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1135206458809815041
+    [id_str] => 1135206458809815041
+    [name] => BløssomBlade
+    [screen_name] => wno063
+    [location] => 
+    [url] => 
+    [description] => Whoops, you fell in my hole! You are now a sacrifice to the old gods, you should've been more careful!
+    [protected] => 
+    [followers_count] => 0
+    [friends_count] => 89
+    [listed_count] => 0
+    [created_at] => Sun Jun 02 15:28:05 +0000 2019
+    [favourites_count] => 76
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1177990834337320960/odqLVCVJ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1177990834337320960/odqLVCVJ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1135206458809815041/1569689877
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

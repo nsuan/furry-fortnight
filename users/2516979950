@@ -1,0 +1,52 @@
+stdClass Object
+(
+    [id] => 2516979950
+    [id_str] => 2516979950
+    [name] => Zashi Southpaw
+    [screen_name] => SouthpawJames
+    [location] => Baytown, TX
+    [url] => 
+    [description] => Unhealthy obsession with pears, peaches, eggplants,  And donuts.
+Any characters I post are generally mine unless stated otherwise  Minors will be blocked
+    [protected] => 
+    [followers_count] => 116
+    [friends_count] => 4355
+    [listed_count] => 0
+    [created_at] => Fri May 23 04:19:52 +0000 2014
+    [favourites_count] => 48898
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 29166
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1187827163019567105/sSlVAP5p_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1187827163019567105/sSlVAP5p_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2516979950/1572035634
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

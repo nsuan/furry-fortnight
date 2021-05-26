@@ -1,0 +1,55 @@
+stdClass Object
+(
+    [id] => 943276439671115781
+    [id_str] => 943276439671115781
+    [name] => Nidarosis is feeling nostalgic 🍒
+    [screen_name] => Nidarosis
+    [location] => Suramar
+    [url] => 
+    [description] => 🌻Draws sometimes, she/her (21+)
+🌻Not taking commissions
+🌻Icon by @ pebster_
+
+    Currently playing: FFXIV
+    [protected] => 
+    [followers_count] => 9445
+    [friends_count] => 721
+    [listed_count] => 64
+    [created_at] => Wed Dec 20 00:26:43 +0000 2017
+    [favourites_count] => 28932
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 16130
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1390677129847791617/9pjOYplQ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1390677129847791617/9pjOYplQ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/943276439671115781/1621983311
+    [profile_link_color] => 1B95E0
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

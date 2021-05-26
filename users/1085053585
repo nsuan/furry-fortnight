@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1085053585
+    [id_str] => 1085053585
+    [name] => Artemais
+    [screen_name] => _Artemais
+    [location] => Columbus, OH
+    [url] => 
+    [description] => #BLM with a small donation of one thirst trap a month you too can help save this parched twink. (24 , he/him, bakers assistant, undergrad)
+    [protected] => 
+    [followers_count] => 45
+    [friends_count] => 557
+    [listed_count] => 0
+    [created_at] => Sun Jan 13 05:08:05 +0000 2013
+    [favourites_count] => 13375
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 826
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1053688998122655744/STKFpVOG_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1053688998122655744/STKFpVOG_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1085053585/1592735991
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

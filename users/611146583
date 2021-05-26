@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 611146583
+    [id_str] => 611146583
+    [name] => Katch
+    [screen_name] => Katchdraws
+    [location] => The Underbed
+    [url] => http://Katch.crevado.com
+    [description] => Fantasy Illustrator | Cat mom | lvl 32 bridge troll ✨ LOOKING FOR WORK ✨  Contact info in my portfolio!
+    [protected] => 
+    [followers_count] => 4519
+    [friends_count] => 4913
+    [listed_count] => 87
+    [created_at] => Sun Jun 17 21:43:08 +0000 2012
+    [favourites_count] => 122036
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 70750
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1393326206351659008/yMrhczDL_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1393326206351659008/yMrhczDL_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/611146583/1621726486
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

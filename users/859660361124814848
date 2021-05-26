@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 859660361124814848
+    [id_str] => 859660361124814848
+    [name] => Monty
+    [screen_name] => KilJaded
+    [location] => Portland, OR
+    [url] => https://trello.com/b/GmnO9Qlk/commissions
+    [description] => BLM | Artist / illustrator | Commissions CLOSED| 20 She/They Support me on Kofi!: http://ko-fi.com/kiljaded
+    [protected] => 
+    [followers_count] => 458
+    [friends_count] => 1052
+    [listed_count] => 1
+    [created_at] => Wed May 03 06:46:16 +0000 2017
+    [favourites_count] => 1995
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 1414
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1394041470504476675/iIEEH481_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1394041470504476675/iIEEH481_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/859660361124814848/1606212506
+    [profile_link_color] => F58EA8
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

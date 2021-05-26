@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1007277083565969408
+    [id_str] => 1007277083565969408
+    [name] => Sasha Becke 🐺☀️
+    [screen_name] => direbright
+    [location] => 
+    [url] => 
+    [description] => fan+artist, graphic designer, sun swallowing fiend▪25+▪they/them▪Black Lives Matter
+    [protected] => 
+    [followers_count] => 333
+    [friends_count] => 398
+    [listed_count] => 0
+    [created_at] => Thu Jun 14 15:02:25 +0000 2018
+    [favourites_count] => 2637
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 501
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1132459416324837376/_DN_Pck0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1132459416324837376/_DN_Pck0_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1007277083565969408/1568736674
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

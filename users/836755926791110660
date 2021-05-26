@@ -1,0 +1,54 @@
+stdClass Object
+(
+    [id] => 836755926791110660
+    [id_str] => 836755926791110660
+    [name] => Dri
+    [screen_name] => FarseerDri
+    [location] => United States
+    [url] => https://farseerdri.tumblr.com
+    [description] => Rose 🐂 she/her ✍🏽 Digital Artist ✍🏽 
+Clip Studio Paint 🎨
+Warcraft, Elder Scrolls, FF, Dragon Age, Critical Role 🎮🖥️
+http://ko-fi.com/A1513Z47
+    [protected] => 
+    [followers_count] => 361
+    [friends_count] => 384
+    [listed_count] => 2
+    [created_at] => Wed Mar 01 01:52:13 +0000 2017
+    [favourites_count] => 19485
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 3204
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1316974947298836480/NT1mlXmx_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1316974947298836480/NT1mlXmx_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/836755926791110660/1590860229
+    [profile_link_color] => 7FDBB6
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,56 @@
+stdClass Object
+(
+    [id] => 252731593
+    [id_str] => 252731593
+    [name] => [SUBURBAN CRYPTID]
+    [screen_name] => cryptsteelelele
+    [location] => Gatineau, Québec
+    [url] => http://xienobiart.tumblr.com
+    [description] => boi I'm so tired
+
+french/english
+aquarius/entp
+bi/grey-aro
+still missing mollymauk tealeaf since 2018/07/13
+    [protected] => 
+    [followers_count] => 55
+    [friends_count] => 599
+    [listed_count] => 0
+    [created_at] => Tue Feb 15 19:59:38 +0000 2011
+    [favourites_count] => 9259
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 4411
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5ABB5
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1392270815299833857/N1sxJJTN_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1392270815299833857/N1sxJJTN_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/252731593/1543967547
+    [profile_link_color] => 506A46
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

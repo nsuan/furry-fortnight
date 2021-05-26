@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 3295608981
+    [id_str] => 3295608981
+    [name] => GhoulKitten13
+    [screen_name] => Coolkitten_13
+    [location] => Azeroth
+    [url] => http://coolkitten13.newgrounds.com/
+    [description] => Ayyy! I do digital/traditional art and cool shit. ⛔️NSFW possibilities⛔️- WoW - Star War -
+    [protected] => 
+    [followers_count] => 266
+    [friends_count] => 2355
+    [listed_count] => 3
+    [created_at] => Sat May 23 19:59:09 +0000 2015
+    [favourites_count] => 40974
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 7495
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1327113545578926081/Q76Oxk64_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1327113545578926081/Q76Oxk64_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3295608981/1621299768
+    [profile_link_color] => E81C4F
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,52 @@
+stdClass Object
+(
+    [id] => 492458671
+    [id_str] => 492458671
+    [name] => Mars Weber
+    [screen_name] => Weber2002
+    [location] => Hamburg, Deutschland
+    [url] => https://www.artstation.com/mariusschipor
+    [description] => Artist from Germany, Hamburg 🇩🇪🌍
+Full time failure. 25
+    [protected] => 
+    [followers_count] => 119
+    [friends_count] => 4376
+    [listed_count] => 0
+    [created_at] => Tue Feb 14 19:00:06 +0000 2012
+    [favourites_count] => 67492
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 83
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 9266CC
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1288999406382002180/PUCXs5bK_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1288999406382002180/PUCXs5bK_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/492458671/1594506857
+    [profile_link_color] => 29716A
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

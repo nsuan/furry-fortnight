@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 15496176
+    [id_str] => 15496176
+    [name] => Emi Stuemke
+    [screen_name] => Emigurumi
+    [location] => Menomonie, WI
+    [url] => https://www.youtube.com/watch?v=w1FgmqTU92I
+    [description] => Asst Professor at UW-Stout researching intersections of gaming and medical rhetoric. Avid digital archivist and disc priest.
+    [protected] => 
+    [followers_count] => 447
+    [friends_count] => 668
+    [listed_count] => 12
+    [created_at] => Sat Jul 19 22:36:30 +0000 2008
+    [favourites_count] => 1035
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 1017
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 9AE4E8
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1243248055492710402/F9HPS3Vn_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1243248055492710402/F9HPS3Vn_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/15496176/1492401305
+    [profile_link_color] => 7D0659
+    [profile_sidebar_border_color] => 87BC44
+    [profile_sidebar_fill_color] => C62E42
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

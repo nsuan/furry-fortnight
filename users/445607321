@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 445607321
+    [id_str] => 445607321
+    [name] => Lynessa Silverflame
+    [screen_name] => KrystalAuditore
+    [location] => Washington State
+    [url] => 
+    [description] => I love video games and anime!! Xbox one/360 and PC of course blizzard games mostly. I hop on here once in a while. I'm into lots of things. I'm pretty chill.
+    [protected] => 
+    [followers_count] => 210
+    [friends_count] => 653
+    [listed_count] => 5
+    [created_at] => Sat Dec 24 16:28:13 +0000 2011
+    [favourites_count] => 4042
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 5822
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/712173921269784576/57S7uDnQ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/712173921269784576/57S7uDnQ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/445607321/1478436787
+    [profile_link_color] => 0084B4
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

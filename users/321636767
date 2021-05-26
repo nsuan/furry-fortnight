@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 321636767
+    [id_str] => 321636767
+    [name] => Two rogue dude: Zhu-shi and Dylan
+    [screen_name] => AntonioJ31
+    [location] => Pasadena, CA
+    [url] => https://www.tumblr.com/blog/dylan-grimmkell/blog/dylan-grimmkell
+    [description] => M, Black 30yo.Werewolf & Anime fan. Art lover, Gamer. WoW player Dylanwolf#1850.RT WoW Art and other art 🔞 Icons by @VladHarabagiu
+    [protected] => 
+    [followers_count] => 731
+    [friends_count] => 1801
+    [listed_count] => 10
+    [created_at] => Tue Jun 21 22:06:38 +0000 2011
+    [favourites_count] => 31254
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 22396
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1382334434867748868/nmo7HBF8_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1382334434867748868/nmo7HBF8_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/321636767/1618409184
+    [profile_link_color] => 0084B4
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

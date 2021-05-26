@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1004261515
+    [id_str] => 1004261515
+    [name] => Лощинина Ксения
+    [screen_name] => Amaya_N7
+    [location] => Москва
+    [url] => http://vk.com/amayarus
+    [description] => 
+    [protected] => 
+    [followers_count] => 12
+    [friends_count] => 237
+    [listed_count] => 0
+    [created_at] => Tue Dec 11 15:27:50 +0000 2012
+    [favourites_count] => 3751
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 363
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 1A1B1F
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1324244026590199808/k2z4xzMd_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1324244026590199808/k2z4xzMd_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1004261515/1355240442
+    [profile_link_color] => 2FC2EF
+    [profile_sidebar_border_color] => 181A1E
+    [profile_sidebar_fill_color] => 252429
+    [profile_text_color] => 666666
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

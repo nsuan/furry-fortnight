@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 4569013152
+    [id_str] => 4569013152
+    [name] => ⚡️ ruru ⚡️@ work
+    [screen_name] => rurukatt
+    [location] => at home
+    [url] => http://rurukatt.tumblr.com
+    [description] => they/them | freelance artist | definitely a cat person | mostly WoW & FFXIV | {COMMISSIONS ARE FULL ✨} ✉️ rurukatt@gmail.com
+    [protected] => 
+    [followers_count] => 6305
+    [friends_count] => 362
+    [listed_count] => 61
+    [created_at] => Tue Dec 15 21:01:15 +0000 2015
+    [favourites_count] => 10346
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 7043
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1263127354781638656/bvsl0BGP_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1263127354781638656/bvsl0BGP_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/4569013152/1499885398
+    [profile_link_color] => A984FD
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

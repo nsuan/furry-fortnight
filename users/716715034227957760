@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 716715034227957760
+    [id_str] => 716715034227957760
+    [name] => Samuel ⚣
+    [screen_name] => whitmachillean
+    [location] => BLACK LIVES ALWAYS MATTER
+    [url] => 
+    [description] => He/Him/His | ADHD brain | Psychology + Gender Studies | Junior @ TU | Queer as a $3 bill
+    [protected] => 
+    [followers_count] => 376
+    [friends_count] => 875
+    [listed_count] => 1
+    [created_at] => Sun Apr 03 19:52:34 +0000 2016
+    [favourites_count] => 12033
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 6590
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1385680808103628803/FgbQadV__normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1385680808103628803/FgbQadV__normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/716715034227957760/1613404532
+    [profile_link_color] => A40C12
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

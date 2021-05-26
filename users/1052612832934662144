@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1052612832934662144
+    [id_str] => 1052612832934662144
+    [name] => Peach Pitt
+    [screen_name] => AngstJunior
+    [location] => The9thdimension
+    [url] => 
+    [description] => 18 yr old lesbian Jellyfish and Aspiring Animator.
+    [protected] => 1
+    [followers_count] => 9
+    [friends_count] => 1578
+    [listed_count] => 0
+    [created_at] => Wed Oct 17 17:30:30 +0000 2018
+    [favourites_count] => 2149
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 29
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1096100322366423041/fUuivxn6_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1096100322366423041/fUuivxn6_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1052612832934662144/1595610345
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

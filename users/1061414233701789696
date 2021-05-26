@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 1061414233701789696
+    [id_str] => 1061414233701789696
+    [name] => Miaou♡
+    [screen_name] => The_kittylady
+    [location] => 
+    [url] => 
+    [description] => bröther may I have some lööps?
+The_kittylady on instagram
+The_catlady on Tumblr
+    [protected] => 
+    [followers_count] => 26
+    [friends_count] => 554
+    [listed_count] => 0
+    [created_at] => Sun Nov 11 00:24:08 +0000 2018
+    [favourites_count] => 379
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 151
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1061907259058520064/ioYv70TV_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1061907259058520064/ioYv70TV_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1061414233701789696/1541896693
+    [profile_link_color] => F58EA8
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

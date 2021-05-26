@@ -1,0 +1,55 @@
+stdClass Object
+(
+    [id] => 1195546932791394304
+    [id_str] => 1195546932791394304
+    [name] => diepuffin /commissions closed
+    [screen_name] => polkadod1
+    [location] => 
+    [url] => 
+    [description] => Artist, gamer, old and ugly, he/him
+League, WoW, Pokemon lover
+Freelance artist
+
+Commission progress: https://trello.com/b/nXndejg9/commission-progress
+    [protected] => 
+    [followers_count] => 780
+    [friends_count] => 90
+    [listed_count] => 3
+    [created_at] => Sat Nov 16 03:40:29 +0000 2019
+    [favourites_count] => 259
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 41
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1195547245191581697/icV2tvtX_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1195547245191581697/icV2tvtX_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1195546932791394304/1573898248
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

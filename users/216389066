@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 216389066
+    [id_str] => 216389066
+    [name] => Bawk 💜🐕💣
+    [screen_name] => bawkyart
+    [location] => Minnesota, USA
+    [url] => http://www.bawk.art
+    [description] => Digital Illustrator | 31 | She/They | 💜 Shiba Inu Breed Preservation @tobitatsushiba - http://tobitatsushiba.com | I love Japanese dogs & parrots.
+    [protected] => 
+    [followers_count] => 4046
+    [friends_count] => 1103
+    [listed_count] => 70
+    [created_at] => Tue Nov 16 15:54:33 +0000 2010
+    [favourites_count] => 23977
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 26300
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 1A1B1F
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1393581845355302912/0AxB7JjD_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1393581845355302912/0AxB7JjD_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/216389066/1620694984
+    [profile_link_color] => FF691F
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,54 @@
+stdClass Object
+(
+    [id] => 1268483379437211649
+    [id_str] => 1268483379437211649
+    [name] => Sahar is INTERNALLY SCREAMING
+    [screen_name] => Assistantbean
+    [location] => Vesuvia
+    [url] => 
+    [description] => Assistant Magician * Younger of two
+- Art of Sahar by Me 
+- Side account
+(Writer is 18+)
+    [protected] => 
+    [followers_count] => 87
+    [friends_count] => 250
+    [listed_count] => 2
+    [created_at] => Thu Jun 04 10:03:09 +0000 2020
+    [favourites_count] => 824
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 698
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1334014184623890434/YfOXW1gn_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1334014184623890434/YfOXW1gn_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1268483379437211649/1605836675
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,54 @@
+stdClass Object
+(
+    [id] => 1124918064
+    [id_str] => 1124918064
+    [name] => Dewdlepies 🌸🌻
+    [screen_name] => dewdlepies
+    [location] => California, USA
+    [url] => http://dewdlepies.tumblr.com
+    [description] => Freelance artist  (‘∀’●)♡  He/Him 
+BLM. Trans Rights are Human Rights
+
+ http://shop.dewdlepies.com
+    [protected] => 
+    [followers_count] => 1654
+    [friends_count] => 721
+    [listed_count] => 7
+    [created_at] => Sun Jan 27 12:38:32 +0000 2013
+    [favourites_count] => 29119
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 13980
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1358575082596012034/up8E7Hme_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1358575082596012034/up8E7Hme_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1124918064/1510220716
+    [profile_link_color] => E81C4F
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

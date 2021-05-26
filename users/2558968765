@@ -1,0 +1,58 @@
+stdClass Object
+(
+    [id] => 2558968765
+    [id_str] => 2558968765
+    [name] => Ciralia
+    [screen_name] => ciraliawow
+    [location] => 
+    [url] => http://druidilicious.tumblr.com/
+    [description] => Filthy casual gamer. Likes to draw, rarely does, mostly lurks.
+
+🎮 WoW (Argent Dawn EU) 
+🎮 OW 
+🖋 DND
+🌰 Pokémon
+🎮 Animal Crossing
+🐈 Cats ♥
+    [protected] => 
+    [followers_count] => 38
+    [friends_count] => 259
+    [listed_count] => 3
+    [created_at] => Tue Jun 10 12:44:04 +0000 2014
+    [favourites_count] => 623
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 465
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 642D8B
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1300064437840285697/DINJqIPq_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1300064437840285697/DINJqIPq_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2558968765/1483027633
+    [profile_link_color] => 1B95E0
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => 78C0A8
+    [profile_text_color] => 5E412F
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

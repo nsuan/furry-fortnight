@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 20340344
+    [id_str] => 20340344
+    [name] => PeskyPixelPixies
+    [screen_name] => TheGrimDelirium
+    [location] => 
+    [url] => 
+    [description] => I draw odd, weird ass things at times, I love Critical Role and used to play WoW on Argent Dawn EU. Not anymore.
+    [protected] => 
+    [followers_count] => 91
+    [friends_count] => 3706
+    [listed_count] => 0
+    [created_at] => Sat Feb 07 23:22:24 +0000 2009
+    [favourites_count] => 4584
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 1001
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 642D8B
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme10/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme10/bg.gif
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1210740591404863488/GFtnbsaC_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1210740591404863488/GFtnbsaC_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/20340344/1577498133
+    [profile_link_color] => 9266CC
+    [profile_sidebar_border_color] => B700FF
+    [profile_sidebar_fill_color] => C58EF2
+    [profile_text_color] => 3D1957
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

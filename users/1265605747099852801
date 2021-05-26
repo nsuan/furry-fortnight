@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1265605747099852801
+    [id_str] => 1265605747099852801
+    [name] => McGerridae
+    [screen_name] => McGerridae
+    [location] => Western Australia
+    [url] => 
+    [description] => Some peep from Auckland, New Zealand who lives in Australia.
+    [protected] => 
+    [followers_count] => 27
+    [friends_count] => 407
+    [listed_count] => 0
+    [created_at] => Wed May 27 11:28:26 +0000 2020
+    [favourites_count] => 1044
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 101
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1293462572281159681/7W1sqBRd_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1293462572281159681/7W1sqBRd_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1265605747099852801/1597220559
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

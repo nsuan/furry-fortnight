@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1045257291539369984
+    [id_str] => 1045257291539369984
+    [name] => 💚 Thalerbet 💚
+    [screen_name] => Thalerbet
+    [location] => 
+    [url] => 
+    [description] => I'm Thalerbet and I do art) Warcraft, DBH, LoTR, DnD, Genshin and a little bit of shitposting in russian, 37, nb, pan, 🇷🇺🏳️‍🌈, ISTJ, ЛСИ, ru/badeng
+    [protected] => 
+    [followers_count] => 355
+    [friends_count] => 2480
+    [listed_count] => 0
+    [created_at] => Thu Sep 27 10:22:13 +0000 2018
+    [favourites_count] => 27811
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 4180
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1365388206544404485/3SYW2GPc_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1365388206544404485/3SYW2GPc_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1045257291539369984/1614368632
+    [profile_link_color] => 4F2982
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

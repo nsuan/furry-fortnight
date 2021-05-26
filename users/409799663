@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 409799663
+    [id_str] => 409799663
+    [name] => James
+    [screen_name] => James_Melinae
+    [location] => CA
+    [url] => http://triple-torch-art.deviantart.com/
+    [description] => please follow my new Twitter @tytonocturna
+    [protected] => 
+    [followers_count] => 59
+    [friends_count] => 65
+    [listed_count] => 1
+    [created_at] => Fri Nov 11 07:18:04 +0000 2011
+    [favourites_count] => 36
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 2652
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 22434F
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/600790404405952512/aARPaG-5_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/600790404405952512/aARPaG-5_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/409799663/1421726334
+    [profile_link_color] => 54C9ED
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 252429
+    [profile_text_color] => 666666
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

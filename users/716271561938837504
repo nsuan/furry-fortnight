@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 716271561938837504
+    [id_str] => 716271561938837504
+    [name] => 🍻Bathildis Ironstout🍻
+    [screen_name] => IronstoutBrews
+    [location] => Mystic Ward, Ironforge
+    [url] => http://battlesteincompany.shivtr.com
+    [description] => Proud Dwarven brewer on WRA, Mead Haller, roleplayer, cosplayer, artist, and all around cheeky lass.  Advocate of all things Dwarven. Avatar by @planktonheretic
+    [protected] => 
+    [followers_count] => 1220
+    [friends_count] => 1379
+    [listed_count] => 7
+    [created_at] => Sat Apr 02 14:30:22 +0000 2016
+    [favourites_count] => 19040
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 5348
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1391513989914316803/sai9stV6_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1391513989914316803/sai9stV6_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/716271561938837504/1569116871
+    [profile_link_color] => FF691F
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

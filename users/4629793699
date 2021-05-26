@@ -1,0 +1,50 @@
+stdClass Object
+(
+    [id] => 4629793699
+    [id_str] => 4629793699
+    [name] => Kazgan
+    [screen_name] => Kazgan_FA
+    [location] => the mitten state
+    [url] => http://www.furaffinity.net/user/kazgan/
+    [description] => Tauren OG. Duo faction WoW player. #1 paw fan. Writing nerd. Board game and tabletop enthusiast. Snarkfiend. Secretly a romantic. Prolly NSFW. He/him.
+    [protected] => 
+    [followers_count] => 45
+    [friends_count] => 335
+    [listed_count] => 0
+    [created_at] => Tue Dec 22 09:17:47 +0000 2015
+    [favourites_count] => 24
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 34
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/679795791007858688/NditQ-VR_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/679795791007858688/NditQ-VR_normal.png
+    [profile_link_color] => 4E1919
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

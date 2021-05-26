@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1326268557995479042
+    [id_str] => 1326268557995479042
+    [name] => 🔅 Hex 🔅
+    [screen_name] => SentientHex
+    [location] => Canada
+    [url] => https://www.twitch.tv/sentienthex
+    [description] => She/They/Ogopogo
+I game sometimes...
+    [protected] => 
+    [followers_count] => 4
+    [friends_count] => 166
+    [listed_count] => 1
+    [created_at] => Tue Nov 10 21:00:47 +0000 2020
+    [favourites_count] => 267
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 24
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1337584580870758400/FKbd-oG5_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1337584580870758400/FKbd-oG5_normal.jpg
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

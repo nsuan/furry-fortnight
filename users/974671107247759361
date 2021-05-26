@@ -1,0 +1,54 @@
+stdClass Object
+(
+    [id] => 974671107247759361
+    [id_str] => 974671107247759361
+    [name] => Tez'asiya
+    [screen_name] => Tezasiya
+    [location] => 
+    [url] => https://www.artstation.com/tezasiya
+    [description] => 21 💛 Artist 💛 She/Her 💛
+Fantasy 💛 Warcraft 💛 Hades 💛 
+Header by @ArtCelestial 💛 PP by @saltmatey 💛
+Commissions: Closed 💛
+    [protected] => 
+    [followers_count] => 1064
+    [friends_count] => 652
+    [listed_count] => 6
+    [created_at] => Fri Mar 16 15:37:55 +0000 2018
+    [favourites_count] => 17265
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 10044
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1329172101115355138/kr2tGkKE_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1329172101115355138/kr2tGkKE_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/974671107247759361/1599327608
+    [profile_link_color] => 7FDBB6
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

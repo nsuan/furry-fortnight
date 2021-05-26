@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 818991376394092546
+    [id_str] => 818991376394092546
+    [name] => Rem/Bee 🐝 Lost in The Maw
+    [screen_name] => BrookeIsABee
+    [location] => California, USA
+    [url] => http://www.linktr.ee/brookeisabee
+    [description] => 🐝 LA based costume designer, cosplayer, & digital artist 💜 18+ ONLY 💜 Black Lives Matter 💜 She/They ❤️ Currently in WoW hell, WrA ❤️
+    [protected] => 
+    [followers_count] => 10977
+    [friends_count] => 1033
+    [listed_count] => 45
+    [created_at] => Wed Jan 11 01:22:15 +0000 2017
+    [favourites_count] => 62417
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 43649
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1388072029169930247/DtYMc2r0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1388072029169930247/DtYMc2r0_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/818991376394092546/1606396823
+    [profile_link_color] => AF0000
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

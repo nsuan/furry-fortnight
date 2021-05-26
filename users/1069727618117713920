@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1069727618117713920
+    [id_str] => 1069727618117713920
+    [name] => 🌒❄💀Tigandra💀❄🌘
+    [screen_name] => Tigandra_
+    [location] => 
+    [url] => 
+    [description] => 🖤Gamer🖤 | PC/PS4 | WoW - Wra | Probably NSFW | Resident Goth | 🖤SFX artist🖤
+    [protected] => 
+    [followers_count] => 3
+    [friends_count] => 46
+    [listed_count] => 0
+    [created_at] => Mon Dec 03 22:58:33 +0000 2018
+    [favourites_count] => 19
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 10
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1076778282148757504/YE1EjHL1_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1076778282148757504/YE1EjHL1_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1069727618117713920/1554140321
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

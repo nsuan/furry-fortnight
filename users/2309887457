@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 2309887457
+    [id_str] => 2309887457
+    [name] => 🌌Ssapdra🌌(Commissions Open)
+    [screen_name] => Ssapdra
+    [location] => Planescore
+    [url] => https://patreon.com/Planescore
+    [description] => Freelance Illustrator and co creator of World of Planescore,  more at http://ssapdra.com
+    [protected] => 
+    [followers_count] => 906
+    [friends_count] => 1872
+    [listed_count] => 18
+    [created_at] => Tue Jan 28 14:12:45 +0000 2014
+    [favourites_count] => 24180
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 8243
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1235086452742074368/h5boKwwJ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1235086452742074368/h5boKwwJ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2309887457/1612106040
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 586257984
+    [id_str] => 586257984
+    [name] => Xitilis
+    [screen_name] => Xitilis
+    [location] => No infinito abismo do vazio 
+    [url] => 
+    [description] => Quem sou eu? Hum... Não é da sua conta.
+
+ART: Icon and Banner by @Angry_Juh
+    [protected] => 1
+    [followers_count] => 3
+    [friends_count] => 4991
+    [listed_count] => 0
+    [created_at] => Mon May 21 02:29:17 +0000 2012
+    [favourites_count] => 617
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 48
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1346486286589321224/4WVIanDT_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1346486286589321224/4WVIanDT_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/586257984/1598564823
+    [profile_link_color] => ABB8C2
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

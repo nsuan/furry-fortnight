@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 160965046
+    [id_str] => 160965046
+    [name] => Mishaweha
+    [screen_name] => Mishaweha
+    [location] => Thunder Bluff
+    [url] => http://guildiescomic.tumblr.com
+    [description] => I'm a WoW Player/Occasional Blogger/MMO Junkie/Software Engineer/Comic Artist with an adorable kitty. BT: Misha#1548 GW2: Misha.6401 FC: 3024-5073-3390
+    [protected] => 
+    [followers_count] => 837
+    [friends_count] => 1098
+    [listed_count] => 34
+    [created_at] => Tue Jun 29 16:16:51 +0000 2010
+    [favourites_count] => 28851
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 8576
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => EDECE9
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme3/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme3/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/897911495576526849/5VqNUUdq_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/897911495576526849/5VqNUUdq_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/160965046/1502913733
+    [profile_link_color] => 088253
+    [profile_sidebar_border_color] => D3D2CF
+    [profile_sidebar_fill_color] => E3E2DE
+    [profile_text_color] => 634047
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

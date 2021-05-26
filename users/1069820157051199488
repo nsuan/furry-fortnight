@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1069820157051199488
+    [id_str] => 1069820157051199488
+    [name] => MagistrixVoidchaser
+    [screen_name] => MagistrixV
+    [location] => Quel'thalas
+    [url] => https://blacklivesmatter.carrd.co
+    [description] => check bio for link to BLM charities and petitions  OOC: I do charity and realm events! ✨💜✨ Avatar byhttp://akanetto.tumblr.com
+    [protected] => 
+    [followers_count] => 100
+    [friends_count] => 201
+    [listed_count] => 0
+    [created_at] => Tue Dec 04 05:06:16 +0000 2018
+    [favourites_count] => 2631
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 2664
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1184659082403295234/bIDTelKZ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1184659082403295234/bIDTelKZ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1069820157051199488/1543900271
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 324646109
+    [id_str] => 324646109
+    [name] => Hyperfixated with a chance of fanfic
+    [screen_name] => AGentlemanCrow
+    [location] => California, USA
+    [url] => https://www.blackmagictango.com
+    [description] => Some old crow... Bi, She/Her, Chaotic Good, loves cats, snails, and axolotls • Middle School English Teacher • Black Magic Tango • TMA 💖@suddenlyapples 💖
+    [protected] => 
+    [followers_count] => 146
+    [friends_count] => 521
+    [listed_count] => 5
+    [created_at] => Mon Jun 27 00:21:26 +0000 2011
+    [favourites_count] => 19768
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 7812
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme10/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme10/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1353119633423757312/43TIR5gd_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1353119633423757312/43TIR5gd_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/324646109/1545466087
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

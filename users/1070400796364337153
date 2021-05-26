@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1070400796364337153
+    [id_str] => 1070400796364337153
+    [name] => GIUMS 【Alive on PATREON & INSTA】
+    [screen_name] => GIUMS1
+    [location] => São Paulo, Brasil
+    [url] => https://www.patreon.com/giums
+    [description] => F / 24 / PT/BR artist, freelancer and bored artist. 🐉 OCS, yaoi, creatures, fantasy, nsfw and comms!
+    [protected] => 
+    [followers_count] => 394
+    [friends_count] => 532
+    [listed_count] => 1
+    [created_at] => Wed Dec 05 19:33:31 +0000 2018
+    [favourites_count] => 434
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 116
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1070401913026478080/FTbc5rmx_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1070401913026478080/FTbc5rmx_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1070400796364337153/1616954907
+    [profile_link_color] => FF0000
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

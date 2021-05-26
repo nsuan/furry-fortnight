@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 15671600
+    [id_str] => 15671600
+    [name] => ☕️Danni🕶
+    [screen_name] => Dannilise
+    [location] => Austin
+    [url] => 
+    [description] => Travel hungry
+    [protected] => 
+    [followers_count] => 107
+    [friends_count] => 283
+    [listed_count] => 2
+    [created_at] => Thu Jul 31 06:03:32 +0000 2008
+    [favourites_count] => 20017
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1073
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => EBEBEB
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme17/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme17/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1330612762343510017/G5SlfkKC_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1330612762343510017/G5SlfkKC_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/15671600/1557149506
+    [profile_link_color] => E67F00
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => E6F6F9
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

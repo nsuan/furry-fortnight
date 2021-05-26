@@ -1,0 +1,52 @@
+stdClass Object
+(
+    [id] => 103048123
+    [id_str] => 103048123
+    [name] => Nagato Wolf
+    [screen_name] => anicob
+    [location] => Mexico
+    [url] => 
+    [description] => WARNING!!! NSFW 🔞 NUDITY WARNING!!!
+FURRY// Mexican🇲🇽//GAY 🏳️‍🌈 // manda mensaje si gustas rolear 🐶 (English - Spanish)
+    [protected] => 
+    [followers_count] => 186
+    [friends_count] => 4998
+    [listed_count] => 0
+    [created_at] => Fri Jan 08 18:09:02 +0000 2010
+    [favourites_count] => 18884
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 17262
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1289770039642599425/IqSB3E4i_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1289770039642599425/IqSB3E4i_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/103048123/1482887084
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

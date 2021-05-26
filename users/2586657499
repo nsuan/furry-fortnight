@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 2586657499
+    [id_str] => 2586657499
+    [name] => Sarah Saphre(Like Sapphire)♋🎮🌻
+    [screen_name] => sarahSaphre
+    [location] => The oasis
+    [url] => https://www.twitch.tv/SarahSaphre
+    [description] => works @ cemetery|good at growing shit|http://etsy.com/shop/SarahSaph… affiliate|email:Sarahsaphre@gmail.com https://allmylinks.com/feed
+    [protected] => 
+    [followers_count] => 480
+    [friends_count] => 1073
+    [listed_count] => 5
+    [created_at] => Wed Jun 25 01:34:53 +0000 2014
+    [favourites_count] => 13597
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 4259
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 642D8B
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme10/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme10/bg.gif
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1315835646850691072/LKbPjpGZ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1315835646850691072/LKbPjpGZ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2586657499/1612897084
+    [profile_link_color] => 1C5504
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

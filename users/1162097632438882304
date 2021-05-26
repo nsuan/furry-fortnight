@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1162097632438882304
+    [id_str] => 1162097632438882304
+    [name] => Alinka0chan🍀
+    [screen_name] => AlinkaAfk
+    [location] => Кострома, Россия
+    [url] => https://vk.com/alina_afk
+    [description] => (´｡• ω •｡`)really want to draw|22|🇷🇺|
+    [protected] => 1
+    [followers_count] => 2
+    [friends_count] => 88
+    [listed_count] => 0
+    [created_at] => Thu Aug 15 20:24:01 +0000 2019
+    [favourites_count] => 5877
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 16
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1196642538536476672/Ni8GNv4X_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1196642538536476672/Ni8GNv4X_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1162097632438882304/1574136789
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

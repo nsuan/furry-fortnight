@@ -1,0 +1,52 @@
+stdClass Object
+(
+    [id] => 1072478599020797954
+    [id_str] => 1072478599020797954
+    [name] => Aloija
+    [screen_name] => _Aloija_
+    [location] => Province of Moscow, Russia
+    [url] => https://www.artstation.com/aloija
+    [description] => Freelance artist | Fantasy art |  Commission: CLOSE
+Comm info: https://docs.google.com/document/d/1ldh6Y68XVDWuOZPzdzzff9D2pvH22qjKZbavj-NU-zs/edit?usp=sharing
+    [protected] => 
+    [followers_count] => 3863
+    [friends_count] => 310
+    [listed_count] => 33
+    [created_at] => Tue Dec 11 13:09:58 +0000 2018
+    [favourites_count] => 205
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 180
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1074340520980332545/IsKtK16u_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1074340520980332545/IsKtK16u_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1072478599020797954/1547745773
+    [profile_link_color] => 9A83B1
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

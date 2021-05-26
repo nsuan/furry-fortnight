@@ -1,0 +1,57 @@
+stdClass Object
+(
+    [id] => 2344562371
+    [id_str] => 2344562371
+    [name] => Austin probably
+    [screen_name] => ChiefBloodhoof
+    [location] => Space
+    [url] => http://venmo.com/weathermaker
+    [description] => I used to play video games. I still do, but I used to, too.
+
+-- The Revolution will not be televised. --
+
+I have corgi.
+
+- http://twitch.tv/weathermaker
+    [protected] => 
+    [followers_count] => 60
+    [friends_count] => 545
+    [listed_count] => 0
+    [created_at] => Sat Feb 15 04:42:51 +0000 2014
+    [favourites_count] => 55380
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 2497
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/918591728537522177/H8j1w_BF_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/918591728537522177/H8j1w_BF_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2344562371/1534754609
+    [profile_link_color] => 000000
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

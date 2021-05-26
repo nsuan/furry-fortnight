@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 2772108543
+    [id_str] => 2772108543
+    [name] => Alaria
+    [screen_name] => DyuhTheBest
+    [location] => Darnassus, Azerot
+    [url] => 
+    [description] => HotS, WoW and LoL player. #worldofwarcraft #leagueoflegends
+    [protected] => 
+    [followers_count] => 40
+    [friends_count] => 139
+    [listed_count] => 1
+    [created_at] => Tue Sep 16 11:16:49 +0000 2014
+    [favourites_count] => 246
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 412
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme10/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme10/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/564111763759570944/8Nqn_KyX_normal.jpeg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/564111763759570944/8Nqn_KyX_normal.jpeg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2772108543/1423329667
+    [profile_link_color] => 3B94D9
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 3229582458
+    [id_str] => 3229582458
+    [name] => NoobDK
+    [screen_name] => ArachDK
+    [location] => Ebon Hold - Azeroth
+    [url] => http://arachdk.blogspot.com.au/
+    [description] => Anamarach - living and dieing as a duel weilding Frost DK. Bringing you a little wow lore and #wowart from around the Warcraft community!
+    [protected] => 
+    [followers_count] => 487
+    [friends_count] => 1155
+    [listed_count] => 9
+    [created_at] => Fri May 29 10:29:03 +0000 2015
+    [favourites_count] => 1416
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 757
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/668286581539606529/UkUxzmGj_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/668286581539606529/UkUxzmGj_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3229582458/1454570661
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

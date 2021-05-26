@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 3742012103
+    [id_str] => 3742012103
+    [name] => 🔞 hunie ♡
+    [screen_name] => ohunie_
+    [location] => Iowa City, IA
+    [url] => https://www.twitch.tv/huniecub
+    [description] => 🇺🇸 / 🇫🇷 / 23 / ♓ / INFP / O+/ ♡ @SwampmanT ♡ / banner by @starsleeps / icon by @annya_zombie
+    [protected] => 
+    [followers_count] => 799
+    [friends_count] => 3478
+    [listed_count] => 5
+    [created_at] => Tue Sep 22 19:53:26 +0000 2015
+    [favourites_count] => 46254
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 4309
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1385469685555208192/0XbSI75t_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1385469685555208192/0XbSI75t_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3742012103/1617579833
+    [profile_link_color] => F5ABB5
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

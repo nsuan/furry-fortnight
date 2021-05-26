@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 1113966640474009607
+    [id_str] => 1113966640474009607
+    [name] => LEGWORTH EGGWORTH: COMMISSIONS OPEN
+    [screen_name] => LegsofEggs
+    [location] => pooottaattoooeeeee
+    [url] => 
+    [description] => Hey, I'm Leggy! 
+A nonbinary artist still in high school. My pronouns are he/they, I am 17, ace, and tired! 
+This account is mainly for WoW OCs/OCs in general!
+    [protected] => 
+    [followers_count] => 45
+    [friends_count] => 258
+    [listed_count] => 0
+    [created_at] => Fri Apr 05 00:48:38 +0000 2019
+    [favourites_count] => 3079
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 495
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1328431614511210496/L37Hu0uS_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1328431614511210496/L37Hu0uS_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1113966640474009607/1605557754
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

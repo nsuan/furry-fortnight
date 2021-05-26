@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 367761234
+    [id_str] => 367761234
+    [name] => 🦊 HoodedCape 🦊
+    [screen_name] => HoodedCape
+    [location] => 
+    [url] => http://www.twitch.tv/hoodedcape
+    [description] => Smol Fox Vtuber  | chilean streamer twitch/hoodedcape | contact mail: hoddedcape2015@gmail.com  | I like hoodies and ponchos  |
+    [protected] => 
+    [followers_count] => 65
+    [friends_count] => 731
+    [listed_count] => 1
+    [created_at] => Sun Sep 04 14:37:20 +0000 2011
+    [favourites_count] => 1967
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1253
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 709397
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme6/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme6/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1394765110653169669/WsQt7xZf_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1394765110653169669/WsQt7xZf_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/367761234/1603500113
+    [profile_link_color] => FF691F
+    [profile_sidebar_border_color] => 86A4A6
+    [profile_sidebar_fill_color] => A0C5C7
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

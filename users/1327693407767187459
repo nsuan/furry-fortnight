@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1327693407767187459
+    [id_str] => 1327693407767187459
+    [name] => Matt24ski
+    [screen_name] => Ash_the_Jaguar
+    [location] => Green Bay Wisconsin 
+    [url] => 
+    [description] => Profile pic by @tsrdtn. a 24 year old male who is a member of both the Brony and the furry fandom. banner by @animakendra. for lewd posts: @Ash_jaguarAD
+    [protected] => 
+    [followers_count] => 123
+    [friends_count] => 1650
+    [listed_count] => 0
+    [created_at] => Sat Nov 14 19:22:59 +0000 2020
+    [favourites_count] => 729
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 550
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1378679404793061380/fhdiEuKY_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1378679404793061380/fhdiEuKY_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1327693407767187459/1612717101
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

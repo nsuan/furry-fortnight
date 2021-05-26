@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1004532019479470080
+    [id_str] => 1004532019479470080
+    [name] => Andrew 👓
+    [screen_name] => Tingtxt
+    [location] => Folsom, CA
+    [url] => https://www.twitch.tv/envixi
+    [description] => Just a Gay Gamer failing at life.👓🍩 https://www.twitch.tv/envixi
+    [protected] => 
+    [followers_count] => 52
+    [friends_count] => 472
+    [listed_count] => 1
+    [created_at] => Thu Jun 07 01:14:31 +0000 2018
+    [favourites_count] => 120
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 293
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1388977591885787136/XM8YIJuM_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1388977591885787136/XM8YIJuM_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1004532019479470080/1596165788
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

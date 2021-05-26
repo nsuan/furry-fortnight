@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 1297689572286111744
+    [id_str] => 1297689572286111744
+    [name] => trav
+    [screen_name] => XznksWRA
+    [location] => 
+    [url] => 
+    [description] => WoW (R)Player
+Hardstuck League Player
+Member of the Bloodreaver Legion on WRA (Known as Varren)
+    [protected] => 
+    [followers_count] => 11
+    [friends_count] => 384
+    [listed_count] => 0
+    [created_at] => Mon Aug 24 00:18:27 +0000 2020
+    [favourites_count] => 7080
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 787
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1352337458436956160/BfqoLkFy_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1352337458436956160/BfqoLkFy_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1297689572286111744/1612032615
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

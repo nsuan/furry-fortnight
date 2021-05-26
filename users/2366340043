@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 2366340043
+    [id_str] => 2366340043
+    [name] => Domingo de Medina
+    [screen_name] => BreakingBravado
+    [location] => 
+    [url] => http://coldcrucible.tumblr.com
+    [description] => That one guy who can't write.  Author of untouchable., Driving to the Sun, and other nonsense. Not fit for human consumption. http://domingodemedina.com
+    [protected] => 
+    [followers_count] => 52
+    [friends_count] => 429
+    [listed_count] => 1
+    [created_at] => Sat Mar 01 01:30:40 +0000 2014
+    [favourites_count] => 3129
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 275
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 1A1B1F
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1236481048868872192/YyQ9y8yB_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1236481048868872192/YyQ9y8yB_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2366340043/1593925273
+    [profile_link_color] => 000000
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

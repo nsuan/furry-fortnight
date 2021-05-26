@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1000053741884788736
+    [id_str] => 1000053741884788736
+    [name] => velveteen. ⚔️
+    [screen_name] => ohhvelveteen
+    [location] => 
+    [url] => 
+    [description] => capricorn. asexual. they/them. non-binary. obsessed with their cats. destiny 2 addict. world of warcraft.
+    [protected] => 
+    [followers_count] => 82
+    [friends_count] => 848
+    [listed_count] => 0
+    [created_at] => Fri May 25 16:39:26 +0000 2018
+    [favourites_count] => 21482
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 3699
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1385986013428797441/xWzFPtH4_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1385986013428797441/xWzFPtH4_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1000053741884788736/1619279808
+    [profile_link_color] => 976178
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 149660773
+    [id_str] => 149660773
+    [name] => Azrethan
+    [screen_name] => Airbender72
+    [location] => California
+    [url] => 
+    [description] => Kev. 24 years old. Dragon Slayer turned Dragon Rider. Wandering Wizard. Dungeon Master.
+    [protected] => 
+    [followers_count] => 28
+    [friends_count] => 520
+    [listed_count] => 2
+    [created_at] => Sat May 29 21:57:00 +0000 2010
+    [favourites_count] => 2007
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 803
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1390515358709129217/Cpb6Cpab_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1390515358709129217/Cpb6Cpab_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/149660773/1614587783
+    [profile_link_color] => 19CF86
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

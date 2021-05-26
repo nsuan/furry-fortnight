@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 995160363409772544
+    [id_str] => 995160363409772544
+    [name] => ❄️🦊 White 🦊❄️
+    [screen_name] => WhiteIncinite
+    [location] => 
+    [url] => http://whiteincinite.tumblr.com/
+    [description] => Name's White! Sometimes I draw || 22 || She/Her || I like WoW, purples and creatures
+    [protected] => 
+    [followers_count] => 566
+    [friends_count] => 329
+    [listed_count] => 2
+    [created_at] => Sat May 12 04:34:54 +0000 2018
+    [favourites_count] => 24794
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 5997
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1301349323175866368/OGWqJlry_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1301349323175866368/OGWqJlry_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/995160363409772544/1616896392
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

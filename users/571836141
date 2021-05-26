@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 571836141
+    [id_str] => 571836141
+    [name] => Sevine McDougal
+    [screen_name] => iSevine
+    [location] => Wichita, KS
+    [url] => 
+    [description] => YO, ITS YA BOI SEVINE
+    [protected] => 
+    [followers_count] => 15
+    [friends_count] => 461
+    [listed_count] => 0
+    [created_at] => Sat May 05 13:39:05 +0000 2012
+    [favourites_count] => 134
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 131
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1079356644599844865/FdGt3ovh_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1079356644599844865/FdGt3ovh_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/571836141/1546173923
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

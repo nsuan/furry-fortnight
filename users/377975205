@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 377975205
+    [id_str] => 377975205
+    [name] => ✨Muerto de Hambre✨
+    [screen_name] => YLohein
+    [location] => España
+    [url] => https://ko-fi.com/yshiaralohein
+    [description] => 🌺DO NOT REPOST MY ART🌺 Eng/Esp - Them/they. Survive my love for rt'ing art and you'll see my drawings "I work hard for the moneh"
+    [protected] => 
+    [followers_count] => 603
+    [friends_count] => 426
+    [listed_count] => 15
+    [created_at] => Thu Sep 22 12:47:18 +0000 2011
+    [favourites_count] => 10112
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 41833
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => DDFCF1
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme14/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme14/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1313481509932879874/AlKq6avZ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1313481509932879874/AlKq6avZ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/377975205/1567840404
+    [profile_link_color] => 91D2FA
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => EFEFEF
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

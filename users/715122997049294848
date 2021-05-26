@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 715122997049294848
+    [id_str] => 715122997049294848
+    [name] => TeamManaUp
+    [screen_name] => TeamManaUp
+    [location] => North America
+    [url] => http://discord.gg/mWhaRJK
+    [description] => Support #Guild for #Creators and #Gamers.
+    [protected] => 
+    [followers_count] => 1301
+    [friends_count] => 4995
+    [listed_count] => 3
+    [created_at] => Wed Mar 30 10:26:23 +0000 2016
+    [favourites_count] => 19970
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 10238
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme4/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme4/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/916351576238809088/maJ3BIYW_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/916351576238809088/maJ3BIYW_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/715122997049294848/1573478913
+    [profile_link_color] => 1B95E0
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

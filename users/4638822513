@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 4638822513
+    [id_str] => 4638822513
+    [name] => Ἀρείων
+    [screen_name] => ngc_5139
+    [location] => a mist between NY and ATX
+    [url] => http://dorianchristo.com
+    [description] => dorian 🇬🇷 cypriot greek, faux medievalist, trans nb 🦄  they/them 🦄  30 🦄  NSFW 🔞  🦄 rep'd by @kurestinarmada 💛  @senshiandy 💛 mucho mucho mucho amor
+    [protected] => 
+    [followers_count] => 8313
+    [friends_count] => 613
+    [listed_count] => 45
+    [created_at] => Tue Dec 29 03:19:17 +0000 2015
+    [favourites_count] => 81524
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 64130
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1380310588790878210/hChuR3aR_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1380310588790878210/hChuR3aR_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/4638822513/1617926733
+    [profile_link_color] => F58EA8
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

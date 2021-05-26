@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 354425935
+    [id_str] => 354425935
+    [name] => Sam
+    [screen_name] => peachy_pirates
+    [location] => ko-fi.com/peachy_pirates
+    [url] => https://peachypirates.carrd.co/
+    [description] => Sam/they/them/24. I am a being of many talents. I draw things I like
+    [protected] => 
+    [followers_count] => 422
+    [friends_count] => 208
+    [listed_count] => 23
+    [created_at] => Sat Aug 13 18:04:08 +0000 2011
+    [favourites_count] => 12397
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 27919
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 94D487
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1390201320167063552/v0ZVWjr4_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1390201320167063552/v0ZVWjr4_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/354425935/1618763079
+    [profile_link_color] => E81C4F
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

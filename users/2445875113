@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 2445875113
+    [id_str] => 2445875113
+    [name] => Orthius/Malek/Nyth - Argent Dawn
+    [screen_name] => MalekMoongrove
+    [location] => 
+    [url] => 
+    [description] => RP'er on AD - sometimes nsfw art retweet - random thoughts and ideas - I think that's it!
+
+Profile picture is my Priestess by the amazing @Ritzui
+    [protected] => 
+    [followers_count] => 60
+    [friends_count] => 510
+    [listed_count] => 0
+    [created_at] => Tue Apr 15 19:06:41 +0000 2014
+    [favourites_count] => 1458
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 338
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1376959580513693699/oz9N5Hr4_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1376959580513693699/oz9N5Hr4_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2445875113/1548926110
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

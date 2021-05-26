@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 970136642013954049
+    [id_str] => 970136642013954049
+    [name] => ✨ Desi ✨
+    [screen_name] => cuddlecloud
+    [location] => California, USA
+    [url] => 
+    [description] => 20 | Artist | WoW & LoL | Cherokee Oreo | Hiya I'm Desi! I like to doodle and I'm squeaky. 💜Horde & Alliance💜 Top Main! League Addict
+    [protected] => 
+    [followers_count] => 226
+    [friends_count] => 2633
+    [listed_count] => 4
+    [created_at] => Sun Mar 04 03:19:34 +0000 2018
+    [favourites_count] => 1652
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 233
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1292014838487474177/6GyfCuG5_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1292014838487474177/6GyfCuG5_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/970136642013954049/1618513896
+    [profile_link_color] => 91D2FA
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

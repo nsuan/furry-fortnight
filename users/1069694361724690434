@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1069694361724690434
+    [id_str] => 1069694361724690434
+    [name] => 🌸 𝔉𝔞𝔢 𝔗𝔬𝔲𝔠𝔥𝔢𝔡 🌸
+    [screen_name] => Nyx_Kat
+    [location] => Minnesota, USA
+    [url] => 
+    [description] => 🌷 Roleplayer | 23 - NSFW 🔞 | Engaged 🇨🇦 | She/Her 🌷
+    [protected] => 
+    [followers_count] => 51
+    [friends_count] => 261
+    [listed_count] => 1
+    [created_at] => Mon Dec 03 20:46:24 +0000 2018
+    [favourites_count] => 1298
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1564
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1305014952630145024/Ihl2lJxU_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1305014952630145024/Ihl2lJxU_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1069694361724690434/1583978544
+    [profile_link_color] => 91D2FA
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 911594658450542592
+    [id_str] => 911594658450542592
+    [name] => Galder, Disciple of Pointy Ears, Arcane Artificer
+    [screen_name] => GaldersArt
+    [location] => Finland
+    [url] => https://galder.deviantart.com/
+    [description] => Gamer. Dreamer. Full-time freelance digital artist. Welcome to follow my Patreon. Commissions - QUEUE OPEN, inquire for details
+    [protected] => 
+    [followers_count] => 1209
+    [friends_count] => 906
+    [listed_count] => 18
+    [created_at] => Sat Sep 23 14:14:38 +0000 2017
+    [favourites_count] => 7454
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 3241
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1136199516745588736/OkJcd_BI_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1136199516745588736/OkJcd_BI_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/911594658450542592/1559726025
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 858563166237855744
+    [id_str] => 858563166237855744
+    [name] => 𝐓𝐚𝐦𝐢𝐥 𝐀𝐫𝐚𝐬𝐚𝐧.𝐊
+    [screen_name] => tamilarasan444
+    [location] => வேலூர் / தமிழ்நாடு
+    [url] => 
+    [description] => 𝓻𝓪𝓳𝓾🌷
+    [protected] => 1
+    [followers_count] => 31
+    [friends_count] => 1286
+    [listed_count] => 0
+    [created_at] => Sun Apr 30 06:06:24 +0000 2017
+    [favourites_count] => 12935
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 663
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1393015122960936965/L6lF3oxT_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1393015122960936965/L6lF3oxT_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/858563166237855744/1606092248
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

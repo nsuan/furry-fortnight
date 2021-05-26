@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 905285996526305280
+    [id_str] => 905285996526305280
+    [name] => 💖 Nyxandriel
+    [screen_name] => Nyxandriel_Arts
+    [location] => 
+    [url] => 
+    [description] => Your friendly cottagecore lesbian witch. Heathen. Mother. Artist. BLM. MMIW.
+    [protected] => 
+    [followers_count] => 99
+    [friends_count] => 83
+    [listed_count] => 2
+    [created_at] => Wed Sep 06 04:26:15 +0000 2017
+    [favourites_count] => 3537
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 951
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1274349578259771392/vKcM9eNc_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1274349578259771392/vKcM9eNc_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/905285996526305280/1541958877
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

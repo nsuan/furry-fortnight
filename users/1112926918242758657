@@ -1,0 +1,55 @@
+stdClass Object
+(
+    [id] => 1112926918242758657
+    [id_str] => 1112926918242758657
+    [name] => Lorem
+    [screen_name] => LoremRipsum
+    [location] => 
+    [url] => 
+    [description] => COMMISSIONS ARE CLOSED uwu
+Kinda cringe ngl
+http://twitch.tv/LoremRipsum
+I stream lots! :D
+26 y/o loser who likes cats too much
+    [protected] => 
+    [followers_count] => 50
+    [friends_count] => 832
+    [listed_count] => 1
+    [created_at] => Tue Apr 02 03:57:09 +0000 2019
+    [favourites_count] => 2039
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 547
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1366178663604002816/96zVJeOr_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1366178663604002816/96zVJeOr_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1112926918242758657/1578445105
+    [profile_link_color] => FAB81E
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

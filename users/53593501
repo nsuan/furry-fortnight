@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 53593501
+    [id_str] => 53593501
+    [name] => Joseph Parello
+    [screen_name] => jmparello
+    [location] => US
+    [url] => http://www.facebook.com/jparello
+    [description] => Big Nintendo fan who also enjoys Sony. I drink much coffee and good beer. Metal is life.
+    [protected] => 
+    [followers_count] => 330
+    [friends_count] => 2604
+    [listed_count] => 6
+    [created_at] => Sat Jul 04 04:28:31 +0000 2009
+    [favourites_count] => 69135
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 4856
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/885149037263040513/Fb7ty3Cr_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/885149037263040513/Fb7ty3Cr_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/53593501/1387949757
+    [profile_link_color] => 0E5670
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

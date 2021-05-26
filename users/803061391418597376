@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 803061391418597376
+    [id_str] => 803061391418597376
+    [name] => 💉GORYGLASS💉
+    [screen_name] => GORYGLASS
+    [location] => twitch.tv/goryglass
+    [url] => https://goryglass.uwu.ai/
+    [description] => Gory/Vincent・23・they/them・ACAB|BLM・artist or some shit ・twitch vtuber・commissions : closed.
+    [protected] => 
+    [followers_count] => 2520
+    [friends_count] => 876
+    [listed_count] => 34
+    [created_at] => Mon Nov 28 02:22:10 +0000 2016
+    [favourites_count] => 23552
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 8909
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1391606522350870529/m804iBpf_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1391606522350870529/m804iBpf_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/803061391418597376/1620710082
+    [profile_link_color] => E81C4F
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

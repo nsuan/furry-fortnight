@@ -1,0 +1,57 @@
+stdClass Object
+(
+    [id] => 1006960788446302216
+    [id_str] => 1006960788446302216
+    [name] => Rylatar
+    [screen_name] => Rylatar
+    [location] => Polska
+    [url] => 
+    [description] => Profile pic by amazing @Ophibell
+
+Tired Horde dork who loves pandaren and trolls.
+
+She/her|🖤🤍💜
+
+games/fantasy/sci-fi/travelling/nature/teas/animals
+    [protected] => 
+    [followers_count] => 31
+    [friends_count] => 1117
+    [listed_count] => 0
+    [created_at] => Wed Jun 13 18:05:35 +0000 2018
+    [favourites_count] => 6042
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1294
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1371640448364777475/eZJjwr7X_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1371640448364777475/eZJjwr7X_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1006960788446302216/1615859542
+    [profile_link_color] => 19CF86
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

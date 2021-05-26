@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1498843243
+    [id_str] => 1498843243
+    [name] => Vehngence
+    [screen_name] => VehngenceWoW
+    [location] => 
+    [url] => 
+    [description] => Kuroi's #1 Fan! Eeyore enthusiast! Idolish7! Love Live! Slytherin. Disney Fanatic. Pokemon Master. WoW Nerd. Banner by @blu3mun
+    [protected] => 
+    [followers_count] => 392
+    [friends_count] => 1251
+    [listed_count] => 25
+    [created_at] => Mon Jun 10 17:17:16 +0000 2013
+    [favourites_count] => 118108
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 50161
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 412D4E
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1235976425628471298/G3ba3PdR_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1235976425628471298/G3ba3PdR_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1498843243/1460592763
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => FEEACF
+    [profile_text_color] => 9399B8
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

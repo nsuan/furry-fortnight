@@ -1,0 +1,52 @@
+stdClass Object
+(
+    [id] => 1194859754352365569
+    [id_str] => 1194859754352365569
+    [name] => Scarlett Liu
+    [screen_name] => SumiLiu07
+    [location] => Shenzhen, China
+    [url] => http://www.szhyelec.com
+    [description] => This is Alina from Kerchan which is a manufacturer focusing on LCD advertising display & Hand Sanitizer Billboard since 2007.
+Skype: Sumiliu@aliyun.com
+    [protected] => 
+    [followers_count] => 7
+    [friends_count] => 43
+    [listed_count] => 0
+    [created_at] => Thu Nov 14 06:09:13 +0000 2019
+    [favourites_count] => 12
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 14
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1194859947621666816/viIuE9ms_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1194859947621666816/viIuE9ms_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1194859754352365569/1593438102
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

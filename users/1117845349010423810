@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1117845349010423810
+    [id_str] => 1117845349010423810
+    [name] => Liana
+    [screen_name] => herssian
+    [location] => hell
+    [url] => https://www.inprnt.com/gallery/herssian/
+    [description] => ∎ liana/herss ∎ 25 ∎ original characters, warcraft, ffxiv ∎ http://instagram.com/herssian ∎ private acc: @potionvial ∎ vg/warcraft acc: @highelven
+    [protected] => 
+    [followers_count] => 180
+    [friends_count] => 1148
+    [listed_count] => 1
+    [created_at] => Mon Apr 15 17:41:14 +0000 2019
+    [favourites_count] => 9945
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1464
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1117847721313021954/SuhmPCmz_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1117847721313021954/SuhmPCmz_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1117845349010423810/1555350581
+    [profile_link_color] => 7081AA
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

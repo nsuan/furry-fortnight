@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1071794921265348608
+    [id_str] => 1071794921265348608
+    [name] => Jenny
+    [screen_name] => Hawksbrink
+    [location] => Iowa, USA
+    [url] => https://www.redbubble.com/people/SGHansen/shop?asc=u
+    [description] => Wildstar exile, my girls and I wander Elder Scrolls Online (PC/NA) and other worlds. There will sometimes be art, and cat pictures! (Icon by @caffeinerogue)
+    [protected] => 
+    [followers_count] => 91
+    [friends_count] => 251
+    [listed_count] => 2
+    [created_at] => Sun Dec 09 15:53:17 +0000 2018
+    [favourites_count] => 10616
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1707
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1071796828109201409/ODsbN_Z8_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1071796828109201409/ODsbN_Z8_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1071794921265348608/1620070079
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

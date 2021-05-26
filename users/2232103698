@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 2232103698
+    [id_str] => 2232103698
+    [name] => Danaan13
+    [screen_name] => danaan13
+    [location] => Washington, USA
+    [url] => https://danaanroze.carrd.co/
+    [description] => Artist and Gamer - she/her
+    [protected] => 
+    [followers_count] => 51
+    [friends_count] => 157
+    [listed_count] => 0
+    [created_at] => Thu Dec 05 22:34:04 +0000 2013
+    [favourites_count] => 6381
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1945
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 030F1A
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1396242099381497857/W56RkSbs_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1396242099381497857/W56RkSbs_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2232103698/1621725033
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => E1F2BB
+    [profile_sidebar_fill_color] => C3D2D0
+    [profile_text_color] => B86060
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

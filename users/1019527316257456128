@@ -1,0 +1,55 @@
+stdClass Object
+(
+    [id] => 1019527316257456128
+    [id_str] => 1019527316257456128
+    [name] => Ordinary Guardian
+    [screen_name] => OrdinaryGuardi1
+    [location] => Sandover Village 
+    [url] => 
+    [description] => going for my BFA in graphic illustration.
+I read a ton of comics. practicing art.
+into medieval fantasy, monsters and action.
+
+not the most active person. yet
+    [protected] => 
+    [followers_count] => 80
+    [friends_count] => 4996
+    [listed_count] => 0
+    [created_at] => Wed Jul 18 10:20:28 +0000 2018
+    [favourites_count] => 8167
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1382
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1308018119672127490/ZezL7X8z_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1308018119672127490/ZezL7X8z_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1019527316257456128/1604922443
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

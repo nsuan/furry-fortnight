@@ -1,0 +1,50 @@
+stdClass Object
+(
+    [id] => 1039052922326331392
+    [id_str] => 1039052922326331392
+    [name] => Iden Desso
+    [screen_name] => Zephirel1
+    [location] => Sullivan, MO
+    [url] => 
+    [description] => I am a 24 year old memelord, anime fan and aesop rock enthusiast, I am a serious WoW Rper hmu if you are on Moonguard or WrA pic is @Necrobone #AspieAwareness
+    [protected] => 
+    [followers_count] => 20
+    [friends_count] => 303
+    [listed_count] => 0
+    [created_at] => Mon Sep 10 07:28:16 +0000 2018
+    [favourites_count] => 79
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 45
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1355990082155663362/M96Oki5p_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1355990082155663362/M96Oki5p_normal.jpg
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

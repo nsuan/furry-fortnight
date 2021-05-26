@@ -1,0 +1,50 @@
+stdClass Object
+(
+    [id] => 1076801616660058115
+    [id_str] => 1076801616660058115
+    [name] => Filthyvideogames
+    [screen_name] => Filthyvideogam1
+    [location] => 
+    [url] => 
+    [description] => Video Game Reviews. Video Games. Xbox. PC. WoW player - Overwatch console - Favorite Games of All time = Final Fantasy X/Borderlands 2/WoW- Financial Specialist
+    [protected] => 
+    [followers_count] => 54
+    [friends_count] => 272
+    [listed_count] => 1
+    [created_at] => Sun Dec 23 11:28:06 +0000 2018
+    [favourites_count] => 86
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 11
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1078413640389328898/nniOf3VQ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1078413640389328898/nniOf3VQ_normal.jpg
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

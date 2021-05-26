@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 874121258031599616
+    [id_str] => 874121258031599616
+    [name] => Nyth'drn
+    [screen_name] => Nythdrn
+    [location] => 11°19'00.0"N 142°15'00.0"E
+    [url] => https://www.youtube.com/channel/UCo0GFoYGFzwfWHPzzJzVz-Q/videos
+    [description] => Part time normal human being, full time void servant.
+
+I enjoy World of Warcraft and all things Lovecraftian, Non-Euclidean, and Eldritch.
+    [protected] => 
+    [followers_count] => 107
+    [friends_count] => 276
+    [listed_count] => 0
+    [created_at] => Mon Jun 12 04:28:43 +0000 2017
+    [favourites_count] => 1155
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 222
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1314955232237903872/S18tEuLb_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1314955232237903872/S18tEuLb_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/874121258031599616/1602344765
+    [profile_link_color] => 000000
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 435351251
+    [id_str] => 435351251
+    [name] => UVGloPanda ~☆ ✊🏿✊🏾✊🏽✊🏼✊🏻
+    [screen_name] => UVGloPanda
+    [location] => Wonderland, north of Narnia
+    [url] => http://uvglopanda.redbubble.com
+    [description] => http://twitch.tv/uvglopanda 
+they/them
+Variety caster and keeper of the cupboard. Art, cosplay, LARP, Drag and  more!
+    [protected] => 
+    [followers_count] => 308
+    [friends_count] => 975
+    [listed_count] => 0
+    [created_at] => Mon Dec 12 23:41:26 +0000 2011
+    [favourites_count] => 11685
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 8405
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 00D8C1
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/701066049274294272/pDS2h6Gl_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/701066049274294272/pDS2h6Gl_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/435351251/1436718275
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => F4348E
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

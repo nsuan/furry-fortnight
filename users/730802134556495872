@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 730802134556495872
+    [id_str] => 730802134556495872
+    [name] => Felix Allen
+    [screen_name] => FelixTazzy13
+    [location] => United Kingdom
+    [url] => 
+    [description] => WoW player, Neptulon EU add me DarkStorm#21713 pan aro ace mess and transmasculine non-binary :D 🏳️‍🌈 he/him, Arthas fanboy, 24 and tattoo lover
+    [protected] => 
+    [followers_count] => 249
+    [friends_count] => 919
+    [listed_count] => 6
+    [created_at] => Thu May 12 16:49:41 +0000 2016
+    [favourites_count] => 12767
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 2518
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1334512063297810433/Od6ndwQY_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1334512063297810433/Od6ndwQY_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/730802134556495872/1611404529
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

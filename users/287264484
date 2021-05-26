@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 287264484
+    [id_str] => 287264484
+    [name] => Darisper is trying so hard to vibe right now 🦄
+    [screen_name] => darisper8
+    [location] => darisperart@gmail.com
+    [url] => http://www.artstation.com/darisper
+    [description] => She/her, 23yrs old - Artist, night elf, & rainbow enthusiast! 🎨🧝‍♀️🏳️‍🌈 Commissions are closed. Pfp by @moonycorn ☕ http://ko-fi.com/darisper
+    [protected] => 
+    [followers_count] => 600
+    [friends_count] => 465
+    [listed_count] => 15
+    [created_at] => Sun Apr 24 17:02:10 +0000 2011
+    [favourites_count] => 17858
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 2809
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme4/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme4/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1341670956415258624/Ipwvw3WS_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1341670956415258624/Ipwvw3WS_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/287264484/1616197244
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

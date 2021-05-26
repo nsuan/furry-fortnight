@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1305207444
+    [id_str] => 1305207444
+    [name] => dis... aster ✨🍓
+    [screen_name] => aynekoro
+    [location] => 
+    [url] => 
+    [description] => despite everything, it’s still you
+    [protected] => 
+    [followers_count] => 79
+    [friends_count] => 313
+    [listed_count] => 0
+    [created_at] => Tue Mar 26 18:31:45 +0000 2013
+    [favourites_count] => 243
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 2470
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1368167431902990344/m759UF5I_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1368167431902990344/m759UF5I_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1305207444/1618502779
+    [profile_link_color] => F4A460
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

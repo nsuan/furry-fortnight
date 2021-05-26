@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 4149804733
+    [id_str] => 4149804733
+    [name] => Chillwhisper in Brandenburg
+    [screen_name] => ArtOfZuhani
+    [location] => Kadish Tolesa, The Multiverse
+    [url] => http://ko-fi.com/zuhani
+    [description] => Shorah! | {◕ ◡ ◕} | 30-year-old proud lesbian lich 💀 will eat you (alive) | Artist | she/they | 🇩🇪 | DnD/WoW/Myst/Cat mum
+    [protected] => 
+    [followers_count] => 936
+    [friends_count] => 288
+    [listed_count] => 19
+    [created_at] => Fri Nov 06 20:39:21 +0000 2015
+    [favourites_count] => 30244
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 37301
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1397241132954828805/Ppg6-6G7_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1397241132954828805/Ppg6-6G7_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/4149804733/1617535885
+    [profile_link_color] => 2ED9FF
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

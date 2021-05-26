@@ -1,0 +1,52 @@
+stdClass Object
+(
+    [id] => 868847641
+    [id_str] => 868847641
+    [name] => Aurahunka
+    [screen_name] => Auraharako
+    [location] => Australia
+    [url] => 
+    [description] => he/him A maker of bread, cakes and pastries that can't eat 90% of them
+Last I checked 25
+    [protected] => 
+    [followers_count] => 50
+    [friends_count] => 524
+    [listed_count] => 0
+    [created_at] => Mon Oct 08 23:09:03 +0000 2012
+    [favourites_count] => 22870
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 509
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1358963158094737410/jWAwgNp4_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1358963158094737410/jWAwgNp4_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/868847641/1579075226
+    [profile_link_color] => 005465
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 50839655
+    [id_str] => 50839655
+    [name] => Dasacht
+    [screen_name] => Dasacht
+    [location] => Ireland, Limerick
+    [url] => 
+    [description] => He/Him an Irish nerd, critical role fanatic. Dungeon Master Plight of Princes. #GiveYourHealerLove
+    [protected] => 
+    [followers_count] => 365
+    [friends_count] => 3612
+    [listed_count] => 14
+    [created_at] => Fri Jun 26 00:28:11 +0000 2009
+    [favourites_count] => 99536
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 52646
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 5E69E0
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme3/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme3/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1272652746609565702/PRW4AvLf_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1272652746609565702/PRW4AvLf_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/50839655/1598519052
+    [profile_link_color] => 9266CC
+    [profile_sidebar_border_color] => 181A1E
+    [profile_sidebar_fill_color] => 252429
+    [profile_text_color] => 666666
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

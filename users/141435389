@@ -1,0 +1,50 @@
+stdClass Object
+(
+    [id] => 141435389
+    [id_str] => 141435389
+    [name] => cesar lombardelli
+    [screen_name] => cesaronizan
+    [location] => 
+    [url] => 
+    [description] => 
+    [protected] => 
+    [followers_count] => 5
+    [friends_count] => 2
+    [listed_count] => 0
+    [created_at] => Sat May 08 02:55:26 +0000 2010
+    [favourites_count] => 2
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 9
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 1
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

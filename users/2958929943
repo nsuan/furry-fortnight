@@ -1,0 +1,54 @@
+stdClass Object
+(
+    [id] => 2958929943
+    [id_str] => 2958929943
+    [name] => sovasovasov (comms closed)
+    [screen_name] => r1kol1l1
+    [location] => 
+    [url] => 
+    [description] => I'am an owl! Like... hoot-hoot
+Artist and Animator. Huge WoW lover
+rus/eng
+hugemoonkin@gmail.com
+    [protected] => 
+    [followers_count] => 1017
+    [friends_count] => 313
+    [listed_count] => 4
+    [created_at] => Sat Jan 03 19:30:12 +0000 2015
+    [favourites_count] => 1485
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 159
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 352726
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1308305557909053440/lIthu8x0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1308305557909053440/lIthu8x0_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2958929943/1598391595
+    [profile_link_color] => D02B55
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 856310602251223044
+    [id_str] => 856310602251223044
+    [name] => CLOWN FOR FREE
+    [screen_name] => sadsamurai420
+    [location] => Nashville, TN
+    [url] => 
+    [description] => 22 | Musician | I wish I was a saxophone | I smooch @VideVert | pfp by @claranagray
+    [protected] => 
+    [followers_count] => 33
+    [friends_count] => 437
+    [listed_count] => 1
+    [created_at] => Mon Apr 24 00:55:31 +0000 2017
+    [favourites_count] => 2769
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 5140
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1374474758197178369/PlCwSg2G_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1374474758197178369/PlCwSg2G_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/856310602251223044/1613617486
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 158603757
+    [id_str] => 158603757
+    [name] => Nyyght
+    [screen_name] => Nyyght
+    [location] => Nope.
+    [url] => 
+    [description] => I retweet stuff I like and draw whatever strikes my fancy. NSFW posts/likes happen. Follow me to be continually disappointed!
+    [protected] => 
+    [followers_count] => 72
+    [friends_count] => 208
+    [listed_count] => 1
+    [created_at] => Wed Jun 23 03:46:02 +0000 2010
+    [favourites_count] => 8791
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 704
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 022330
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme15/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme15/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1367321736056823808/LqNYcQHe_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1367321736056823808/LqNYcQHe_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/158603757/1565875131
+    [profile_link_color] => 0084B4
+    [profile_sidebar_border_color] => A8C7F7
+    [profile_sidebar_fill_color] => C0DFEC
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

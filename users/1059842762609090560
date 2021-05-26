@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1059842762609090560
+    [id_str] => 1059842762609090560
+    [name] => Natus Ex Monstris
+    [screen_name] => ExMonstris
+    [location] => Black Eye Galaxy
+    [url] => 
+    [description] => ♀️ She/Her ♠️🐘⚪💜/💗💜💙--I nerd over alot of shit. I'm an amateur artist/creator of weird and strange monstrosities that pop out of this head of mine.
+    [protected] => 
+    [followers_count] => 58
+    [friends_count] => 538
+    [listed_count] => 0
+    [created_at] => Tue Nov 06 16:19:40 +0000 2018
+    [favourites_count] => 8165
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 4114
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1295882492889559040/fU11py5E_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1295882492889559040/fU11py5E_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1059842762609090560/1614964333
+    [profile_link_color] => 7FDBB6
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

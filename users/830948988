@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 830948988
+    [id_str] => 830948988
+    [name] => Drafther
+    [screen_name] => Drafther_1
+    [location] => state of depression and idiocy
+    [url] => 
+    [description] => 21. He/him
+
+🇧🇻🇵🇭
+    [protected] => 
+    [followers_count] => 10
+    [friends_count] => 454
+    [listed_count] => 0
+    [created_at] => Tue Sep 18 12:27:16 +0000 2012
+    [favourites_count] => 5103
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 110
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1377555459910033409/Xd_KOBeC_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1377555459910033409/Xd_KOBeC_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/830948988/1595455524
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

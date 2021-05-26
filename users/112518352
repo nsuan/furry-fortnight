@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 112518352
+    [id_str] => 112518352
+    [name] => Bowoon
+    [screen_name] => theotherbowoon
+    [location] => in a cave with wifi
+    [url] => 
+    [description] => Brainworms want JJK and Toji Fushiguro. I must obey.
+    [protected] => 
+    [followers_count] => 29
+    [friends_count] => 256
+    [listed_count] => 5
+    [created_at] => Mon Feb 08 20:00:54 +0000 2010
+    [favourites_count] => 972
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 11388
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 001329
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1270203466099679232/jeJ6makr_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1270203466099679232/jeJ6makr_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/112518352/1462570998
+    [profile_link_color] => E81C4F
+    [profile_sidebar_border_color] => F7B565
+    [profile_sidebar_fill_color] => 000B17
+    [profile_text_color] => 448668
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 3228615172
+    [id_str] => 3228615172
+    [name] => 🐓 Poultrygeist 🐓
+    [screen_name] => CrowG0d
+    [location] => Some woods in Ontario, Canada
+    [url] => 
+    [description] => + Mutated KFC that escaped the firer + icon by @closedcaskett + http://ko-fi.com/crowg0d + Email me at JaxxRickit@gmail.com for commission prices!
+    [protected] => 1
+    [followers_count] => 348
+    [friends_count] => 3250
+    [listed_count] => 1
+    [created_at] => Sat May 02 16:15:35 +0000 2015
+    [favourites_count] => 48893
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 25114
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1342088480294400000/FPR3JXdr_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1342088480294400000/FPR3JXdr_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3228615172/1552353475
+    [profile_link_color] => DD2E44
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

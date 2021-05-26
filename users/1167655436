@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1167655436
+    [id_str] => 1167655436
+    [name] => hemlock
+    [screen_name] => desgaydius
+    [location] => 
+    [url] => 
+    [description] => max/25/in a relationship/he/she/they I use the names Hemlock or Rinzu or variations on other sites
+    [protected] => 
+    [followers_count] => 114
+    [friends_count] => 869
+    [listed_count] => 0
+    [created_at] => Mon Feb 11 02:55:40 +0000 2013
+    [favourites_count] => 28749
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 11417
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1360319449199333383/H34rvV64_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1360319449199333383/H34rvV64_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1167655436/1600199571
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

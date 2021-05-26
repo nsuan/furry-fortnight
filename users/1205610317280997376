@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1205610317280997376
+    [id_str] => 1205610317280997376
+    [name] => Lori K / Sonceri
+    [screen_name] => lorioliodraws
+    [location] => Austin, TX
+    [url] => https://sonceri.carrd.co/
+    [description] => TechDoc ninja | Maps & Fantasy Art | TTRPG DM/ST | Unity Sr Tech Writer | WoW Sonceri MG US | http://patreon.com/sonceri | https://sonceri.carrd.co/
+    [protected] => 
+    [followers_count] => 400
+    [friends_count] => 1429
+    [listed_count] => 5
+    [created_at] => Fri Dec 13 22:08:01 +0000 2019
+    [favourites_count] => 4527
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 563
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1389483835767808002/2A-pF5De_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1389483835767808002/2A-pF5De_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1205610317280997376/1579045036
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

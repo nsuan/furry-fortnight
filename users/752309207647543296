@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 752309207647543296
+    [id_str] => 752309207647543296
+    [name] => Malix
+    [screen_name] => malixchite
+    [location] => Charlottetown, Prince Edward Island
+    [url] => https://m.twitch.tv/malixchite
+    [description] => Malix | 20 | He/Him | Alliance | Argánith Moonguard - US | Procrastinating Artist 👀 ᵂʰᵒᵒᵖˢ | Self Proclaimed Guava king on Twitch ⭐️ Icon: @caffeinehug
+    [protected] => 
+    [followers_count] => 59
+    [friends_count] => 399
+    [listed_count] => 0
+    [created_at] => Mon Jul 11 01:11:07 +0000 2016
+    [favourites_count] => 2175
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 986
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1392347259283644416/Fg6Z7Hzy_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1392347259283644416/Fg6Z7Hzy_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/752309207647543296/1607085782
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

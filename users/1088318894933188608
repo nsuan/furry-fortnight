@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 1088318894933188608
+    [id_str] => 1088318894933188608
+    [name] => Depressed E-Girl
+    [screen_name] => Unholykaz00
+    [location] => 
+    [url] => https://www.artstation.com/unholykazoo
+    [description] => She/Her.
+Art Archive and commission info is on @unholykazoo .
+I mostly post memes on here.
+    [protected] => 
+    [followers_count] => 47
+    [friends_count] => 300
+    [listed_count] => 0
+    [created_at] => Thu Jan 24 06:13:39 +0000 2019
+    [favourites_count] => 3954
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 300
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1396598043265409031/nbHuzxzj_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1396598043265409031/nbHuzxzj_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1088318894933188608/1621926930
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

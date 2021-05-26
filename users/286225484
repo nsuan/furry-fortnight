@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 286225484
+    [id_str] => 286225484
+    [name] => Ashaine the Hunter
+    [screen_name] => HunterAshaine
+    [location] => Midwest, USA
+    [url] => https://www.facebook.com/ashaine.silverfel
+    [description] => Roleplayer. Gamer. WoW & SWToR player. Artist. Writer. D&D enthusiast. Dice collector.
+    [protected] => 
+    [followers_count] => 30
+    [friends_count] => 350
+    [listed_count] => 0
+    [created_at] => Fri Apr 22 15:50:56 +0000 2011
+    [favourites_count] => 1478
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 636
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 1A1B1F
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/990659486040903680/L1oHIdKB_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/990659486040903680/L1oHIdKB_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/286225484/1525026978
+    [profile_link_color] => 2FC2EF
+    [profile_sidebar_border_color] => 181A1E
+    [profile_sidebar_fill_color] => 252429
+    [profile_text_color] => 666666
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

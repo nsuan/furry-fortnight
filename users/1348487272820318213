@@ -1,0 +1,56 @@
+stdClass Object
+(
+    [id] => 1348487272820318213
+    [id_str] => 1348487272820318213
+    [name] => Sansemill's Arts 18+
+    [screen_name] => sansemill
+    [location] => 
+    [url] => http://www.patreon.com/Sansemill
+    [description] => Hello world, I'm a beginner graphic artist
+hope you guys like what I made, 
+please be 18+ to follow me!
+Commission open!
+All links
+http://sansemill.carrd.com
+    [protected] => 
+    [followers_count] => 901
+    [friends_count] => 368
+    [listed_count] => 6
+    [created_at] => Mon Jan 11 04:30:13 +0000 2021
+    [favourites_count] => 970
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 211
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1389977084697657350/cGWaW8kv_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1389977084697657350/cGWaW8kv_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1348487272820318213/1613242438
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

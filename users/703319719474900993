@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 703319719474900993
+    [id_str] => 703319719474900993
+    [name] => 🐺 Nene 🐺 feral house wife 🔪
+    [screen_name] => breathlesshunt
+    [location] => 
+    [url] => https://linktr.ee/breathlessisthehunt
+    [description] => she/her painter and poet
+    [protected] => 
+    [followers_count] => 109
+    [friends_count] => 599
+    [listed_count] => 1
+    [created_at] => Fri Feb 26 20:44:22 +0000 2016
+    [favourites_count] => 7057
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1877
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1297957787197034497/whLNzdEZ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1297957787197034497/whLNzdEZ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/703319719474900993/1571768206
+    [profile_link_color] => F58EA8
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

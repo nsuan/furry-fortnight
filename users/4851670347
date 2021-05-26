@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 4851670347
+    [id_str] => 4851670347
+    [name] => Donald White
+    [screen_name] => topazcandle
+    [location] => Middleburg-Clay Hill, FL
+    [url] => 
+    [description] => 
+    [protected] => 1
+    [followers_count] => 41
+    [friends_count] => 4214
+    [listed_count] => 0
+    [created_at] => Wed Jan 27 00:47:50 +0000 2016
+    [favourites_count] => 3281
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1373
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/803807637850689536/D8C4yoLB_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/803807637850689536/D8C4yoLB_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/4851670347/1480477671
+    [profile_link_color] => 7FDBB6
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

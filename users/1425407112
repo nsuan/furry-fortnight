@@ -1,0 +1,52 @@
+stdClass Object
+(
+    [id] => 1425407112
+    [id_str] => 1425407112
+    [name] => 🎄Elwinne Greenleaf🎄
+    [screen_name] => elwinnegleaf
+    [location] => canada
+    [url] => http://www.patreon.com/elwinne
+    [description] => Self taught | Digital artist | Gamer | Animal lover | Makeup addict | Canadian | art only/business twitter➡️ @ElwinneArt  
+Discord http://discord.gg/Yh57X9P
+    [protected] => 
+    [followers_count] => 534
+    [friends_count] => 1630
+    [listed_count] => 3
+    [created_at] => Mon May 13 12:43:14 +0000 2013
+    [favourites_count] => 11072
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 5724
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 1A1B1F
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/832305388850606082/n6-hXvxE_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/832305388850606082/n6-hXvxE_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1425407112/1597929270
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

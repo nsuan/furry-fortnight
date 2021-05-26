@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 965376551884861441
+    [id_str] => 965376551884861441
+    [name] => FantasyXIX
+    [screen_name] => TheFantasyXIX
+    [location] => United States
+    [url] => 
+    [description] => Like reading, games, writing, and an unhealthy amount of raunchy nsfw material. Someone help me. 😀
+
+Stuff I like will be a lot of 18+ shit.
+    [protected] => 
+    [followers_count] => 4
+    [friends_count] => 397
+    [listed_count] => 0
+    [created_at] => Mon Feb 19 00:04:40 +0000 2018
+    [favourites_count] => 16687
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 898
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/965377457426661376/KBPDPk3A_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/965377457426661376/KBPDPk3A_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/965376551884861441/1518999174
+    [profile_link_color] => 19CF86
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

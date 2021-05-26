@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 3026493096
+    [id_str] => 3026493096
+    [name] => Shots
+    [screen_name] => irlshots
+    [location] => University of Oklahoma
+    [url] => 
+    [description] => World of Warcraft, Destiny 2, and Super Smash Brothers Melee enthusiast. Veteran. Boomer Sooner!
+    [protected] => 
+    [followers_count] => 623
+    [friends_count] => 371
+    [listed_count] => 1
+    [created_at] => Wed Feb 18 16:34:59 +0000 2015
+    [favourites_count] => 21532
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 12233
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1309031130503548933/C-DEC3v7_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1309031130503548933/C-DEC3v7_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3026493096/1601138830
+    [profile_link_color] => 94D487
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

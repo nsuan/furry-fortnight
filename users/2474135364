@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 2474135364
+    [id_str] => 2474135364
+    [name] => Rivkael ✨ is running #Pridecraft
+    [screen_name] => riv_cursive
+    [location] => they/them . ne/nem
+    [url] => https://rivkael.carrd.co/
+    [description] => Riv | 21 | English | Artist | Nonbinary Lesbian 💜 Commission info pinned ✨TIPS APPRECIATED http://ko-fi.com/rivkael
+    [protected] => 
+    [followers_count] => 799
+    [friends_count] => 2195
+    [listed_count] => 8
+    [created_at] => Fri May 02 14:57:35 +0000 2014
+    [favourites_count] => 143072
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 31088
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1397371657283674114/gsBpr3F0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1397371657283674114/gsBpr3F0_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2474135364/1583711275
+    [profile_link_color] => 313A40
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

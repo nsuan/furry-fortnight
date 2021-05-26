@@ -1,0 +1,52 @@
+stdClass Object
+(
+    [id] => 3231838116
+    [id_str] => 3231838116
+    [name] => Coyote Gang
+    [screen_name] => Eatslpbaconrpt
+    [location] => 
+    [url] => 
+    [description] => Haver of strong animal opinions, general dog behavior buzzkill. My patience is short and my block list is long.
+Zoos/Pedos/Phobes = BLOCK
+    [protected] => 
+    [followers_count] => 39
+    [friends_count] => 830
+    [listed_count] => 1
+    [created_at] => Sun May 31 18:14:23 +0000 2015
+    [favourites_count] => 9808
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 7109
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/737165743431680002/zKsocDAO_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/737165743431680002/zKsocDAO_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3231838116/1589838423
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1196417756
+    [id_str] => 1196417756
+    [name] => 🌈fully vaccinated raptor🌈 | ENDWALKER HYPE!!!
+    [screen_name] => smolraptor
+    [location] => Denver, CO
+    [url] => http://tiny-raptor.tumblr.com
+    [description] => nikki | 30 | they/them | wow & ffxiv | dmc | d&d | birbs | Silverhand Simp | GM of One More Light WRA (H) | #ActuallyAutistic
+    [protected] => 
+    [followers_count] => 187
+    [friends_count] => 734
+    [listed_count] => 3
+    [created_at] => Tue Feb 19 09:01:05 +0000 2013
+    [favourites_count] => 7141
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 8505
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1392028473284173824/7RlW0ro9_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1392028473284173824/7RlW0ro9_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1196417756/1615346005
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

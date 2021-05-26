@@ -1,0 +1,55 @@
+stdClass Object
+(
+    [id] => 2909312622
+    [id_str] => 2909312622
+    [name] => cameron 🍄
+    [screen_name] => Guavasaur
+    [location] => 
+    [url] => 
+    [description] => hi im cam! 
+he/him 
+rcad 2019 / 3D Modeler & Illustrator
+STREAM SCHEDULE (not strict): 
+Wed-Sat (Time varies, oops!!)
+    [protected] => 
+    [followers_count] => 155
+    [friends_count] => 908
+    [listed_count] => 0
+    [created_at] => Mon Nov 24 19:00:47 +0000 2014
+    [favourites_count] => 31691
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 418
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1380399360563838977/nmqLncSm_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1380399360563838977/nmqLncSm_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2909312622/1481669766
+    [profile_link_color] => FAB81E
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

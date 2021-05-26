@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 436171996
+    [id_str] => 436171996
+    [name] => Nerk
+    [screen_name] => radicalnerk
+    [location] => Seattle
+    [url] => 
+    [description] => (she/her) A gal who is trying her best at drawing and has a million animals.
+🖼️Insta: http://instagram.com/nerkdraws/
+✍️Commissions: closed
+    [protected] => 
+    [followers_count] => 57
+    [friends_count] => 329
+    [listed_count] => 0
+    [created_at] => Tue Dec 13 21:43:14 +0000 2011
+    [favourites_count] => 608
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 432
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme12/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme12/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1179430760299814914/xQYC0SS9_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1179430760299814914/xQYC0SS9_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/436171996/1571982220
+    [profile_link_color] => 6E5FFF
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

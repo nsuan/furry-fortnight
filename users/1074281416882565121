@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1074281416882565121
+    [id_str] => 1074281416882565121
+    [name] => Creepyan
+    [screen_name] => CreepyanArt
+    [location] => France
+    [url] => https://www.deviantart.com/creepyan
+    [description] => She/They| Digital artist | Fantasy nerd and Monster-lover | COMMISSIONS : CLOSED
+    [protected] => 
+    [followers_count] => 99
+    [friends_count] => 124
+    [listed_count] => 1
+    [created_at] => Sun Dec 16 12:33:43 +0000 2018
+    [favourites_count] => 974
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 181
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1265651810473295872/g-btRsJD_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1265651810473295872/g-btRsJD_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1074281416882565121/1621171379
+    [profile_link_color] => 69EAC1
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

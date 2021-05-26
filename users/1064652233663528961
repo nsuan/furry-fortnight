@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1064652233663528961
+    [id_str] => 1064652233663528961
+    [name] => Jackary
+    [screen_name] => They_Goggles
+    [location] => The FUCKING void
+    [url] => https://ko-fi.com/theygoggles
+    [description] => WoW shitposter and WRA RPer. Mains are Korathel hordeside and Vyhael ally-side. Love me some void and undead. FFXIV Side account is @McJackary ( He/him - 22 )
+    [protected] => 
+    [followers_count] => 235
+    [friends_count] => 188
+    [listed_count] => 0
+    [created_at] => Mon Nov 19 22:50:47 +0000 2018
+    [favourites_count] => 5277
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 2189
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1317614354620059649/8TYu0TL0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1317614354620059649/8TYu0TL0_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1064652233663528961/1618452045
+    [profile_link_color] => 9999FF
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

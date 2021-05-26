@@ -1,0 +1,54 @@
+stdClass Object
+(
+    [id] => 2196504198
+    [id_str] => 2196504198
+    [name] => Stabby Rogue
+    [screen_name] => ReciRaider
+    [location] => Unknown
+    [url] => http://www.twitch.tv/reciraider
+    [description] => Geek|Gamer|Raid Leader & Co-GM @ReciprocityUS 
+| #RoguesRule #ForTheHorde| Avi by @Faebelina|
+#Technology|#HybridCloud|#Automation
+Personal:🗡 @RogueStabby 🗡
+    [protected] => 
+    [followers_count] => 6321
+    [friends_count] => 4848
+    [listed_count] => 94
+    [created_at] => Fri Nov 15 19:30:05 +0000 2013
+    [favourites_count] => 250726
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 74827
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 131516
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme14/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme14/bg.gif
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/951583894540754945/3RMprADF_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/951583894540754945/3RMprADF_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2196504198/1502928528
+    [profile_link_color] => 940806
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => EFEFEF
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => regular
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

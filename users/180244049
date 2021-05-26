@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 180244049
+    [id_str] => 180244049
+    [name] => cyrus🍩
+    [screen_name] => Flynneware
+    [location] => Chicago💨
+    [url] => http://morethanone.info
+    [description] => 🔞🏳️‍🌈🔮 they/them • powered by donuts • autistic • abolitionist • pagan • (ace/agender) • @saladsystem
+    [protected] => 
+    [followers_count] => 492
+    [friends_count] => 94
+    [listed_count] => 20
+    [created_at] => Thu Aug 19 04:22:04 +0000 2010
+    [favourites_count] => 82155
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 32888
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 1A1B1F
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1379823955792527360/nalUA_91_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1379823955792527360/nalUA_91_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/180244049/1582670723
+    [profile_link_color] => 00DEAA
+    [profile_sidebar_border_color] => 181A1E
+    [profile_sidebar_fill_color] => 252429
+    [profile_text_color] => 666666
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

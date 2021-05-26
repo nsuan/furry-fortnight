@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 15517385
+    [id_str] => 15517385
+    [name] => Tsepish
+    [screen_name] => Tsepish
+    [location] => Lexington, KY
+    [url] => http://teaberryhouse.com
+    [description] => Artist and Pin Maker 🎨 Draws lots of WoW stuff 💜 she/her            
+pin club! : http://patreon.com/teaberryhouse ✨
+Commissions : closed
+    [protected] => 
+    [followers_count] => 9978
+    [friends_count] => 1692
+    [listed_count] => 104
+    [created_at] => Mon Jul 21 16:49:16 +0000 2008
+    [favourites_count] => 16832
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 11199
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme10/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme10/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1281730174715920384/AU84LUod_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1281730174715920384/AU84LUod_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/15517385/1619159632
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

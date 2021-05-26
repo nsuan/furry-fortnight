@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 881241638898741248
+    [id_str] => 881241638898741248
+    [name] => (´ｰ｀)
+    [screen_name] => itseversong
+    [location] => c-571
+    [url] => http://itseversong.tumblr.com
+    [description] => 🍂🎃 I do the writing thing. usually dissociated. how's it going?
+    [protected] => 
+    [followers_count] => 128
+    [friends_count] => 133
+    [listed_count] => 2
+    [created_at] => Sat Jul 01 20:02:34 +0000 2017
+    [favourites_count] => 2253
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 748
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/910153832348504069/zdWxf1bf_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/910153832348504069/zdWxf1bf_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/881241638898741248/1504606901
+    [profile_link_color] => 5B2C6F
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

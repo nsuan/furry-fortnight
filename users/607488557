@@ -1,0 +1,52 @@
+stdClass Object
+(
+    [id] => 607488557
+    [id_str] => 607488557
+    [name] => marviilo
+    [screen_name] => marviilo
+    [location] => Sweden
+    [url] => 
+    [description] => If I were to write a list of things I'm bad at, these tiny texts would be at #1 ---
+Call me Marv, 26, alien, #nasalaunchmeintospacepls
+    [protected] => 
+    [followers_count] => 39
+    [friends_count] => 52
+    [listed_count] => 0
+    [created_at] => Wed Jun 13 19:37:28 +0000 2012
+    [favourites_count] => 187
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 40
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1169236921031233536/45ldT1DA_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1169236921031233536/45ldT1DA_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/607488557/1567602781
+    [profile_link_color] => 19CF86
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

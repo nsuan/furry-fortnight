@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 996479378392576001
+    [id_str] => 996479378392576001
+    [name] => 2Φ
+    [screen_name] => sheofthedreams
+    [location] => 
+    [url] => 
+    [description] => so you just gonna bring me a birthday gift on my birthday to my birthday party on my birthday with a birthday gift...
+    [protected] => 
+    [followers_count] => 68
+    [friends_count] => 3103
+    [listed_count] => 0
+    [created_at] => Tue May 15 19:56:12 +0000 2018
+    [favourites_count] => 4309
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 949
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1018239639117877248/oVozILzB_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1018239639117877248/oVozILzB_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/996479378392576001/1555845366
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

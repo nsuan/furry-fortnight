@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 115159460
+    [id_str] => 115159460
+    [name] => Katie Rose || Zierve
+    [screen_name] => Zierve
+    [location] => Colorado, USA
+    [url] => https://www.deviantart.com/zierve
+    [description] => Artist, gamer, aspiring writer | She/Her | Ace/Pan | Autistic || Avid FFXIV enthusiast and do enjoy a spot of WoW.
+    [protected] => 
+    [followers_count] => 24
+    [friends_count] => 295
+    [listed_count] => 0
+    [created_at] => Wed Feb 17 20:13:52 +0000 2010
+    [favourites_count] => 667
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 320
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F2EEEF
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme5/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme5/bg.gif
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1267106649900113923/FvVXCxzK_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1267106649900113923/FvVXCxzK_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/115159460/1534954471
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 8BA7C4
+    [profile_sidebar_fill_color] => FAFAFA
+    [profile_text_color] => 8F2E2E
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

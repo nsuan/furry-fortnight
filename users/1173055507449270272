@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1173055507449270272
+    [id_str] => 1173055507449270272
+    [name] => KKzero
+    [screen_name] => DKhetsophon
+    [location] => ประเทศไทย
+    [url] => 
+    [description] => ชาย สูง 190 cm. น้ำหนัก 93 kg.  อายุ 18 year old. ชอบเล่นกีฬาต่อสู้ กับ World of Warcraft
+    [protected] => 
+    [followers_count] => 54
+    [friends_count] => 1468
+    [listed_count] => 0
+    [created_at] => Sun Sep 15 02:07:14 +0000 2019
+    [favourites_count] => 2870
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 610
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1190357211710738445/oq2j5pWZ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1190357211710738445/oq2j5pWZ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1173055507449270272/1572638277
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 952881812392566784
+    [id_str] => 952881812392566784
+    [name] => Manastorm Gaming
+    [screen_name] => ManastormGaming
+    [location] => Москва, Россия
+    [url] => https://manastorm.net/
+    [description] => Manastorm Gaming is a dedicated team of players who are mainly specialized in World of Warcraft Boosting.
+    [protected] => 
+    [followers_count] => 763
+    [friends_count] => 3401
+    [listed_count] => 0
+    [created_at] => Mon Jan 15 12:35:02 +0000 2018
+    [favourites_count] => 6886
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 341
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/952882432629460992/VnUlRp5D_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/952882432629460992/VnUlRp5D_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/952881812392566784/1517584124
+    [profile_link_color] => 1B95E0
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

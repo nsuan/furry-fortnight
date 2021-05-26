@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 2768257821
+    [id_str] => 2768257821
+    [name] => Top cat!
+    [screen_name] => stripybutt
+    [location] => England 
+    [url] => 
+    [description] => Want to see how far down these stripes go? 😻 AD account of @Chasing_The_cat formerly known as Dueclaw.😸
+    [protected] => 1
+    [followers_count] => 229
+    [friends_count] => 743
+    [listed_count] => 0
+    [created_at] => Fri Sep 12 21:16:04 +0000 2014
+    [favourites_count] => 12895
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 8135
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1131885347036631041/mXd-JWDb_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1131885347036631041/mXd-JWDb_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2768257821/1558697425
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

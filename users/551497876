@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 551497876
+    [id_str] => 551497876
+    [name] => You bitch
+    [screen_name] => NoThanksImGayy
+    [location] => 
+    [url] => 
+    [description] => Aspiring plant dad, gay, and constantly tired. did I mention Gay?                                #blacklivesmatter #acab
+    [protected] => 
+    [followers_count] => 18
+    [friends_count] => 167
+    [listed_count] => 0
+    [created_at] => Thu Apr 12 02:17:58 +0000 2012
+    [favourites_count] => 912
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 821
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1199077897761435651/iALsW8c9_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1199077897761435651/iALsW8c9_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/551497876/1560868365
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

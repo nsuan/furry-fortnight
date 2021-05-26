@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 581506250
+    [id_str] => 581506250
+    [name] => Nevermore
+    [screen_name] => Neverm0re87
+    [location] => 
+    [url] => 
+    [description] => Seeking answers to life and the universe. Eagle Scout, Amateur Writer, Infantryman in the US Army, attending College for ERM. They/Them.
+    [protected] => 
+    [followers_count] => 87
+    [friends_count] => 1212
+    [listed_count] => 0
+    [created_at] => Wed May 16 04:15:26 +0000 2012
+    [favourites_count] => 4081
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 486
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1348314209763921920/YTct7qAi_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1348314209763921920/YTct7qAi_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/581506250/1573586465
+    [profile_link_color] => 91D2FA
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

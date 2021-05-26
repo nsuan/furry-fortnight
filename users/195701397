@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 195701397
+    [id_str] => 195701397
+    [name] => Casandra
+    [screen_name] => comicvixen
+    [location] => Planet Earth
+    [url] => http://readerlinks.com/l/937459/theotherworldbookclub
+    [description] => Author (Andria Porter). Family #caregiver. #gamergirl ... Lover of all things #horror. #Coffeeislife ☕ #CthulhuISgod 🐙#NosferatuISbae 🧛‍♂️
+    [protected] => 
+    [followers_count] => 946
+    [friends_count] => 1219
+    [listed_count] => 55
+    [created_at] => Mon Sep 27 11:17:23 +0000 2010
+    [favourites_count] => 6899
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 8883
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5ABFF
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1225059871860543488/cEaKyLYq_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1225059871860543488/cEaKyLYq_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/195701397/1518780690
+    [profile_link_color] => F79EC9
+    [profile_sidebar_border_color] => 076E73
+    [profile_sidebar_fill_color] => 8F586F
+    [profile_text_color] => FC546D
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

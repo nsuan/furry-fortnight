@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1202785881599488000
+    [id_str] => 1202785881599488000
+    [name] => Rainy Day Dragon
+    [screen_name] => DragonRainy
+    [location] => 
+    [url] => 
+    [description] => One art and ice based boi who is trying not to melt. 19 and a guy, I follow nsfw stuff and occasionally like that content. I follow politics to watch dumbasses.
+    [protected] => 
+    [followers_count] => 35
+    [friends_count] => 401
+    [listed_count] => 0
+    [created_at] => Fri Dec 06 03:04:49 +0000 2019
+    [favourites_count] => 299
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 303
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1202786452800770048/mPjG_cGu_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1202786452800770048/mPjG_cGu_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1202785881599488000/1575650519
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

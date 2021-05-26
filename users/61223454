@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 61223454
+    [id_str] => 61223454
+    [name] => Shrieking Gym-Bunny (apparently)
+    [screen_name] => ricoladidada
+    [location] => Canada
+    [url] => 
+    [description] => she/they - Rambling, snark and awkward moments... NOW IN A CAN!
+    [protected] => 
+    [followers_count] => 40
+    [friends_count] => 1276
+    [listed_count] => 8
+    [created_at] => Wed Jul 29 15:41:29 +0000 2009
+    [favourites_count] => 33199
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1412
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => FCEBB6
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1324540215181090819/ct8h-tzT_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1324540215181090819/ct8h-tzT_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/61223454/1604628319
+    [profile_link_color] => 5E412F
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => 78C0A8
+    [profile_text_color] => CE7834
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

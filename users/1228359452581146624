@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1228359452581146624
+    [id_str] => 1228359452581146624
+    [name] => Eerie
+    [screen_name] => eerieimage
+    [location] => Sweden
+    [url] => 
+    [description] => She/Her † 23 † WrA (H) and MG (A) † I draw sometimes † PFP by @/evorcyy, header by Leialle on DeviantArt.
+    [protected] => 
+    [followers_count] => 340
+    [friends_count] => 563
+    [listed_count] => 2
+    [created_at] => Fri Feb 14 16:45:38 +0000 2020
+    [favourites_count] => 13167
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 2812
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1393666513299775494/Xt5pRS9w_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1393666513299775494/Xt5pRS9w_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1228359452581146624/1618944029
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

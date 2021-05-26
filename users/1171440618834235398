@@ -1,0 +1,54 @@
+stdClass Object
+(
+    [id] => 1171440618834235398
+    [id_str] => 1171440618834235398
+    [name] => |COMMISSIONS ARE CLOSED|
+    [screen_name] => cookybunny1414
+    [location] => 
+    [url] => 
+    [description] => Hi🏳️‍🌈 I'm Lee🌼. Furry🐾  they/them 🌈 20-something🐶
+ Autistic🌸
+I study photography and art. 
+My account is locked for awhile. I had a melt down recently.
+    [protected] => 1
+    [followers_count] => 0
+    [friends_count] => 4988
+    [listed_count] => 0
+    [created_at] => Tue Sep 10 15:11:00 +0000 2019
+    [favourites_count] => 1661
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 3500
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1345861503811899392/CUBF0Tmq_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1345861503811899392/CUBF0Tmq_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1171440618834235398/1586396560
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

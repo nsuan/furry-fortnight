@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 851160563417829376
+    [id_str] => 851160563417829376
+    [name] => Pareidolia🎭
+    [screen_name] => Apocryfall
+    [location] => 
+    [url] => 
+    [description] => ☕️ Writer // RolePlayer // My blood is black coffee // Spanish/English ☕️
+    [protected] => 
+    [followers_count] => 32
+    [friends_count] => 482
+    [listed_count] => 0
+    [created_at] => Sun Apr 09 19:51:06 +0000 2017
+    [favourites_count] => 3596
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1098
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/944820172082294785/x93dYrIJ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/944820172082294785/x93dYrIJ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/851160563417829376/1514097254
+    [profile_link_color] => 41063A
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

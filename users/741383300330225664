@@ -1,0 +1,50 @@
+stdClass Object
+(
+    [id] => 741383300330225664
+    [id_str] => 741383300330225664
+    [name] => PaoMith
+    [screen_name] => MithPao
+    [location] => Québec, Canada
+    [url] => 
+    [description] => he/him; bi;  Sacrificing all my free time at the altar of FFXIV (Balmung), WoW (WrA) and D&D
+    [protected] => 
+    [followers_count] => 80
+    [friends_count] => 534
+    [listed_count] => 3
+    [created_at] => Fri Jun 10 21:35:27 +0000 2016
+    [favourites_count] => 7556
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1816
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1268187227298738181/i078vItR_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1268187227298738181/i078vItR_normal.png
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

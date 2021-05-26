@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 886236645590278144
+    [id_str] => 886236645590278144
+    [name] => Zura
+    [screen_name] => The_Happy_Toast
+    [location] => 
+    [url] => 
+    [description] => She/her | Anxious bean | WoW, AD EU | Doesn't post, but we here
+    [protected] => 
+    [followers_count] => 43
+    [friends_count] => 1104
+    [listed_count] => 0
+    [created_at] => Sat Jul 15 14:50:56 +0000 2017
+    [favourites_count] => 11517
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 419
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1376566265511354377/QxefsG8q_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1376566265511354377/QxefsG8q_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/886236645590278144/1617033950
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

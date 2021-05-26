@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1118306148707438598
+    [id_str] => 1118306148707438598
+    [name] => ishky plays wow
+    [screen_name] => grabmyfireballs
+    [location] => 
+    [url] => 
+    [description] => WoW side-account for @Ishkyzone | Playing on Warmane - Icecrown | big lesbian for Jaina and Sylvanas | she/her
+    [protected] => 
+    [followers_count] => 16
+    [friends_count] => 134
+    [listed_count] => 0
+    [created_at] => Wed Apr 17 00:12:17 +0000 2019
+    [favourites_count] => 264
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 200
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1246565842428592130/owhMErXj_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1246565842428592130/owhMErXj_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1118306148707438598/1556314434
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

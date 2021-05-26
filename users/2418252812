@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 2418252812
+    [id_str] => 2418252812
+    [name] => D is for ereDarkling (Commission Open!)
+    [screen_name] => sparklerogue
+    [location] => 
+    [url] => 
+    [description] => Artist. I draw gay boys. Occasionally girls. Trying to get back into drawing groove. Still a Twitter noob. 
+
+Love me. Also WoW, FFXIV, and 18+ Plz. NSFW
+    [protected] => 
+    [followers_count] => 12
+    [friends_count] => 85
+    [listed_count] => 0
+    [created_at] => Sun Mar 30 01:35:56 +0000 2014
+    [favourites_count] => 1157
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 68
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => FFFFFF
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1041524166489366528/gDTUTy1V_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1041524166489366528/gDTUTy1V_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2418252812/1396144789
+    [profile_link_color] => 93A644
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

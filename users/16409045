@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 16409045
+    [id_str] => 16409045
+    [name] => Zimarra
+    [screen_name] => Zimarra
+    [location] => Webs
+    [url] => 
+    [description] => WOW and FF14 roleplayer, writer, dreamer, artist,geek. Tumblr refugee now on Twitter. AKA: Lilthessa Shadowfire and many alts. Just your general Nerd.
+    [protected] => 
+    [followers_count] => 72
+    [friends_count] => 89
+    [listed_count] => 2
+    [created_at] => Mon Sep 22 20:08:17 +0000 2008
+    [favourites_count] => 238
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 3240
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 332613
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme4/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme4/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1071066371218276352/t-nOnYl-_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1071066371218276352/t-nOnYl-_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/16409045/1543865498
+    [profile_link_color] => D9C582
+    [profile_sidebar_border_color] => 543F21
+    [profile_sidebar_fill_color] => AC8C5D
+    [profile_text_color] => 543F21
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1136340340917641217
+    [id_str] => 1136340340917641217
+    [name] => doing pretty good actually
+    [screen_name] => usagithedev
+    [location] => bitch land, america
+    [url] => 
+    [description] => level 26 she/her software engineer and things are kinda doing good
+    [protected] => 
+    [followers_count] => 42
+    [friends_count] => 1051
+    [listed_count] => 0
+    [created_at] => Wed Jun 05 18:33:44 +0000 2019
+    [favourites_count] => 8853
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 4195
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1338647644080582656/e6wtEw2M_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1338647644080582656/e6wtEw2M_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1136340340917641217/1607993444
+    [profile_link_color] => 981CEB
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

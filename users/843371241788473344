@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 843371241788473344
+    [id_str] => 843371241788473344
+    [name] => poi poi poi
+    [screen_name] => PoiandKeely
+    [location] => FL
+    [url] => 
+    [description] => sipping coffee | Rosie Rustgut "Roro" (MG-A) | VRChat ID poi poi poi | Illustrator + 3D Artist | writer | 25 🌈
+    [protected] => 
+    [followers_count] => 167
+    [friends_count] => 766
+    [listed_count] => 3
+    [created_at] => Sun Mar 19 07:59:07 +0000 2017
+    [favourites_count] => 5756
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1869
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1392184573648330752/c-pBFa3O_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1392184573648330752/c-pBFa3O_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/843371241788473344/1620253516
+    [profile_link_color] => 000000
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

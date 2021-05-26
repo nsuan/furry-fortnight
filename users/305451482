@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 305451482
+    [id_str] => 305451482
+    [name] => Anna 👁
+    [screen_name] => undeadelves
+    [location] => California
+    [url] => 
+    [description] => 💬 I play video games and watch stuff. Star Wars enthusiast. Horror lover. 27. she/her.
+    [protected] => 
+    [followers_count] => 100
+    [friends_count] => 815
+    [listed_count] => 0
+    [created_at] => Thu May 26 07:24:52 +0000 2011
+    [favourites_count] => 12438
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 856
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 131516
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme14/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme14/bg.gif
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1323873611917135872/XtOsYpPq_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1323873611917135872/XtOsYpPq_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/305451482/1588095019
+    [profile_link_color] => 9266CC
+    [profile_sidebar_border_color] => EEEEEE
+    [profile_sidebar_fill_color] => EFEFEF
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

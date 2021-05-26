@@ -1,0 +1,52 @@
+stdClass Object
+(
+    [id] => 831263247877677056
+    [id_str] => 831263247877677056
+    [name] => 2 Bards and a Fighter
+    [screen_name] => theWrongBard
+    [location] => 
+    [url] => 
+    [description] => I may not be the right bard. But at least I'm a bard.
+He/Him
+    [protected] => 
+    [followers_count] => 99
+    [friends_count] => 698
+    [listed_count] => 1
+    [created_at] => Mon Feb 13 22:06:17 +0000 2017
+    [favourites_count] => 1673
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 8850
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/834555628173524994/2vA0Ih4p_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/834555628173524994/2vA0Ih4p_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/831263247877677056/1487808540
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

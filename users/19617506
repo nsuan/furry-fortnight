@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 19617506
+    [id_str] => 19617506
+    [name] => Pocket Gamer France
+    [screen_name] => PocketGamerFR
+    [location] => France
+    [url] => https://www.pocketgamer.fr
+    [description] => 1er site français d'information sur les jeux sur mobile, iPhone, iPad, Android et Nintendo Switch.
+    [protected] => 
+    [followers_count] => 1406
+    [friends_count] => 902
+    [listed_count] => 48
+    [created_at] => Tue Jan 27 21:25:57 +0000 2009
+    [favourites_count] => 45
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 13005
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme3/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme3/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/481053252637569025/1sq5rsXp_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/481053252637569025/1sq5rsXp_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/19617506/1413317667
+    [profile_link_color] => D83700
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => CCCCCC
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)
