@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 762569763369299968
     [id_str] => 762569763369299968
-    [name] => hanzo voice:
+    [name] => hanzo voice: fourteen werewolves
     [screen_name] => FrostyRekt
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14838
+    [statuses_count] => 14839
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
