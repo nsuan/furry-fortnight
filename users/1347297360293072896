@@ -12,7 +12,7 @@ stdClass Object
 - Commissions Open
     [protected] => 
     [followers_count] => 293
-    [friends_count] => 1154
+    [friends_count] => 1153
     [listed_count] => 1
     [created_at] => Thu Jan 07 21:41:42 +0000 2021
     [favourites_count] => 883
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 89
+    [statuses_count] => 88
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
