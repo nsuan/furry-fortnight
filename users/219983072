@@ -13,16 +13,16 @@ stdClass Object
 Avatar: Julien Telo.
 Border: Yoshitaka Amano.
     [protected] => 
-    [followers_count] => 31
-    [friends_count] => 1288
+    [followers_count] => 32
+    [friends_count] => 1289
     [listed_count] => 1
     [created_at] => Fri Nov 26 12:56:30 +0000 2010
-    [favourites_count] => 40165
+    [favourites_count] => 40174
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19717
+    [statuses_count] => 19720
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
