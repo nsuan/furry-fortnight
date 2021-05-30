@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2871941185
     [id_str] => 2871941185
-    [name] => Cinnri Starling aka Dusk
+    [name] => Dusk
     [screen_name] => CinnriStarling
     [location] => Alfheimr
     [url] => http://www.starlingartist.com
@@ -14,10 +14,10 @@ http://patreon.com/starlingartist
 #Pagan
     [protected] => 
     [followers_count] => 8746
-    [friends_count] => 4553
+    [friends_count] => 4554
     [listed_count] => 155
     [created_at] => Wed Oct 22 21:23:15 +0000 2014
-    [favourites_count] => 206605
+    [favourites_count] => 206611
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
