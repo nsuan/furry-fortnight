@@ -8,7 +8,7 @@ stdClass Object
     [url] => https://www.twitch.tv/dragonemperor14
     [description] => Profile picture by @irishmoo
     [protected] => 
-    [followers_count] => 131
+    [followers_count] => 132
     [friends_count] => 1079
     [listed_count] => 6
     [created_at] => Fri Feb 20 21:12:22 +0000 2009
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 30802
+    [statuses_count] => 30803
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
