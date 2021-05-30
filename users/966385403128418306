@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 966385403128418306
     [name] => Summertime Robbles
     [screen_name] => WibbleRobble
-    [location] => the sun pits
+    [location] => the slums
     [url] => 
     [description] => my sunshine must be somewhere
     [protected] => 1
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4947
     [listed_count] => 0
     [created_at] => Wed Feb 21 18:53:29 +0000 2018
-    [favourites_count] => 30077
+    [favourites_count] => 30081
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14407
+    [statuses_count] => 14411
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
