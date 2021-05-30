@@ -14,15 +14,15 @@ stdClass Object
 ◾️ Read Carrd
     [protected] => 
     [followers_count] => 373
-    [friends_count] => 422
+    [friends_count] => 424
     [listed_count] => 0
     [created_at] => Mon Apr 06 23:08:42 +0000 2020
-    [favourites_count] => 77339
+    [favourites_count] => 77351
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8481
+    [statuses_count] => 8484
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
