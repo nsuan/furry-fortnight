@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3033080816
     [id_str] => 3033080816
-    [name] => ⚓️ Draevian - Denmark Ahoy⚓️
+    [name] => 🇩🇰⚓️ Draevian - Denmark Ahoy⚓️🇩🇰
     [screen_name] => DraevianArt
     [location] => Ancient Spire Outpost
     [url] => http://draevian.tumblr.com/
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 424
     [listed_count] => 1
     [created_at] => Fri Feb 20 16:40:04 +0000 2015
-    [favourites_count] => 14542
+    [favourites_count] => 14543
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
