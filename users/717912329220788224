@@ -9,7 +9,7 @@ stdClass Object
     [description] => am hound. just a scribble dump, still avoiding social media 🔞
 
 -don't take commissions-
-    [protected] => 1
+    [protected] => 
     [followers_count] => 608
     [friends_count] => 121
     [listed_count] => 4
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 656
+    [statuses_count] => 617
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
