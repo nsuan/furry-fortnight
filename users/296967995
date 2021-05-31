@@ -2,12 +2,12 @@ stdClass Object
 (
     [id] => 296967995
     [id_str] => 296967995
-    [name] => Lucifiel
-    [screen_name] => xLucifielx
+    [name] => Genesis
+    [screen_name] => xGenesisM
     [location] => 
     [url] => 
-    [description] => Vampire elf prince, Void Lord, Anime trash, Cosplayer, Wannabe artist, Critter, User is 31, 🔞Only please
-    [protected] => 
+    [description] => Vampire elf prince, Void Lord, Anime trash, Cosplayer, Wannabe artist, Critter, User is 32, 🔞Only please
+    [protected] => 1
     [followers_count] => 97
     [friends_count] => 1194
     [listed_count] => 1
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16178
+    [statuses_count] => 16179
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
