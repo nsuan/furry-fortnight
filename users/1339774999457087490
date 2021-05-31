@@ -11,15 +11,15 @@ stdClass Object
 If you're under 18 you will be yeeted.
     [protected] => 
     [followers_count] => 134
-    [friends_count] => 653
+    [friends_count] => 654
     [listed_count] => 1
     [created_at] => Fri Dec 18 03:31:20 +0000 2020
-    [favourites_count] => 30800
+    [favourites_count] => 30804
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6410
+    [statuses_count] => 6413
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
