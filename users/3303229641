@@ -2,18 +2,12 @@ stdClass Object
 (
     [id] => 3303229641
     [id_str] => 3303229641
-    [name] => ✨🌘 Hᴇʟɪ 🌒✨
+    [name] => ✨🌘
     [screen_name] => LunarRavana
     [location] => light dc @ ffxiv
     [url] => https://ko-fi.com/vekusen
-    [description] => #BlackLivesMatter
-
-jess/heli ● 26 yo ● she/her ❀
-
-@HaImarut ♡
-
-i: @linzobean | h: @rurukatt ☾
-    [protected] => 
+    [description] => #BlackLivesMatter jess/heli ● 26 yo ● she/her ❀ @HaImarut ♡ i: @linzobean | h: @rurukatt ☾
+    [protected] => 1
     [followers_count] => 218
     [friends_count] => 700
     [listed_count] => 0
@@ -23,7 +17,7 @@ i: @linzobean | h: @rurukatt ☾
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 23131
+    [statuses_count] => 23138
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
