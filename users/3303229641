@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3303229641
     [id_str] => 3303229641
-    [name] => ✨🌘
+    [name] => ✨🌘 heli.
     [screen_name] => LunarRavana
     [location] => light dc @ ffxiv
     [url] => https://ko-fi.com/vekusen
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 700
     [listed_count] => 0
     [created_at] => Fri May 29 23:17:08 +0000 2015
-    [favourites_count] => 30332
+    [favourites_count] => 30333
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 23138
+    [statuses_count] => 23144
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
