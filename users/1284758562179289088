@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 1294676644158988291
-    [id_str] => 1294676644158988291
-    [name] => Josh//black lives matter
-    [screen_name] => jdawglo
+    [id] => 1284758562179289088
+    [id_str] => 1284758562179289088
+    [name] => ElenaSwan | Comms open!
+    [screen_name] => ElenaSwanArt
     [location] => 
-    [url] => https://blacklivesmatters.carrd.co/#donate
-    [description] => (he/him) donate to link in bio
+    [url] => https://www.patreon.com/elenaswan
+    [description] => Digital artist • She/her • 29 • isfp • ♈️ ✨✨
+Comms info: http://bit.ly/3a2Zfkt • Portfolio: http://bit.ly/2QkSWSE • Discord: Helena#8337
+DM always open!)
     [protected] => 
-    [followers_count] => 44
-    [friends_count] => 2489
-    [listed_count] => 0
-    [created_at] => Sat Aug 15 16:45:50 +0000 2020
-    [favourites_count] => 65999
+    [followers_count] => 1129
+    [friends_count] => 1262
+    [listed_count] => 3
+    [created_at] => Sun Jul 19 07:55:48 +0000 2020
+    [favourites_count] => 1609
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6674
+    [statuses_count] => 351
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1326092189538119683/HRJXWDow_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1326092189538119683/HRJXWDow_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1294676644158988291/1614818861
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1388620169539424261/0dheS-XT_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1388620169539424261/0dheS-XT_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1284758562179289088/1619221176
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
