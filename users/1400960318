@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => NuruDruid
     [location] => Duluth, MN
     [url] => http://Www.twitch.tv/NuruDruid
-    [description] => #WoW forever! ~ Velen ~ Balance Marshmallow #Druid ~ Christian ~ Amateur 📷 Photographer ~ http://twitch.tv/nurudruid
+    [description] => #WoW forever! ~ Velen ~ Balance Marshmallow #Druid  ~ http://twitch.tv/nurudruid
     [protected] => 
     [followers_count] => 1211
     [friends_count] => 1782
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 12540
+    [statuses_count] => 12539
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
