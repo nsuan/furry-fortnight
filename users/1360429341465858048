@@ -6,8 +6,10 @@ stdClass Object
     [screen_name] => lex_rants
     [location] => 
     [url] => 
-    [description] => WoW priest main who occasionally reads the news (you know, to destress)
+    [description] => WoW holy priest main who occasionally reads the news
 Also lex_rants on tiktok & http://twitch.tv/lex_rants
+
+email: lexrants.streaming@gmail.com
     [protected] => 
     [followers_count] => 85
     [friends_count] => 234
@@ -18,7 +20,7 @@ Also lex_rants on tiktok & http://twitch.tv/lex_rants
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 207
+    [statuses_count] => 208
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
