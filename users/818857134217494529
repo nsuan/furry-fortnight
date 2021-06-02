@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 818857134217494529
     [id_str] => 818857134217494529
-    [name] => ᴰᴱᴱᴾ ᴰᴼᴾ
+    [name] => 검부의 남 ᴰᴱᴱᴾ ᴰᴼᴾ
     [screen_name] => WkoKbu
     [location] => 마수왕 라이언 악개 오타쿠 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 46768
+    [statuses_count] => 46769
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
