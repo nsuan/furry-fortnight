@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1064615227793334272
     [id_str] => 1064615227793334272
-    [name] => I want Sephiroth to stab me
+    [name] => Curzon apparently
     [screen_name] => BaiLangLong
     [location] => England, United Kingdom
     [url] => https://ko-fi.com/bailanglong
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 587
     [listed_count] => 2
     [created_at] => Mon Nov 19 20:23:44 +0000 2018
-    [favourites_count] => 17270
+    [favourites_count] => 17272
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2678
+    [statuses_count] => 2679
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
