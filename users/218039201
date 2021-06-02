@@ -3,7 +3,7 @@ stdClass Object
     [id] => 218039201
     [id_str] => 218039201
     [name] => MusingZero
-    [screen_name] => Musing_Zero
+    [screen_name] => MusingZeroArts
     [location] => Somewhere, USA
     [url] => http://musingzero.weebly.com
     [description] => ♥She/Her.
@@ -17,12 +17,12 @@ stdClass Object
     [friends_count] => 927
     [listed_count] => 25
     [created_at] => Sun Nov 21 07:25:58 +0000 2010
-    [favourites_count] => 20242
+    [favourites_count] => 20243
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12158
+    [statuses_count] => 12159
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
