@@ -10,7 +10,7 @@ stdClass Object
 blm
     [protected] => 
     [followers_count] => 61
-    [friends_count] => 259
+    [friends_count] => 260
     [listed_count] => 0
     [created_at] => Thu Mar 19 05:18:33 +0000 2020
     [favourites_count] => 4248
@@ -18,7 +18,7 @@ blm
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5926
+    [statuses_count] => 5927
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
