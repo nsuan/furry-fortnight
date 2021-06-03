@@ -1,23 +1,27 @@
 stdClass Object
 (
-    [id] => 866405462748561408
-    [id_str] => 866405462748561408
-    [name] => Yana
-    [screen_name] => YanaReve
+    [id] => 703056469696999425
+    [id_str] => 703056469696999425
+    [name] => Arventus
+    [screen_name] => Arventuus
     [location] => 
     [url] => 
-    [description] => 
-    [protected] => 1
-    [followers_count] => 19
-    [friends_count] => 1354
+    [description] => 27 he/him/they/them 
+
+I sometimes post my art, but mostly never since I never finish anything ever.
+
+please do not follow if you are under 18.
+    [protected] => 
+    [followers_count] => 43
+    [friends_count] => 1044
     [listed_count] => 0
-    [created_at] => Sun May 21 21:28:54 +0000 2017
-    [favourites_count] => 114183
+    [created_at] => Fri Feb 26 03:18:19 +0000 2016
+    [favourites_count] => 19265
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 37640
+    [statuses_count] => 3910
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,10 +30,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1392606780350509057/KqoGerRL_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1392606780350509057/KqoGerRL_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/866405462748561408/1586555835
-    [profile_link_color] => 000080
+    [profile_image_url] => http://pbs.twimg.com/profile_images/995907679284441089/pu-ezJ7k_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/995907679284441089/pu-ezJ7k_normal.jpg
+    [profile_link_color] => 19CF86
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
