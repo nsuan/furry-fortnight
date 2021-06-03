@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2970987668
     [id_str] => 2970987668
-    [name] => Composed Chaos ||Giveaway Activated||
+    [name] => Composed Chaos || Another Giveaway Soon?||
     [screen_name] => Composed_Khaos
     [location] => Austin, TX
     [url] => 
@@ -12,16 +12,16 @@ stdClass Object
 
 Icon by @huntressfinoa
     [protected] => 
-    [followers_count] => 236
+    [followers_count] => 235
     [friends_count] => 1692
     [listed_count] => 2
     [created_at] => Sat Jan 10 03:46:39 +0000 2015
-    [favourites_count] => 83995
+    [favourites_count] => 83998
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14828
+    [statuses_count] => 14829
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
