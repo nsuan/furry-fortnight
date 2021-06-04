@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 538161515
     [id_str] => 538161515
-    [name] => KylePunkArt *COMMISSIONS OPEN*
+    [name] => KylePunkArt *COMMISSIONS CLOSED*
     [screen_name] => KyleKayhos
     [location] => Cape Town
     [url] => https://www.patreon.com/KylePunkArt
@@ -12,7 +12,7 @@ Commissions are OPEN!
     [protected] => 
     [followers_count] => 5830
     [friends_count] => 553
-    [listed_count] => 0
+    [listed_count] => 45
     [created_at] => Tue Mar 27 13:31:32 +0000 2012
     [favourites_count] => 4173
     [utc_offset] => 
