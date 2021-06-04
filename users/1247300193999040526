@@ -13,11 +13,11 @@ stdClass Object
 ◾️ Writer
 ◾️ Read Carrd
     [protected] => 
-    [followers_count] => 403
-    [friends_count] => 493
+    [followers_count] => 402
+    [friends_count] => 494
     [listed_count] => 0
     [created_at] => Mon Apr 06 23:08:42 +0000 2020
-    [favourites_count] => 79595
+    [favourites_count] => 79602
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
