@@ -10,16 +10,16 @@ stdClass Object
 
 Header and icon by Saltmatey
     [protected] => 
-    [followers_count] => 592
+    [followers_count] => 593
     [friends_count] => 888
     [listed_count] => 1
     [created_at] => Tue May 14 22:42:02 +0000 2013
-    [favourites_count] => 12083
+    [favourites_count] => 12086
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1934
+    [statuses_count] => 1936
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
