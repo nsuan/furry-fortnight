@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 424156327
     [id_str] => 424156327
-    [name] => Neleimour is sleeping 💤 🖋
+    [name] => Neleimour 🖋
     [screen_name] => Neleimour
     [location] => West Coast
     [url] => http://www.palia.com
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 686
     [listed_count] => 20
     [created_at] => Tue Nov 29 11:39:02 +0000 2011
-    [favourites_count] => 40423
+    [favourites_count] => 40427
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
