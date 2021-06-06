@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 966385403128418306
     [id_str] => 966385403128418306
-    [name] => Summertime Robbles
+    [name] => Summer Robbles
     [screen_name] => WibbleRobble
-    [location] => the sun
+    [location] => away
     [url] => 
     [description] => my sunshine must be somewhere
     [protected] => 1
     [followers_count] => 77
-    [friends_count] => 4964
+    [friends_count] => 4963
     [listed_count] => 0
     [created_at] => Wed Feb 21 18:53:29 +0000 2018
     [favourites_count] => 30181
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14456
+    [statuses_count] => 14457
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
