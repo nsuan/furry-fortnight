@@ -10,7 +10,7 @@ stdClass Object
 Age: 21
     [protected] => 
     [followers_count] => 179
-    [friends_count] => 1915
+    [friends_count] => 1916
     [listed_count] => 1
     [created_at] => Tue Apr 28 03:58:08 +0000 2020
     [favourites_count] => 1492
@@ -18,7 +18,7 @@ Age: 21
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1674
+    [statuses_count] => 1675
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
