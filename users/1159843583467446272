@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1159843583467446272
     [id_str] => 1159843583467446272
-    [name] => CStillblade- Zenneth
-    [screen_name] => CStillblade
+    [name] => Katriona Nott (Knott, Kat, Riona)
+    [screen_name] => KatrionaNott
     [location] => 
     [url] => 
-    [description] => SFW/NSFW artist. Nonbinary. They/Them 30 ✨Pagan✨ Considering name change. Will put up and have a period of transition.
+    [description] => SFW/NSFW artist. Nonbinary. They/Them 30 ✨Pagan✨ Previously Stillblade.
     [protected] => 
     [followers_count] => 2156
     [friends_count] => 958
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 773
+    [statuses_count] => 774
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
