@@ -2,17 +2,17 @@ stdClass Object
 (
     [id] => 1187005423183941632
     [id_str] => 1187005423183941632
-    [name] => Lush
+    [name] => Jay
     [screen_name] => lush_gcv
     [location] => Mars 
     [url] => 
     [description] => 
     [protected] => 1
-    [followers_count] => 77
-    [friends_count] => 4861
+    [followers_count] => 76
+    [friends_count] => 4863
     [listed_count] => 0
     [created_at] => Wed Oct 23 13:58:55 +0000 2019
-    [favourites_count] => 5225
+    [favourites_count] => 5230
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
