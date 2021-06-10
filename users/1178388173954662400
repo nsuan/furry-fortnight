@@ -16,15 +16,15 @@ stdClass Object
 Multisuiter
     [protected] => 
     [followers_count] => 311
-    [friends_count] => 2229
+    [friends_count] => 2231
     [listed_count] => 3
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
-    [favourites_count] => 8559
+    [favourites_count] => 8562
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 2034
+    [statuses_count] => 2035
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
