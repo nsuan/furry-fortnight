@@ -10,11 +10,11 @@ stdClass Object
 
 I stream @Twitch sometimes.
     [protected] => 
-    [followers_count] => 249
+    [followers_count] => 248
     [friends_count] => 1147
     [listed_count] => 3
     [created_at] => Fri Sep 17 19:09:12 +0000 2010
-    [favourites_count] => 2884
+    [favourites_count] => 2885
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
