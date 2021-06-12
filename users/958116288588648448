@@ -5,10 +5,8 @@ stdClass Object
     [name] => Dani - 💗💜💙
     [screen_name] => snarksonomy
     [location] => Buffalo, NY
-    [url] => 
-    [description] => Freelance Illustrator, Cartoonist, & Librarian living in Buffalo, NY -- Draws lots of elves & cats, loves kitsch.
-
-http://patreon.com/snarksonomy
+    [url] => http://patreon.com/snarksonomy
+    [description] => She/her/they. Kinda old. Freelance Illustrator, Cartoonist, & Librarian living in A weird old house in the Rustbelt. Draws lots of elves & cats. Loves kitsch.
     [protected] => 
     [followers_count] => 496
     [friends_count] => 416
@@ -19,7 +17,7 @@ http://patreon.com/snarksonomy
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 799
+    [statuses_count] => 800
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
