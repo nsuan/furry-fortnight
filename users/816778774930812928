@@ -6,8 +6,8 @@ stdClass Object
     [screen_name] => thecoops_s
     [location] => 
     [url] => 
-    [description] => cooper | they/them | 28 | i draw sometimes and i play wow thats all there is to it
-    [protected] => 
+    [description] => cooper | they/them | 28 | i dont draw anymore maybe i will but who knows when thatll be
+    [protected] => 1
     [followers_count] => 559
     [friends_count] => 356
     [listed_count] => 2
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9137
+    [statuses_count] => 9136
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
