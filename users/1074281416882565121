@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => CreepyanArt
     [location] => France
     [url] => https://www.deviantart.com/creepyan
-    [description] => She/They| Digital artist | Fantasy nerd and Monster-lover | COMMISSIONS : CLOSED
+    [description] => She/They| Digital artist | Fantasy nerd and Monster-lover | COMMISSIONS : OPEN
     [protected] => 
     [followers_count] => 99
     [friends_count] => 125
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 183
+    [statuses_count] => 185
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
