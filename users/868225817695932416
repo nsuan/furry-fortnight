@@ -12,7 +12,7 @@ stdClass Object
 •Commissions: Closed
     [protected] => 
     [followers_count] => 180
-    [friends_count] => 590
+    [friends_count] => 591
     [listed_count] => 2
     [created_at] => Fri May 26 22:02:20 +0000 2017
     [favourites_count] => 18383
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1401
+    [statuses_count] => 1402
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
