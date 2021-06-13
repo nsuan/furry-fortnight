@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => sassy_hannibal
     [location] => En boule dans un coin
     [url] => 
-    [description] => Fat, Borderline | 🐸 enthousiaste | ♋️
+    [description] => | 🐸 enthousiaste | ♋️
     [protected] => 
     [followers_count] => 34
     [friends_count] => 285
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 337
+    [statuses_count] => 334
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
