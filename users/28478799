@@ -6,13 +6,13 @@ stdClass Object
     [screen_name] => nicoruu
     [location] => California, USA
     [url] => http://twitch.tv/nicoruuu
-    [description] => • 26 • dumb gremlin • playing apex, wow classic, ffxiv atm • charming in a court-jester sort of way •🌱 icon by illusbal
+    [description] => • 26 • dumb gremlin • playing apex, tbc, ffxiv atm • charming in a court-jester sort of way •🌱
     [protected] => 
     [followers_count] => 294
     [friends_count] => 601
     [listed_count] => 16
     [created_at] => Fri Apr 03 02:14:41 +0000 2009
-    [favourites_count] => 23273
+    [favourites_count] => 23275
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme5/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme5/bg.gif
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1374235219637592064/obdr7Twu_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1374235219637592064/obdr7Twu_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1404309682873794560/pKVXekpK_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1404309682873794560/pKVXekpK_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/28478799/1614413301
     [profile_link_color] => FAB81E
     [profile_sidebar_border_color] => FFFFFF
