@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 993710492433633281
     [id_str] => 993710492433633281
-    [name] => steel 🏳️‍🌈
+    [name] => Vas | steel 🏳️‍🌈
     [screen_name] => steelknife23
     [location] => 
     [url] => 
-    [description] => 34 || he/him || Profile done by @Feldrassil and Header done by @ParagonRaptors
+    [description] => 34 || he/him || Profile and Header done by @ParagonRaptors
     [protected] => 
     [followers_count] => 30
     [friends_count] => 145
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
