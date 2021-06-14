@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 2379020736
     [id_str] => 2379020736
-    [name] => Nick Avibunger
+    [name] => Nick Avirem
     [screen_name] => nik_avirem
     [location] => Egham, South East
     [url] => http://avismortem.bandcamp.com
-    [description] => bunger bunger bunger bunger
+    [description] => Dapper Zombie
     [protected] => 
     [followers_count] => 96
     [friends_count] => 315
     [listed_count] => 2
     [created_at] => Sat Mar 08 17:08:29 +0000 2014
-    [favourites_count] => 201500
+    [favourites_count] => 201505
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 6593
+    [statuses_count] => 6594
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
