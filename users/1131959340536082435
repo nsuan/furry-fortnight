@@ -8,9 +8,9 @@ stdClass Object
     [url] => 
     [description] => (28) Yo, I'm Torva. Gay as fuck, boi. He/They. I should probably go get back to sleeping. PFP @pejntboks header: @Cince_Arts
 #BlackLivesMatter
-    [protected] => 1
+    [protected] => 
     [followers_count] => 373
-    [friends_count] => 631
+    [friends_count] => 630
     [listed_count] => 3
     [created_at] => Fri May 24 16:25:12 +0000 2019
     [favourites_count] => 18278
@@ -18,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17775
+    [statuses_count] => 17776
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
