@@ -2,17 +2,17 @@ stdClass Object
 (
     [id] => 1262903545403244550
     [id_str] => 1262903545403244550
-    [name] => Mr.R
+    [name] => Manopenis
     [screen_name] => AkatskDeku
     [location] => São Paulo, Brasil
     [url] => 
     [description] => The only time I went wrong was when I thought it was wrong
     [protected] => 
-    [followers_count] => 20
+    [followers_count] => 21
     [friends_count] => 1295
     [listed_count] => 1
     [created_at] => Wed May 20 00:31:38 +0000 2020
-    [favourites_count] => 11736
+    [favourites_count] => 11757
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1402395934194024448/Wdw7jQqN_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1402395934194024448/Wdw7jQqN_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1404875997183463424/Onufk3vb_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1404875997183463424/Onufk3vb_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1262903545403244550/1605957427
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
