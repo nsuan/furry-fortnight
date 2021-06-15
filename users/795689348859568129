@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 795689348859568129
     [id_str] => 795689348859568129
-    [name] => Lady Cheese【 WAITLIST OPEN 】
+    [name] => Lady Cheese【 COMMISSIONS OPEN 】
     [screen_name] => LadyCheese1
     [location] => 
     [url] => 
@@ -14,12 +14,12 @@ stdClass Object
     [friends_count] => 525
     [listed_count] => 1
     [created_at] => Mon Nov 07 18:08:18 +0000 2016
-    [favourites_count] => 28245
+    [favourites_count] => 28248
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 508
+    [statuses_count] => 510
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
