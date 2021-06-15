@@ -1,23 +1,24 @@
 stdClass Object
 (
-    [id] => 857387047518052352
-    [id_str] => 857387047518052352
-    [name] => 🌺 Noobielette🌺
-    [screen_name] => Noobielette
+    [id] => 480398052
+    [id_str] => 480398052
+    [name] => minnyrin
+    [screen_name] => minnyrin
     [location] => 
     [url] => 
-    [description] => Hello! I am Noobielette ! I love to draw and Play WoW, I am a hobby artist and a lover of all OCs.
+    [description] => she/they 👻 30-something goblin creature 🐸 shy, bi, and ready to cry
+i don't even have 2 braincells to rub together 😕
     [protected] => 
-    [followers_count] => 566
-    [friends_count] => 560
+    [followers_count] => 18
+    [friends_count] => 155
     [listed_count] => 0
-    [created_at] => Thu Apr 27 00:12:56 +0000 2017
-    [favourites_count] => 17943
+    [created_at] => Wed Feb 01 13:08:56 +0000 2012
+    [favourites_count] => 459
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3512
+    [statuses_count] => 481
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,15 +27,15 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1308311337462894592/4BgCcbnp_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1308311337462894592/4BgCcbnp_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/857387047518052352/1596560490
-    [profile_link_color] => 981CEB
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1402270273655693312/5xonkT5F_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1402270273655693312/5xonkT5F_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/480398052/1618575652
+    [profile_link_color] => F5ABB5
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 1
+    [has_extended_profile] => 
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
