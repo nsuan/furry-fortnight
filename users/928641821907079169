@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1064634751355682816
-    [id_str] => 1064634751355682816
-    [name] => Veari 소미🌸🏳️‍🌈
-    [screen_name] => VeariArt
-    [location] => 
-    [url] => https://veari.tumblr.com
-    [description] => Vea/So-Mi, 26 | I like elves and usually simp over antagonists | Do NOT repost or use my artwork without explicit consent | Commissions: FULL
+    [id] => 928641821907079169
+    [id_str] => 928641821907079169
+    [name] => dami
+    [screen_name] => nouIiths
+    [location] => L = capital i
+    [url] => https://boyjuice.carrd.co/
+    [description] => megahomo | art acc: @dami_time | 🏳️‍🌈🏳️‍⚧️
     [protected] => 
-    [followers_count] => 432
-    [friends_count] => 246
-    [listed_count] => 3
-    [created_at] => Mon Nov 19 21:41:19 +0000 2018
-    [favourites_count] => 15714
+    [followers_count] => 220
+    [friends_count] => 415
+    [listed_count] => 6
+    [created_at] => Thu Nov 09 15:13:58 +0000 2017
+    [favourites_count] => 48838
     [utc_offset] => 
     [time_zone] => 
-    [geo_enabled] => 
+    [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 1579
+    [statuses_count] => 26414
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,10 +26,10 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1404156298451636225/0FQ-cOG5_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1404156298451636225/0FQ-cOG5_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1064634751355682816/1610641644
-    [profile_link_color] => 5F2445
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1403005274638614529/54m82YGm_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1403005274638614529/54m82YGm_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/928641821907079169/1618358514
+    [profile_link_color] => 91D2FA
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
