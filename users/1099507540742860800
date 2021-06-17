@@ -1,24 +1,23 @@
 stdClass Object
 (
-    [id] => 736659290493210625
-    [id_str] => 736659290493210625
-    [name] => onioneater
-    [screen_name] => DeDiana10
-    [location] => 
+    [id] => 1099507540742860800
+    [id_str] => 1099507540742860800
+    [name] => Teggy Weggy
+    [screen_name] => teghlin
+    [location] => Texas
     [url] => 
-    [description] => in de dag ben ik een hamster in de nacht ben ik een gangster
-#rushersince2011
-    [protected] => 1
-    [followers_count] => 60
-    [friends_count] => 4977
+    [description] => They/them 22 Just a person making their way in the world!  Art in profile by Feldrassil
+    [protected] => 
+    [followers_count] => 27
+    [friends_count] => 626
     [listed_count] => 0
-    [created_at] => Sat May 28 20:43:56 +0000 2016
-    [favourites_count] => 81069
+    [created_at] => Sun Feb 24 03:13:20 +0000 2019
+    [favourites_count] => 1180
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 705
+    [statuses_count] => 1275
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,15 +26,15 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1107689267722141696/o50bCyvG_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1107689267722141696/o50bCyvG_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/736659290493210625/1551910365
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1374752882180902916/QiQ-Yxny_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1374752882180902916/QiQ-Yxny_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1099507540742860800/1592778260
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
