@@ -9,7 +9,7 @@ stdClass Object
     [description] => Profile picture by @irishmoo
     [protected] => 
     [followers_count] => 133
-    [friends_count] => 1112
+    [friends_count] => 1113
     [listed_count] => 6
     [created_at] => Fri Feb 20 21:12:22 +0000 2009
     [favourites_count] => 38652
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 31804
+    [statuses_count] => 31803
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
