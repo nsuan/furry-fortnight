@@ -11,16 +11,16 @@ stdClass Object
 https://t.co/8ta0Sbxf4Z
 https://t.co/BLex38Ud1k
     [protected] => 
-    [followers_count] => 346
-    [friends_count] => 870
+    [followers_count] => 345
+    [friends_count] => 869
     [listed_count] => 2
     [created_at] => Mon Mar 24 02:48:11 +0000 2014
-    [favourites_count] => 37551
+    [favourites_count] => 37553
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 25055
+    [statuses_count] => 25056
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
