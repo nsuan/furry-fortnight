@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 845381245626449920
     [id_str] => 845381245626449920
-    [name] => Zelris
+    [name] => Zelris | Commissions Open
     [screen_name] => ObviouslyZelris
     [location] => 
     [url] => https://zelris.carrd.co/
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 2963
+    [statuses_count] => 2964
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
