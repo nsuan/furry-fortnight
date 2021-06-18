@@ -6,18 +6,18 @@ stdClass Object
     [screen_name] => nouIiths
     [location] => L = capital i
     [url] => https://boyjuice.carrd.co/
-    [description] => megahomo | art acc: @dami_time | 🏳️‍🌈🏳️‍⚧️
+    [description] => megahomo | art acc: @dami_time | 🏳️‍🌈🏳️‍⚧️ | icon: https://picrew.me/search/creator?crid=45989
     [protected] => 
     [followers_count] => 218
     [friends_count] => 414
     [listed_count] => 6
     [created_at] => Thu Nov 09 15:13:58 +0000 2017
-    [favourites_count] => 49021
+    [favourites_count] => 49006
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 26485
+    [statuses_count] => 26486
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1403005274638614529/54m82YGm_normal.png
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1403005274638614529/54m82YGm_normal.png
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1405872701072359427/4UJzOsn9_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1405872701072359427/4UJzOsn9_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/928641821907079169/1618358514
     [profile_link_color] => 91D2FA
     [profile_sidebar_border_color] => 000000
