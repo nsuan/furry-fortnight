@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1241512025722892292
     [id_str] => 1241512025722892292
-    [name] => Tire Boy finishes this grade in 4? days
+    [name] => Tire Boy finishes this grade in 3? days
     [screen_name] => airinyourtires_
     [location] => Add your location
     [url] => http://www.airinyourtires.com
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14979
+    [statuses_count] => 14981
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
