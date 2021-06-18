@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 959883986939019264
     [id_str] => 959883986939019264
-    [name] => Lilyia_Art *Is on break*
+    [name] => Lilyia_Art
     [screen_name] => Lilyia_art
     [location] => Commissions Closed
     [url] => https://www.instagram.com/lilyia_art
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11646
+    [statuses_count] => 11647
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
