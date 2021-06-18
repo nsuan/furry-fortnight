@@ -10,15 +10,15 @@ stdClass Object
 League NA - Anistrasza
     [protected] => 
     [followers_count] => 302
-    [friends_count] => 659
+    [friends_count] => 660
     [listed_count] => 8
     [created_at] => Wed Oct 19 22:15:24 +0000 2016
-    [favourites_count] => 87452
+    [favourites_count] => 87480
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 41746
+    [statuses_count] => 41762
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
