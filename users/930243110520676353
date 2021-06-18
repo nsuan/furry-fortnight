@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 930243110520676353
     [id_str] => 930243110520676353
-    [name] => 𝒦𝒾𝓉𝒶𝒷𝓊𝓃
+    [name] => 𝕂𝕚𝕥𝕒𝕓𝕦𝕟
     [screen_name] => catman_uwu
     [location] => Crystal, Mateus
     [url] => https://catman-uwu.carrd.co/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 2042
     [listed_count] => 1
     [created_at] => Tue Nov 14 01:16:55 +0000 2017
-    [favourites_count] => 59544
+    [favourites_count] => 59550
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5955
+    [statuses_count] => 5957
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
