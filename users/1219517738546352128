@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => arakbay78
     [location] => 
     [url] => 
-    [description] => Конфигурация арахиса
+    [description] => Конфигурация арахиса в кокосовой стружке
     [protected] => 1
     [followers_count] => 0
     [friends_count] => 667
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4444
+    [statuses_count] => 4445
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
