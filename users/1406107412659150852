@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1178816305605951489
-    [id_str] => 1178816305605951489
-    [name] => Gilly
-    [screen_name] => Gilly_Arts
+    [id] => 1406107412659150852
+    [id_str] => 1406107412659150852
+    [name] => Ben
+    [screen_name] => Ben84627667
     [location] => 
     [url] => 
-    [description] => Gillian | Doodler | Autumn Lover🍂 | ♑️♐️♋️ | Samhain/Yule Freak 👻❄️| BloodType: Pumpkin Spice🎃 | WoW/Gamer Fanatic⚔️ | Buisness Twitter: @fall_fever
+    [description] => 
     [protected] => 
-    [followers_count] => 52
-    [friends_count] => 802
+    [followers_count] => 0
+    [friends_count] => 5
     [listed_count] => 0
-    [created_at] => Mon Sep 30 23:38:10 +0000 2019
-    [favourites_count] => 5669
+    [created_at] => Sat Jun 19 04:31:53 +0000 2021
+    [favourites_count] => 0
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1032
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1178816467577397248/nTaLib5f_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1178816467577397248/nTaLib5f_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1178816305605951489/1569891401
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -36,7 +35,7 @@ stdClass Object
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 
+    [default_profile_image] => 1
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
