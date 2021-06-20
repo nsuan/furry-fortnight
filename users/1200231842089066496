@@ -22,8 +22,8 @@ whole: 40 usd
 
 paypal payment
     [protected] => 
-    [followers_count] => 11
-    [friends_count] => 135
+    [followers_count] => 10
+    [friends_count] => 134
     [listed_count] => 0
     [created_at] => Fri Nov 29 01:57:29 +0000 2019
     [favourites_count] => 3
