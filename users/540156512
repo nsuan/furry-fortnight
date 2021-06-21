@@ -10,15 +10,15 @@ stdClass Object
 Possible nsfw warning
     [protected] => 
     [followers_count] => 492
-    [friends_count] => 4035
+    [friends_count] => 4036
     [listed_count] => 19
     [created_at] => Thu Mar 29 17:48:50 +0000 2012
-    [favourites_count] => 103938
+    [favourites_count] => 103945
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 31066
+    [statuses_count] => 31068
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
