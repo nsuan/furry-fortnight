@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 2199513441
     [id_str] => 2199513441
-    [name] => CIBBLE
+    [name] => ☁️
     [screen_name] => bnshee_king
-    [location] => South East, England
+    [location] => 
     [url] => 
-    [description] => 24 / he\they
+    [description] => 24
     [protected] => 1
     [followers_count] => 399
     [friends_count] => 828
     [listed_count] => 2
     [created_at] => Thu Nov 28 17:43:04 +0000 2013
-    [favourites_count] => 13078
+    [favourites_count] => 13081
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 13931
+    [statuses_count] => 13932
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 1
+    [has_extended_profile] => 
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
