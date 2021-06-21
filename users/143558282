@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 143558282
     [id_str] => 143558282
-    [name] => Jake
+    [name] => Jake Skywalker
     [screen_name] => DrumndJake
     [location] => Cambridge, England
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 18426
+    [statuses_count] => 18427
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
