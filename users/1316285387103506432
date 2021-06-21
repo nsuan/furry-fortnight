@@ -16,9 +16,9 @@ User is 32
     [protected] => 
     [followers_count] => 28
     [friends_count] => 344
-    [listed_count] => 1
+    [listed_count] => 0
     [created_at] => Wed Oct 14 07:51:19 +0000 2020
-    [favourites_count] => 6518
+    [favourites_count] => 6519
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
