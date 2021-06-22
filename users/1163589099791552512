@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1163589099791552512
     [id_str] => 1163589099791552512
-    [name] => malika!
+    [name] => malika @ commissions open!
     [screen_name] => qrowscant
     [location] => coolguyville
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 553
     [listed_count] => 6
     [created_at] => Mon Aug 19 23:10:36 +0000 2019
-    [favourites_count] => 15219
+    [favourites_count] => 15220
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2912
+    [statuses_count] => 2910
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
