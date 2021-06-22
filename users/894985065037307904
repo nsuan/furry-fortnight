@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 894985065037307904
     [id_str] => 894985065037307904
-    [name] => Gallows
+    [name] => Gallows | locked til patch day
     [screen_name] => swampgallows
     [location] => Los Angeles, CA
     [url] => https://ko-fi.com/Gallows
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 274
     [listed_count] => 1
     [created_at] => Tue Aug 08 18:14:02 +0000 2017
-    [favourites_count] => 13667
+    [favourites_count] => 13670
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2840
+    [statuses_count] => 2841
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
