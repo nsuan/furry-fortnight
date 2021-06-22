@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 1060827451880849408
-    [id_str] => 1060827451880849408
-    [name] => WarcraftDolls
-    [screen_name] => WarcraftDolls
-    [location] => Azeroth
+    [id] => 1407282566088986625
+    [id_str] => 1407282566088986625
+    [name] => heenz
+    [screen_name] => heenzthegreat
+    [location] => 7-11
     [url] => 
-    [description] => Twitter dedicated to the #WarcraftDolls project. Currently retweeting art into oblivion. Account run by @riv_cursive
-    [protected] => 
-    [followers_count] => 346
-    [friends_count] => 496
-    [listed_count] => 3
-    [created_at] => Fri Nov 09 09:32:28 +0000 2018
-    [favourites_count] => 2122
+    [description] => if you don't like me consider: blocking me and leaving me alone
+🔞 NO MINORS - sometimes NSFW
+pfp by my little brother
+    [protected] => 1
+    [followers_count] => 0
+    [friends_count] => 9
+    [listed_count] => 0
+    [created_at] => Tue Jun 22 10:21:44 +0000 2021
+    [favourites_count] => 0
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1984
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1060828617490423808/RvUS7-Do_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1060828617490423808/RvUS7-Do_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1060827451880849408/1541756516
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1407282741930954761/JLPkNJ5z_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1407282741930954761/JLPkNJ5z_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1407282566088986625/1624358204
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
