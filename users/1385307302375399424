@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1385307302375399424
     [id_str] => 1385307302375399424
-    [name] => Jack
+    [name] => Jack @ 5.2
     [screen_name] => McJackary
     [location] => Garlemald's 7/11
     [url] => https://celesfontaine.carrd.co/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 33
     [listed_count] => 0
     [created_at] => Thu Apr 22 18:59:45 +0000 2021
-    [favourites_count] => 553
+    [favourites_count] => 557
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 168
+    [statuses_count] => 169
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
