@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 301035300
     [id_str] => 301035300
-    [name] => OwlFluffs
+    [name] => OwlFluffs | OwlBear VTuber
     [screen_name] => StaceyLenaghan
     [location] => Bed
     [url] => https://www.patreon.com/owlfluffs
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 518
     [listed_count] => 16
     [created_at] => Wed May 18 19:25:39 +0000 2011
-    [favourites_count] => 16727
+    [favourites_count] => 16729
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12887
+    [statuses_count] => 12888
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
