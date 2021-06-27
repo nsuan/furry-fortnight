@@ -2,23 +2,22 @@ stdClass Object
 (
     [id] => 2684728345
     [id_str] => 2684728345
-    [name] => Nua'ti's doodles
-    [screen_name] => Nuati_Gilded
-    [location] => Gothenburg, Sweden
+    [name] => Merva's Doodles
+    [screen_name] => Merva_Ashengrip
+    [location] => 
     [url] => 
-    [description] => Argent Dawn EU / header made by @Karrah_e and pfp by @PaniVovk
-Desperately trying to teach myself to draw again.
+    [description] => Argent Dawn EU, Desperately trying to teach myself to draw again.
     [protected] => 
     [followers_count] => 179
-    [friends_count] => 1379
+    [friends_count] => 1380
     [listed_count] => 2
     [created_at] => Sun Jul 27 10:14:03 +0000 2014
-    [favourites_count] => 11983
+    [favourites_count] => 11989
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 10769
+    [statuses_count] => 10773
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,9 +26,9 @@ Desperately trying to teach myself to draw again.
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1404360396098752515/x0B8lCQ6_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1404360396098752515/x0B8lCQ6_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2684728345/1613075382
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1409214031911608323/vvH15Pbf_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1409214031911608323/vvH15Pbf_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2684728345/1624817783
     [profile_link_color] => 7FDBB6
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
