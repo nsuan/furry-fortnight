@@ -11,15 +11,15 @@ stdClass Object
                   +18 stuff in likes etc
     [protected] => 
     [followers_count] => 40
-    [friends_count] => 1317
+    [friends_count] => 1318
     [listed_count] => 0
     [created_at] => Mon Dec 03 19:03:46 +0000 2018
-    [favourites_count] => 93393
+    [favourites_count] => 93403
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5111
+    [statuses_count] => 5112
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
