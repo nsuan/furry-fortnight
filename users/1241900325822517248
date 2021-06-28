@@ -10,7 +10,7 @@ stdClass Object
 https://twitch.tv/alfurlotto
     [protected] => 
     [followers_count] => 75
-    [friends_count] => 863
+    [friends_count] => 862
     [listed_count] => 1
     [created_at] => Mon Mar 23 01:31:34 +0000 2020
     [favourites_count] => 6224
@@ -18,7 +18,7 @@ https://twitch.tv/alfurlotto
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2993
+    [statuses_count] => 2994
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
