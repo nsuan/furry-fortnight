@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 1262903545403244550
     [id_str] => 1262903545403244550
-    [name] => Kawaī KoneKo
+    [name] => 
     [screen_name] => AkatskDeku
-    [location] => São Paulo, Brasil
+    [location] => 
     [url] => 
-    [description] => Nico Nico niiii
+    [description] => @AkatskDeku's account is temporarily unavailable because it violates the Twitter Media Policy. Learn more.
     [protected] => 
     [followers_count] => 17
-    [friends_count] => 1326
+    [friends_count] => 1327
     [listed_count] => 1
     [created_at] => Wed May 20 00:31:38 +0000 2020
     [favourites_count] => 12125
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1409356748897624064/vwHkWk_R_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1409356748897624064/vwHkWk_R_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1262903545403244550/1624851807
+    [profile_image_url] => 
+    [profile_image_url_https] => 
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
