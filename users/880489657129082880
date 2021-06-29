@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 880489657129082880
     [id_str] => 880489657129082880
-    [name] => 🦑💖afksquid💖🦑
+    [name] => afksquid
     [screen_name] => afk_squid
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2312
+    [statuses_count] => 2311
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
