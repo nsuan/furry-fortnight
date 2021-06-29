@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => _youngskeleton_
     [location] => 
     [url] => 
-    [description] => 21 // NMSU 2023 // gemini // 4.13.18 // cool. cool cool cool. // the sun is SHINING  //
+    [description] => 22 // NMSU 2023 // gemini // 4.13.18 // cool. cool cool cool. // the sun is SHINING //
     [protected] => 1
     [followers_count] => 88
     [friends_count] => 222
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4036
+    [statuses_count] => 4038
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
