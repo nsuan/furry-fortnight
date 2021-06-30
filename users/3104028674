@@ -11,15 +11,15 @@ stdClass Object
 +18 age. No minors
     [protected] => 
     [followers_count] => 288
-    [friends_count] => 3749
+    [friends_count] => 3750
     [listed_count] => 1
     [created_at] => Mon Mar 23 01:59:15 +0000 2015
-    [favourites_count] => 12658
+    [favourites_count] => 12672
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1911
+    [statuses_count] => 1912
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
