@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 960648518
-    [id_str] => 960648518
-    [name] => 🍰🍰Commissions Open!🍰🍰
-    [screen_name] => TheLadyValiant
-    [location] => TX
+    [id] => 838203606
+    [id_str] => 838203606
+    [name] => Duskleaf
+    [screen_name] => RandomGamer79
+    [location] => 
     [url] => 
-    [description] => 🐱🍰I'm into a little bit of everything, games, comics, illustration, acrylic, and bjds.  🐱🍰
+    [description] => Level 20 | Avid Writer, Gamer & RPer | AD-EU 🇲🇹 | 💞                       
+
+                 ▪️Player of Lara Duskleaf, Rune'thas Duskwalker and Many More...
     [protected] => 
-    [followers_count] => 132
-    [friends_count] => 913
-    [listed_count] => 7
-    [created_at] => Tue Nov 20 15:18:01 +0000 2012
-    [favourites_count] => 6390
+    [followers_count] => 45
+    [friends_count] => 368
+    [listed_count] => 0
+    [created_at] => Fri Sep 21 17:04:14 +0000 2012
+    [favourites_count] => 3221
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3017
+    [statuses_count] => 499
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1374684465314856966/5QKD_uig_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1374684465314856966/5QKD_uig_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/960648518/1616585267
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1389569378333626372/PJeIjN5H_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1389569378333626372/PJeIjN5H_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/838203606/1615232541
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
