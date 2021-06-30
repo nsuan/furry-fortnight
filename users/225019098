@@ -13,7 +13,7 @@ stdClass Object
 Quel´thalas - US
     [protected] => 
     [followers_count] => 400
-    [friends_count] => 354
+    [friends_count] => 355
     [listed_count] => 7
     [created_at] => Fri Dec 10 13:13:46 +0000 2010
     [favourites_count] => 4407
@@ -21,7 +21,7 @@ Quel´thalas - US
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7421
+    [statuses_count] => 7422
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
