@@ -2,22 +2,24 @@ stdClass Object
 (
     [id] => 1292928969566715905
     [id_str] => 1292928969566715905
-    [name] => ok.
+    [name] => ash / monte
     [screen_name] => golpuffs
     [location] => 
     [url] => 
-    [description] => 
+    [description] => WoW RP / Croizac - (A)MoonGuard
+//
+I draw sometimes for fun :')
     [protected] => 
     [followers_count] => 254
     [friends_count] => 123
     [listed_count] => 3
     [created_at] => Mon Aug 10 21:01:11 +0000 2020
-    [favourites_count] => 2048
+    [favourites_count] => 2050
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 941
+    [statuses_count] => 944
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,7 +30,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1406797380008267776/byOBQgiK_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1406797380008267776/byOBQgiK_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1292928969566715905/1621904057
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1292928969566715905/1625038737
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
