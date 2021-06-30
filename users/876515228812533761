@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 876515228812533761
     [id_str] => 876515228812533761
-    [name] => 🏳️‍🌈Springpaw🏹
+    [name] => 🏳️‍🌈Springpaw🏹 9.1 Spoilers
     [screen_name] => sheikahbird
     [location] => 
     [url] => http://www.springpaw.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 125
     [listed_count] => 1
     [created_at] => Sun Jun 18 19:01:30 +0000 2017
-    [favourites_count] => 29518
+    [favourites_count] => 29527
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10643
+    [statuses_count] => 10645
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
