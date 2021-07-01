@@ -15,7 +15,7 @@ Icon: @brokenjawbone
 BLM, no exceptions
     [protected] => 
     [followers_count] => 310
-    [friends_count] => 904
+    [friends_count] => 900
     [listed_count] => 3
     [created_at] => Wed Jun 17 07:19:17 +0000 2015
     [favourites_count] => 18828
@@ -23,7 +23,7 @@ BLM, no exceptions
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9157
+    [statuses_count] => 9156
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
