@@ -8,7 +8,7 @@ stdClass Object
     [url] => http://twitch.tv/ankhaara
     [description] => Ren / 27 / Any pronoun / Artist / 私は日本語を,勉強しています。我慢してください! / "What do you do, when you can't do nothing, but there's nothing you can do?" "You do what you can."
     [protected] => 
-    [followers_count] => 1741
+    [followers_count] => 1740
     [friends_count] => 1326
     [listed_count] => 12
     [created_at] => Mon Sep 21 10:24:03 +0000 2015
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 35931
+    [statuses_count] => 35932
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
