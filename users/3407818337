@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => your blood is boiling with jealousy, mine is purple. we are not the same
-    [protected] => 
+    [protected] => 1
     [followers_count] => 416
     [friends_count] => 509
     [listed_count] => 6
