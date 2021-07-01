@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1029130366555226118
     [id_str] => 1029130366555226118
-    [name] => A Random NPC - Hiatus
+    [name] => A Random NPC
     [screen_name] => A_Random_NPC
     [location] => 
     [url] => https://archiveofourown.org/users/A_Random_NPC/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 498
     [listed_count] => 5
     [created_at] => Mon Aug 13 22:19:34 +0000 2018
-    [favourites_count] => 311086
+    [favourites_count] => 311088
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 38604
+    [statuses_count] => 38608
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
