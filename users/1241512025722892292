@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1241512025722892292
     [id_str] => 1241512025722892292
-    [name] => Airinyourtires turns 16 in 20 days
+    [name] => Airinyourtires turns 16 in 19 days
     [screen_name] => airinyourtires_
     [location] => Add your location
     [url] => http://www.airinyourtires.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 889
     [listed_count] => 0
     [created_at] => Sat Mar 21 23:48:43 +0000 2020
-    [favourites_count] => 22472
+    [favourites_count] => 22490
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 15707
+    [statuses_count] => 15719
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
