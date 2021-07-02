@@ -15,12 +15,12 @@ STREAM SCHEDULE: WHENEVER
     [friends_count] => 933
     [listed_count] => 0
     [created_at] => Mon Nov 24 19:00:47 +0000 2014
-    [favourites_count] => 33193
+    [favourites_count] => 33197
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 568
+    [statuses_count] => 569
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
