@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => +18 | she/her | English/Español
-    [protected] => 1
+    [protected] => 
     [followers_count] => 19
     [friends_count] => 220
     [listed_count] => 1
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6745
+    [statuses_count] => 6747
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
