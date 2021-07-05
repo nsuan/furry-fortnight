@@ -9,7 +9,7 @@ stdClass Object
     [description] => she/they, 23
     [protected] => 
     [followers_count] => 190
-    [friends_count] => 2727
+    [friends_count] => 2726
     [listed_count] => 1
     [created_at] => Fri Dec 20 16:19:26 +0000 2019
     [favourites_count] => 29822
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12778
+    [statuses_count] => 12777
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
