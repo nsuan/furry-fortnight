@@ -5,7 +5,7 @@ stdClass Object
     [name] => Soph
     [screen_name] => repliicants
     [location] => She/her
-    [url] => https://www.twitch.tv/wholesomesoph
+    [url] => 
     [description] => Soph!!! All I do is talk about lore in (j)rpgs. dragons and elves are very neat. expect ffxiv mostly.
     [protected] => 
     [followers_count] => 269
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 26310
+    [statuses_count] => 26311
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1410732843160899584/9popdhZU_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1410732843160899584/9popdhZU_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1096959240692854785/1625640320
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1412669457403551747/UuRK-fah_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1412669457403551747/UuRK-fah_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1096959240692854785/1625641622
     [profile_link_color] => E81C4F
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
