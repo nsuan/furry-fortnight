@@ -11,15 +11,15 @@ stdClass Object
 arbiter
     [protected] => 
     [followers_count] => 518
-    [friends_count] => 3332
+    [friends_count] => 3334
     [listed_count] => 5
     [created_at] => Thu Sep 14 11:37:23 +0000 2017
-    [favourites_count] => 208544
+    [favourites_count] => 208568
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 24404
+    [statuses_count] => 24407
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
