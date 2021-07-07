@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 741383300330225664
-    [id_str] => 741383300330225664
-    [name] => PaoMith
-    [screen_name] => MithPao
-    [location] => Québec, Canada
+    [id] => 1395275248212267011
+    [id_str] => 1395275248212267011
+    [name] => 💜hexecult SFW arts🦄
+    [screen_name] => hexecult
+    [location] => 
     [url] => 
-    [description] => he/him; bi;  Sacrificing all my free time at the altar of FFXIV (Balmung), WoW (WrA) and D&D
+    [description] => antinatalist, philosophist, artist, bruh
     [protected] => 
-    [followers_count] => 81
-    [friends_count] => 555
-    [listed_count] => 3
-    [created_at] => Fri Jun 10 21:35:27 +0000 2016
-    [favourites_count] => 8059
+    [followers_count] => 4
+    [friends_count] => 126
+    [listed_count] => 0
+    [created_at] => Thu May 20 07:08:49 +0000 2021
+    [favourites_count] => 35
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2007
+    [statuses_count] => 11
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1268187227298738181/i078vItR_normal.png
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1268187227298738181/i078vItR_normal.png
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1398401534539485190/1Ab_pHkH_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1398401534539485190/1Ab_pHkH_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1395275248212267011/1625679171
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
