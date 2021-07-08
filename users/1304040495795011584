@@ -1,26 +1,23 @@
 stdClass Object
 (
-    [id] => 745311393369497600
-    [id_str] => 745311393369497600
-    [name] => QueenSeaBass⭐Art🎨✏
-    [screen_name] => JustBastianArt
+    [id] => 1304040495795011584
+    [id_str] => 1304040495795011584
+    [name] => Njordloth
+    [screen_name] => njordloth
     [location] => 
     [url] => 
-    [description] => pfp by @eisorus
-
-19 yr old Dutch artist and student of Game Art 
-stay tuned for rare art posts and my thought while doing art
+    [description] => zz
     [protected] => 
-    [followers_count] => 78
-    [friends_count] => 1864
-    [listed_count] => 3
-    [created_at] => Tue Jun 21 17:44:18 +0000 2016
-    [favourites_count] => 31457
+    [followers_count] => 3
+    [friends_count] => 400
+    [listed_count] => 0
+    [created_at] => Thu Sep 10 12:54:24 +0000 2020
+    [favourites_count] => 1887
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3527
+    [statuses_count] => 38
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,9 +26,8 @@ stay tuned for rare art posts and my thought while doing art
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1232096957440634881/bVw-FU43_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1232096957440634881/bVw-FU43_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/745311393369497600/1578363704
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -39,7 +35,7 @@ stay tuned for rare art posts and my thought while doing art
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 
+    [default_profile_image] => 1
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
