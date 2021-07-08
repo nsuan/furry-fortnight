@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 727216325291069440
     [id_str] => 727216325291069440
-    [name] => Zoe
+    [name] => Zoe 🥦
     [screen_name] => Cookies_zoe
     [location] => United Kingdom
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 861
     [listed_count] => 1
     [created_at] => Mon May 02 19:20:57 +0000 2016
-    [favourites_count] => 5485
+    [favourites_count] => 5486
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4023
+    [statuses_count] => 4025
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
