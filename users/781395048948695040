@@ -4,15 +4,11 @@ stdClass Object
     [id_str] => 781395048948695040
     [name] => kai
     [screen_name] => osyrakai
-    [location] => Commissions:
-    [url] => https://osyra.weebly.com/
+    [location] => 
+    [url] => 
     [description] => 🌺 Hello! 🐍
 
 Call me Kai (甲斐) or Osy!
-
-I am 🇺🇸/🇯🇵 , 🏳️‍🌈, 20, a freelance character artist who enjoys FFXIV, WoW, and KnY.
-
-http://ko-fi.com/osyrakai
     [protected] => 
     [followers_count] => 881
     [friends_count] => 444
@@ -23,7 +19,7 @@ http://ko-fi.com/osyrakai
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 486
+    [statuses_count] => 484
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
