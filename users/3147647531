@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 3147647531
     [id_str] => 3147647531
-    [name] => PaleGlow (commissions OPEN but CLOSING SOON)
+    [name] => PaleGlow (commissions CLOSED)
     [screen_name] => mx_goldenwood
     [location] => 
     [url] => 
-    [description] => 30ish, white. any pronouns (but mostly they/them). 💛🤍💜🖤 here for elves & vampires. Black lives matter!! Commissions open now, but closing the 10th of July!
+    [description] => 30ish, white. any pronouns (but mostly they/them). 💛🤍💜🖤 here for elves & vampires. Black lives matter!!
     [protected] => 
     [followers_count] => 149
     [friends_count] => 110
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2365
+    [statuses_count] => 2364
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
