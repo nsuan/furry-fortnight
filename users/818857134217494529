@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 818857134217494529
     [id_str] => 818857134217494529
-    [name] => 글섭간 ᴰᴱᴱᴾ ᴰᴼᴾ
+    [name] => ᴰᴱᴱᴾ ᴰᴼᴾ in Zadnor
     [screen_name] => WkoKbu
     [location] => 마수왕 라이언 악개 오타쿠
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 336
     [listed_count] => 19
     [created_at] => Tue Jan 10 16:28:49 +0000 2017
-    [favourites_count] => 32762
+    [favourites_count] => 32756
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 48940
+    [statuses_count] => 48943
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
