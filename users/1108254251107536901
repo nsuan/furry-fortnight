@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1108254251107536901
     [id_str] => 1108254251107536901
-    [name] => Handhour
+    [name] => Handhour *Commission que is open*
     [screen_name] => handhour
     [location] => US
     [url] => https://handhourgalleries.carrd.co/
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4002
+    [statuses_count] => 4003
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
