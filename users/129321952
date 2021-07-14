@@ -10,15 +10,15 @@ stdClass Object
 Pronouns: He/Him
     [protected] => 
     [followers_count] => 37
-    [friends_count] => 832
+    [friends_count] => 833
     [listed_count] => 0
     [created_at] => Sat Apr 03 22:54:05 +0000 2010
-    [favourites_count] => 15621
+    [favourites_count] => 15632
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1083
+    [statuses_count] => 1084
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
