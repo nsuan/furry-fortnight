@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => 25. Black. Queer. She/her.
     [protected] => 
-    [followers_count] => 100
-    [friends_count] => 659
+    [followers_count] => 98
+    [friends_count] => 657
     [listed_count] => 0
     [created_at] => Sat May 20 18:59:25 +0000 2017
     [favourites_count] => 50346
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 40406
+    [statuses_count] => 40405
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
