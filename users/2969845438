@@ -2,17 +2,17 @@ stdClass Object
 (
     [id] => 2969845438
     [id_str] => 2969845438
-    [name] => C. Barry
+    [name] => Drûzä
     [screen_name] => Lathari_CNB
     [location] => Europe
     [url] => 
     [description] => 
-    [protected] => 
+    [protected] => 1
     [followers_count] => 57
-    [friends_count] => 884
+    [friends_count] => 885
     [listed_count] => 0
     [created_at] => Fri Jan 09 14:50:36 +0000 2015
-    [favourites_count] => 277
+    [favourites_count] => 278
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
