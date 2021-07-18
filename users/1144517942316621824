@@ -10,14 +10,14 @@ stdClass Object
     [protected] => 
     [followers_count] => 318
     [friends_count] => 952
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Fri Jun 28 08:08:36 +0000 2019
-    [favourites_count] => 36644
+    [favourites_count] => 36651
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6531
+    [statuses_count] => 6532
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
