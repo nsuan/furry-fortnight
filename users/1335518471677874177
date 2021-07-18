@@ -20,7 +20,7 @@ main: @monkeymallow
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 922
+    [statuses_count] => 920
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
