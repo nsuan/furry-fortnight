@@ -12,7 +12,7 @@ stdClass Object
 | ig: @nukot / @nukosketchbook
     [protected] => 
     [followers_count] => 26
-    [friends_count] => 410
+    [friends_count] => 411
     [listed_count] => 0
     [created_at] => Fri Jun 24 14:41:22 +0000 2011
     [favourites_count] => 3498
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 810
+    [statuses_count] => 811
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
