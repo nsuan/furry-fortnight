@@ -10,7 +10,7 @@ stdClass Object
 
 Header and icon by Saltmatey
     [protected] => 
-    [followers_count] => 618
+    [followers_count] => 619
     [friends_count] => 965
     [listed_count] => 2
     [created_at] => Tue May 14 22:42:02 +0000 2013
@@ -19,7 +19,7 @@ Header and icon by Saltmatey
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2280
+    [statuses_count] => 2279
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
