@@ -2,22 +2,25 @@ stdClass Object
 (
     [id] => 1208059316491694080
     [id_str] => 1208059316491694080
-    [name] => bao 🇱🇧
+    [name] => bao🌿
     [screen_name] => nightelfing
-    [location] => i: noirsnow, h: lurrlonde
+    [location] => 
     [url] => 
     [description] => she/they, 23. momther of ivy.
+
+i: @noirsnowart
+h: @lurrlonde
     [protected] => 
     [followers_count] => 196
-    [friends_count] => 2762
+    [friends_count] => 2763
     [listed_count] => 1
     [created_at] => Fri Dec 20 16:19:26 +0000 2019
-    [favourites_count] => 30614
+    [favourites_count] => 30617
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13168
+    [statuses_count] => 13169
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
