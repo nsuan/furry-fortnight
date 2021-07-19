@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 925655874605125632
     [id_str] => 925655874605125632
-    [name] => Encke | Dean (they/he)
+    [name] => Dean (they/he)
     [screen_name] => garbage_advice
     [location] => Switzerland
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1733
     [listed_count] => 0
     [created_at] => Wed Nov 01 09:28:53 +0000 2017
-    [favourites_count] => 18654
+    [favourites_count] => 18658
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2090
+    [statuses_count] => 2091
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
