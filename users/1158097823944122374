@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1275519644644847621
-    [id_str] => 1275519644644847621
-    [name] => Beerhammer
-    [screen_name] => Beerhammerstein
-    [location] => United States
+    [id] => 1158097823944122374
+    [id_str] => 1158097823944122374
+    [name] => shawn
+    [screen_name] => fuyuhiko
+    [location] => black - enby - any pronouns
     [url] => 
-    [description] => Mostly biodegradable woman made from recycled paper products. This Twitter is for stuff I like. 🏳️‍🌈🍻
+    [description] => chronically tired goblin
     [protected] => 
-    [followers_count] => 70
-    [friends_count] => 661
+    [followers_count] => 20
+    [friends_count] => 450
     [listed_count] => 0
-    [created_at] => Tue Jun 23 20:04:15 +0000 2020
-    [favourites_count] => 12133
+    [created_at] => Sun Aug 04 19:30:12 +0000 2019
+    [favourites_count] => 3206
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 851
+    [statuses_count] => 1196
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1385458243632340992/5fwmCcvH_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1385458243632340992/5fwmCcvH_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1275519644644847621/1612843784
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1416643740618330112/rk8sz4Bu_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1416643740618330112/rk8sz4Bu_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1158097823944122374/1622210926
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
