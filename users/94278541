@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 94278541
     [id_str] => 94278541
-    [name] => Asheldyr the Mage *Commissions Open*
+    [name] => Asheldyr the Mage *Commissions Closed*
     [screen_name] => BlizzardLynn
     [location] => New Mexico, USA
     [url] => https://www.paypal.me/BlizzardLynn
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6086
+    [statuses_count] => 6085
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
