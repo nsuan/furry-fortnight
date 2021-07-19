@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => 
     [protected] => 
-    [followers_count] => 168
+    [followers_count] => 167
     [friends_count] => 597
     [listed_count] => 3
     [created_at] => Tue Mar 08 16:31:39 +0000 2016
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 1786
+    [statuses_count] => 1787
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
