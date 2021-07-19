@@ -13,12 +13,12 @@ stdClass Object
     [friends_count] => 1992
     [listed_count] => 12
     [created_at] => Sat Mar 12 00:26:20 +0000 2016
-    [favourites_count] => 11082
+    [favourites_count] => 11080
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 44028
+    [statuses_count] => 44026
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
