@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => Voidforager
     [location] => Torghast
     [url] => 
-    [description] => 性格很烂的屑,不建议食用。中文/En。any pronoun. 不要盗图。
+    [description] => 中文/En。any pronoun. 不要盗图。
     [protected] => 
     [followers_count] => 673
     [friends_count] => 267
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1614
+    [statuses_count] => 1615
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
