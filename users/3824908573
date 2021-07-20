@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3824908573
     [id_str] => 3824908573
-    [name] => Aleksina ❤️
+    [name] => Aleksina 🩸🌹
     [screen_name] => AIeksina
     [location] => She/her
     [url] => http://twitch.tv/aieksina
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 485
     [listed_count] => 3
     [created_at] => Thu Oct 08 11:37:47 +0000 2015
-    [favourites_count] => 35309
+    [favourites_count] => 35326
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10945
+    [statuses_count] => 10951
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1417048700266827777/EpOgAUZr_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1417048700266827777/EpOgAUZr_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3824908573/1626685713
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1417379552725061632/PdHMYndw_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1417379552725061632/PdHMYndw_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3824908573/1626765282
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
