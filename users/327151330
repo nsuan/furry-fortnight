@@ -10,16 +10,16 @@ stdClass Object
 -
 The reports of my death are greatly exaggerated.
     [protected] => 
-    [followers_count] => 424
-    [friends_count] => 1998
+    [followers_count] => 423
+    [friends_count] => 1999
     [listed_count] => 5
     [created_at] => Fri Jul 01 02:35:42 +0000 2011
-    [favourites_count] => 11853
+    [favourites_count] => 11855
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13045
+    [statuses_count] => 13048
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
