@@ -10,11 +10,11 @@ stdClass Object
 
 i: @noirsnowart h: @lurrlonde
     [protected] => 
-    [followers_count] => 198
-    [friends_count] => 2772
+    [followers_count] => 197
+    [friends_count] => 2775
     [listed_count] => 1
     [created_at] => Fri Dec 20 16:19:26 +0000 2019
-    [favourites_count] => 30761
+    [favourites_count] => 30760
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
