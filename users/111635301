@@ -13,15 +13,15 @@ stdClass Object
 Commission status: Open to friends
     [protected] => 
     [followers_count] => 168
-    [friends_count] => 1437
+    [friends_count] => 1438
     [listed_count] => 6
     [created_at] => Fri Feb 05 16:36:16 +0000 2010
-    [favourites_count] => 6498
+    [favourites_count] => 6499
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4255
+    [statuses_count] => 4256
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
