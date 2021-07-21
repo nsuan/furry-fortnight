@@ -1,29 +1,24 @@
 stdClass Object
 (
-    [id] => 1208846452170067970
-    [id_str] => 1208846452170067970
-    [name] => ☀🌸 @ Perfect Ultimate Legend btw
-    [screen_name] => HaImarut
-    [location] => north west england
-    [url] => http://twitch.tv/iszykhatayin
-    [description] => mostly ff14/square enix games. not spoiler free. 
-
-@LunarRavana ♡
-
-i: @gIue_stick  | h: @ommynous ♡
-
-i stream at @iszykhatayin
+    [id] => 1268909190052892673
+    [id_str] => 1268909190052892673
+    [name] => Jakkar.Shadowcry
+    [screen_name] => JShadowcry
+    [location] => Brisbane Australia
+    [url] => https://www.furaffinity.net/user/jakkar.nasrudin/
+    [description] => Big ol hunky Dracogryph from Australia, G'day to ya!
+He/Him/Daddy, Lover of WoW, FF14 and Monsterhunter!
     [protected] => 
-    [followers_count] => 124
-    [friends_count] => 180
+    [followers_count] => 51
+    [friends_count] => 247
     [listed_count] => 0
-    [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 3905
+    [created_at] => Fri Jun 05 14:15:09 +0000 2020
+    [favourites_count] => 148
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 15490
+    [statuses_count] => 13
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -32,9 +27,9 @@ i stream at @iszykhatayin
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1410027944655867909/48jyRJtZ_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1410027944655867909/48jyRJtZ_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1208846452170067970/1626645790
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1268909837217218562/gbkgNeuO_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1268909837217218562/gbkgNeuO_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1268909190052892673/1614509683
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
