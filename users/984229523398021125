@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 984229523398021125
     [id_str] => 984229523398021125
-    [name] => Nori
+    [name] => Purple
     [screen_name] => PurpleGarma
     [location] => 
     [url] => 
-    [description] => +18 | she/her | English/Español
-    [protected] => 1
+    [description] => +18 | English/Español
+    [protected] => 
     [followers_count] => 11
-    [friends_count] => 222
+    [friends_count] => 224
     [listed_count] => 1
     [created_at] => Thu Apr 12 00:39:39 +0000 2018
     [favourites_count] => 2729
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6778
+    [statuses_count] => 6779
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
