@@ -2,12 +2,12 @@ stdClass Object
 (
     [id] => 755676768258953217
     [id_str] => 755676768258953217
-    [name] => Kai | Commissions Open
+    [name] => Kai
     [screen_name] => o2124o
     [location] => 
     [url] => 
     [description] => i like turtles
-    [protected] => 
+    [protected] => 1
     [followers_count] => 830
     [friends_count] => 227
     [listed_count] => 8
