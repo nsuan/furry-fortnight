@@ -2,24 +2,22 @@ stdClass Object
 (
     [id] => 1263353607338053633
     [id_str] => 1263353607338053633
-    [name] => Abby (WoW 9.1 spoilers)
+    [name] => Abby
     [screen_name] => fleshcrafting
     [location] => internet
     [url] => 
-    [description] => MMO RP Sloth. Mostly FFXIV. Long time WoW player.
-Abbri Bloodcrown on WoW.
-pfp by @cyborgraptor
+    [description] => MMO RP Sloth. Mostly FFXIV these days.
     [protected] => 
     [followers_count] => 54
     [friends_count] => 147
     [listed_count] => 0
     [created_at] => Thu May 21 06:19:14 +0000 2020
-    [favourites_count] => 4658
+    [favourites_count] => 4662
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3917
+    [statuses_count] => 3920
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,8 +26,8 @@ pfp by @cyborgraptor
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1413297008287395843/FLAK2vmC_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1413297008287395843/FLAK2vmC_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1418013286575001600/xsGUidZ6_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1418013286575001600/xsGUidZ6_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
