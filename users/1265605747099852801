@@ -2,8 +2,8 @@ stdClass Object
 (
     [id] => 1265605747099852801
     [id_str] => 1265605747099852801
-    [name] => McGerridae
-    [screen_name] => McGerridae
+    [name] => Gutter Gerridae
+    [screen_name] => Gutter_Gerridae
     [location] => Western Australia
     [url] => 
     [description] => Some peep from Auckland, New Zealand who lives in Australia.
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 101
+    [statuses_count] => 102
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
