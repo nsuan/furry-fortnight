@@ -6,10 +6,10 @@ stdClass Object
     [screen_name] => CarmillaBael
     [location] => Sweden
     [url] => https://www.twitch.tv/carmillabael
-    [description] => A stupid Princess from Hell ✿ Get off my page if you’re a minor ✿ Twitch Affiliate ✿ Biologist ✿ She/Her ✿ 🏳️‍🌈 ✿ 🇸🇪 ✿ Primal - Exodus ✿ Argent Dawn EU
+    [description] => A stupid Princess from Hell ✿ Twitch Affiliate ✿ Biologist ✿ She/Her ✿ 🏳️‍🌈 ✿ 🇸🇪 ✿
     [protected] => 
     [followers_count] => 218
-    [friends_count] => 716
+    [friends_count] => 719
     [listed_count] => 7
     [created_at] => Fri Nov 20 06:56:23 +0000 2009
     [favourites_count] => 13523
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1879
+    [statuses_count] => 1880
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
