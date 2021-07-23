@@ -4,18 +4,17 @@ stdClass Object
     [id_str] => 1131538153
     [name] => Ellypse
     [screen_name] => EllypseCelwe
-    [location] => Kirin Tor, EU
+    [location] => 
     [url] => 
-    [description] => Developer of the add-ons Storyline and @TotalRP3 for World of Warcraft. Healer main 👩🏼‍⚕️
+    [description] => Developer of the add-ons Storyline and @TotalRP3. Healer main 👩🏼‍⚕️
 French living in Brussels 🇧🇪
-Avatar by @formbextron
 She/her 🏳️‍⚧️
     [protected] => 
     [followers_count] => 874
     [friends_count] => 247
     [listed_count] => 17
     [created_at] => Tue Jan 29 16:40:41 +0000 2013
-    [favourites_count] => 10806
+    [favourites_count] => 10808
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -29,9 +28,8 @@ She/her 🏳️‍⚧️
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1355052128277037056/pjCDq1OH_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1355052128277037056/pjCDq1OH_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1131538153/1607706811
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1418494306604699651/XWSZ-6YJ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1418494306604699651/XWSZ-6YJ_normal.jpg
     [profile_link_color] => 6A86C4
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
