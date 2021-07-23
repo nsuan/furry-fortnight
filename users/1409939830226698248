@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1311178807068569600
-    [id_str] => 1311178807068569600
-    [name] => shayboy
-    [screen_name] => dshayboy
-    [location] => Pawtucket, RI
+    [id] => 1409939830226698248
+    [id_str] => 1409939830226698248
+    [name] => Helium, Curium, or Barium
+    [screen_name] => sunelfkali
+    [location] => 
     [url] => 
-    [description] => just hanging around
+    [description] => I play World of Warcraft ⚔️, board games ♟, Steam 🎧, & Nintendo 🎪 ➕ I ❤️ art 🎨, science 🧪, and books 📚
     [protected] => 
-    [followers_count] => 26
-    [friends_count] => 761
+    [followers_count] => 20
+    [friends_count] => 118
     [listed_count] => 0
-    [created_at] => Wed Sep 30 05:39:40 +0000 2020
-    [favourites_count] => 33714
+    [created_at] => Tue Jun 29 18:22:57 +0000 2021
+    [favourites_count] => 1889
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 366
+    [statuses_count] => 51
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1355736962448187392/HGfyyVjK_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1355736962448187392/HGfyyVjK_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1311178807068569600/1612067855
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1409941846458093577/L_-Z_-Wf_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1409941846458093577/L_-Z_-Wf_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1409939830226698248/1624993352
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
