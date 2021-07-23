@@ -11,15 +11,15 @@ stdClass Object
 btag: laitale#11594
     [protected] => 
     [followers_count] => 146
-    [friends_count] => 3969
+    [friends_count] => 3970
     [listed_count] => 2
     [created_at] => Thu Jul 23 13:41:14 +0000 2009
-    [favourites_count] => 3255
+    [favourites_count] => 3258
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20508
+    [statuses_count] => 20514
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
