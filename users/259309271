@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 259309271
     [id_str] => 259309271
-    [name] => Phazius is very tired
+    [name] => Phazius is bringing the steam back!
     [screen_name] => Phazius
     [location] => Canada
     [url] => http://www.twitch.tv/phazius
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 66068
+    [statuses_count] => 66069
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
