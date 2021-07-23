@@ -13,14 +13,14 @@ art account) @phollysday
     [protected] => 
     [followers_count] => 167
     [friends_count] => 2946
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Wed May 13 23:38:43 +0000 2015
-    [favourites_count] => 49026
+    [favourites_count] => 49027
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10414
+    [statuses_count] => 10415
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
