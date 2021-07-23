@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1112390358833512449
     [id_str] => 1112390358833512449
-    [name] => Ehkko • Comms OPEN 2/8 filled
+    [name] => Ehkko • Comms on Hold 2/8 filled
     [screen_name] => EhkkoArt
     [location] => Oklahoma City, OK
     [url] => https://ehkk0art.carrd.co/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1595
     [listed_count] => 7
     [created_at] => Sun Mar 31 16:25:03 +0000 2019
-    [favourites_count] => 19066
+    [favourites_count] => 19068
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7031
+    [statuses_count] => 7030
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 815562145312088064
     [id_str] => 815562145312088064
-    [name] => Lextors/Budgy
+    [name] => Budgy
     [screen_name] => LextorsDC
     [location] => Victoria, Australia
     [url] => https://www.twitch.tv/Crunchy_S4BS
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5464
+    [statuses_count] => 5465
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
