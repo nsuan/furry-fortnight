@@ -1,31 +1,23 @@
 stdClass Object
 (
-    [id] => 1129212938898825216
-    [id_str] => 1129212938898825216
-    [name] => Leisure 🦇
-    [screen_name] => LivinLeisure
-    [location] => bucket
+    [id] => 1067161911022604288
+    [id_str] => 1067161911022604288
+    [name] => will gladly sell myself for a corn chip
+    [screen_name] => Whattosay17
+    [location] => The sun
     [url] => 
-    [description] => 21 / nb (he/they/whatever) / Lazy on Main
-
-Adventure Time / WoW / whatevs
-
-Hoping you have a good day.
-
-❤️ @RedPandaPeki
-
-Banner by @Beansdraws and @Topikoji
+    [description] => I once accidentally ran into a host at a pizza place and said “Idk where I’m going”.
     [protected] => 
-    [followers_count] => 504
-    [friends_count] => 505
-    [listed_count] => 3
-    [created_at] => Fri May 17 02:31:59 +0000 2019
-    [favourites_count] => 10547
+    [followers_count] => 103
+    [friends_count] => 461
+    [listed_count] => 0
+    [created_at] => Mon Nov 26 21:03:21 +0000 2018
+    [favourites_count] => 12454
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8520
+    [statuses_count] => 8617
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -34,9 +26,9 @@ Banner by @Beansdraws and @Topikoji
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1391296904349110278/e-kJI568_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1391296904349110278/e-kJI568_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1129212938898825216/1623639911
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1417294260219437059/c03kdWat_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1417294260219437059/c03kdWat_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1067161911022604288/1620426862
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
