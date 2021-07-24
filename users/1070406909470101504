@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1070406909470101504
     [id_str] => 1070406909470101504
-    [name] => Queen.Oberon
+    [name] => Queen Oberon
     [screen_name] => QueenOberon
     [location] => Austin, TX
     [url] => https://www.instagram.com/queen.oberon/?hl=en
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 453
     [listed_count] => 0
     [created_at] => Wed Dec 05 19:57:49 +0000 2018
-    [favourites_count] => 1909
+    [favourites_count] => 1910
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
