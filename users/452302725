@@ -10,16 +10,16 @@ stdClass Object
 
 he/him
     [protected] => 
-    [followers_count] => 334
-    [friends_count] => 2553
+    [followers_count] => 335
+    [friends_count] => 2554
     [listed_count] => 2
     [created_at] => Sun Jan 01 17:41:03 +0000 2012
-    [favourites_count] => 14092
+    [favourites_count] => 14097
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4057
+    [statuses_count] => 4060
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
