@@ -2,8 +2,8 @@ stdClass Object
 (
     [id] => 1311178807068569600
     [id_str] => 1311178807068569600
-    [name] => shayboy
-    [screen_name] => dshayboy
+    [name] => {}{}{}
+    [screen_name] => blanksequence
     [location] => Pawtucket, RI
     [url] => 
     [description] => just hanging around
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 762
     [listed_count] => 0
     [created_at] => Wed Sep 30 05:39:40 +0000 2020
-    [favourites_count] => 33831
+    [favourites_count] => 33836
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1355736962448187392/HGfyyVjK_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1355736962448187392/HGfyyVjK_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1419115501813485568/o7iUllO8_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1419115501813485568/o7iUllO8_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1311178807068569600/1612067855
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
