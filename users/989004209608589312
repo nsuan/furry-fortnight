@@ -7,10 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => i play wow sometimes
-Alliance main is Sylcastro
-
-main is @meowsee9
-    [protected] => 
+    [protected] => 1
     [followers_count] => 49
     [friends_count] => 51
     [listed_count] => 1
