@@ -1,24 +1,23 @@
 stdClass Object
 (
-    [id] => 1039686023603802112
-    [id_str] => 1039686023603802112
-    [name] => Marutan
-    [screen_name] => Maru_ttan
-    [location] => Maruland
-    [url] => https://www.deviantart.com/maru-ttan
-    [description] => Oekaki/pixel/digital artist love @amepan_🍞
-🐕
+    [id] => 1376507635395084292
+    [id_str] => 1376507635395084292
+    [name] => Stephen Bradley
+    [screen_name] => Stephen38235622
+    [location] => Bellmore, NY
+    [url] => 
+    [description] => I’m a very considerate person . I love to make a woman feel she’s everything ! There isn’t anything that I would do to make a lady laugh and have the best time
     [protected] => 
-    [followers_count] => 251
-    [friends_count] => 2348
-    [listed_count] => 2
-    [created_at] => Wed Sep 12 01:23:59 +0000 2018
-    [favourites_count] => 15114
+    [followers_count] => 87
+    [friends_count] => 1117
+    [listed_count] => 0
+    [created_at] => Mon Mar 29 12:14:02 +0000 2021
+    [favourites_count] => 1565
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4213
+    [statuses_count] => 230
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1084601567851040771/wEk-mRrt_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1084601567851040771/wEk-mRrt_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1039686023603802112/1547424258
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1388998524692480002/CIKzQkvh_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1388998524692480002/CIKzQkvh_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
