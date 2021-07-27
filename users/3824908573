@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => AIeksina
     [location] => She/her
     [url] => http://twitch.tv/aieksina
-    [description] => 🇦🇺 | 20 | смрт фашизму ☭ | WoW
+    [description] => 🇦🇺 | 20 | смрт фашизму ☭ | WoW | Rogue / Hunter Main
     [protected] => 
     [followers_count] => 531
     [friends_count] => 506
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
