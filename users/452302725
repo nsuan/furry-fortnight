@@ -11,7 +11,7 @@ stdClass Object
 he/him
     [protected] => 
     [followers_count] => 345
-    [friends_count] => 2554
+    [friends_count] => 2555
     [listed_count] => 2
     [created_at] => Sun Jan 01 17:41:03 +0000 2012
     [favourites_count] => 14155
@@ -19,7 +19,7 @@ he/him
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4071
+    [statuses_count] => 4072
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
