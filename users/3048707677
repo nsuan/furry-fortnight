@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3048707677
     [id_str] => 3048707677
-    [name] => Rasek holds ur hand
+    [name] => Rasek 💙
     [screen_name] => buff_moogle
     [location] => Skeleton Hell
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1061
     [listed_count] => 12
     [created_at] => Sat Feb 28 04:58:03 +0000 2015
-    [favourites_count] => 119374
+    [favourites_count] => 119390
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 73404
+    [statuses_count] => 73406
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1414983999068508160/oLjEOyqX_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1414983999068508160/oLjEOyqX_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420159821463146496/MOrMgVbl_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420159821463146496/MOrMgVbl_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/3048707677/1623479027
     [profile_link_color] => F58EA8
     [profile_sidebar_border_color] => 000000
