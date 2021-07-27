@@ -9,7 +9,7 @@ stdClass Object
     [description] => If you see me out n about wave to me it’ll mean a lot.
     [protected] => 
     [followers_count] => 105
-    [friends_count] => 456
+    [friends_count] => 457
     [listed_count] => 0
     [created_at] => Mon Nov 26 21:03:21 +0000 2018
     [favourites_count] => 12652
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8669
+    [statuses_count] => 8668
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
