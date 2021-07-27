@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 943276439671115781
     [id_str] => 943276439671115781
-    [name] => Nidarosis 🍒
+    [name] => Nidarosis 🍒 Hiatus
     [screen_name] => Nidarosis
     [location] => Suramar
     [url] => 
@@ -12,7 +12,7 @@ stdClass Object
 
     Currently playing: FFXIV
     [protected] => 
-    [followers_count] => 10384
+    [followers_count] => 10383
     [friends_count] => 744
     [listed_count] => 73
     [created_at] => Wed Dec 20 00:26:43 +0000 2017
@@ -21,7 +21,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17777
+    [statuses_count] => 17778
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
