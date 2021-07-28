@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 715999695563264000
     [id_str] => 715999695563264000
-    [name] => 🌈Pan Bean ❤️💛💙
+    [name] => Pan Bean 💙
     [screen_name] => Fiery_Lara
     [location] => Kentucky, USA
     [url] => http://firelara.tumblr.com/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 399
     [listed_count] => 2
     [created_at] => Fri Apr 01 20:30:05 +0000 2016
-    [favourites_count] => 158124
+    [favourites_count] => 158136
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14650
+    [statuses_count] => 14652
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1399969460681850880/xrRn5xdM_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1399969460681850880/xrRn5xdM_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420469340252647433/zjQCa5ma_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420469340252647433/zjQCa5ma_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/715999695563264000/1517618397
     [profile_link_color] => E81C4F
     [profile_sidebar_border_color] => 000000
