@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 247768962
     [id_str] => 247768962
-    [name] => 🟣The Gold Queen
+    [name] => 🟣The Gold Queen 💙
     [screen_name] => thegoldqueen
     [location] => The Auction House
     [url] => http://www.thegoldqueen.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 7258
     [listed_count] => 139
     [created_at] => Sat Feb 05 14:41:38 +0000 2011
-    [favourites_count] => 42071
+    [favourites_count] => 42078
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 104341
+    [statuses_count] => 104345
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme5/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme5/bg.gif
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1420415524903731208/SsvrWfCF_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420415524903731208/SsvrWfCF_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420461646728863751/As-6ZTRk_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420461646728863751/As-6ZTRk_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/247768962/1453313814
     [profile_link_color] => EB3BC8
     [profile_sidebar_border_color] => 829D5E
