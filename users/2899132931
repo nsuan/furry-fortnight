@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2899132931
     [id_str] => 2899132931
-    [name] => Il faut imaginer Sisyphe heureux
+    [name] => Il faut imaginer Sisyphe heureux 💙
     [screen_name] => OthalaBerkana
     [location] => He/him
     [url] => https://www.instagram.com/rigor_mortis_art/
@@ -13,12 +13,12 @@ Shitpost & WoW & politic
     [friends_count] => 2614
     [listed_count] => 2
     [created_at] => Sun Nov 30 12:49:17 +0000 2014
-    [favourites_count] => 303092
+    [favourites_count] => 303095
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14562
+    [statuses_count] => 14563
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,8 +27,8 @@ Shitpost & WoW & politic
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1409930413938819076/DCyVxunO_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1409930413938819076/DCyVxunO_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420369851655327751/6GLuCkfY_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420369851655327751/6GLuCkfY_normal.png
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/2899132931/1590675551
     [profile_link_color] => 002FA7
     [profile_sidebar_border_color] => 000000
