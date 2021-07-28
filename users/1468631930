@@ -4,9 +4,9 @@ stdClass Object
     [id_str] => 1468631930
     [name] => Drayven Blaze, The Exquisite Troll Hunter
     [screen_name] => Drayvenblaze
-    [location] => US- Thaurissan and Argent Dawn
+    [location] => 
     [url] => http://blacklivesmatter.com
-    [description] => Apparent Destroyer of Trolls, Military Vet, Most Obscure Tweets ahead, keep your expectations in check. Art by @CinnriStarling #Gryffindor #BlackLivesMatter
+    [description] => Apparent Destroyer of Trolls, Military Vet, Most Obscure Tweets ahead, keep your expectations in check. #BlackLivesMatter
     [protected] => 
     [followers_count] => 182
     [friends_count] => 419
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 24032
+    [statuses_count] => 24033
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/748632768050040833/A9go7zoD_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/748632768050040833/A9go7zoD_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1468631930/1467322937
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420522967969173505/IptA0Z2p_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420522967969173505/IptA0Z2p_normal.jpg
     [profile_link_color] => DD2E44
     [profile_sidebar_border_color] => FFFFFF
     [profile_sidebar_fill_color] => DDEEF6

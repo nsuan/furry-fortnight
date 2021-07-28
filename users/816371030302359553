@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 816371030302359553
     [id_str] => 816371030302359553
-    [name] => Breakfast Wine 🍷 @ BNUUY
+    [name] => Dr. Snips 🦀 @ Crab Moment
     [screen_name] => corvusyn
     [location] => New Jersey, USA
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 203
     [listed_count] => 1
     [created_at] => Tue Jan 03 19:49:55 +0000 2017
-    [favourites_count] => 10219
+    [favourites_count] => 10220
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 26938
+    [statuses_count] => 26940
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1407105184119984131/UPLM1WqC_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1407105184119984131/UPLM1WqC_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420521420220735495/OZC4saxY_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420521420220735495/OZC4saxY_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/816371030302359553/1621169858
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => 000000
