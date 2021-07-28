@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1204179274820964356
     [id_str] => 1204179274820964356
-    [name] => kirkevaren
+    [name] => kirkevaren 💙
     [screen_name] => kirkevaren
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 203
+    [statuses_count] => 204
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
