@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => sage042
     [location] => 
     [url] => 
-    [description] => iOS Developer, Blizzard employee.  All Tweets are my own opinion.
+    [description] => iOS Developer, Blizzard employee. All Tweets are my own opinion.
     [protected] => 
     [followers_count] => 23
     [friends_count] => 333
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1409637623/image_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1409637623/image_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420420470625607686/KZxeGw7e_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420420470625607686/KZxeGw7e_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
