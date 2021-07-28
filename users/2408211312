@@ -11,16 +11,16 @@ stdClass Object
 http://ko-fi.com/wazkalia
 http://twit
     [protected] => 
-    [followers_count] => 357
+    [followers_count] => 356
     [friends_count] => 897
     [listed_count] => 2
     [created_at] => Mon Mar 24 02:48:11 +0000 2014
-    [favourites_count] => 39458
+    [favourites_count] => 39464
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 26325
+    [statuses_count] => 26326
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

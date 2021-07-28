@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1263272699087982599
     [id_str] => 1263272699087982599
-    [name] => The Paleshields are TIRED
+    [name] => The Paleshields are TIRED 💙
     [screen_name] => paleshields
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 893
+    [statuses_count] => 892
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
