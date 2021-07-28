@@ -14,15 +14,15 @@ http://patreon.com/starlingartist
 #STARSET
     [protected] => 
     [followers_count] => 8772
-    [friends_count] => 4640
+    [friends_count] => 4643
     [listed_count] => 157
     [created_at] => Wed Oct 22 21:23:15 +0000 2014
-    [favourites_count] => 208639
+    [favourites_count] => 208649
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 94557
+    [statuses_count] => 94559
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -31,8 +31,8 @@ http://patreon.com/starlingartist
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme4/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme4/bg.gif
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1420275387964198912/GLiUJkRL_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420275387964198912/GLiUJkRL_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420457389564829702/i8W8infs_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420457389564829702/i8W8infs_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/2871941185/1626895860
     [profile_link_color] => 8993E7
     [profile_sidebar_border_color] => 000000
