@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 303961046
     [id_str] => 303961046
-    [name] => RSpanner
+    [name] => RSpanner 💙
     [screen_name] => RGSpanner
     [location] => United Kingdom
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1380
     [listed_count] => 20
     [created_at] => Mon May 23 18:10:45 +0000 2011
-    [favourites_count] => 62248
+    [favourites_count] => 62253
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8068
+    [statuses_count] => 8069
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
