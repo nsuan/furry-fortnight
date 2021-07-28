@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 724538553489887232
     [id_str] => 724538553489887232
-    [name] => ❄️ 𝓚𝓪𝓽𝓲𝓮 𝓖𝓻𝓪𝓱𝓪𝓶❄️ 🇨🇦♍
+    [name] => ❄️ 𝓚𝓪𝓽𝓲𝓮 𝓖𝓻𝓪𝓱𝓪𝓶❄️ 🇨🇦♍💙
     [screen_name] => MewMewFrostElf
     [location] => 
     [url] => https://www.deviantart.com/mewmewfrostelf
@@ -14,12 +14,12 @@ stdClass Object
     [friends_count] => 947
     [listed_count] => 1
     [created_at] => Mon Apr 25 10:00:27 +0000 2016
-    [favourites_count] => 13027
+    [favourites_count] => 13031
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3860
+    [statuses_count] => 3861
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,8 +28,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1411044273064194053/3RIj583c_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1411044273064194053/3RIj583c_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420452670087864325/JRbEtRaZ_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420452670087864325/JRbEtRaZ_normal.png
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/724538553489887232/1625254147
     [profile_link_color] => 91D2FA
     [profile_sidebar_border_color] => 000000
