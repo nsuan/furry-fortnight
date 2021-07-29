@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 151085404
     [id_str] => 151085404
-    [name] => Schrei #ActiBlizzwalkout 💙
+    [name] => Schrei
     [screen_name] => Schrei205
     [location] => Arizona, US
     [url] => http://schrei205.com
@@ -18,12 +18,12 @@ http://instagram.com/schrei205
     [friends_count] => 317
     [listed_count] => 23
     [created_at] => Wed Jun 02 15:26:20 +0000 2010
-    [favourites_count] => 14325
+    [favourites_count] => 14326
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 6735
+    [statuses_count] => 6737
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
