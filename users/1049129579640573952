@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1049129579640573952
     [id_str] => 1049129579640573952
-    [name] => zzapee spoils
+    [name] => zzapee
     [screen_name] => zzapee
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16507
+    [statuses_count] => 16511
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
