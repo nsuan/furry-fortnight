@@ -2,11 +2,12 @@ stdClass Object
 (
     [id] => 729274236783763456
     [id_str] => 729274236783763456
-    [name] => 💙 Zureidy 💙 #ActiBlizzWalkout
+    [name] => 💙 Fully Vaccinated Zureidy 💙
     [screen_name] => CaffinatedZu
     [location] => Canada
     [url] => 
     [description] => Baking enthusiast, WoW player, Art lover, otherwise very boring.  ☕☕
+Belongs to House Pfizer
     [protected] => 
     [followers_count] => 107
     [friends_count] => 1750
@@ -17,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 940
+    [statuses_count] => 941
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
