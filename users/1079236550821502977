@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1079236550821502977
     [id_str] => 1079236550821502977
-    [name] => Anchirotleep
+    [name] => Anchirotleep 💙
     [screen_name] => anchirotleep
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 331
     [listed_count] => 0
     [created_at] => Sun Dec 30 04:43:39 +0000 2018
-    [favourites_count] => 25870
+    [favourites_count] => 25887
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3449
+    [statuses_count] => 3451
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1420419904960823300/M2QfUmmA_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420419904960823300/M2QfUmmA_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420646967663751172/DAef7TUa_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420646967663751172/DAef7TUa_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1079236550821502977/1609852806
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
