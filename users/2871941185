@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2871941185
     [id_str] => 2871941185
-    [name] => Dusk
+    [name] => Starstruck
     [screen_name] => CinnriStarling
     [location] => Alfheimr
     [url] => http://www.starlingartist.com
@@ -17,12 +17,12 @@ http://patreon.com/starlingartist
     [friends_count] => 4645
     [listed_count] => 156
     [created_at] => Wed Oct 22 21:23:15 +0000 2014
-    [favourites_count] => 208812
+    [favourites_count] => 208816
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 94578
+    [statuses_count] => 94577
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
