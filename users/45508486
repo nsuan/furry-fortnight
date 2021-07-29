@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 45508486
     [id_str] => 45508486
-    [name] => Lowmaine and 35 anima 💛🤍💜🖤✊🏻✊🏼✊🏽✊🏿
+    [name] => Lowmaine
     [screen_name] => Lowdog_jenkins
     [location] => New Freakin' Yawk, USA
     [url] => http://twitch.tv/moldylowmaine
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1624
     [listed_count] => 33
     [created_at] => Mon Jun 08 05:36:11 +0000 2009
-    [favourites_count] => 109361
+    [favourites_count] => 109371
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 40140
+    [statuses_count] => 40141
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1420489473629032452/eu0fdVnk_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420489473629032452/eu0fdVnk_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420781187736428546/pYgni6K0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420781187736428546/pYgni6K0_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/45508486/1493224461
     [profile_link_color] => FF691F
     [profile_sidebar_border_color] => 000000
