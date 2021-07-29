@@ -2,8 +2,8 @@ stdClass Object
 (
     [id] => 3254319415
     [id_str] => 3254319415
-    [name] => WoWSketch
-    [screen_name] => WoWSketch
+    [name] => ArialeDraws
+    [screen_name] => ArialeDraws
     [location] => California, USA
     [url] => https://www.twitch.tv/wowsketch
     [description] => ☆ Just Vibin’ ☆ Sometimes I Post Art ☆ Best Mom Friend ☆
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 403
     [listed_count] => 4
     [created_at] => Wed Jun 24 04:22:25 +0000 2015
-    [favourites_count] => 4142
+    [favourites_count] => 4145
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4264
+    [statuses_count] => 4269
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
