@@ -11,15 +11,15 @@ stdClass Object
 nsfw: @raiarmordidas
     [protected] => 
     [followers_count] => 179
-    [friends_count] => 811
+    [friends_count] => 813
     [listed_count] => 0
     [created_at] => Sat Nov 21 16:19:27 +0000 2015
-    [favourites_count] => 14595
+    [favourites_count] => 14605
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2429
+    [statuses_count] => 2432
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
