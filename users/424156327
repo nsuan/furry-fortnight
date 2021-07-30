@@ -7,8 +7,8 @@ stdClass Object
     [location] => West Coast
     [url] => 
     [description] => 🦋 She/Her 🇵🇷 Boricua
-    [protected] => 
-    [followers_count] => 3583
+    [protected] => 1
+    [followers_count] => 3581
     [friends_count] => 718
     [listed_count] => 16
     [created_at] => Tue Nov 29 11:39:02 +0000 2011
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 31940
+    [statuses_count] => 31941
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
