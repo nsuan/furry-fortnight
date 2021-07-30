@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1030702471570587648
-    [id_str] => 1030702471570587648
-    [name] => 🌸Helira
-    [screen_name] => Helira7
-    [location] => Canada
-    [url] => https://www.goodreads.com/faintverse
-    [description] => :.: 32 year old nerd who draws sometimes. Pokémon obsessed , married, She/her , art , voice acting and novel lover , Pokemon Master:.:
+    [id] => 1339380835137560576
+    [id_str] => 1339380835137560576
+    [name] => Juan Guillermo Chepillo Flores
+    [screen_name] => chepillo_flores
+    [location] => 
+    [url] => 
+    [description] => me gustaleer coleccionar álbumes y divertirme
     [protected] => 
-    [followers_count] => 66
-    [friends_count] => 1196
+    [followers_count] => 31
+    [friends_count] => 2349
     [listed_count] => 0
-    [created_at] => Sat Aug 18 06:26:33 +0000 2018
-    [favourites_count] => 8664
+    [created_at] => Thu Dec 17 01:24:25 +0000 2020
+    [favourites_count] => 52
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2717
+    [statuses_count] => 8
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1339772149435809793/C36smnC0_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1339772149435809793/C36smnC0_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1030702471570587648/1609740207
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1378739889555013636/Sf6akgv0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1378739889555013636/Sf6akgv0_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
