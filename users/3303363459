@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3303363459
     [id_str] => 3303363459
-    [name] => 𝗠𝗼𝗿𝗶𝘀 de la Dreadvale 🇵🇸
+    [name] => 𝗠𝗼𝗿𝗶𝘀 De La Dreadvale 🇵🇸
     [screen_name] => MorisDreadvale
     [location] => 
     [url] => http://morisdreadvale.cf
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 882
     [listed_count] => 6
     [created_at] => Sat May 30 03:28:01 +0000 2015
-    [favourites_count] => 37542
+    [favourites_count] => 37549
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 18708
+    [statuses_count] => 18711
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
