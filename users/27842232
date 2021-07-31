@@ -2,13 +2,13 @@ stdClass Object
 (
     [id] => 27842232
     [id_str] => 27842232
-    [name] => JuneArt💙
+    [name] => JuneArt
     [screen_name] => JuneJenssen
     [location] => Oslo, Norway
     [url] => https://linktr.ee/juneart
-    [description] => Commissions opening July 31st!
+    [description] => Commissions open!
     [protected] => 
-    [followers_count] => 23537
+    [followers_count] => 23540
     [friends_count] => 1570
     [listed_count] => 197
     [created_at] => Tue Mar 31 09:28:19 +0000 2009
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 6944
+    [statuses_count] => 6945
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
