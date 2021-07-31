@@ -13,7 +13,7 @@ stdClass Object
     [friends_count] => 684
     [listed_count] => 29
     [created_at] => Mon Aug 11 11:04:23 +0000 2014
-    [favourites_count] => 148013
+    [favourites_count] => 148028
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
@@ -29,7 +29,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1421494096213037058/onN_zBaQ_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1421494096213037058/onN_zBaQ_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2739788895/1627055057
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2739788895/1627745641
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
