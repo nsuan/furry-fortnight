@@ -10,11 +10,11 @@ stdClass Object
 "Made of Texas"
 ACE
     [protected] => 
-    [followers_count] => 666
+    [followers_count] => 667
     [friends_count] => 4466
     [listed_count] => 10
     [created_at] => Fri Jan 23 04:21:48 +0000 2015
-    [favourites_count] => 254695
+    [favourites_count] => 254696
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
