@@ -2,13 +2,13 @@ stdClass Object
 (
     [id] => 109351930
     [id_str] => 109351930
-    [name] => mama and the meatsfits
+    [name] => fictional jaime
     [screen_name] => Casterly__
     [location] => she/they
     [url] => http://instagram.com/casterlycosplay
     [description] => 26 barista, cosplayer, esports enthusiast. the plague of twitter. all opinions are my own. icon by @catverst
     [protected] => 
-    [followers_count] => 237
+    [followers_count] => 238
     [friends_count] => 417
     [listed_count] => 4
     [created_at] => Thu Jan 28 19:43:17 +0000 2010
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 13621
+    [statuses_count] => 13623
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
