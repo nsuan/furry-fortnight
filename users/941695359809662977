@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 941695359809662977
     [id_str] => 941695359809662977
-    [name] => Celes_Star
+    [name] => Celes de Raven
     [screen_name] => Celes_deRaven
     [location] => United States
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1225
     [listed_count] => 4
     [created_at] => Fri Dec 15 15:44:04 +0000 2017
-    [favourites_count] => 130574
+    [favourites_count] => 130606
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 20541
+    [statuses_count] => 20545
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1420702666179624961/kq2Qgf9F_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420702666179624961/kq2Qgf9F_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1422162440519815170/L848YYBs_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1422162440519815170/L848YYBs_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/941695359809662977/1590859182
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => 000000
