@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1258886774530678784
-    [id_str] => 1258886774530678784
-    [name] => Grinnley
-    [screen_name] => Grinnley1
+    [id] => 1422258125684584452
+    [id_str] => 1422258125684584452
+    [name] => Erin Cyr
+    [screen_name] => ErinCyr11
     [location] => 
     [url] => 
-    [description] => 17y / só estou aqui pela desgraça e a comedia/ O grande dragão branco está aqui/ secundaria @MGrinnley
-    [protected] => 
-    [followers_count] => 233
-    [friends_count] => 1216
-    [listed_count] => 3
-    [created_at] => Fri May 08 22:29:43 +0000 2020
-    [favourites_count] => 4739
+    [description] => 
+    [protected] => 1
+    [followers_count] => 0
+    [friends_count] => 231
+    [listed_count] => 0
+    [created_at] => Mon Aug 02 18:09:45 +0000 2021
+    [favourites_count] => 0
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 15399
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1419302576303087622/i3BAcbz9_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1419302576303087622/i3BAcbz9_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1258886774530678784/1625954649
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -36,7 +35,7 @@ stdClass Object
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 
+    [default_profile_image] => 1
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
