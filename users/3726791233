@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => 22 // NMSU 2023 // gemini // 4.13.18 // cool. cool cool cool. // the sun is SHINING //
-    [protected] => 1
+    [protected] => 
     [followers_count] => 87
     [friends_count] => 210
     [listed_count] => 1
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4127
+    [statuses_count] => 4130
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
