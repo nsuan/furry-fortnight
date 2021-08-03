@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1070015427491872768
     [id_str] => 1070015427491872768
-    [name] => ienot
+    [name] => ieni
     [screen_name] => ienyet
     [location] => Czech Republic
     [url] => http://artstation.com/ieni
@@ -17,12 +17,12 @@ http://patreon.com/ienot
     [friends_count] => 821
     [listed_count] => 6
     [created_at] => Tue Dec 04 18:02:12 +0000 2018
-    [favourites_count] => 17598
+    [favourites_count] => 17599
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2416
+    [statuses_count] => 2417
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
