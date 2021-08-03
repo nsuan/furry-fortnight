@@ -13,7 +13,7 @@ STREAM SCHEDULE: WHENEVER
     [protected] => 
     [followers_count] => 208
     [friends_count] => 966
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Mon Nov 24 19:00:47 +0000 2014
     [favourites_count] => 35418
     [utc_offset] => 
