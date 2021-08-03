@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1096148543218302976
     [id_str] => 1096148543218302976
-    [name] => bramble-star (sharlayan and reaper waiting room)
+    [name] => bramble-star
     [screen_name] => Bramble_draws
     [location] => United States
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4716
+    [statuses_count] => 4717
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
