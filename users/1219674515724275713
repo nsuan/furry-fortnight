@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => Pronouns, no kiddos
     [protected] => 
-    [followers_count] => 751
+    [followers_count] => 749
     [friends_count] => 2403
     [listed_count] => 6
     [created_at] => Tue Jan 21 17:34:10 +0000 2020
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10869
+    [statuses_count] => 10870
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
