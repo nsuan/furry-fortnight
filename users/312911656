@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 312911656
     [id_str] => 312911656
-    [name] => Chris Matsumoto
+    [name] => Chris Matsumoto 💙
     [screen_name] => sage042
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 335
     [listed_count] => 2
     [created_at] => Tue Jun 07 21:22:25 +0000 2011
-    [favourites_count] => 358
+    [favourites_count] => 359
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 89
+    [statuses_count] => 90
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
