@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1247300193999040526
     [id_str] => 1247300193999040526
-    [name] => Melpominee
+    [name] => Melpominee 💙
     [screen_name] => melpomineesecho
     [location] => New York
     [url] => https://melpominee.carrd.co/
@@ -17,7 +17,7 @@ stdClass Object
     [friends_count] => 185
     [listed_count] => 0
     [created_at] => Mon Apr 06 23:08:42 +0000 2020
-    [favourites_count] => 97859
+    [favourites_count] => 97860
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
