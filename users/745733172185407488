@@ -9,8 +9,8 @@ stdClass Object
     [description] => She/her. 26 feeling 80.
 I don't even like Twitter.
     [protected] => 1
-    [followers_count] => 229
-    [friends_count] => 3970
+    [followers_count] => 228
+    [friends_count] => 3969
     [listed_count] => 12
     [created_at] => Wed Jun 22 21:40:18 +0000 2016
     [favourites_count] => 67489
@@ -18,7 +18,7 @@ I don't even like Twitter.
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 24763
+    [statuses_count] => 24762
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
