@@ -2,24 +2,27 @@ stdClass Object
 (
     [id] => 1090866180791783424
     [id_str] => 1090866180791783424
-    [name] => ✨Reverend Storm✨
+    [name] => ⚡Reverend Storm✨
     [screen_name] => ReverendAliks
-    [location] => British Columbia, Canada
+    [location] => Canada
     [url] => 
-    [description] => • 23 • They/Them • Queer 🏳️‍🌈🏳️‍⚧️ •
-• Ordained Reverend •
-• Chronic Pain & Mental Illness sufferer •
+    [description] => • Storm
+• They/Them
+• 23
+• Chronic Pain & Migraine sufferer
+• Ordained Minister
+• 🇨🇦 • 🏳️‍🌈 • 🇳🇴 •
     [protected] => 
     [followers_count] => 266
     [friends_count] => 1411
     [listed_count] => 0
     [created_at] => Thu Jan 31 06:55:39 +0000 2019
-    [favourites_count] => 180507
+    [favourites_count] => 180508
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 24351
+    [statuses_count] => 24353
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,8 +31,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1397352243666382857/2f8GL4Rf_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1397352243666382857/2f8GL4Rf_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1423227527930073088/uYP4h-md_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1423227527930073088/uYP4h-md_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1090866180791783424/1594844619
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
