@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 4524859588
     [id_str] => 4524859588
-    [name] => Chunky bish
+    [name] => hunka chunka
     [screen_name] => Mageways
     [location] => New York, USA
     [url] => 
-    [description] => Alex/25/gay/trying to live   💖icon art is mine 💖
+    [description] => Alex/25/gay/trying to live
     [protected] => 
     [followers_count] => 53
     [friends_count] => 1330
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6422
+    [statuses_count] => 6423
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1395999555297157123/Z64eo7hx_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1395999555297157123/Z64eo7hx_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1423143191142928385/KQ2ZgiCI_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1423143191142928385/KQ2ZgiCI_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/4524859588/1582834191
     [profile_link_color] => 7FDBB6
     [profile_sidebar_border_color] => 000000
