@@ -1,27 +1,23 @@
 stdClass Object
 (
-    [id] => 2528381174
-    [id_str] => 2528381174
-    [name] => 🦋 𝖘𝖎𝖊𝖗𝖗𝖆 𝖓𝖎𝖌𝖍𝖙 𝖋𝖆𝖊 💙 - 🖤🤍💜
-    [screen_name] => Fae_Fangs
-    [location] => Arizona, USA
-    [url] => https://linktr.ee/FaeFangs
-    [description] => ⚔️ Lvl. 27 • Fae Creature ⚔️
-Shapeshifter • She / They
-Artist • Gamer 
-♎
- @Effigial 💜 2/2/17
+    [id] => 1143153114
+    [id_str] => 1143153114
+    [name] => Zack 🕊💙
+    [screen_name] => Zackaran
+    [location] => California
+    [url] => http://zackaran.tumblr.com
+    [description] => Hey, I'm Zack. Artist. I like WoW and Star Wars and have a passion for birds. adopted Gracie the rescued pigeon 7-17
     [protected] => 
-    [followers_count] => 636
-    [friends_count] => 874
-    [listed_count] => 9
-    [created_at] => Tue May 27 22:09:44 +0000 2014
-    [favourites_count] => 32282
+    [followers_count] => 35
+    [friends_count] => 136
+    [listed_count] => 1
+    [created_at] => Sat Feb 02 19:00:07 +0000 2013
+    [favourites_count] => 346
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10571
+    [statuses_count] => 406
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,10 +26,10 @@ Artist • Gamer
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1422436262384832515/y9PaxR7Q_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1422436262384832515/y9PaxR7Q_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2528381174/1545070916
-    [profile_link_color] => 981CEB
+    [profile_image_url] => http://pbs.twimg.com/profile_images/951663048124637185/b_8SoMFw_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/951663048124637185/b_8SoMFw_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1143153114/1611732526
+    [profile_link_color] => 00BABA
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
