@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1073814742060408832
     [id_str] => 1073814742060408832
-    [name] => Chatell (Comms Closed)
+    [name] => Chatell (Comms OPEN)
     [screen_name] => ChatellModels
     [location] => 
     [url] => https://ko-fi.com/chatellmodels
@@ -10,10 +10,10 @@ stdClass Object
 18+ Account; https://twitter.com/ChatellLewds
     [protected] => 
     [followers_count] => 605
-    [friends_count] => 170
+    [friends_count] => 171
     [listed_count] => 6
     [created_at] => Sat Dec 15 05:39:19 +0000 2018
-    [favourites_count] => 3824
+    [favourites_count] => 3825
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
