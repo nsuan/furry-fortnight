@@ -3,10 +3,10 @@ stdClass Object
     [id] => 1166811630430277634
     [id_str] => 1166811630430277634
     [name] => Dylan Alexander
-    [screen_name] => gideonthebeast
+    [screen_name] => neonascension
     [location] => 
-    [url] => 
-    [description] => Artist, CEO Soul Interface Studio.
+    [url] => https://www.soulinterfacestudio.com/
+    [description] => Artist, Game Dev, CEO Soul Interface Studio.
     [protected] => 
     [followers_count] => 1206
     [friends_count] => 4503
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 432
+    [statuses_count] => 423
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
