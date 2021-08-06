@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2800906962
     [id_str] => 2800906962
-    [name] => 𝔤𝔬𝔱𝔥 𝔤𝔬𝔟𝔩𝔦𝔫
+    [name] => 𝔩𝔦𝔳𝔦𝔫𝔤 𝔡𝔢𝔞𝔡 𝔤𝔦𝔯𝔩
     [screen_name] => JackieCobra
     [location] => Queens, NY
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1108
     [listed_count] => 20
     [created_at] => Wed Sep 10 02:26:22 +0000 2014
-    [favourites_count] => 13626
+    [favourites_count] => 13627
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3461
+    [statuses_count] => 3462
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
