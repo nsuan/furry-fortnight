@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 45508486
     [id_str] => 45508486
-    [name] => Lowmaine
+    [name] => Lowmaine 💙
     [screen_name] => Lowdog_jenkins
     [location] => New Freakin' Yawk, USA
     [url] => http://twitch.tv/moldylowmaine
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1622
     [listed_count] => 33
     [created_at] => Mon Jun 08 05:36:11 +0000 2009
-    [favourites_count] => 109418
+    [favourites_count] => 109423
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 40145
+    [statuses_count] => 40146
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
