@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4980
     [listed_count] => 1
     [created_at] => Sat Apr 04 18:15:47 +0000 2020
-    [favourites_count] => 105627
+    [favourites_count] => 105635
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 49558
+    [statuses_count] => 49556
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
