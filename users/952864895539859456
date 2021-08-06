@@ -10,15 +10,15 @@ stdClass Object
 BLM
     [protected] => 
     [followers_count] => 77
-    [friends_count] => 1144
+    [friends_count] => 1145
     [listed_count] => 1
     [created_at] => Mon Jan 15 11:27:49 +0000 2018
-    [favourites_count] => 1281
+    [favourites_count] => 1282
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1704
+    [statuses_count] => 1705
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
