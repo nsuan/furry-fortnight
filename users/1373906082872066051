@@ -6,9 +6,11 @@ stdClass Object
     [screen_name] => AlexLerner8
     [location] => Somerset
     [url] => https://alexlerner784.wixsite.com/xander
-    [description] => I'm a digital artist in the nascent stages of building a career from my art. I love all things D&D. Please follow and share if you like my work.
+    [description] => I'm a digital artist in the nascent stages of building a career from my art.
+
+I love all things D&D, am a DM, World Builder, player and map maker.
     [protected] => 
-    [followers_count] => 547
+    [followers_count] => 549
     [friends_count] => 1691
     [listed_count] => 2
     [created_at] => Mon Mar 22 07:55:23 +0000 2021
@@ -17,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 255
+    [statuses_count] => 257
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
