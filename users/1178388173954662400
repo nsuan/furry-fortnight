@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1178388173954662400
     [id_str] => 1178388173954662400
-    [name] => ☕CoffeeDog☕🔜DENFUR21
+    [name] => ☕CoffeeDog☕🔜DENFUR '21
     [screen_name] => Axel_shepsky
     [location] => 🌲Colorado🌲
     [url] => https://toyhou.se/Axel_Shepsky/characters
@@ -11,7 +11,7 @@ stdClass Object
 🏔Female//22//Coffee//Mountains//Multisuiter🏔
     [protected] => 
     [followers_count] => 328
-    [friends_count] => 2384
+    [friends_count] => 2383
     [listed_count] => 5
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
     [favourites_count] => 9235
