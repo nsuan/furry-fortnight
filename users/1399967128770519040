@@ -9,7 +9,7 @@ stdClass Object
     [description] => novelist, hobbyist, smortn't
     [protected] => 
     [followers_count] => 40
-    [friends_count] => 2028
+    [friends_count] => 2032
     [listed_count] => 0
     [created_at] => Wed Jun 02 05:52:40 +0000 2021
     [favourites_count] => 117
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 66
+    [statuses_count] => 67
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
