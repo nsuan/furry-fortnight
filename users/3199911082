@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3199911082
     [id_str] => 3199911082
-    [name] => Dungeon Master Monchichi
+    [name] => Stormbringer
     [screen_name] => TweeterTheElf
     [location] => 
     [url] => 
@@ -18,12 +18,12 @@ Banner and Icon by: @sadpandaxp
     [friends_count] => 814
     [listed_count] => 7
     [created_at] => Fri Apr 24 02:54:59 +0000 2015
-    [favourites_count] => 130112
+    [favourites_count] => 130119
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 41698
+    [statuses_count] => 41700
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
