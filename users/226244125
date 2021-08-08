@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => DarkAscension
     [location] => California
     [url] => 
-    [description] => Made in Seoul, raised in 'murica | I love cats | Associate Test Analyst for World of Warcraft | shadowy seaweed of Oblivion - Hyjal | Personal account
+    [description] => Made in Seoul, raised in 'murica | I love cats | Associate Test Analyst for World of Warcraft | shadowy seaweed of Hyjal | Personal account
     [protected] => 
     [followers_count] => 348
     [friends_count] => 827
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 14965
+    [statuses_count] => 14966
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
