@@ -2,9 +2,9 @@ stdClass Object
 (
     [id] => 1263275662510456836
     [id_str] => 1263275662510456836
-    [name] => Baron Atlas
+    [name] => Count Atlas
     [screen_name] => Izadaws
-    [location] => Maldraxxus
+    [location] => Revendreth
     [url] => 
     [description] => they/them |18| I like to draw nasty, spooky, and strange things (and lots of 1960s-80s stuff) - and WoW -  Comms are open :)
     [protected] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1108
     [listed_count] => 0
     [created_at] => Thu May 21 01:09:32 +0000 2020
-    [favourites_count] => 7633
+    [favourites_count] => 7639
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1416
+    [statuses_count] => 1417
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
