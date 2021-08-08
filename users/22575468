@@ -10,7 +10,7 @@ stdClass Object
 bi ace disaster space|
 Pfp by @fusspot|
     [protected] => 
-    [followers_count] => 1048
+    [followers_count] => 1049
     [friends_count] => 542
     [listed_count] => 10
     [created_at] => Tue Mar 03 03:00:42 +0000 2009
@@ -19,7 +19,7 @@ Pfp by @fusspot|
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 44086
+    [statuses_count] => 44087
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
