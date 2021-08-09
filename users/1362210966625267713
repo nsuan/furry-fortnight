@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => An artist with a passion for goblins DnD and friends!
     [protected] => 
-    [followers_count] => 63
-    [friends_count] => 440
+    [followers_count] => 64
+    [friends_count] => 442
     [listed_count] => 1
     [created_at] => Thu Feb 18 01:24:31 +0000 2021
     [favourites_count] => 1146
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 430
+    [statuses_count] => 431
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
