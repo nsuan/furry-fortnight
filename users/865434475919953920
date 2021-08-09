@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => https://docs.google.com/document/d/1xvnhS7wJNjBrpol5R-OKa0RSX1rljVqz34e0HYoIrvw/edit?usp=sharing
     [description] => Commissions: CLOSED
-Queue: 1
+Queue: 0
 
 --
 
@@ -26,7 +26,7 @@ deviantart@kyobes | tumblr@kyobes
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2411
+    [statuses_count] => 2412
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
