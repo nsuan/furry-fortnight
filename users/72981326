@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 72981326
     [id_str] => 72981326
-    [name] => Ben (The Webinar Will Begin Shortly) Warriner
+    [name] => Ben Warriner
     [screen_name] => warbenekar1
     [location] => Tyler, TX
     [url] => 
-    [description] => Trying to do things - I don't know - does anyone know?
+    [description] => I find it very difficult to talk about myself. I'm nobody important. I just want to get through this and see what's next.
     [protected] => 
     [followers_count] => 251
     [friends_count] => 3944
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 14062
+    [statuses_count] => 14063
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
