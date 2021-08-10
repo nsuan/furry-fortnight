@@ -1,24 +1,23 @@
 stdClass Object
 (
-    [id] => 1131295454862434305
-    [id_str] => 1131295454862434305
-    [name] => Carmilla Mervallian
-    [screen_name] => C4NNI13AL
-    [location] => @damaiatrufaria holds my heart
+    [id] => 1378538854773358594
+    [id_str] => 1378538854773358594
+    [name] => GogurtEater
+    [screen_name] => EaterGogurt
+    [location] => 
     [url] => 
-    [description] => multiverse N/SFW Rper/writer 21+ Commissioner and amateur artist. No minors, shota, loli & racism are autoblocked
-PFP by @/SaraBiddleArt
+    [description] => 
     [protected] => 
-    [followers_count] => 2209
-    [friends_count] => 1927
-    [listed_count] => 67
-    [created_at] => Wed May 22 20:27:09 +0000 2019
-    [favourites_count] => 33852
+    [followers_count] => 3
+    [friends_count] => 27
+    [listed_count] => 0
+    [created_at] => Sun Apr 04 02:44:20 +0000 2021
+    [favourites_count] => 13
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 21793
+    [statuses_count] => 74
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,8 +26,8 @@ PFP by @/SaraBiddleArt
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1366908589114339338/YMrYTXub_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1366908589114339338/YMrYTXub_normal.jpg
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -36,7 +35,7 @@ PFP by @/SaraBiddleArt
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 
+    [default_profile_image] => 1
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
