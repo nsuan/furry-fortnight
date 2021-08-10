@@ -1,26 +1,23 @@
 stdClass Object
 (
-    [id] => 998860690063585281
-    [id_str] => 998860690063585281
-    [name] => Glittermoon Art Community
-    [screen_name] => Glittermooncafe
-    [location] => Mystery Way
-    [url] => http://discord.gg/T9bDrsM
-    [description] => RTing art, resources, and commission posts from creatives/streamers who belong to the Glittermoon Community. 
-
-Pfp: @artofcassrobles 
-banner: @SuperSiriusXIII
+    [id] => 1365736064208494594
+    [id_str] => 1365736064208494594
+    [name] => Mel is obsessed with FFXIV 🌱
+    [screen_name] => LilMelon_
+    [location] => Ireland
+    [url] => http://lilmelon.carrd.co
+    [description] => She/Her. 29 year old cat mom, videogame addict, pink lover and shit talker. Twitch Affiliate 💜 18+ only!
     [protected] => 
-    [followers_count] => 863
+    [followers_count] => 1826
     [friends_count] => 985
-    [listed_count] => 12
-    [created_at] => Tue May 22 09:38:41 +0000 2018
-    [favourites_count] => 21701
+    [listed_count] => 17
+    [created_at] => Sat Feb 27 18:50:36 +0000 2021
+    [favourites_count] => 13807
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 24163
+    [statuses_count] => 3895
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,9 +26,9 @@ banner: @SuperSiriusXIII
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1006925875185635328/9x5QOygv_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1006925875185635328/9x5QOygv_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/998860690063585281/1619612680
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1410723942097113090/r64H6AJX_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1410723942097113090/r64H6AJX_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1365736064208494594/1617358639
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
