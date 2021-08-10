@@ -10,15 +10,15 @@ stdClass Object
 pfp by @rossomimi
     [protected] => 
     [followers_count] => 548
-    [friends_count] => 204
+    [friends_count] => 203
     [listed_count] => 6
     [created_at] => Fri Feb 06 15:56:04 +0000 2015
-    [favourites_count] => 29486
+    [favourites_count] => 29488
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8114
+    [statuses_count] => 8115
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
