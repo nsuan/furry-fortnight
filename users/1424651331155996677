@@ -1,30 +1,23 @@
 stdClass Object
 (
-    [id] => 1316285387103506432
-    [id_str] => 1316285387103506432
-    [name] => Lucifiel💙
-    [screen_name] => xGenesisM
+    [id] => 1424651331155996677
+    [id_str] => 1424651331155996677
+    [name] => Jean Randome
+    [screen_name] => JeanRandome
     [location] => 
     [url] => 
-    [description] => MG💜WrA🖤
-pfp by: HeskelHedge
-They/Them 
-Pan Ace
-Disabled
-User is 32 
-White
-🔞 Because sometimes I RT NSFW
-    [protected] => 
-    [followers_count] => 44
-    [friends_count] => 393
+    [description] => Follow moi. Je tweet rien, tu verras tu vas adorer. (ノಠ ∩ಠ)ノ彡( \o°o)\ Bon, je RT parfois. ◔_◔
+    [protected] => 1
+    [followers_count] => 0
+    [friends_count] => 139
     [listed_count] => 0
-    [created_at] => Wed Oct 14 07:51:19 +0000 2020
-    [favourites_count] => 14662
+    [created_at] => Mon Aug 09 08:39:24 +0000 2021
+    [favourites_count] => 106
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3485
+    [statuses_count] => 68
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -33,9 +26,9 @@ White
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1420715572074057729/2N16Wq_W_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420715572074057729/2N16Wq_W_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1316285387103506432/1622308493
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1424683942989422595/4y2shblM_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1424683942989422595/4y2shblM_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1424651331155996677/1628506185
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
