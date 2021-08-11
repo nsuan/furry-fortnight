@@ -9,8 +9,8 @@ stdClass Object
     [description] => She/They -- 🇪🇪 🇨🇦 
 Internet Ancient -- Cryptid Gran-E -- Living Soviet Meme
 I do art sometimes?
-    [protected] => 1
-    [followers_count] => 13
+    [protected] => 
+    [followers_count] => 14
     [friends_count] => 1065
     [listed_count] => 0
     [created_at] => Fri Nov 06 00:37:14 +0000 2020
@@ -19,7 +19,7 @@ I do art sometimes?
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 56
+    [statuses_count] => 58
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
