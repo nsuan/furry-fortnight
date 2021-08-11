@@ -9,7 +9,7 @@ stdClass Object
     [description] => I may not be the right bard. But at least I'm a bard.
 He/Him
     [protected] => 
-    [followers_count] => 98
+    [followers_count] => 99
     [friends_count] => 697
     [listed_count] => 1
     [created_at] => Mon Feb 13 22:06:17 +0000 2017
@@ -18,7 +18,7 @@ He/Him
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8802
+    [statuses_count] => 8804
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

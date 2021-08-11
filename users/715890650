@@ -9,7 +9,7 @@ stdClass Object
     [description] => she/her, 23. I like cartoons, video games, and drawing
     [protected] => 
     [followers_count] => 1519
-    [friends_count] => 550
+    [friends_count] => 549
     [listed_count] => 7
     [created_at] => Wed Jul 25 11:02:11 +0000 2012
     [favourites_count] => 23143
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 31455
+    [statuses_count] => 31456
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
