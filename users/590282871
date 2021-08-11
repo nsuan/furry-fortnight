@@ -9,7 +9,7 @@ stdClass Object
     [description] => 20 something cloud of space dust vaguely shaped as a human being
     [protected] => 1
     [followers_count] => 37
-    [friends_count] => 354
+    [friends_count] => 360
     [listed_count] => 1
     [created_at] => Fri May 25 18:16:59 +0000 2012
     [favourites_count] => 7728
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 24248
+    [statuses_count] => 24249
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
