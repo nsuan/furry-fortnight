@@ -6,8 +6,8 @@ stdClass Object
     [screen_name] => dreamienight
     [location] => North Carolina, USA
     [url] => http://dreamienights.tumblr.com
-    [description] => ♡ 24 • they/she ♡ baby, you're a haunted house now. ♡ WrA (A/H) - Crystal (Mateus) ♡
-    [protected] => 
+    [description] => ♡ 24 • they/she ♡ for all intents and purposes i do not exist ♡
+    [protected] => 1
     [followers_count] => 70
     [friends_count] => 428
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6640
+    [statuses_count] => 6645
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
