@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 760126422505619456
     [id_str] => 760126422505619456
-    [name] => 🔴 FrazleyS (She/Her)
+    [name] => FrazleyS (She/Her) 🏳️‍⚧️
     [screen_name] => Frazleytastic
     [location] => Ohio, USA
     [url] => http://twitch.tv/frazleys
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4885
     [listed_count] => 51
     [created_at] => Mon Aug 01 14:53:56 +0000 2016
-    [favourites_count] => 152524
+    [favourites_count] => 152527
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 73129
+    [statuses_count] => 73136
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

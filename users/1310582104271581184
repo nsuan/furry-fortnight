@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1310582104271581184
     [id_str] => 1310582104271581184
-    [name] => 🔞 Dele Thorpe, Sm0lbean of the Forest.
+    [name] => 🔞 Dele Thorpe, Sm0lbean of Maldraxxus
     [screen_name] => DeleThorpe
     [location] => Wandering around in a Universe
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1448
     [listed_count] => 1
     [created_at] => Mon Sep 28 14:08:28 +0000 2020
-    [favourites_count] => 9574
+    [favourites_count] => 9578
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10117
+    [statuses_count] => 10125
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,7 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1403797223910035457/X1jeDIbO_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1403797223910035457/X1jeDIbO_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1310582104271581184/1626182030
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1310582104271581184/1628734456
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
