@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2871941185
     [id_str] => 2871941185
-    [name] => Olympus, I accept this message
+    [name] => Starstruck
     [screen_name] => CinnriStarling
     [location] => Alfheimr
     [url] => http://www.starlingartist.com
@@ -14,15 +14,15 @@ http://patreon.com/starlingartist
 #STARSET
     [protected] => 
     [followers_count] => 8756
-    [friends_count] => 4697
+    [friends_count] => 4698
     [listed_count] => 155
     [created_at] => Wed Oct 22 21:23:15 +0000 2014
-    [favourites_count] => 209000
+    [favourites_count] => 209002
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 95026
+    [statuses_count] => 95027
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
