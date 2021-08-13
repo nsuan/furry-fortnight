@@ -10,7 +10,7 @@ stdClass Object
 
 Sie/ihr, She/her
     [protected] => 
-    [followers_count] => 256
+    [followers_count] => 257
     [friends_count] => 203
     [listed_count] => 2
     [created_at] => Sat Mar 03 10:19:12 +0000 2012
@@ -19,7 +19,7 @@ Sie/ihr, She/her
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14585
+    [statuses_count] => 14588
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
