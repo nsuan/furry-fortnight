@@ -8,8 +8,8 @@ stdClass Object
     [url] => https://www.twitch.tv/keteket
     [description] => I write code. Yay Java! Yay Angular!  I also play games on Twitch... A lot. Like WoW.   Banner by @SkogDesigns.
     [protected] => 
-    [followers_count] => 744
-    [friends_count] => 247
+    [followers_count] => 743
+    [friends_count] => 246
     [listed_count] => 20
     [created_at] => Thu Jan 22 01:06:31 +0000 2015
     [favourites_count] => 7229
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20471
+    [statuses_count] => 20472
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
