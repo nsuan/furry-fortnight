@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => Cain / (DA & ENG) / He/Him / 23 / ♉ / Personal Account! I talk a lot about everything / Art Account: @Cainivore
-    [protected] => 
+    [protected] => 1
     [followers_count] => 103
     [friends_count] => 138
     [listed_count] => 1
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1451
+    [statuses_count] => 1452
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
