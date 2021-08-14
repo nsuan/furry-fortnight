@@ -12,9 +12,9 @@ SFW/NSFW
     [protected] => 
     [followers_count] => 963
     [friends_count] => 320
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Tue Jun 18 14:33:11 +0000 2019
-    [favourites_count] => 15767
+    [favourites_count] => 15763
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
