@@ -2,22 +2,23 @@ stdClass Object
 (
     [id] => 1067275064209477633
     [id_str] => 1067275064209477633
-    [name] => Eiridiel Dawnwing
+    [name] => Eirikur Yoake
     [screen_name] => Eiridiel
     [location] => 
-    [url] => https://eiridiel.tumblr.com/
-    [description] => They/Them (or He/Him). People call me Eiri. Warcraft character, ask me anything. Eiridiel-WyrmrestAccord Picture by: https://t.co/1h2P0Xx1Vs  (Augmented by me)
+    [url] => 
+    [description] => They/Them (or He/Him). People call me Eiri.
+Picture by: https://twitter.com/jackaboi_art
     [protected] => 
     [followers_count] => 87
     [friends_count] => 154
     [listed_count] => 0
     [created_at] => Tue Nov 27 04:32:59 +0000 2018
-    [favourites_count] => 10191
+    [favourites_count] => 10192
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 746
+    [statuses_count] => 748
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +27,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1407561068512264196/FvCIl7Y5_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1407561068512264196/FvCIl7Y5_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1426465188404924417/OFVK0u85_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1426465188404924417/OFVK0u85_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1067275064209477633/1612304695
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
