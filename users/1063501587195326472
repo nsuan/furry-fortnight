@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 1063501587195326472
     [id_str] => 1063501587195326472
-    [name] => Emberfallen 🔥
+    [name] => emberfallen 🔥
     [screen_name] => a_emberfallen
     [location] => Florida, USA
-    [url] => http://emberfallen.tumblr.com
-    [description] => Ashton | 24f ✨ Avada Emberfall 🌿🔥 fire mage/red dragonsworn ✨ Avadriath Elarven 🔥🍄 dunmer spellblade
+    [url] => 
+    [description] => Ashton | 24f | vet student | occasional artist 🌿🔥✨ Avada Emberfall (WoW) and Avadriath Elarven (ESO)
     [protected] => 
     [followers_count] => 309
-    [friends_count] => 520
+    [friends_count] => 339
     [listed_count] => 2
     [created_at] => Fri Nov 16 18:38:32 +0000 2018
     [favourites_count] => 224
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1425168271775617031/mVTcHdDE_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1425168271775617031/mVTcHdDE_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1426958167402061825/xKMSIiaU_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1426958167402061825/xKMSIiaU_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1063501587195326472/1544049810
     [profile_link_color] => FF8F3E
     [profile_sidebar_border_color] => 000000
