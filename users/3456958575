@@ -7,17 +7,18 @@ stdClass Object
     [location] => Pennsylvania
     [url] => 
     [description] => Theo, 31, he/they; talks too much about video games
+(Icon: @KokuKokuBoo)
     [protected] => 
     [followers_count] => 515
     [friends_count] => 441
     [listed_count] => 0
     [created_at] => Thu Aug 27 11:05:37 +0000 2015
-    [favourites_count] => 75911
+    [favourites_count] => 75918
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 134001
+    [statuses_count] => 134006
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +27,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1424070261079429123/jDVhynKF_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1424070261079429123/jDVhynKF_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1427101683604197380/WG4lozd1_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1427101683604197380/WG4lozd1_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/3456958575/1587839177
     [profile_link_color] => DC413C
     [profile_sidebar_border_color] => 000000
