@@ -11,16 +11,16 @@ stdClass Object
 + commissions: closed 
 🏳️‍🌈🏳️‍⚧️ • 🖤 @stillsuits
     [protected] => 
-    [followers_count] => 1989
+    [followers_count] => 1988
     [friends_count] => 480
     [listed_count] => 13
     [created_at] => Thu Jun 21 16:36:44 +0000 2018
-    [favourites_count] => 8704
+    [favourites_count] => 8706
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2020
+    [statuses_count] => 2025
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,9 +29,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1420794009635545093/k888j2Kw_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420794009635545093/k888j2Kw_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1009837534145212416/1627578665
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1427303608601612294/xGL7GqEU_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1427303608601612294/xGL7GqEU_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1009837534145212416/1629130674
     [profile_link_color] => ABB8C2
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
