@@ -1,0 +1,52 @@
+stdClass Object
+(
+    [id] => 71605635
+    [id_str] => 71605635
+    [name] => Rooku
+    [screen_name] => Rookutlk
+    [location] => Argentina
+    [url] => 
+    [description] => My goal in life is for you and i to be friends and share a lot of sweets✨
+I draw and play games ! ✏️
+    [protected] => 
+    [followers_count] => 4393
+    [friends_count] => 474
+    [listed_count] => 24
+    [created_at] => Fri Sep 04 18:41:56 +0000 2009
+    [favourites_count] => 71472
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 5566
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1341072579709251587/GKJAj08E_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1341072579709251587/GKJAj08E_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/71605635/1625745362
+    [profile_link_color] => F58EA8
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)
