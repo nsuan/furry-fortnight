@@ -11,15 +11,15 @@ stdClass Object
 Sie/ihr, She/her
     [protected] => 
     [followers_count] => 256
-    [friends_count] => 205
-    [listed_count] => 3
+    [friends_count] => 204
+    [listed_count] => 0
     [created_at] => Sat Mar 03 10:19:12 +0000 2012
-    [favourites_count] => 3015
+    [favourites_count] => 3017
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14636
+    [statuses_count] => 14637
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
