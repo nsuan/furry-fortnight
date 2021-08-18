@@ -7,7 +7,7 @@ stdClass Object
     [location] => Sweden
     [url] => 
     [description] => She/Her | 23 | Art Commissioner and Roleplayer | I draw sometimes | I: @/LacticWanda | H: @/Selann_dw
-    [protected] => 
+    [protected] => 1
     [followers_count] => 405
     [friends_count] => 596
     [listed_count] => 2
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3586
+    [statuses_count] => 3587
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
