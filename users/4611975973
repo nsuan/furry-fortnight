@@ -9,7 +9,7 @@ stdClass Object
     [description] => Soren. Artist! 30 he/him
     [protected] => 
     [followers_count] => 345
-    [friends_count] => 172
+    [friends_count] => 173
     [listed_count] => 4
     [created_at] => Sun Dec 20 11:27:00 +0000 2015
     [favourites_count] => 642
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1118
+    [statuses_count] => 1119
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
