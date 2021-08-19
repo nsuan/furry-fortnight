@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => o_hunie
     [location] => Iowa City, IA
     [url] => https://www.twitch.tv/o_hunie
-    [description] => 🇺🇸 / 🇫🇷 / 23 / ♓ / INFP / O+/ ♡ @SwampmanT ♡ / banner by @starsleeps / icon by @Charmseyart
+    [description] => 🇺🇸 / 🇫🇷 / 23 / ♓ / INFP / O+/ ♡ @SwampmanT ♡
     [protected] => 
     [followers_count] => 798
     [friends_count] => 3579
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4434
+    [statuses_count] => 4435
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,7 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1428468558967738372/pJKzetgJ_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1428468558967738372/pJKzetgJ_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3742012103/1617579833
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3742012103/1629412123
     [profile_link_color] => F5ABB5
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
