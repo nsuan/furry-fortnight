@@ -11,14 +11,14 @@ BLM
     [protected] => 
     [followers_count] => 79
     [friends_count] => 1167
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Mon Jan 15 11:27:49 +0000 2018
-    [favourites_count] => 1313
+    [favourites_count] => 1314
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1735
+    [statuses_count] => 1736
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
