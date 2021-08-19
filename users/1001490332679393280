@@ -8,8 +8,8 @@ stdClass Object
     [url] => https://www.patreon.com/jualist_art
     [description] => I'm an artist and a sculptor with a goal to be a concept artist.
     [protected] => 
-    [followers_count] => 42
-    [friends_count] => 512
+    [followers_count] => 43
+    [friends_count] => 513
     [listed_count] => 0
     [created_at] => Tue May 29 15:47:56 +0000 2018
     [favourites_count] => 90
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 82
+    [statuses_count] => 84
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
