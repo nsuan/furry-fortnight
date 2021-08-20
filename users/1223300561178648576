@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => rambling account of @SaintEtzer, occasionally nsfw ,🔞, ysayle and yotsuyu deserved better
-    [protected] => 
+    [protected] => 1
     [followers_count] => 292
     [friends_count] => 313
     [listed_count] => 1
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12177
+    [statuses_count] => 12179
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
