@@ -11,15 +11,15 @@ stdClass Object
 Video editor
     [protected] => 
     [followers_count] => 36
-    [friends_count] => 533
+    [friends_count] => 535
     [listed_count] => 0
     [created_at] => Mon May 27 17:05:35 +0000 2019
-    [favourites_count] => 45696
+    [favourites_count] => 45705
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5358
+    [statuses_count] => 5359
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
