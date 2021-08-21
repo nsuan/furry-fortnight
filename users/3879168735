@@ -2,13 +2,13 @@ stdClass Object
 (
     [id] => 3879168735
     [id_str] => 3879168735
-    [name] => 🌙 Kira ✨
+    [name] => Kira 🦋
     [screen_name] => KiraKalon
-    [location] => Germany | She / Her
-    [url] => https://kirakalonart.wixsite.com/mysite
-    [description] => Fantasy Artist 🧚 | I love painting pin-ups and magical folk 💫 | Commissions: CLOSED
+    [location] => She / Her
+    [url] => 
+    [description] => Fantasy Artist ✨ | I love painting pin-ups and magical folk 💫
     [protected] => 
-    [followers_count] => 3275
+    [followers_count] => 3277
     [friends_count] => 347
     [listed_count] => 25
     [created_at] => Tue Oct 06 09:17:21 +0000 2015
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3701
+    [statuses_count] => 3702
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

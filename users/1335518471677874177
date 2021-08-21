@@ -15,7 +15,7 @@ main: @monkeymallow
     [friends_count] => 114
     [listed_count] => 0
     [created_at] => Sun Dec 06 09:36:40 +0000 2020
-    [favourites_count] => 2002
+    [favourites_count] => 2000
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
