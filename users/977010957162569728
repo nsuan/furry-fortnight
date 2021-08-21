@@ -20,12 +20,12 @@ Starting Now
     [friends_count] => 1171
     [listed_count] => 6
     [created_at] => Fri Mar 23 02:35:38 +0000 2018
-    [favourites_count] => 32879
+    [favourites_count] => 32884
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 6691
+    [statuses_count] => 6694
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -34,8 +34,8 @@ Starting Now
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1422227546935074819/AR9_UUxG_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1422227546935074819/AR9_UUxG_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1429151155372937216/y7kuHd8J_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1429151155372937216/y7kuHd8J_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/977010957162569728/1629216798
     [profile_link_color] => E81C4F
     [profile_sidebar_border_color] => 000000
