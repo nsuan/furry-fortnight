@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => Something, something, something, Security.
     [protected] => 
-    [followers_count] => 228
+    [followers_count] => 229
     [friends_count] => 433
     [listed_count] => 8
     [created_at] => Fri Dec 16 15:18:38 +0000 2011
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 28552
+    [statuses_count] => 28553
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
