@@ -9,7 +9,7 @@ stdClass Object
     [description] => despite everything, it’s still you
     [protected] => 
     [followers_count] => 80
-    [friends_count] => 328
+    [friends_count] => 329
     [listed_count] => 0
     [created_at] => Tue Mar 26 18:31:45 +0000 2013
     [favourites_count] => 275
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2528
+    [statuses_count] => 2529
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
