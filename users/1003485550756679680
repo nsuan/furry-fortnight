@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1153418084138569734
-    [id_str] => 1153418084138569734
-    [name] => Kashira
-    [screen_name] => kashira_games
+    [id] => 1003485550756679680
+    [id_str] => 1003485550756679680
+    [name] => just skin
+    [screen_name] => NofaceJustSkin
     [location] => 
     [url] => 
-    [description] => Account for my PS4 screenshots. Kashi’ra Saiir on Midgardsormr. LOTS OF SHADOWBRINGERS SPOILERS
+    [description] => litterly just skin
     [protected] => 
-    [followers_count] => 41
-    [friends_count] => 137
+    [followers_count] => 50
+    [friends_count] => 4666
     [listed_count] => 0
-    [created_at] => Mon Jul 22 21:34:35 +0000 2019
-    [favourites_count] => 2689
+    [created_at] => Mon Jun 04 03:56:13 +0000 2018
+    [favourites_count] => 52
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3619
+    [statuses_count] => 2646
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1422041873565331456/Rm1JJibm_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1422041873565331456/Rm1JJibm_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1153418084138569734/1581275847
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1215001175008980992/5N5exb82_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1215001175008980992/5N5exb82_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1003485550756679680/1595238616
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
