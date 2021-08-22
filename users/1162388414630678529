@@ -1,24 +1,23 @@
 stdClass Object
 (
-    [id] => 928770686516113408
-    [id_str] => 928770686516113408
-    [name] => Lia
-    [screen_name] => DarkMageElf
+    [id] => 1162388414630678529
+    [id_str] => 1162388414630678529
+    [name] => TerraBlade
+    [screen_name] => Jess88574776
     [location] => 
     [url] => 
-    [description] => She/her | Ela/dela
-Just a random person enjoying life.
-    [protected] => 
-    [followers_count] => 27
-    [friends_count] => 193
+    [description] => 
+    [protected] => 1
+    [followers_count] => 4
+    [friends_count] => 2054
     [listed_count] => 0
-    [created_at] => Thu Nov 09 23:46:02 +0000 2017
-    [favourites_count] => 7191
+    [created_at] => Fri Aug 16 15:39:51 +0000 2019
+    [favourites_count] => 560
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2195
+    [statuses_count] => 12
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,8 +26,8 @@ Just a random person enjoying life.
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/940770119780851713/sksCsUMK_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/940770119780851713/sksCsUMK_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1417244867491680257/eX-Yje97_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1417244867491680257/eX-Yje97_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
