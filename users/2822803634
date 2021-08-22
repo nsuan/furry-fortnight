@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => yotation
     [location] => yotation @ gmail.com
     [url] => http://yottykim.carbonmade.com
-    [description] => Yotty 🐡 FUB Free 🐡 Commissions: TBA 🐡☕: http://ko-fi.com/yotation
+    [description] => Yotty 🐡 FUB Free 🐡 Commissions: TBA 🐡http://ko-fi.com/yotation
     [protected] => 
     [followers_count] => 1105
     [friends_count] => 799
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7324
+    [statuses_count] => 7325
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
