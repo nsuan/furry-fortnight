@@ -13,7 +13,7 @@ user is 21+.
 nsfw retweets sometimes.
 
 (main acc @bread_buns_ )
-    [protected] => 1
+    [protected] => 
     [followers_count] => 13
     [friends_count] => 313
     [listed_count] => 0
@@ -23,7 +23,7 @@ nsfw retweets sometimes.
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 216
+    [statuses_count] => 217
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
