@@ -1,29 +1,24 @@
 stdClass Object
 (
-    [id] => 1285812956744298496
-    [id_str] => 1285812956744298496
-    [name] => Ryhndler
-    [screen_name] => ryhndler
-    [location] => I wuv ari 
-    [url] => 
-    [description] => Kelly. He/Him. I'm 25,000,000 years old. 
-
-I'm an OC rambling account in the making.
-
-art is by @lurrlonde, and @beansdraws !! 
-
-BLM & LBGTQ+ friendly
+    [id] => 1316548028812189699
+    [id_str] => 1316548028812189699
+    [name] => Exhausted Jackal
+    [screen_name] => JekyllJackal
+    [location] => 
+    [url] => https://pronouny.xyz/u/falsejackal
+    [description] => Eternally exhausted, 22yr old nb idiot,
+He/They/Star
     [protected] => 
-    [followers_count] => 41
-    [friends_count] => 78
+    [followers_count] => 24
+    [friends_count] => 441
     [listed_count] => 0
-    [created_at] => Wed Jul 22 05:44:39 +0000 2020
-    [favourites_count] => 2165
+    [created_at] => Thu Oct 15 01:14:55 +0000 2020
+    [favourites_count] => 3408
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 314
+    [statuses_count] => 611
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -32,9 +27,9 @@ BLM & LBGTQ+ friendly
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1323070007128051717/F3C-d4Mq_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1323070007128051717/F3C-d4Mq_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1285812956744298496/1604279420
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1401500502999801856/g6AHrm1F_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1401500502999801856/g6AHrm1F_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1316548028812189699/1604679721
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
