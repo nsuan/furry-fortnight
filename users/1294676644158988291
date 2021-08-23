@@ -9,7 +9,7 @@ stdClass Object
     [description] => 18 (they/them) BLM, donate to link in bio
     [protected] => 
     [followers_count] => 59
-    [friends_count] => 3600
+    [friends_count] => 3599
     [listed_count] => 0
     [created_at] => Sat Aug 15 16:45:50 +0000 2020
     [favourites_count] => 81266
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8866
+    [statuses_count] => 8865
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
