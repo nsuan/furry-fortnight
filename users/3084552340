@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3084552340
     [id_str] => 3084552340
-    [name] => nat ✌ @ appalachia
+    [name] => nat ✌
     [screen_name] => ghoulheist
     [location] => she/her, header by @king_corgi
     [url] => 
@@ -13,7 +13,7 @@ drag • d&d
 #BlackLivesMatter
     [protected] => 
     [followers_count] => 186
-    [friends_count] => 1470
+    [friends_count] => 1471
     [listed_count] => 5
     [created_at] => Tue Mar 10 17:54:47 +0000 2015
     [favourites_count] => 12175
@@ -21,7 +21,7 @@ drag • d&d
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 25826
+    [statuses_count] => 25827
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
