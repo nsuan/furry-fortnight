@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1254983184766427138
     [id_str] => 1254983184766427138
-    [name] => Klan Drako
+    [name] => Alan Drako / Klan Drako
     [screen_name] => AlanDrako1
     [location] => 
     [url] => 
@@ -14,12 +14,12 @@ DMs Open
     [friends_count] => 2728
     [listed_count] => 1
     [created_at] => Tue Apr 28 03:58:08 +0000 2020
-    [favourites_count] => 1917
+    [favourites_count] => 1918
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2109
+    [statuses_count] => 2111
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,8 +28,8 @@ DMs Open
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1405897132721250311/ef78cf2b_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1405897132721250311/ef78cf2b_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1430233761933893639/V6tQUs3Q_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1430233761933893639/V6tQUs3Q_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1254983184766427138/1620154107
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
