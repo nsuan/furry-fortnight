@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 326275756
     [id_str] => 326275756
-    [name] => 💙Wendy Harmon💙@Queen City Anime Con
+    [name] => 💙Wendy Harmon💙
     [screen_name] => twotigermoon
     [location] => North Carolina
     [url] => http://twotigermoon.vpweb.com
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 20724
+    [statuses_count] => 20725
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
