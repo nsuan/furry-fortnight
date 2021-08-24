@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 988879440787763200
     [id_str] => 988879440787763200
-    [name] => 💥Ryoku White 💥
+    [name] => 𝓡𝔂𝓸𝓴𝓾 𝓦𝓱𝓲𝓽𝓮
     [screen_name] => Ryokuwhite
     [location] => 
     [url] => 
-    [description] => Digital artist / Spanish - English / anime and furry
+    [description] => Digital artist / Spanish - English
     [protected] => 
     [followers_count] => 53
     [friends_count] => 571
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 163
+    [statuses_count] => 164
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1385595920641929225/-pfgc4qY_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1385595920641929225/-pfgc4qY_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/988879440787763200/1612747870
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1429977094747009025/OgTp1tum_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1429977094747009025/OgTp1tum_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/988879440787763200/1629768082
     [profile_link_color] => AB5C4B
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
