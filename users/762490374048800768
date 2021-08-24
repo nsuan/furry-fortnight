@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 762490374048800768
     [id_str] => 762490374048800768
-    [name] => hecking vaxxed🚗🔜 IFC 2021
+    [name] => hecking vaxxed
     [screen_name] => ToastieCoffee
     [location] => Ohio, USA
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1659
     [listed_count] => 0
     [created_at] => Mon Aug 08 03:27:26 +0000 2016
-    [favourites_count] => 25745
+    [favourites_count] => 25746
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4690
+    [statuses_count] => 4691
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1241853397520842753/ZzM7ly5T_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1241853397520842753/ZzM7ly5T_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1429988154640109570/2fQ9JsN__normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1429988154640109570/2fQ9JsN__normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/762490374048800768/1479625036
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
