@@ -17,14 +17,14 @@ Idade: 21
     [protected] => 
     [followers_count] => 1518
     [friends_count] => 4970
-    [listed_count] => 3
+    [listed_count] => 4
     [created_at] => Thu Mar 21 00:50:43 +0000 2019
-    [favourites_count] => 112528
+    [favourites_count] => 112558
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 39285
+    [statuses_count] => 39302
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
