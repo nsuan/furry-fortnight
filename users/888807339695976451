@@ -11,15 +11,15 @@ stdClass Object
 | People are exhausting |
     [protected] => 
     [followers_count] => 46
-    [friends_count] => 1036
+    [friends_count] => 1037
     [listed_count] => 0
     [created_at] => Sat Jul 22 17:05:57 +0000 2017
-    [favourites_count] => 2784
+    [favourites_count] => 2785
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1212
+    [statuses_count] => 1218
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
