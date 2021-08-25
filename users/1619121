@@ -4,9 +4,9 @@ stdClass Object
     [id_str] => 1619121
     [name] => Steven King
     [screen_name] => madrogue
-    [location] => McKinney, TX
-    [url] => http://madrogue.com
-    [description] => I'm a father to a brilliant young lady, software developer, game/gadget junkie in McKinney, TX
+    [location] => Texas
+    [url] => https://madrogue.com
+    [description] => I'm a father to a brilliant young lady, software developer, game/gadget junkie in Texas
     [protected] => 1
     [followers_count] => 198
     [friends_count] => 259
