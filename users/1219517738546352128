@@ -9,7 +9,7 @@ stdClass Object
     [description] => Серёжа/Серёня/Серёженька.
     [protected] => 1
     [followers_count] => 0
-    [friends_count] => 644
+    [friends_count] => 643
     [listed_count] => 0
     [created_at] => Tue Jan 21 07:12:29 +0000 2020
     [favourites_count] => 31544
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7179
+    [statuses_count] => 7180
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
