@@ -13,9 +13,9 @@ pfp: @badgobbo
     [protected] => 
     [followers_count] => 291
     [friends_count] => 586
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Tue Feb 06 11:56:39 +0000 2018
-    [favourites_count] => 19228
+    [favourites_count] => 23003
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
