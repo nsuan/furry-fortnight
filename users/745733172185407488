@@ -10,15 +10,15 @@ stdClass Object
 I don't even like Twitter.
     [protected] => 1
     [followers_count] => 227
-    [friends_count] => 3995
+    [friends_count] => 3998
     [listed_count] => 12
     [created_at] => Wed Jun 22 21:40:18 +0000 2016
-    [favourites_count] => 69138
+    [favourites_count] => 69200
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 25003
+    [statuses_count] => 25010
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
