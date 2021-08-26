@@ -17,14 +17,14 @@ Banner Artist; @Schneissy
     [protected] => 
     [followers_count] => 125
     [friends_count] => 409
-    [listed_count] => 4
+    [listed_count] => 0
     [created_at] => Tue Feb 10 13:13:44 +0000 2015
-    [favourites_count] => 13149
+    [favourites_count] => 13150
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 4003
+    [statuses_count] => 4004
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
