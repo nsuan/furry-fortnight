@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 760126422505619456
     [name] => FrazleyS (She/Her) 🏳️‍⚧️
     [screen_name] => Frazleytastic
-    [location] => Ohio, USA
+    [location] => United States
     [url] => http://frazley.com
     [description] => Variety Streamer - Proudly a Trans Woman - She/Her - AroAce - Loves to make you Facepalm and celebrate who you are! - Email: hi@frazley.com
     [protected] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 5052
     [listed_count] => 52
     [created_at] => Mon Aug 01 14:53:56 +0000 2016
-    [favourites_count] => 156586
+    [favourites_count] => 156593
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 75090
+    [statuses_count] => 75096
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
