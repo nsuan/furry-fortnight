@@ -10,16 +10,16 @@ stdClass Object
 -
 DH player from WrA, PvP and PvE
     [protected] => 
-    [followers_count] => 20
-    [friends_count] => 128
+    [followers_count] => 21
+    [friends_count] => 130
     [listed_count] => 0
     [created_at] => Sun May 09 23:24:03 +0000 2021
-    [favourites_count] => 139
+    [favourites_count] => 145
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 106
+    [statuses_count] => 107
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
