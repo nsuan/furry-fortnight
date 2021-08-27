@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 34331199
     [id_str] => 34331199
-    [name] => Puck
+    [name] => Puck🌱💙
     [screen_name] => puckeroo
     [location] => Michigan, USA
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 828
     [listed_count] => 2
     [created_at] => Wed Apr 22 17:14:02 +0000 2009
-    [favourites_count] => 24166
+    [favourites_count] => 24165
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 14554
+    [statuses_count] => 14556
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
