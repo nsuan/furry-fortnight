@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2525384287
     [id_str] => 2525384287
-    [name] => Phy
+    [name] => Phy, Grey Wardens Janitor
     [screen_name] => MrPhyguy
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 73323
+    [statuses_count] => 73324
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
