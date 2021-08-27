@@ -12,14 +12,14 @@ $TheCashbringer
     [protected] => 
     [followers_count] => 1691
     [friends_count] => 2228
-    [listed_count] => 0
+    [listed_count] => 20
     [created_at] => Tue Sep 08 00:24:29 +0000 2009
-    [favourites_count] => 62897
+    [favourites_count] => 62899
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 54124
+    [statuses_count] => 54125
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
