@@ -16,15 +16,15 @@ stdClass Object
 'Mesmo que eu não durma, o amanhecer virá'
     [protected] => 
     [followers_count] => 240
-    [friends_count] => 4480
+    [friends_count] => 4483
     [listed_count] => 0
     [created_at] => Tue Jan 17 21:04:03 +0000 2017
-    [favourites_count] => 20330
+    [favourites_count] => 20334
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6231
+    [statuses_count] => 6233
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
