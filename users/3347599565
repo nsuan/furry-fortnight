@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 3347599565
     [id_str] => 3347599565
-    [name] => Br3n
+    [name] => Br3nn
     [screen_name] => peanut_elf
     [location] => Azeroth
     [url] => 
-    [description] => WoW RPer MG/WrA. Sometimes post, sometimes repost. Also enjoy other stuff too
+    [description] => Average WoW, FFXIV, Dragon Age, DMC, and TES Enjoyer. Lover of all things elven and dragon. Professional Mage.
     [protected] => 
     [followers_count] => 104
     [friends_count] => 291
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1530
+    [statuses_count] => 1531
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1422689956766658560/OntfJg6A_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1422689956766658560/OntfJg6A_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1432101969276149766/oAm0eVxM_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1432101969276149766/oAm0eVxM_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/3347599565/1611466486
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
