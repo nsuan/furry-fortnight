@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 796614186444820481
     [name] => A Moth in a Box
     [screen_name] => EbonQuill
-    [location] => Mateus
+    [location] => 
     [url] => 
     [description] => Artist + Writer • He/Him • Level 23 • Trades or Commissions? DM me! • #ffxiv is a passion • elezen enthusiast • Icon by @vampesque
     [protected] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1082
     [listed_count] => 3
     [created_at] => Thu Nov 10 07:23:17 +0000 2016
-    [favourites_count] => 14756
+    [favourites_count] => 14757
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4261
+    [statuses_count] => 4262
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
