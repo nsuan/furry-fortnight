@@ -11,7 +11,7 @@ stdClass Object
 - 20y
     [protected] => 
     [followers_count] => 697
-    [friends_count] => 1860
+    [friends_count] => 1861
     [listed_count] => 4
     [created_at] => Fri Jun 24 05:18:25 +0000 2016
     [favourites_count] => 4388
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 676
+    [statuses_count] => 677
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
