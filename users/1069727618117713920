@@ -6,10 +6,10 @@ stdClass Object
     [screen_name] => Tigandra_
     [location] => 
     [url] => 
-    [description] => Thick thighs & Cocky smiles.
+    [description] => Thick thighs & Cocky smiles. 21+
     [protected] => 
     [followers_count] => 3
-    [friends_count] => 47
+    [friends_count] => 49
     [listed_count] => 0
     [created_at] => Mon Dec 03 22:58:33 +0000 2018
     [favourites_count] => 18
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
