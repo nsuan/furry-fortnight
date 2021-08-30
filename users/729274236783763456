@@ -10,15 +10,15 @@ stdClass Object
 Belongs to House Pfizer
     [protected] => 
     [followers_count] => 107
-    [friends_count] => 1797
+    [friends_count] => 1798
     [listed_count] => 1
     [created_at] => Sun May 08 11:38:22 +0000 2016
-    [favourites_count] => 37958
+    [favourites_count] => 37960
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1001
+    [statuses_count] => 1002
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
