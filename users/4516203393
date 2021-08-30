@@ -10,7 +10,7 @@ stdClass Object
 -
 Nsfw Twitter: @NotSafeForNix
 Sfw Instagram: Katzaklysmus
-    [protected] => 1
+    [protected] => 
     [followers_count] => 18
     [friends_count] => 376
     [listed_count] => 1
@@ -20,7 +20,7 @@ Sfw Instagram: Katzaklysmus
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1858
+    [statuses_count] => 1862
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
