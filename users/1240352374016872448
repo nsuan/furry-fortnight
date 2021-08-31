@@ -12,15 +12,15 @@ stdClass Object
 ⭸ pfp: @_ayaben
     [protected] => 1
     [followers_count] => 511
-    [friends_count] => 1342
+    [friends_count] => 1341
     [listed_count] => 1
     [created_at] => Wed Mar 18 19:00:31 +0000 2020
-    [favourites_count] => 15010
+    [favourites_count] => 15013
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3153
+    [statuses_count] => 3157
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
