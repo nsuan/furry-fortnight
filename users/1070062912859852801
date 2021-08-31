@@ -2,13 +2,13 @@ stdClass Object
 (
     [id] => 1070062912859852801
     [id_str] => 1070062912859852801
-    [name] => MEHku (Commissions Closed)
+    [name] => MEHku (Commissions Open)
     [screen_name] => NehkuDraws
     [location] => 
     [url] => 
     [description] => Artist, LGBTQ+, BLM. he/him/they/them, NSFW: @NehkuNSFW Casual illustrator who dropped art for years and has slowly eased back into it.
     [protected] => 
-    [followers_count] => 66
+    [followers_count] => 67
     [friends_count] => 382
     [listed_count] => 1
     [created_at] => Tue Dec 04 21:10:54 +0000 2018
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 157
+    [statuses_count] => 158
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
