@@ -6,13 +6,13 @@ stdClass Object
     [screen_name] => JackieCobra
     [location] => Queens, NY
     [url] => 
-    [description] => US Computing Editor @techradar | Member @TransJournalist | bi | 32 | she/her 🏳️‍⚧ | DMs open for Signal | be gay do crime hail satan | Opinions are my own
+    [description] => US Computing Editor @techradar | Member @TransJournalist | 32 | DMs open for Signal | be gay do crime hail satan | Opinions are my own
     [protected] => 
     [followers_count] => 536
     [friends_count] => 1113
     [listed_count] => 20
     [created_at] => Wed Sep 10 02:26:22 +0000 2014
-    [favourites_count] => 14320
+    [favourites_count] => 14321
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -28,7 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1423645495675793408/Yr3Hvfr3_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1423645495675793408/Yr3Hvfr3_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2800906962/1591014775
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2800906962/1630412711
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
