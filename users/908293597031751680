@@ -10,16 +10,16 @@ stdClass Object
 
 arbiter    bridge
     [protected] => 
-    [followers_count] => 674
-    [friends_count] => 3878
+    [followers_count] => 675
+    [friends_count] => 3879
     [listed_count] => 6
     [created_at] => Thu Sep 14 11:37:23 +0000 2017
-    [favourites_count] => 227475
+    [favourites_count] => 227479
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 27896
+    [statuses_count] => 27898
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
