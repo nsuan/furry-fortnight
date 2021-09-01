@@ -3,10 +3,10 @@ stdClass Object
     [id] => 3060613361
     [id_str] => 3060613361
     [name] => Sari
-    [screen_name] => _Unholy_Knight
+    [screen_name] => math_sari
     [location] => 
     [url] => 
-    [description] => I literally just made this twitter because of WoW
+    [description] => .
     [protected] => 
     [followers_count] => 13
     [friends_count] => 34
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/570417498537742336/leSJdk89_normal.png
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/570417498537742336/leSJdk89_normal.png
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3060613361/1424833499
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1432877664692363266/ZiQaO61F_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1432877664692363266/ZiQaO61F_normal.jpg
     [profile_link_color] => 3B94D9
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
