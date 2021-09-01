@@ -2,13 +2,13 @@ stdClass Object
 (
     [id] => 1407208185170067457
     [id_str] => 1407208185170067457
-    [name] => Luz |COMMISSIONS OPEN 0/1|
+    [name] => Luz
     [screen_name] => Illuztrate1
     [location] => Republic of the Philippines
     [url] => 
     [description] => He/Him | 🇵🇭 | Aspiring Digital Artist | Broke College Student | Watch me as I struggle and learn how to draw digitally :3
     [protected] => 
-    [followers_count] => 82
+    [followers_count] => 83
     [friends_count] => 2209
     [listed_count] => 2
     [created_at] => Tue Jun 22 05:26:19 +0000 2021
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 30
+    [statuses_count] => 29
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
