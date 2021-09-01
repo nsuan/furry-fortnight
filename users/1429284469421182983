@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1234616674160001024
-    [id_str] => 1234616674160001024
-    [name] => Fuzzles💙
-    [screen_name] => FuzzlesFlame
+    [id] => 1429284469421182983
+    [id_str] => 1429284469421182983
+    [name] => DeLaire Nix
+    [screen_name] => DelaireNix
     [location] => 
     [url] => 
-    [description] => Doodler (and art retweeter) of elves, dragons, aliens, and more! 🐉 She/her 🐉 Profile pic by @SoFizzticated_
+    [description] => A guy who does things
     [protected] => 
-    [followers_count] => 406
-    [friends_count] => 1808
-    [listed_count] => 5
-    [created_at] => Mon Mar 02 23:09:08 +0000 2020
-    [favourites_count] => 4742
+    [followers_count] => 3
+    [friends_count] => 263
+    [listed_count] => 0
+    [created_at] => Sun Aug 22 03:29:21 +0000 2021
+    [favourites_count] => 805
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1411
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1430657424617213954/jbITb-wz_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1430657424617213954/jbITb-wz_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1234616674160001024/1584846472
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -36,7 +35,7 @@ stdClass Object
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 
+    [default_profile_image] => 1
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
