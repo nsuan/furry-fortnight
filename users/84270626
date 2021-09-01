@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 84270626
     [id_str] => 84270626
-    [name] => steph
+    [name] => zheinpathos
     [screen_name] => zheinpcauldron
     [location] => San Jose, CA
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 406
     [listed_count] => 4
     [created_at] => Thu Oct 22 07:56:58 +0000 2009
-    [favourites_count] => 3179
+    [favourites_count] => 3182
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7743
+    [statuses_count] => 7744
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
