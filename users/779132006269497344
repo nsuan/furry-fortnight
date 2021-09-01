@@ -1,23 +1,24 @@
 stdClass Object
 (
-    [id] => 750094608827346944
-    [id_str] => 750094608827346944
-    [name] => 🏳️‍🌈⭐ Nordenheim ⭐🏳️‍🌈 BLM
-    [screen_name] => Nordenheim1
-    [location] => 
+    [id] => 779132006269497344
+    [id_str] => 779132006269497344
+    [name] => Bruno
+    [screen_name] => honeybooper
+    [location] => United States
     [url] => 
-    [description] => Twenty-something queer artist, avid fan of Animal Crossing, total dork for D&D. PFP by Makowka.
+    [description] => 28 | Any pronouns | Help
+header by @Ohmahrie
     [protected] => 
-    [followers_count] => 47
-    [friends_count] => 575
-    [listed_count] => 0
-    [created_at] => Mon Jul 04 22:31:05 +0000 2016
-    [favourites_count] => 5538
+    [followers_count] => 186
+    [friends_count] => 2408
+    [listed_count] => 1
+    [created_at] => Fri Sep 23 01:35:20 +0000 2016
+    [favourites_count] => 71669
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1185
+    [statuses_count] => 13154
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +27,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1266842907140595713/H1t3A3j2_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1266842907140595713/H1t3A3j2_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/750094608827346944/1623659179
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1374230275811647489/qBk-3M6t_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1374230275811647489/qBk-3M6t_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/779132006269497344/1577569963
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
