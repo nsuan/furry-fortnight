@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 25629366
     [id_str] => 25629366
-    [name] => Lauren Walsh | 🌱Patreon 🌱
+    [name] => Lauren Walsh
     [screen_name] => LaurenWalshArt
     [location] => Philadelphia, PA
     [url] => https://linktr.ee/laurenwalshart
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 2192
     [listed_count] => 387
     [created_at] => Sat Mar 21 03:04:59 +0000 2009
-    [favourites_count] => 46323
+    [favourites_count] => 46324
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 13571
+    [statuses_count] => 13572
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
