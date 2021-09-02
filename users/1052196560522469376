@@ -1,23 +1,26 @@
 stdClass Object
 (
-    [id] => 853377560260075520
-    [id_str] => 853377560260075520
-    [name] => Brynhildr
-    [screen_name] => Brinatrice
-    [location] => 
+    [id] => 1052196560522469376
+    [id_str] => 1052196560522469376
+    [name] => Peachy! 🦇
+    [screen_name] => peachy_isa
+    [location] => Castle Nathria, Revendreth
     [url] => 
-    [description] => Mostly follow exceptional artists and unintentional shitposters.
+    [description] => 🍑 19 Any pronouns
+🍑Epsilon and apparently fucking Eorzea now too!
+🍑Aether is gay baby jail and I am in it.
+🍑 ELEZEN FAN PAGE ELEZEN FAN PAGE 🍑
     [protected] => 
-    [followers_count] => 85
-    [friends_count] => 2150
+    [followers_count] => 32
+    [friends_count] => 402
     [listed_count] => 0
-    [created_at] => Sat Apr 15 22:40:40 +0000 2017
-    [favourites_count] => 34356
+    [created_at] => Tue Oct 16 13:56:23 +0000 2018
+    [favourites_count] => 10300
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 522
+    [statuses_count] => 959
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,15 +29,15 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1215157668949766145/trFK2Tl__normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1215157668949766145/trFK2Tl__normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/853377560260075520/1547839742
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1431940977871101956/RHHFaRR5_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1431940977871101956/RHHFaRR5_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1052196560522469376/1630236308
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
