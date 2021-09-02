@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 611146583
     [id_str] => 611146583
-    [name] => Katch
+    [name] => Katchulu
     [screen_name] => Katchdraws
     [location] => The Underbed
     [url] => http://Katchdraws.artstation.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 5051
     [listed_count] => 96
     [created_at] => Sun Jun 17 21:43:08 +0000 2012
-    [favourites_count] => 129548
+    [favourites_count] => 129552
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 74246
+    [statuses_count] => 74247
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
