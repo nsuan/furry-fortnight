@@ -11,15 +11,15 @@ stdClass Object
 @Gokaijuu 18+
     [protected] => 
     [followers_count] => 28
-    [friends_count] => 179
+    [friends_count] => 180
     [listed_count] => 0
     [created_at] => Tue Aug 31 18:31:29 +0000 2021
-    [favourites_count] => 1048
+    [favourites_count] => 1081
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 197
+    [statuses_count] => 199
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
