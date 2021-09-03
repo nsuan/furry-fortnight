@@ -14,12 +14,12 @@ straight but I know what a hot guy looks like
     [friends_count] => 256
     [listed_count] => 1
     [created_at] => Mon Jul 02 00:48:40 +0000 2018
-    [favourites_count] => 11961
+    [favourites_count] => 11972
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9401
+    [statuses_count] => 9409
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -36,7 +36,7 @@ straight but I know what a hot guy looks like
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
