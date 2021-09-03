@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 3854505913
     [id_str] => 3854505913
-    [name] => Warsaw Falcone
+    [name] => Ray Falcone
     [screen_name] => FalconeWarsaw
     [location] => 
     [url] => 
     [description] => 
     [protected] => 
     [followers_count] => 6
-    [friends_count] => 134
+    [friends_count] => 136
     [listed_count] => 0
     [created_at] => Sun Oct 11 03:51:31 +0000 2015
     [favourites_count] => 11
@@ -28,7 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1413360137994047493/ONhfzpWv_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1413360137994047493/ONhfzpWv_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3854505913/1621952185
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3854505913/1630682906
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
