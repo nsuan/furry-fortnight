@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => 
     [protected] => 
-    [followers_count] => 108
+    [followers_count] => 107
     [friends_count] => 4903
     [listed_count] => 0
     [created_at] => Wed Feb 12 09:09:35 +0000 2020
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17649
+    [statuses_count] => 17648
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
