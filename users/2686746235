@@ -15,9 +15,9 @@ pfp: @pocketghosts
     [protected] => 
     [followers_count] => 330
     [friends_count] => 406
-    [listed_count] => 0
+    [listed_count] => 4
     [created_at] => Mon Jul 28 05:33:54 +0000 2014
-    [favourites_count] => 16538
+    [favourites_count] => 16537
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
