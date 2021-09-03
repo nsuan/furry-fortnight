@@ -10,7 +10,7 @@ stdClass Object
 New bio will come soon(tm).
     [protected] => 
     [followers_count] => 224
-    [friends_count] => 980
+    [friends_count] => 987
     [listed_count] => 2
     [created_at] => Tue Feb 26 01:34:59 +0000 2013
     [favourites_count] => 7250
@@ -18,7 +18,7 @@ New bio will come soon(tm).
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2428
+    [statuses_count] => 2429
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
