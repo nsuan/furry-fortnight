@@ -10,16 +10,16 @@ stdClass Object
 ~*~Digital Artist
 ~*~Twitch Affiliate
     [protected] => 
-    [followers_count] => 283
-    [friends_count] => 538
-    [listed_count] => 0
+    [followers_count] => 282
+    [friends_count] => 537
+    [listed_count] => 7
     [created_at] => Wed May 18 08:06:25 +0000 2016
-    [favourites_count] => 6249
+    [favourites_count] => 6250
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3410
+    [statuses_count] => 3411
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
