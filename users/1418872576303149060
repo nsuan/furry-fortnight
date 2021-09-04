@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 913712902313512960
-    [id_str] => 913712902313512960
-    [name] => William Dencker
-    [screen_name] => WilliamDenckerZ
-    [location] => Denmark, Sjælland
+    [id] => 1418872576303149060
+    [id_str] => 1418872576303149060
+    [name] => Q.
+    [screen_name] => Q89297351
+    [location] => 
     [url] => 
-    [description] => Student, Trying artist, Gamer and RP'er.
+    [description] => 
     [protected] => 
-    [followers_count] => 31
-    [friends_count] => 719
+    [followers_count] => 13
+    [friends_count] => 1314
     [listed_count] => 0
-    [created_at] => Fri Sep 29 10:31:46 +0000 2017
-    [favourites_count] => 22047
+    [created_at] => Sat Jul 24 09:56:42 +0000 2021
+    [favourites_count] => 33
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2222
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1164478841886302210/zKYIIJxt_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1164478841886302210/zKYIIJxt_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/913712902313512960/1566468422
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -36,7 +35,7 @@ stdClass Object
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 
+    [default_profile_image] => 1
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
