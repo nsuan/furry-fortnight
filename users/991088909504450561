@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 991088909504450561
     [id_str] => 991088909504450561
-    [name] => fen
+    [name] => fen 🐰
     [screen_name] => cinnafenroll
     [location] => 
     [url] => https://www.instagram.com/cinnafenroll/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 595
     [listed_count] => 1
     [created_at] => Mon Apr 30 22:56:24 +0000 2018
-    [favourites_count] => 48417
+    [favourites_count] => 48420
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6932
+    [statuses_count] => 6933
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
