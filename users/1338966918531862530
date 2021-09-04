@@ -10,8 +10,8 @@ stdClass Object
 
 http://www.patreon.com/LFRWoWcast
     [protected] => 
-    [followers_count] => 358
-    [friends_count] => 646
+    [followers_count] => 359
+    [friends_count] => 651
     [listed_count] => 2
     [created_at] => Tue Dec 15 21:59:33 +0000 2020
     [favourites_count] => 409
@@ -19,7 +19,7 @@ http://www.patreon.com/LFRWoWcast
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 367
+    [statuses_count] => 366
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
