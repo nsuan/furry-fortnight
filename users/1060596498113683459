@@ -10,7 +10,7 @@ stdClass Object
 ⚽Футбол головного мозга⚽
     [protected] => 
     [followers_count] => 13
-    [friends_count] => 368
+    [friends_count] => 369
     [listed_count] => 0
     [created_at] => Thu Nov 08 18:14:44 +0000 2018
     [favourites_count] => 708
@@ -18,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 846
+    [statuses_count] => 848
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
