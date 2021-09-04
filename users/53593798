@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 53593798
     [id_str] => 53593798
-    [name] => Faerdrel
-    [screen_name] => Tragic_Alibi286
-    [location] => Ohio
+    [name] => Sparrow
+    [screen_name] => courier_sparrow
+    [location] => Two Sun
     [url] => 
     [description] => I come on here once or twice a year to retweet funny shit and sometimes not funny shit. 
 
 I play ffxiv and I'm on mateus on the crystal data center
-    [protected] => 
+    [protected] => 1
     [followers_count] => 137
     [friends_count] => 384
     [listed_count] => 0
@@ -19,7 +19,7 @@ I play ffxiv and I'm on mateus on the crystal data center
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 1930
+    [statuses_count] => 1931
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +28,9 @@ I play ffxiv and I'm on mateus on the crystal data center
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1326908664377204739/_tl9ZfC2_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1326908664377204739/_tl9ZfC2_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/53593798/1605194652
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1433979189275865092/JGL2e85H_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1433979189275865092/JGL2e85H_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/53593798/1630722256
     [profile_link_color] => 1B95E0
     [profile_sidebar_border_color] => 0055FF
     [profile_sidebar_fill_color] => 252429
