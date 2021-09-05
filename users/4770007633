@@ -4,9 +4,9 @@ stdClass Object
     [id_str] => 4770007633
     [name] => 𝒑𝒆𝒕𝒂𝒍
     [screen_name] => petalfy
-    [location] => 🦢
-    [url] => http://petalfy.uwu.ai
-    [description] => ┊⁑  🌷 a sleepy artist ₊❀ °⊹.‧
+    [location] => 
+    [url] => 
+    [description] => ┊⁑ 🌷 ₊❀ °⊹.‧
     [protected] => 1
     [followers_count] => 170
     [friends_count] => 203
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 618
+    [statuses_count] => 615
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

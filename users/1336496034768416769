@@ -13,15 +13,15 @@ vent.
 rts.
     [protected] => 1
     [followers_count] => 5
-    [friends_count] => 1232
+    [friends_count] => 1234
     [listed_count] => 0
     [created_at] => Wed Dec 09 02:21:15 +0000 2020
-    [favourites_count] => 21301
+    [favourites_count] => 21317
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 591
+    [statuses_count] => 593
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
