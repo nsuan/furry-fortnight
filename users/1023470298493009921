@@ -10,11 +10,11 @@ stdClass Object
 
 https://hasanihomiwa.carrd.co/
     [protected] => 
-    [followers_count] => 122
-    [friends_count] => 2280
-    [listed_count] => 0
+    [followers_count] => 123
+    [friends_count] => 2281
+    [listed_count] => 2
     [created_at] => Sun Jul 29 07:28:29 +0000 2018
-    [favourites_count] => 46423
+    [favourites_count] => 46422
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
