@@ -11,7 +11,7 @@ stdClass Object
 #BlackLivesMatter
     [protected] => 
     [followers_count] => 223
-    [friends_count] => 996
+    [friends_count] => 997
     [listed_count] => 1
     [created_at] => Mon Apr 25 10:00:27 +0000 2016
     [favourites_count] => 13336
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3922
+    [statuses_count] => 3924
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
