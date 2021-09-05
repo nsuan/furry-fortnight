@@ -12,8 +12,8 @@ stdClass Object
 
     Currently playing: FFXIV
     [protected] => 
-    [followers_count] => 10681
-    [friends_count] => 740
+    [followers_count] => 10682
+    [friends_count] => 744
     [listed_count] => 74
     [created_at] => Wed Dec 20 00:26:43 +0000 2017
     [favourites_count] => 30921
@@ -21,7 +21,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17850
+    [statuses_count] => 17849
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
