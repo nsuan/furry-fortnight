@@ -14,12 +14,12 @@ arbiter    bridge
     [friends_count] => 3953
     [listed_count] => 6
     [created_at] => Thu Sep 14 11:37:23 +0000 2017
-    [favourites_count] => 228840
+    [favourites_count] => 228858
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 28170
+    [statuses_count] => 28177
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
