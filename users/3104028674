@@ -2,13 +2,11 @@ stdClass Object
 (
     [id] => 3104028674
     [id_str] => 3104028674
-    [name] => warrior of the wilds
+    [name] => 
     [screen_name] => 321go_knight
     [location] => 
-    [url] => https://curiouscat.qa/321goknight
-    [description] => 🗡 the warrior seeking his next Adventure.
-(no art is mine unless said other wise.)
-+20 age. No minors
+    [url] => 
+    [description] => @321go_knight's account is temporarily unavailable because it violates the Twitter Media Policy. Learn more.
     [protected] => 
     [followers_count] => 306
     [friends_count] => 3680
@@ -28,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1434253676869083141/Q355yJ8A_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1434253676869083141/Q355yJ8A_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3104028674/1623101964
+    [profile_image_url] => 
+    [profile_image_url_https] => 
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
