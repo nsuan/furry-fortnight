@@ -13,15 +13,15 @@ stdClass Object
 li@spacelingart.com
     [protected] => 
     [followers_count] => 1223
-    [friends_count] => 1836
+    [friends_count] => 1835
     [listed_count] => 14
     [created_at] => Sat Sep 26 23:07:10 +0000 2015
-    [favourites_count] => 48823
+    [favourites_count] => 48838
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 28211
+    [statuses_count] => 28219
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
