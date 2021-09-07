@@ -1,23 +1,27 @@
 stdClass Object
 (
-    [id] => 1093383414026166272
-    [id_str] => 1093383414026166272
-    [name] => Jyobarak
-    [screen_name] => jyobarak
-    [location] => 
+    [id] => 1082259904281362432
+    [id_str] => 1082259904281362432
+    [name] => Azem Ghale
+    [screen_name] => KiyGhale
+    [location] => Manchester, England
     [url] => 
-    [description] => Troublesome troll who has a thing for butts. SFW/NSFW art & commission shares. 18+ only. Banner @WhiteIncinite & header https://susannaharleart.artstation.com/
+    [description] => Not spoiler free  🔞
+She/they/he
+29
+Nsfw
+5.3 spoilers
     [protected] => 
-    [followers_count] => 205
-    [friends_count] => 4052
+    [followers_count] => 185
+    [friends_count] => 834
     [listed_count] => 0
-    [created_at] => Thu Feb 07 05:38:14 +0000 2019
-    [favourites_count] => 23496
+    [created_at] => Mon Jan 07 12:57:23 +0000 2019
+    [favourites_count] => 38576
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9659
+    [statuses_count] => 9545
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +30,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1420480959783137280/8xF7ME4X_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420480959783137280/8xF7ME4X_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1093383414026166272/1563769118
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1348751495915835392/n1f8gQ3A_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1348751495915835392/n1f8gQ3A_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1082259904281362432/1575948653
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
