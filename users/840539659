@@ -11,15 +11,15 @@ Sleeping,
 And that's pretty much it.
     [protected] => 
     [followers_count] => 87
-    [friends_count] => 4992
+    [friends_count] => 4993
     [listed_count] => 1
     [created_at] => Sat Sep 22 22:17:36 +0000 2012
-    [favourites_count] => 84192
+    [favourites_count] => 84239
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 21860
+    [statuses_count] => 21867
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
