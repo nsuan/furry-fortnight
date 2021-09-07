@@ -2,13 +2,11 @@ stdClass Object
 (
     [id] => 1074398348369633280
     [id_str] => 1074398348369633280
-    [name] => mels🌸🌿 comms open
+    [name] => mels🌸🌿 comms closed
     [screen_name] => melqinnee
     [location] => Казань, Россия
     [url] => 
-    [description] => Elsa/Mel | 23 | RU/ENG | freelance artist | 
-commission info http://bit.ly/2XaHWYy 
-contact: melqinnee.commissions@gmail.com
+    [description] => Elsa/Mel | 23 | RU/ENG | freelance artist | commission info http://bit.ly/2XaHWYy contact: melqinnee.commissions@gmail.com
     [protected] => 
     [followers_count] => 1796
     [friends_count] => 261
@@ -19,7 +17,7 @@ contact: melqinnee.commissions@gmail.com
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2667
+    [statuses_count] => 2666
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
