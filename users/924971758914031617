@@ -7,7 +7,7 @@ stdClass Object
     [location] => COMMISSIONS OPEN! 
     [url] => http://cibguts.carrd.co/
     [description] => Kib / 24 / They\Him | Work Hours: (mon-thurs) 10am - 4pm BST| Adult Account: @Devil_Guts 🔞 | 16+
-    [protected] => 
+    [protected] => 1
     [followers_count] => 1464
     [friends_count] => 1138
     [listed_count] => 13
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5512
+    [statuses_count] => 5505
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
