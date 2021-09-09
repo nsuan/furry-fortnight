@@ -10,15 +10,15 @@ stdClass Object
 Mod do @canalbrushrush
     [protected] => 
     [followers_count] => 181
-    [friends_count] => 616
+    [friends_count] => 617
     [listed_count] => 0
     [created_at] => Fri Jan 22 14:42:08 +0000 2016
-    [favourites_count] => 3759
+    [favourites_count] => 3762
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 998
+    [statuses_count] => 999
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
