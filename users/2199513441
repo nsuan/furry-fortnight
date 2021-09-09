@@ -7,12 +7,12 @@ stdClass Object
     [location] => he / they | UK
     [url] => 
     [description] => 24 | Nonbinary Androsexual|
-    [protected] => 
+    [protected] => 1
     [followers_count] => 393
     [friends_count] => 929
     [listed_count] => 2
     [created_at] => Thu Nov 28 17:43:04 +0000 2013
-    [favourites_count] => 18183
+    [favourites_count] => 18185
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
