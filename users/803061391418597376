@@ -6,8 +6,8 @@ stdClass Object
     [screen_name] => GORYGLASS
     [location] => twitch.tv/goryglass
     [url] => https://goryglass.uwu.ai/
-    [description] => Gory/Glass/Vincent・24・they/them・ACAB|BLM・artist or some shit ・twitch vtuber・commissions : closed. ・ i rt stuff  and ♥ 🔞 content.
-    [protected] => 
+    [description] => Gory/Glass・they/them・ACAB|BLM・ i rt stuff  and ♥ 🔞 content.
+    [protected] => 1
     [followers_count] => 2613
     [friends_count] => 944
     [listed_count] => 31
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9083
+    [statuses_count] => 9088
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
