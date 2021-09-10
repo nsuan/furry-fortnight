@@ -6,7 +6,9 @@ stdClass Object
     [screen_name] => AntiDraws
     [location] => 
     [url] => 
-    [description] => 💚💙Pronouns: They/Them💚💙
+    [description] => 💚💙Pronouns: They/Them💚💙                    
+  
+Don't really draw anymore
     [protected] => 
     [followers_count] => 194
     [friends_count] => 672
@@ -17,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3285
+    [statuses_count] => 3194
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
