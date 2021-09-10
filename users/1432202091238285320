@@ -10,7 +10,7 @@ stdClass Object
 Personal blog = @GeigerMage
     [protected] => 
     [followers_count] => 10
-    [friends_count] => 101
+    [friends_count] => 103
     [listed_count] => 0
     [created_at] => Mon Aug 30 04:42:50 +0000 2021
     [favourites_count] => 26
@@ -18,7 +18,7 @@ Personal blog = @GeigerMage
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 21
+    [statuses_count] => 23
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
