@@ -11,15 +11,15 @@ stdClass Object
 ~*~Twitch Affiliate
     [protected] => 
     [followers_count] => 283
-    [friends_count] => 539
+    [friends_count] => 540
     [listed_count] => 8
     [created_at] => Wed May 18 08:06:25 +0000 2016
-    [favourites_count] => 6264
+    [favourites_count] => 6269
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3421
+    [statuses_count] => 3426
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
