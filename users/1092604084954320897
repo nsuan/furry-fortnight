@@ -16,12 +16,12 @@ AT: mutuals (0/1) | Comm: (5/6) closed
     [friends_count] => 255
     [listed_count] => 9
     [created_at] => Tue Feb 05 02:01:28 +0000 2019
-    [favourites_count] => 31086
+    [favourites_count] => 31087
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10630
+    [statuses_count] => 10632
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
