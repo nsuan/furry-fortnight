@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 716715034227957760
     [id_str] => 716715034227957760
-    [name] => Samuel ⚣
+    [name] => Samuel
     [screen_name] => whitmachillean
     [location] => BLACK LIVES ALWAYS MATTER
     [url] => https://linktr.ee/samuelscupoftea
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 839
     [listed_count] => 1
     [created_at] => Sun Apr 03 19:52:34 +0000 2016
-    [favourites_count] => 14208
+    [favourites_count] => 14209
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
