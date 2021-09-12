@@ -15,14 +15,14 @@ Border: Yoshitaka Amano.
     [protected] => 
     [followers_count] => 40
     [friends_count] => 1545
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Fri Nov 26 12:56:30 +0000 2010
-    [favourites_count] => 45680
+    [favourites_count] => 45692
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 22345
+    [statuses_count] => 22351
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
