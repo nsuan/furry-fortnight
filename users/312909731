@@ -10,7 +10,7 @@ stdClass Object
 Stay away from ticks.
     [protected] => 
     [followers_count] => 152
-    [friends_count] => 267
+    [friends_count] => 269
     [listed_count] => 8
     [created_at] => Tue Jun 07 21:18:27 +0000 2011
     [favourites_count] => 718
@@ -18,7 +18,7 @@ Stay away from ticks.
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 2093
+    [statuses_count] => 2094
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
