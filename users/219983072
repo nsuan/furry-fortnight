@@ -14,15 +14,15 @@ Avatar: Julien Telo.
 Border: Yoshitaka Amano.
     [protected] => 
     [followers_count] => 40
-    [friends_count] => 1543
-    [listed_count] => 0
+    [friends_count] => 1542
+    [listed_count] => 1
     [created_at] => Fri Nov 26 12:56:30 +0000 2010
-    [favourites_count] => 45777
+    [favourites_count] => 45795
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 22408
+    [statuses_count] => 22424
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
