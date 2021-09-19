@@ -11,16 +11,16 @@ stdClass Object
 arbiter    bridge
 🐧6411 🦁7482 👽🐷🖼🍣💰
     [protected] => 
-    [followers_count] => 729
+    [followers_count] => 730
     [friends_count] => 4096
-    [listed_count] => 10
+    [listed_count] => 15
     [created_at] => Thu Sep 14 11:37:23 +0000 2017
-    [favourites_count] => 232430
+    [favourites_count] => 232433
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 28956
+    [statuses_count] => 28958
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
