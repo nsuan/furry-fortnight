@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1308930563802365954
     [id_str] => 1308930563802365954
-    [name] => CEO of Thicc Cephalopods
+    [name] => CEO of Thicc and Spooky Cephalopods
     [screen_name] => mindless_demon
     [location] => 
     [url] => 
@@ -14,15 +14,15 @@ stdClass Object
 go follow @demon_mindless
     [protected] => 
     [followers_count] => 35
-    [friends_count] => 2114
+    [friends_count] => 2125
     [listed_count] => 0
     [created_at] => Thu Sep 24 00:46:06 +0000 2020
-    [favourites_count] => 2096
+    [favourites_count] => 2098
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 592
+    [statuses_count] => 594
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
