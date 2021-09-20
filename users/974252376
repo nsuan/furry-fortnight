@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 974252376
     [id_str] => 974252376
-    [name] => EʅσɳMυʂƙ
+    [name] => Cernunnos
     [screen_name] => cernunnos505
     [location] => 
     [url] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 2739
     [listed_count] => 0
     [created_at] => Tue Nov 27 17:01:38 +0000 2012
-    [favourites_count] => 9751
+    [favourites_count] => 9750
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1438938413835694091/NVCBrLOu_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1438938413835694091/NVCBrLOu_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1440092018647060485/-qMKCd0m_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1440092018647060485/-qMKCd0m_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/974252376/1625716000
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => 000000
