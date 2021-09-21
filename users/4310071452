@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 4310071452
     [id_str] => 4310071452
-    [name] => FaundlyDreaming || J. 'Faun' Knight || Comms open!
+    [name] => FaundlyDreaming || J. 'Faun' Knight
     [screen_name] => FaundlyDreaming
     [location] => North Las Vegas, NV
     [url] => https://www.faundlydreaming.com/
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5567
+    [statuses_count] => 5568
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
