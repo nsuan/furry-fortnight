@@ -15,7 +15,7 @@ C a s e
 O f
 A D H D
     [protected] => 
-    [followers_count] => 26
+    [followers_count] => 25
     [friends_count] => 202
     [listed_count] => 0
     [created_at] => Sun Aug 09 17:40:20 +0000 2020
@@ -24,7 +24,7 @@ A D H D
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 563
+    [statuses_count] => 565
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
