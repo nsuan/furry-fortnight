@@ -11,15 +11,15 @@ stdClass Object
 | Drawing sometimes when I feel like it. |
     [protected] => 
     [followers_count] => 173
-    [friends_count] => 412
+    [friends_count] => 413
     [listed_count] => 0
     [created_at] => Sun Jul 17 23:11:36 +0000 2016
-    [favourites_count] => 2302
+    [favourites_count] => 2304
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3022
+    [statuses_count] => 3024
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
