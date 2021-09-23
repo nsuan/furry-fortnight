@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1214374799050526721
     [id_str] => 1214374799050526721
-    [name] => khai is constantly refreshing their email
+    [name] => khai
     [screen_name] => tsro_khai
     [location] => 
     [url] => http://twitch.tv/stovku
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 554
+    [statuses_count] => 555
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
