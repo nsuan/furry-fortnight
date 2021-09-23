@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3926368337
     [id_str] => 3926368337
-    [name] => KamilKa
+    [name] => Kamil
     [screen_name] => KamilKabac
     [location] => Podlaskie, Polska
     [url] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 586
     [listed_count] => 0
     [created_at] => Sun Oct 11 09:10:49 +0000 2015
-    [favourites_count] => 2091
+    [favourites_count] => 2092
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
