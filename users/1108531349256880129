@@ -19,7 +19,7 @@ Idade: 21
     [friends_count] => 4985
     [listed_count] => 5
     [created_at] => Thu Mar 21 00:50:43 +0000 2019
-    [favourites_count] => 122595
+    [favourites_count] => 122596
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -35,7 +35,7 @@ Idade: 21
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1426010731229507591/4gEHrCQO_normal.png
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1426010731229507591/4gEHrCQO_normal.png
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1108531349256880129/1627620822
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1108531349256880129/1632389514
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
