@@ -1,26 +1,23 @@
 stdClass Object
 (
-    [id] => 715665356317200385
-    [id_str] => 715665356317200385
-    [name] => Rapozai
-    [screen_name] => rapozaifox153
-    [location] => Brazil
+    [id] => 1364618730609594371
+    [id_str] => 1364618730609594371
+    [name] => Kira the Dragon Queen
+    [screen_name] => KiraAndrade10
+    [location] => Dalaran
     [url] => 
-    [description] => Just a fat random fox
-Male 28 l Gamer, Geek, Lazy ass artist hows draw sometimes, TTRPG enthusiastic I Feel free to poke me
-
-Adult 🔞 account
+    [description] => (Player is 24+) • EpsilonWoW: Akirie Starfall • FF14: Akirie Kosei, Balmung • Multiverse Character
     [protected] => 
-    [followers_count] => 75
-    [friends_count] => 1626
-    [listed_count] => 0
-    [created_at] => Thu Mar 31 22:21:32 +0000 2016
-    [favourites_count] => 10222
+    [followers_count] => 48
+    [friends_count] => 188
+    [listed_count] => 1
+    [created_at] => Wed Feb 24 16:50:40 +0000 2021
+    [favourites_count] => 1170
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6234
+    [statuses_count] => 460
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,9 +26,9 @@ Adult 🔞 account
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1301919782812385281/xgvY1e0m_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1301919782812385281/xgvY1e0m_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/715665356317200385/1571269938
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1430934199494582275/zAQ0mimb_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1430934199494582275/zAQ0mimb_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1364618730609594371/1619632392
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
