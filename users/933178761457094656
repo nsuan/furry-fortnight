@@ -10,8 +10,8 @@ stdClass Object
 header: @CarmesJocelin
 icon: http://picrew.me/image_maker/1170750
     [protected] => 1
-    [followers_count] => 30
-    [friends_count] => 164
+    [followers_count] => 29
+    [friends_count] => 163
     [listed_count] => 0
     [created_at] => Wed Nov 22 03:42:09 +0000 2017
     [favourites_count] => 20713
