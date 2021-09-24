@@ -1,23 +1,24 @@
 stdClass Object
 (
-    [id] => 1039690299273105408
-    [id_str] => 1039690299273105408
-    [name] => Leyloria Fal'anore
-    [screen_name] => LeyloriaMG
-    [location] => 
-    [url] => https://youtu.be/dQw4w9WgXcQ
-    [description] => Mage Main • Art Commissioner • I make art sometimes • Horde/Allaince • She/Her • Art by: @miya_rrr, @BeaulineArt, @noirsnowart, @suomarart, and @CherRo_art
+    [id] => 1435389572284887041
+    [id_str] => 1435389572284887041
+    [name] => Ix Argentum
+    [screen_name] => IxArgentum
+    [location] => Eorzea
+    [url] => 
+    [description] => Raised by Miqo'te. Learning to elf. Making the world better one coffee biscuit at a time.
+Crystal/ Malboro She/They 🏳️‍🌈⚧
     [protected] => 
-    [followers_count] => 1126
-    [friends_count] => 782
-    [listed_count] => 2
-    [created_at] => Wed Sep 12 01:40:58 +0000 2018
-    [favourites_count] => 21868
+    [followers_count] => 112
+    [friends_count] => 704
+    [listed_count] => 0
+    [created_at] => Tue Sep 07 23:48:48 +0000 2021
+    [favourites_count] => 157
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1853
+    [statuses_count] => 143
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +27,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1420837367829745667/ef2pD-kP_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420837367829745667/ef2pD-kP_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1039690299273105408/1627767800
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1437426609963814916/jVv_FJbb_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1437426609963814916/jVv_FJbb_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1435389572284887041/1631544216
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
