@@ -8,11 +8,11 @@ stdClass Object
     [url] => 
     [description] => 🏴󠁧󠁢󠁳󠁣󠁴󠁿 pfp: @doromaya banner:@SBeep_
     [protected] => 
-    [followers_count] => 463
-    [friends_count] => 1467
+    [followers_count] => 462
+    [friends_count] => 1465
     [listed_count] => 6
     [created_at] => Sun Jul 31 01:49:19 +0000 2016
-    [favourites_count] => 20658
+    [favourites_count] => 20661
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1441105985494339594/ILGcOHrn_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1441105985494339594/ILGcOHrn_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1441584021180489728/IxTY5sEB_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1441584021180489728/IxTY5sEB_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/759566580963479554/1632421418
     [profile_link_color] => F58EA8
     [profile_sidebar_border_color] => 000000
