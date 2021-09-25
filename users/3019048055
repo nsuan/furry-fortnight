@@ -10,7 +10,7 @@ stdClass Object
 
 unsubbed until we have #ABetterABK
     [protected] => 
-    [followers_count] => 818
+    [followers_count] => 819
     [friends_count] => 417
     [listed_count] => 2
     [created_at] => Thu Feb 05 00:27:09 +0000 2015
@@ -19,7 +19,7 @@ unsubbed until we have #ABetterABK
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3961
+    [statuses_count] => 3963
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
