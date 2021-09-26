@@ -2,16 +2,14 @@ stdClass Object
 (
     [id] => 1291068026427777027
     [id_str] => 1291068026427777027
-    [name] => Wofie_bare
+    [name] => 定池
     [screen_name] => BareWofie
     [location] => 
     [url] => 
-    [description] => ff14玩家，兽控，文学爱好者
-💖💖💖FF14,kemono.
-A student of English literature,talk a lot.
+    [description] => 沃夫的机器虎。
     [protected] => 
     [followers_count] => 161
-    [friends_count] => 308
+    [friends_count] => 309
     [listed_count] => 0
     [created_at] => Wed Aug 05 17:46:26 +0000 2020
     [favourites_count] => 77
@@ -19,7 +17,7 @@ A student of English literature,talk a lot.
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 70
+    [statuses_count] => 71
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +26,9 @@ A student of English literature,talk a lot.
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1291068344519528449/nkXUT2fZ_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1291068344519528449/nkXUT2fZ_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1291068026427777027/1596870249
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1442027389903646720/xo9oHkqv_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1442027389903646720/xo9oHkqv_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1291068026427777027/1632641095
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
