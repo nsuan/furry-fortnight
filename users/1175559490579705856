@@ -9,7 +9,7 @@ stdClass Object
     [description] => Wir suchen dich!
     [protected] => 1
     [followers_count] => 52
-    [friends_count] => 2202
+    [friends_count] => 2203
     [listed_count] => 0
     [created_at] => Sat Sep 21 23:56:46 +0000 2019
     [favourites_count] => 64081
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 26120
+    [statuses_count] => 26121
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
