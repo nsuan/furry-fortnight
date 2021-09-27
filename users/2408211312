@@ -13,14 +13,14 @@ http://twit
     [protected] => 
     [followers_count] => 357
     [friends_count] => 915
-    [listed_count] => 2
+    [listed_count] => 1
     [created_at] => Mon Mar 24 02:48:11 +0000 2014
     [favourites_count] => 41344
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 27350
+    [statuses_count] => 27351
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
