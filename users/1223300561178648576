@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1223300561178648576
     [id_str] => 1223300561178648576
-    [name] => saint (cringe but free)
+    [name] => all saint's day
     [screen_name] => SaintEtcetera
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 409
     [listed_count] => 1
     [created_at] => Fri Jan 31 17:42:42 +0000 2020
-    [favourites_count] => 16851
+    [favourites_count] => 16854
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13757
+    [statuses_count] => 13759
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
