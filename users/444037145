@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 444037145
     [id_str] => 444037145
-    [name] => CMDR Soulflare
+    [name] => Soul
     [screen_name] => Soulflare3
     [location] => North Carolina, USA
     [url] => https://wlo.link/@soulflare
-    [description] => Soul. I write code sometimes. 27. I like reptiles, robots, & spaceships. PFP: @MissYazriel
+    [description] => I write code sometimes. 27. I like reptiles, robots, & spaceships. PFP: @Vamp_Arts
     [protected] => 
     [followers_count] => 289
     [friends_count] => 4501
     [listed_count] => 13
     [created_at] => Thu Dec 22 20:33:41 +0000 2011
-    [favourites_count] => 87592
+    [favourites_count] => 87594
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 34534
+    [statuses_count] => 34536
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme14/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme14/bg.gif
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1369763911587790848/rhiFcnzQ_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1369763911587790848/rhiFcnzQ_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1443497553669066752/kxalKa97_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1443497553669066752/kxalKa97_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/444037145/1485049467
     [profile_link_color] => 555555
     [profile_sidebar_border_color] => B9604E
