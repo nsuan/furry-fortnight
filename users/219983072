@@ -11,18 +11,18 @@ stdClass Object
 --Occasional Nsfw--
 --Old Enough--
 Avatar: Julien Telo.
-Border: Yoshitaka Amano.
+Border: Eiichiro Oda.
     [protected] => 
     [followers_count] => 39
     [friends_count] => 1575
     [listed_count] => 1
     [created_at] => Fri Nov 26 12:56:30 +0000 2010
-    [favourites_count] => 46551
+    [favourites_count] => 46557
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 22852
+    [statuses_count] => 22856
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -33,7 +33,7 @@ Border: Yoshitaka Amano.
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1312286525086982145/7JlPO6SO_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1312286525086982145/7JlPO6SO_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/219983072/1601708868
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/219983072/1632983771
     [profile_link_color] => FF691F
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
