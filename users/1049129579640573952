@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1049129579640573952
     [id_str] => 1049129579640573952
-    [name] => zzapee likes beer 🍺
+    [name] => zzapee likes beer 🍺(currently inactive)
     [screen_name] => zzapee
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17551
+    [statuses_count] => 17558
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
