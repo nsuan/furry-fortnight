@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 373386211
     [id_str] => 373386211
-    [name] => HB in Philly
+    [name] => Helen Bidol
     [screen_name] => HBPhilly
-    [location] => Philadelphia
+    [location] => Delaware County, Pennsylvania
     [url] => 
-    [description] => 
+    [description] => Michigander living in Philly area. HR pro. Amateur herpetologist. This is a personal account & doesn’t represent views of my employer. RT not endorsement.
     [protected] => 
     [followers_count] => 368
     [friends_count] => 2610
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 918
+    [statuses_count] => 910
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
