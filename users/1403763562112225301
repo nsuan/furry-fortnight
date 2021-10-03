@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1403763562112225301
     [id_str] => 1403763562112225301
-    [name] => maddie🌱 @ shadowbringers !!!
+    [name] => maddie🌱
     [screen_name] => wutaia
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 14
     [listed_count] => 1
     [created_at] => Sat Jun 12 17:18:21 +0000 2021
-    [favourites_count] => 153
+    [favourites_count] => 154
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 199
+    [statuses_count] => 200
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
