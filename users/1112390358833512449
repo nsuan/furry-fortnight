@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1112390358833512449
     [id_str] => 1112390358833512449
-    [name] => GhoulEhkko 💀 Comms Open
+    [name] => GhoulEhkko 💀 Comms Closed @ current moment
     [screen_name] => EhkkoArt
     [location] => Oklahoma City, OK
     [url] => http://ehkk0art.carrd.co
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1659
     [listed_count] => 9
     [created_at] => Sun Mar 31 16:25:03 +0000 2019
-    [favourites_count] => 19979
+    [favourites_count] => 19981
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7365
+    [statuses_count] => 7367
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
