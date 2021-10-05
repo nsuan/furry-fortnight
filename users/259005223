@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 259005223
     [id_str] => 259005223
-    [name] => I'sage Vonrah @ Endwalker
+    [name] => Ildesian Avagnar @ Endwalker
     [screen_name] => Sage_Vonrah
     [location] => Lake Elsinore, CA
     [url] => http://twitch.tv/sage_vonrah
@@ -11,15 +11,15 @@ stdClass Object
 - @AsuIshtar's interest
     [protected] => 
     [followers_count] => 112
-    [friends_count] => 602
+    [friends_count] => 603
     [listed_count] => 6
     [created_at] => Mon Feb 28 23:43:28 +0000 2011
-    [favourites_count] => 5451
+    [favourites_count] => 5453
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2976
+    [statuses_count] => 2977
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
