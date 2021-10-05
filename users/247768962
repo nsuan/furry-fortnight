@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 247768962
     [id_str] => 247768962
-    [name] => AFK Gold Queen
+    [name] => The Gold Queen
     [screen_name] => thegoldqueen
     [location] => The Auction House
     [url] => http://www.thegoldqueen.com
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 104838
+    [statuses_count] => 104834
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
