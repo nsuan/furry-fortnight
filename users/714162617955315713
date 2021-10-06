@@ -7,7 +7,7 @@ stdClass Object
     [location] => United Kingdom
     [url] => 
     [description] => He/him, Dad of 2, @MageLouloutte 's pocket tank and co-host of WoW podcast @LFRWoWCast with @Sirithe.
-    [protected] => 1
+    [protected] => 
     [followers_count] => 395
     [friends_count] => 693
     [listed_count] => 3
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5120
+    [statuses_count] => 5121
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
