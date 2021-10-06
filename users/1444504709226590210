@@ -1,26 +1,27 @@
 stdClass Object
 (
-    [id] => 915456278570438657
-    [id_str] => 915456278570438657
-    [name] => Skooma Waffle
-    [screen_name] => wownerdkitty
-    [location] => Orgrimmar
-    [url] => 
-    [description] => Khajiit! Argonian!
--sma3-
-Skyrim and ESO art posts!
-I play ESO XBOX1
+    [id] => 1444504709226590210
+    [id_str] => 1444504709226590210
+    [name] => Gauri Joshi
+    [screen_name] => Avi_canvas
+    [location] => Mumbai, India
+    [url] => https://bit.ly/33Fvz9m
+    [description] => Botanist by day, Artist by night 🌿🖌️
+Traditional art 🎨
+Commissions OPEN
+Instagram - https://instagram.com/avi.s_canvas?utm_medium=copy_link
+Commission Info -
     [protected] => 
-    [followers_count] => 228
-    [friends_count] => 1228
-    [listed_count] => 3
-    [created_at] => Wed Oct 04 05:59:19 +0000 2017
-    [favourites_count] => 8496
+    [followers_count] => 23
+    [friends_count] => 149
+    [listed_count] => 0
+    [created_at] => Sun Oct 03 03:29:22 +0000 2021
+    [favourites_count] => 17
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3326
+    [statuses_count] => 61
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,9 +30,9 @@ I play ESO XBOX1
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1188740259569393664/14pG-gSt_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1188740259569393664/14pG-gSt_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/915456278570438657/1571884298
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1444506094747799554/vE9u2OmX_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1444506094747799554/vE9u2OmX_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1444504709226590210/1633232208
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
