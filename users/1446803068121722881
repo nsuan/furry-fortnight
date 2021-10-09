@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1175938046333771776
-    [id_str] => 1175938046333771776
-    [name] => Kia 🇸🇪 کیا 🇮🇷
-    [screen_name] => SvensKia_
-    [location] => Stockholm, Sverige
+    [id] => 1446803068121722881
+    [id_str] => 1446803068121722881
+    [name] => Ravivoi’
+    [screen_name] => Ravivoi4
+    [location] => 
     [url] => 
-    [description] => Social democrat | Sylvanas loyalist 🏹💜 | Ⓥ
+    [description] => Привет,меня зовут Настя,я рисую портреты на заказ, ищу свой стиль✨
     [protected] => 
-    [followers_count] => 75
-    [friends_count] => 813
-    [listed_count] => 1
-    [created_at] => Mon Sep 23 01:01:01 +0000 2019
-    [favourites_count] => 15312
+    [followers_count] => 0
+    [friends_count] => 19
+    [listed_count] => 0
+    [created_at] => Sat Oct 09 11:42:01 +0000 2021
+    [favourites_count] => 0
     [utc_offset] => 
     [time_zone] => 
-    [geo_enabled] => 1
+    [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3943
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1175952334377168896/fhlKKpGq_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1175952334377168896/fhlKKpGq_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1446803203622907910/zwkppUDq_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1446803203622907910/zwkppUDq_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
