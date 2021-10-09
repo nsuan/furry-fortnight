@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 3064069557
+    [id_str] => 3064069557
+    [name] => Michaelose Gaming
+    [screen_name] => Mikkael053
+    [location] => Indianapolis, IN
+    [url] => https://www.youtube.com/user/MasterNelfRogue
+    [description] => I make #gaming related content for #YouTubeGaming. Playing what I want when I want. Just here for a good time and some good games!
+    [protected] => 
+    [followers_count] => 512
+    [friends_count] => 4863
+    [listed_count] => 17
+    [created_at] => Thu Feb 26 22:35:13 +0000 2015
+    [favourites_count] => 291
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 1320
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 1A1B1F
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/746087249301868545/ffGfMomc_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/746087249301868545/ffGfMomc_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3064069557/1466716005
+    [profile_link_color] => 4A913C
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)
