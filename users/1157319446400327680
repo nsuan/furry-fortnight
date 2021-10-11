@@ -11,7 +11,7 @@ stdClass Object
 no transphobia, no homophobia, no racism|
 
 закрытка NSFW~ https://twitter.com/pohuistchno?s=09
-    [protected] => 
+    [protected] => 1
     [followers_count] => 512
     [friends_count] => 962
     [listed_count] => 5
@@ -21,7 +21,7 @@ no transphobia, no homophobia, no racism|
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 32358
+    [statuses_count] => 32362
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
