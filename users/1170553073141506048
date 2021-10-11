@@ -10,15 +10,15 @@ stdClass Object
 DM of OM
     [protected] => 
     [followers_count] => 830
-    [friends_count] => 339
+    [friends_count] => 340
     [listed_count] => 8
     [created_at] => Sun Sep 08 04:23:05 +0000 2019
-    [favourites_count] => 5399
+    [favourites_count] => 5401
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3584
+    [statuses_count] => 3585
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
