@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 4299967937
     [id_str] => 4299967937
-    [name] => KariWase🌱💙 Raffle pinned!
+    [name] => KariWase🌱💙
     [screen_name] => KariWase
     [location] => they/them
     [url] => 
@@ -11,16 +11,16 @@ stdClass Object
 I: @courtpitre
 H: @verowwsart, @miya_rrr, @lu_cio_H
     [protected] => 
-    [followers_count] => 1255
+    [followers_count] => 1257
     [friends_count] => 3595
     [listed_count] => 3
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
-    [favourites_count] => 99529
+    [favourites_count] => 99540
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8033
+    [statuses_count] => 8043
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
