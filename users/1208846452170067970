@@ -15,7 +15,7 @@ stdClass Object
 i: @gIue_stick | h: @runescratch
     [protected] => 
     [followers_count] => 134
-    [friends_count] => 221
+    [friends_count] => 222
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
     [favourites_count] => 5468
@@ -23,7 +23,7 @@ i: @gIue_stick | h: @runescratch
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19961
+    [statuses_count] => 19963
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
