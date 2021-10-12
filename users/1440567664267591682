@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 945714041934176256
-    [id_str] => 945714041934176256
-    [name] => (설거지의 요정)아침먹고비타민챙기기
-    [screen_name] => tempist3877
+    [id] => 1440567664267591682
+    [id_str] => 1440567664267591682
+    [name] => Rotten
+    [screen_name] => Rottingco
     [location] => 
     [url] => 
-    [description] => 끼적끼적
-    [protected] => 1
-    [followers_count] => 114
-    [friends_count] => 492
+    [description] => Dead
+    [protected] => 
+    [followers_count] => 5
+    [friends_count] => 789
     [listed_count] => 0
-    [created_at] => Tue Dec 26 17:52:52 +0000 2017
-    [favourites_count] => 35376
+    [created_at] => Wed Sep 22 06:44:42 +0000 2021
+    [favourites_count] => 0
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 85992
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1319573085188575233/kAb7DwnE_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1319573085188575233/kAb7DwnE_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/945714041934176256/1519106527
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1446418554505498628/8b5uiZy1_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1446418554505498628/8b5uiZy1_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1440567664267591682/1633443839
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
