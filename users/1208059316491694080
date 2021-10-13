@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 1208059316491694080
     [name] => bao (very funny individual)
     [screen_name] => nightelfing
-    [location] => i: saproartist
+    [location] => i:noirsnowart h:horreurscopea
     [url] => 
     [description] => she/they, 24, MENA.
     [protected] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 2954
     [listed_count] => 1
     [created_at] => Fri Dec 20 16:19:26 +0000 2019
-    [favourites_count] => 34595
+    [favourites_count] => 34596
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1447519324009340932/AQ1nfqEk_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1447519324009340932/AQ1nfqEk_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1208059316491694080/1633322564
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1448185802727505921/eh-uuFxN_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1448185802727505921/eh-uuFxN_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1208059316491694080/1634109376
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
