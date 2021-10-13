@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 1002180392361906177
-    [id_str] => 1002180392361906177
-    [name] => SifaSeven
-    [screen_name] => SifaSeven
-    [location] => Charlotte, NC
-    [url] => 
-    [description] => mum, writer, artist, blogger, star wars fan, chocoholic, spoonie, perpetually tired 🇬🇧 🇺🇸 🇵🇭
+    [id] => 1423895602136371207
+    [id_str] => 1423895602136371207
+    [name] => Marckinetic
+    [screen_name] => marckinetic
+    [location] => 
+    [url] => https://youtube.com/c/MARCKINETIC
+    [description] => 🇵🇭 
+
+Watch my animations! ⤵️
     [protected] => 
-    [followers_count] => 537
-    [friends_count] => 1173
-    [listed_count] => 11
-    [created_at] => Thu May 31 13:29:59 +0000 2018
-    [favourites_count] => 75319
+    [followers_count] => 1337
+    [friends_count] => 1652
+    [listed_count] => 6
+    [created_at] => Sat Aug 07 06:35:47 +0000 2021
+    [favourites_count] => 97
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 36864
+    [statuses_count] => 54
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +28,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1419668085146112007/5XllDCqc_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1419668085146112007/5XllDCqc_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1446067992157057025/l6pXSD6u_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1446067992157057025/l6pXSD6u_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1423895602136371207/1629101592
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
