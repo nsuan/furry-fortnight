@@ -1,23 +1,26 @@
 stdClass Object
 (
-    [id] => 1140979493718376450
-    [id_str] => 1140979493718376450
-    [name] => GVN/ART
-    [screen_name] => gvnart
+    [id] => 1338138910728318980
+    [id_str] => 1338138910728318980
+    [name] => Munzur
+    [screen_name] => birhayalet_
     [location] => 
     [url] => 
-    [description] => COMMISSIONS OPEN! | Artist, Voice Actor | He/Him
+    [description] => hayalet geri döndü !!!
+#Munzur 
+Özgür
+yaşamak için mücadeleye devam. ✌️✊🇹🇷
     [protected] => 
-    [followers_count] => 83
-    [friends_count] => 241
-    [listed_count] => 1
-    [created_at] => Tue Jun 18 13:48:04 +0000 2019
-    [favourites_count] => 4575
+    [followers_count] => 234
+    [friends_count] => 1010
+    [listed_count] => 0
+    [created_at] => Sun Dec 13 15:09:54 +0000 2020
+    [favourites_count] => 2145
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1699
+    [statuses_count] => 1076
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +29,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1335470988474142720/ufdZRXyB_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1335470988474142720/ufdZRXyB_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1140979493718376450/1578496998
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1375100357097971712/oxF3n0IX_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1375100357097971712/oxF3n0IX_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1338138910728318980/1622658441
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
