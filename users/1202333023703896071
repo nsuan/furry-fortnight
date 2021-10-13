@@ -3,7 +3,7 @@ stdClass Object
     [id] => 1202333023703896071
     [id_str] => 1202333023703896071
     [name] => Nalanî
-    [screen_name] => NalaniDH
+    [screen_name] => cosmic_elves
     [location] => 
     [url] => 
     [description] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 25
     [listed_count] => 0
     [created_at] => Wed Dec 04 21:05:16 +0000 2019
-    [favourites_count] => 180
+    [favourites_count] => 181
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19
+    [statuses_count] => 20
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
