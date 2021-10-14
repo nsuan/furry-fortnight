@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => PurpleGarma
     [location] => 
     [url] => 
-    [description] => +18 | English/Español
+    [description] => +18
     [protected] => 1
     [followers_count] => 11
     [friends_count] => 221
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6810
+    [statuses_count] => 6811
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
