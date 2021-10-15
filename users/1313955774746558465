@@ -9,7 +9,7 @@ stdClass Object
     [description] => amoungus
     [protected] => 
     [followers_count] => 8
-    [friends_count] => 298
+    [friends_count] => 299
     [listed_count] => 0
     [created_at] => Wed Oct 07 21:34:14 +0000 2020
     [favourites_count] => 10
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 36
+    [statuses_count] => 37
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
