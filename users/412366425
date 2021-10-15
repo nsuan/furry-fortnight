@@ -1,25 +1,27 @@
 stdClass Object
 (
-    [id] => 858977711712333824
-    [id_str] => 858977711712333824
-    [name] => 🍂 PumpKyn 🎃🕯️
-    [screen_name] => KynaArts
-    [location] => 🏴󠁧󠁢󠁷󠁬󠁳󠁿
-    [url] => http://trello.com/b/wu5GZOFt
-    [description] => Kyna/Kyn • 28 • she/her • 🏳️‍🌈 🧡🤍💖 • Artist
-Icon: @Alienproteinnn
-Commissions Closed! Next open: November
+    [id] => 412366425
+    [id_str] => 412366425
+    [name] => Dely
+    [screen_name] => Delyarath
+    [location] => 🇬🇧 23 He/Him 
+    [url] => https://linktr.ee/Delyarath
+    [description] => Voice Actor | Machinimator | Twitch Affiliate 
+
+#PNGTuber @ http://twitch.tv/delyarath
+
+Profile Picture by @alco_tyan | PNGTuber Assets by @Solarcitrus
     [protected] => 
-    [followers_count] => 6983
-    [friends_count] => 809
-    [listed_count] => 60
-    [created_at] => Mon May 01 09:33:40 +0000 2017
-    [favourites_count] => 21603
+    [followers_count] => 160
+    [friends_count] => 177
+    [listed_count] => 1
+    [created_at] => Mon Nov 14 16:03:11 +0000 2011
+    [favourites_count] => 2765
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6536
+    [statuses_count] => 477
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,10 +30,10 @@ Commissions Closed! Next open: November
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1437881660008275968/DZvSaleq_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1437881660008275968/DZvSaleq_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/858977711712333824/1633475333
-    [profile_link_color] => 6A347D
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1420918484779819012/hDffXS9i_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1420918484779819012/hDffXS9i_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/412366425/1631294172
+    [profile_link_color] => 005666
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
