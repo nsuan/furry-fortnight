@@ -10,10 +10,10 @@ stdClass Object
 pfp: @/hhbones
     [protected] => 
     [followers_count] => 21
-    [friends_count] => 816
+    [friends_count] => 815
     [listed_count] => 1
     [created_at] => Tue Nov 04 17:14:09 +0000 2014
-    [favourites_count] => 114448
+    [favourites_count] => 114452
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
