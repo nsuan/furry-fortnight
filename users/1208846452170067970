@@ -14,7 +14,7 @@ stdClass Object
 
 i: @baydews | h: @vavafle_cmsn
     [protected] => 
-    [followers_count] => 133
+    [followers_count] => 134
     [friends_count] => 225
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
@@ -23,7 +23,7 @@ i: @baydews | h: @vavafle_cmsn
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20359
+    [statuses_count] => 20361
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
