@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1279475396715712513
     [id_str] => 1279475396715712513
-    [name] => Khudaal Silverbelt
+    [name] => Khudaal Spookybelt
     [screen_name] => KhudaalS
     [location] => New York, USA
     [url] => https://moon-guard.fandom.com/wiki/Khudaal_Silverbelt
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 242
     [listed_count] => 0
     [created_at] => Sat Jul 04 18:01:33 +0000 2020
-    [favourites_count] => 3894
+    [favourites_count] => 3896
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
