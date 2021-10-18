@@ -1,23 +1,26 @@
 stdClass Object
 (
-    [id] => 1064711982425796608
-    [id_str] => 1064711982425796608
-    [name] => pyran-xi
-    [screen_name] => PyranXI
+    [id] => 1320669848104521728
+    [id_str] => 1320669848104521728
+    [name] => Elloth 🌿
+    [screen_name] => Elloth_i
     [location] => 
-    [url] => 
-    [description] => Casual artist, constant lurker | He/She/They (whatever really) | User is 21+
+    [url] => https://elloth.carrd.co/
+    [description] => Hi! 
+I'm a freelancing artist. I mostly draw OCs and illustration.
+
+◅✾ COMMISSIONS OPEN ✾▻
     [protected] => 
-    [followers_count] => 20
-    [friends_count] => 609
-    [listed_count] => 0
-    [created_at] => Tue Nov 20 02:48:12 +0000 2018
-    [favourites_count] => 2777
+    [followers_count] => 658
+    [friends_count] => 894
+    [listed_count] => 1
+    [created_at] => Mon Oct 26 10:14:23 +0000 2020
+    [favourites_count] => 136
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 103
+    [statuses_count] => 34
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,14 +29,15 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1069731758097264642/V7VutnpC_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1069731758097264642/V7VutnpC_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1320670251143614464/ms_bc--u_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1320670251143614464/ms_bc--u_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1320669848104521728/1603710601
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
