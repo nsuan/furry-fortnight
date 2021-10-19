@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 335767126
     [id_str] => 335767126
-    [name] => Zach 💙 Commissions OPEN!
+    [name] => Zach 💙 Commissions closed!
     [screen_name] => itsjustbeek
     [location] => Honolulu, Hawai'i
     [url] => http://itsjustbeekcomms.carrd.co
@@ -21,7 +21,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 24926
+    [statuses_count] => 24927
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
