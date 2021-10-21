@@ -11,16 +11,16 @@ stdClass Object
 I: @courtpitre
 H: @krma34
     [protected] => 
-    [followers_count] => 1313
+    [followers_count] => 1315
     [friends_count] => 3660
     [listed_count] => 4
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
-    [favourites_count] => 101323
+    [favourites_count] => 101327
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8464
+    [statuses_count] => 8467
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
