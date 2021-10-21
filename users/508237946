@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 508237946
     [id_str] => 508237946
-    [name] => Ignis2Ashe - Eld Till Aska
+    [name] => Ignis2Ashe
     [screen_name] => Ignis2Ashe
     [location] => Sverige
     [url] => http://twitch.tv/ignis2ashe
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 2497
     [listed_count] => 2
     [created_at] => Wed Feb 29 02:11:28 +0000 2012
-    [favourites_count] => 6443
+    [favourites_count] => 6448
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 2438
+    [statuses_count] => 2439
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
