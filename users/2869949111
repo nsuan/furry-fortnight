@@ -12,7 +12,7 @@ stdClass Object
 ● https://t.co/a5aI5NSOa4
     [protected] => 
     [followers_count] => 15648
-    [friends_count] => 780
+    [friends_count] => 781
     [listed_count] => 148
     [created_at] => Mon Nov 10 02:08:41 +0000 2014
     [favourites_count] => 9547
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20733
+    [statuses_count] => 20734
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
