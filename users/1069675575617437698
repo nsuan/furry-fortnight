@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => https://www.patreon.com/mythlorn
     [description] => ✨Artist, Author, Gamer, Fan✨ Personal Account, follow requests 👌 ✨ Fanart Patreon Only ✨Fantasy Art @dayglowblue ✨ Commissions: OPEN ✨
-    [protected] => 
+    [protected] => 1
     [followers_count] => 952
     [friends_count] => 941
     [listed_count] => 12
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4705
+    [statuses_count] => 4706
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
