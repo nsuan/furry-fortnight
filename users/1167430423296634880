@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1167430423296634880
     [id_str] => 1167430423296634880
-    [name] => greencrusader13 is at 180k words
+    [name] => greencrusader13 is at 188k words
     [screen_name] => greencrusader13
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 378
     [listed_count] => 0
     [created_at] => Fri Aug 30 13:35:06 +0000 2019
-    [favourites_count] => 13057
+    [favourites_count] => 13056
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2725
+    [statuses_count] => 2726
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
