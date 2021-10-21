@@ -11,7 +11,7 @@ they/them
 21+
     [protected] => 
     [followers_count] => 9
-    [friends_count] => 120
+    [friends_count] => 121
     [listed_count] => 0
     [created_at] => Tue Nov 19 04:35:33 +0000 2013
     [favourites_count] => 159
@@ -19,7 +19,7 @@ they/them
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 65
+    [statuses_count] => 66
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
