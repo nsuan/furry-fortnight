@@ -14,14 +14,14 @@ header: @jericho_rus
     [protected] => 
     [followers_count] => 39368
     [friends_count] => 230
-    [listed_count] => 206
+    [listed_count] => 203
     [created_at] => Sat Jul 13 12:03:11 +0000 2013
     [favourites_count] => 38731
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 77252
+    [statuses_count] => 77251
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
