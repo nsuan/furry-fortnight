@@ -11,15 +11,15 @@ stdClass Object
 he/him
     [protected] => 
     [followers_count] => 375
-    [friends_count] => 2652
+    [friends_count] => 2650
     [listed_count] => 3
     [created_at] => Sun Jan 01 17:41:03 +0000 2012
-    [favourites_count] => 16083
+    [favourites_count] => 16087
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4771
+    [statuses_count] => 4775
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
