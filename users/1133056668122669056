@@ -10,16 +10,16 @@ stdClass Object
 -
 Video editor
     [protected] => 
-    [followers_count] => 36
+    [followers_count] => 35
     [friends_count] => 548
     [listed_count] => 0
     [created_at] => Mon May 27 17:05:35 +0000 2019
-    [favourites_count] => 52993
+    [favourites_count] => 52997
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5662
+    [statuses_count] => 5664
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
