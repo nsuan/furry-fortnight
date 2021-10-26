@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 225849233
     [id_str] => 225849233
-    [name] => the-meggo 💙 @ comms open
+    [name] => the-meggo 💙 @ comms closed!!
     [screen_name] => meg_emmy_james
     [location] => Massachusetts, USA
     [url] => http://meganjamesart.com
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 8155
+    [statuses_count] => 8156
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
