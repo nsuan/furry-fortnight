@@ -10,7 +10,7 @@ stdClass Object
 janna main
     [protected] => 
     [followers_count] => 800
-    [friends_count] => 4384
+    [friends_count] => 4385
     [listed_count] => 4
     [created_at] => Sat Apr 11 20:30:52 +0000 2009
     [favourites_count] => 11903
@@ -18,7 +18,7 @@ janna main
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 13540
+    [statuses_count] => 13541
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
