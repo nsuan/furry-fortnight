@@ -10,15 +10,15 @@ stdClass Object
 http://fb.com/book/veriprod/
     [protected] => 
     [followers_count] => 1180
-    [friends_count] => 4019
+    [friends_count] => 4020
     [listed_count] => 15
     [created_at] => Wed May 27 20:00:15 +0000 2009
-    [favourites_count] => 46313
+    [favourites_count] => 46321
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 8805
+    [statuses_count] => 8806
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
