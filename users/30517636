@@ -10,15 +10,15 @@ stdClass Object
 janna main
     [protected] => 
     [followers_count] => 802
-    [friends_count] => 4395
+    [friends_count] => 4394
     [listed_count] => 4
     [created_at] => Sat Apr 11 20:30:52 +0000 2009
-    [favourites_count] => 11936
+    [favourites_count] => 11937
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 13580
+    [statuses_count] => 13579
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
