@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3073910854
     [id_str] => 3073910854
-    [name] => LazTheDK
+    [name] => LazTheRN
     [screen_name] => LazTheDK
     [location] => United States
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 299
     [listed_count] => 1
     [created_at] => Fri Mar 06 00:59:11 +0000 2015
-    [favourites_count] => 2026
+    [favourites_count] => 2027
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 1528
+    [statuses_count] => 1529
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
