@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1678711542
     [id_str] => 1678711542
-    [name] => The Great Un-gi-n One
+    [name] => Maks
     [screen_name] => flowrole
     [location] => Worcester, UK
     [url] => https://musclewizard.bandcamp.com/
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 15593
+    [statuses_count] => 15594
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
