@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 802689263741632516
     [id_str] => 802689263741632516
-    [name] => dameron ① ™ 🎃
+    [name] => dameron ① 🎃
     [screen_name] => vulture_lizard
     [location] => he/him | 🇨🇴
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 519
     [listed_count] => 0
     [created_at] => Sun Nov 27 01:43:28 +0000 2016
-    [favourites_count] => 37027
+    [favourites_count] => 37047
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5757
+    [statuses_count] => 5760
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
