@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 828047706928996352
     [id_str] => 828047706928996352
-    [name] => Deesketches does a folktober revel 🎃👻🎃
+    [name] => Deesketches
     [screen_name] => Deesketches1
     [location] => Limburg, Nederland
     [url] => http://instagram.com/deesketches_doodles
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 609
     [listed_count] => 12
     [created_at] => Sun Feb 05 01:08:52 +0000 2017
-    [favourites_count] => 8982
+    [favourites_count] => 8983
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5666
+    [statuses_count] => 5667
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
