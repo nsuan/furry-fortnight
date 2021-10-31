@@ -10,7 +10,7 @@ stdClass Object
 Zoos/Pedos/Phobes = BLOCK
     [protected] => 
     [followers_count] => 46
-    [friends_count] => 967
+    [friends_count] => 968
     [listed_count] => 1
     [created_at] => Sun May 31 18:14:23 +0000 2015
     [favourites_count] => 11422
@@ -18,7 +18,7 @@ Zoos/Pedos/Phobes = BLOCK
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8358
+    [statuses_count] => 8359
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
