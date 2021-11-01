@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 780318653241696256
     [id_str] => 780318653241696256
-    [name] => A Wraith named
+    [name] => DAN.exe
     [screen_name] => Javitup
     [location] => California, USA
     [url] => http://imightbeafurry.tumblr.com
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 48773
+    [statuses_count] => 48775
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1450697021074010112/dLMNCxq0_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1450697021074010112/dLMNCxq0_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1455072506096721922/UJ8yq8eF_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1455072506096721922/UJ8yq8eF_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/780318653241696256/1606275182
     [profile_link_color] => 19CF86
     [profile_sidebar_border_color] => 000000
