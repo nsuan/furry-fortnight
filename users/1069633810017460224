@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1069633810017460224
     [id_str] => 1069633810017460224
-    [name] => Sr. Lemon - COMMISSIONS OPEN -
+    [name] => Sr. Lemon
     [screen_name] => Sr___Lemon
     [location] => Barcelona, España
     [url] => http://www.patreon.com/Sr_Lemon
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 404
     [listed_count] => 18
     [created_at] => Mon Dec 03 16:45:47 +0000 2018
-    [favourites_count] => 9347
+    [favourites_count] => 9348
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1932
+    [statuses_count] => 1933
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
