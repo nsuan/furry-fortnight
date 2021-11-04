@@ -2,9 +2,9 @@ stdClass Object
 (
     [id] => 775973678798540800
     [id_str] => 775973678798540800
-    [name] => Spookymissile
+    [name] => Retromissile
     [screen_name] => retromissile
-    [location] => Germany
+    [location] => Deutschland
     [url] => https://www.deviantart.com/retromissile
     [description] => ✨COMMISSIONS ARE CLOSED✨
 
@@ -15,12 +15,12 @@ stdClass Object
     [friends_count] => 634
     [listed_count] => 3
     [created_at] => Wed Sep 14 08:25:16 +0000 2016
-    [favourites_count] => 22010
+    [favourites_count] => 22025
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2214
+    [statuses_count] => 2215
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
