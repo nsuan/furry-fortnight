@@ -10,16 +10,16 @@ stdClass Object
 
 $TheCashbringer
     [protected] => 
-    [followers_count] => 1529
-    [friends_count] => 2166
+    [followers_count] => 1530
+    [friends_count] => 2167
     [listed_count] => 20
     [created_at] => Tue Sep 08 00:24:29 +0000 2009
-    [favourites_count] => 64981
+    [favourites_count] => 64982
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 55863
+    [statuses_count] => 55864
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
