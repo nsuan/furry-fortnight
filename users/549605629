@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 549605629
     [id_str] => 549605629
-    [name] => Nathan
+    [name] => Nathan, finally acception new comms! (0/3 slots)
     [screen_name] => TheIronleaf
     [location] => 
     [url] => https://theironleaf.carrd.co/
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9464
+    [statuses_count] => 9467
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
