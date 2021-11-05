@@ -15,7 +15,7 @@ stdClass Object
 ◽ icon by @fosbat
     [protected] => 
     [followers_count] => 284
-    [friends_count] => 2233
+    [friends_count] => 2232
     [listed_count] => 15
     [created_at] => Sun Apr 10 21:04:00 +0000 2016
     [favourites_count] => 24102
@@ -23,7 +23,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 56446
+    [statuses_count] => 56448
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
