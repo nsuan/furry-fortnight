@@ -13,7 +13,7 @@ Written by Ast
 OPEN FOR ALL RPS.
     [protected] => 
     [followers_count] => 166
-    [friends_count] => 2112
+    [friends_count] => 2111
     [listed_count] => 0
     [created_at] => Mon Dec 24 00:48:07 +0000 2012
     [favourites_count] => 10189
@@ -21,7 +21,7 @@ OPEN FOR ALL RPS.
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 255
+    [statuses_count] => 256
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
