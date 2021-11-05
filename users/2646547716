@@ -9,7 +9,7 @@ stdClass Object
     [description] => I made the moon
     [protected] => 
     [followers_count] => 54
-    [friends_count] => 698
+    [friends_count] => 697
     [listed_count] => 2
     [created_at] => Tue Jul 15 00:09:24 +0000 2014
     [favourites_count] => 29503
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 25880
+    [statuses_count] => 25876
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
