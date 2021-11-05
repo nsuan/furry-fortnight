@@ -11,15 +11,15 @@ stdClass Object
 I: @pitrepan
     [protected] => 
     [followers_count] => 1343
-    [friends_count] => 1657
+    [friends_count] => 1658
     [listed_count] => 4
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
-    [favourites_count] => 103465
+    [favourites_count] => 103473
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5763
+    [statuses_count] => 5765
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
