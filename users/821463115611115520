@@ -17,16 +17,16 @@ stdClass Object
 
 'Be well, princess Maya. I will see you soon.'
     [protected] => 
-    [followers_count] => 242
-    [friends_count] => 4974
+    [followers_count] => 241
+    [friends_count] => 4975
     [listed_count] => 0
     [created_at] => Tue Jan 17 21:04:03 +0000 2017
-    [favourites_count] => 21251
+    [favourites_count] => 21258
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6529
+    [statuses_count] => 6531
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
