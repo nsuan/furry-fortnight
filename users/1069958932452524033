@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1069958932452524033
     [id_str] => 1069958932452524033
-    [name] => witch sar 🎃
+    [name] => sar
     [screen_name] => archmagesar
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 414
     [listed_count] => 0
     [created_at] => Tue Dec 04 14:17:43 +0000 2018
-    [favourites_count] => 472
+    [favourites_count] => 474
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5640
+    [statuses_count] => 5642
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
