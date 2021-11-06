@@ -13,9 +13,9 @@ arbiter    bridge
     [protected] => 
     [followers_count] => 1005
     [friends_count] => 4622
-    [listed_count] => 0
+    [listed_count] => 12
     [created_at] => Thu Sep 14 11:37:23 +0000 2017
-    [favourites_count] => 240070
+    [favourites_count] => 240071
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
