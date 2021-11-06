@@ -6,13 +6,13 @@ stdClass Object
     [screen_name] => haldurons
     [location] => 
     [url] => 
-    [description] => 23 | ♈︎
+    [description] => ♈︎
     [protected] => 
-    [followers_count] => 37
+    [followers_count] => 38
     [friends_count] => 456
     [listed_count] => 0
     [created_at] => Fri Mar 30 01:32:09 +0000 2012
-    [favourites_count] => 4876
+    [favourites_count] => 4878
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1034481626460446720/fR6v-dPr_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1034481626460446720/fR6v-dPr_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1457079402668433411/p_Mja-YH_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1457079402668433411/p_Mja-YH_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/540425518/1532633521
     [profile_link_color] => 0084B4
     [profile_sidebar_border_color] => C0DEED
