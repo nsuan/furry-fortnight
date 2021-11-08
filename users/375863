@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => scotu
     [location] => San Francisco, CA
     [url] => http://www.matteoscotuzzi.com
-    [description] => hacker // music producer // dj
+    [description] => hacker
     [protected] => 
     [followers_count] => 567
     [friends_count] => 2252
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 2721
+    [statuses_count] => 2722
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
