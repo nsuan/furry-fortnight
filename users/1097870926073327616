@@ -11,14 +11,14 @@ I am 32 years old
     [protected] => 
     [followers_count] => 98
     [friends_count] => 2394
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Tue Feb 19 14:50:01 +0000 2019
-    [favourites_count] => 22429
+    [favourites_count] => 22433
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 15826
+    [statuses_count] => 15831
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
