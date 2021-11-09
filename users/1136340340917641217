@@ -10,8 +10,8 @@ stdClass Object
 
 tweets are my own
     [protected] => 
-    [followers_count] => 49
-    [friends_count] => 1110
+    [followers_count] => 48
+    [friends_count] => 1109
     [listed_count] => 0
     [created_at] => Wed Jun 05 18:33:44 +0000 2019
     [favourites_count] => 9949
@@ -19,7 +19,7 @@ tweets are my own
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4818
+    [statuses_count] => 4820
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
