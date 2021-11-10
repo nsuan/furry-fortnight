@@ -11,16 +11,16 @@ stdClass Object
 comms: http://coopmissions.carrd.co
 doodle: https://twitter.com/coopsdoodles
     [protected] => 
-    [followers_count] => 873
-    [friends_count] => 480
+    [followers_count] => 874
+    [friends_count] => 485
     [listed_count] => 4
     [created_at] => Wed Jan 04 22:50:09 +0000 2017
-    [favourites_count] => 23957
+    [favourites_count] => 23959
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10163
+    [statuses_count] => 10164
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
