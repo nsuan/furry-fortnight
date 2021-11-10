@@ -12,9 +12,9 @@ Fullbody: 1/1
     [protected] => 
     [followers_count] => 789
     [friends_count] => 330
-    [listed_count] => 8
+    [listed_count] => 0
     [created_at] => Sun Dec 02 15:29:16 +0000 2018
-    [favourites_count] => 1913
+    [favourites_count] => 1914
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
