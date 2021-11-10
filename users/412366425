@@ -2,22 +2,26 @@ stdClass Object
 (
     [id] => 412366425
     [id_str] => 412366425
-    [name] => Dely
+    [name] => Dely | ENVtuber | Debut TBA!
     [screen_name] => Delyarath
     [location] => 🇬🇧 23 He/Him 
     [url] => https://linktr.ee/Delyarath
-    [description] => Voice Actor | Machinimator | Twitch Affiliate #ENVtuber @ http://twitch.tv/delyarath Profile Picture by @alco_tyan
+    [description] => Voice Actor | Machinimator | Twitch Affiliate 
+
+#ENVtuber @ http://twitch.tv/delyarath - Debut TBA!
+
+Profile Picture by @itscarliart
     [protected] => 
-    [followers_count] => 161
-    [friends_count] => 206
+    [followers_count] => 162
+    [friends_count] => 208
     [listed_count] => 1
     [created_at] => Mon Nov 14 16:03:11 +0000 2011
-    [favourites_count] => 2979
+    [favourites_count] => 2980
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 497
+    [statuses_count] => 498
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
