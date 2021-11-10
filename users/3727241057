@@ -4,9 +4,9 @@ stdClass Object
     [id_str] => 3727241057
     [name] => Ren
     [screen_name] => Ankhaara
-    [location] => Seattle, WA
+    [location] => 
     [url] => 
-    [description] => 27 / Any pronoun / Banner: @neenkin
+    [description] => gone from here. DM for new account @
     [protected] => 
     [followers_count] => 1720
     [friends_count] => 1395
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 33434
+    [statuses_count] => 32861
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1458040991114399748/hsVXD5oi_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1458040991114399748/hsVXD5oi_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3727241057/1633919328
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1458306040445816832/JisPMezX_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1458306040445816832/JisPMezX_normal.jpg
     [profile_link_color] => 000000
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
