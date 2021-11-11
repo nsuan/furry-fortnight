@@ -10,7 +10,7 @@ stdClass Object
 
 commission pricelist: http://tinyurl.com/y9v4pbfu
     [protected] => 
-    [followers_count] => 1765
+    [followers_count] => 1764
     [friends_count] => 1234
     [listed_count] => 16
     [created_at] => Tue Jun 21 18:11:08 +0000 2016
@@ -19,7 +19,7 @@ commission pricelist: http://tinyurl.com/y9v4pbfu
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5333
+    [statuses_count] => 5334
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
