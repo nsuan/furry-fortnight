@@ -10,8 +10,8 @@ stdClass Object
 
 🎨: @cenourart
     [protected] => 
-    [followers_count] => 39
-    [friends_count] => 304
+    [followers_count] => 38
+    [friends_count] => 303
     [listed_count] => 0
     [created_at] => Sun Aug 04 11:59:41 +0000 2019
     [favourites_count] => 9410
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3297
+    [statuses_count] => 3298
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
