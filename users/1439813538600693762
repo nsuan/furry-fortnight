@@ -11,16 +11,16 @@ stdClass Object
 Profile: @Ictus_Serpentis
 Banner: @jessiesinner
     [protected] => 
-    [followers_count] => 144
-    [friends_count] => 775
-    [listed_count] => 0
+    [followers_count] => 145
+    [friends_count] => 779
+    [listed_count] => 1
     [created_at] => Mon Sep 20 04:47:59 +0000 2021
-    [favourites_count] => 683
+    [favourites_count] => 696
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 501
+    [statuses_count] => 508
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
