@@ -9,7 +9,7 @@ stdClass Object
     [description] => If you have to know, ask.
     [protected] => 
     [followers_count] => 248
-    [friends_count] => 1745
+    [friends_count] => 1746
     [listed_count] => 9
     [created_at] => Wed May 13 17:47:23 +0000 2009
     [favourites_count] => 3624
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 11222
+    [statuses_count] => 11223
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
