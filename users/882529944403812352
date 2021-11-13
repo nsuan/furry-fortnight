@@ -14,14 +14,14 @@ Cum?
     [protected] => 
     [followers_count] => 163
     [friends_count] => 4728
-    [listed_count] => 1
+    [listed_count] => 0
     [created_at] => Wed Jul 05 09:21:50 +0000 2017
     [favourites_count] => 45368
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 55766
+    [statuses_count] => 55765
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
