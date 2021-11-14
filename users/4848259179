@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => http://cosmickels.twitch.tv
     [description] => 21 ♈
-    [protected] => 1
+    [protected] => 
     [followers_count] => 22
     [friends_count] => 133
     [listed_count] => 1
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 802
+    [statuses_count] => 803
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
