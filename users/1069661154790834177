@@ -6,10 +6,11 @@ stdClass Object
     [screen_name] => skittishmausz
     [location] => 
     [url] => 
-    [description] => Jax | 🌈 He/She/They | Nonbinary 🏳️‍🌈 | 31 years old | Icon/header done by @sr___lemon
+    [description] => Jax | 🌈 He/She/They | Nonbinary 🏳️‍🌈 | 31 years old
+Icon/header done by @sr___lemon
     [protected] => 
     [followers_count] => 109
-    [friends_count] => 488
+    [friends_count] => 487
     [listed_count] => 0
     [created_at] => Mon Dec 03 18:34:27 +0000 2018
     [favourites_count] => 2359
@@ -17,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1402
+    [statuses_count] => 1403
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
