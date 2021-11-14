@@ -12,16 +12,16 @@ stdClass Object
 
 banner made by ~Day~
     [protected] => 
-    [followers_count] => 100
+    [followers_count] => 101
     [friends_count] => 1695
     [listed_count] => 7
     [created_at] => Fri Sep 05 03:46:34 +0000 2014
-    [favourites_count] => 5147
+    [favourites_count] => 5150
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1274
+    [statuses_count] => 1276
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
