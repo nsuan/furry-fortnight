@@ -12,15 +12,15 @@ stdClass Object
 | Main acct: @sora_skymeria |
     [protected] => 
     [followers_count] => 177
-    [friends_count] => 439
+    [friends_count] => 440
     [listed_count] => 0
     [created_at] => Sun Jul 17 23:11:36 +0000 2016
-    [favourites_count] => 2496
+    [favourites_count] => 2501
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3219
+    [statuses_count] => 3223
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
