@@ -10,15 +10,15 @@ stdClass Object
 ☽  any prns - adult
     [protected] => 
     [followers_count] => 281
-    [friends_count] => 2782
-    [listed_count] => 0
+    [friends_count] => 2783
+    [listed_count] => 5
     [created_at] => Fri Sep 09 13:32:16 +0000 2016
-    [favourites_count] => 15441
+    [favourites_count] => 15433
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 67239
+    [statuses_count] => 67227
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
