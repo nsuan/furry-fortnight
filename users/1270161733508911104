@@ -9,7 +9,7 @@ stdClass Object
     [description] => My goal is to make network and domain management easy for you. Sharing resources on all things APIs, computer networks, and software development.
     [protected] => 
     [followers_count] => 76
-    [friends_count] => 637
+    [friends_count] => 622
     [listed_count] => 2
     [created_at] => Tue Jun 09 01:12:27 +0000 2020
     [favourites_count] => 116
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 136
+    [statuses_count] => 137
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
