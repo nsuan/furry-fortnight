@@ -10,15 +10,15 @@ stdClass Object
 My tweets are my own.
     [protected] => 
     [followers_count] => 172
-    [friends_count] => 259
+    [friends_count] => 262
     [listed_count] => 5
     [created_at] => Mon Jun 20 20:06:54 +0000 2011
-    [favourites_count] => 552
+    [favourites_count] => 553
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 701
+    [statuses_count] => 702
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
