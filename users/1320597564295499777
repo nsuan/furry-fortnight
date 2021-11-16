@@ -10,15 +10,15 @@ stdClass Object
 my main is @thecoops_s
     [protected] => 
     [followers_count] => 154
-    [friends_count] => 122
+    [friends_count] => 123
     [listed_count] => 0
     [created_at] => Mon Oct 26 05:26:25 +0000 2020
-    [favourites_count] => 4138
+    [favourites_count] => 4140
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1251
+    [statuses_count] => 1254
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
