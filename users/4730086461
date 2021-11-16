@@ -9,7 +9,7 @@ stdClass Object
     [description] => I like to draw-I’ll even draw for you-He/Him
     [protected] => 
     [followers_count] => 195
-    [friends_count] => 4999
+    [friends_count] => 5000
     [listed_count] => 2
     [created_at] => Thu Jan 07 01:53:23 +0000 2016
     [favourites_count] => 53682
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 61176
+    [statuses_count] => 61177
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
