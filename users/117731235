@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 117731235
     [id_str] => 117731235
-    [name] => Ogumel @ WAITING FOR DECEMBER
+    [name] => Ogumel
     [screen_name] => Ogumel
     [location] => Virginia, USA
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 28195
+    [statuses_count] => 28198
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
