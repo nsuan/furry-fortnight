@@ -14,8 +14,8 @@ stdClass Object
 - Rouxls Kaard my beloved
 - doesn't do much
     [protected] => 
-    [followers_count] => 210
-    [friends_count] => 2410
+    [followers_count] => 211
+    [friends_count] => 2411
     [listed_count] => 0
     [created_at] => Fri Oct 16 15:37:54 +0000 2020
     [favourites_count] => 163114
@@ -23,7 +23,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 30472
+    [statuses_count] => 30471
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
