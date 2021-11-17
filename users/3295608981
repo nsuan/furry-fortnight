@@ -3,7 +3,7 @@ stdClass Object
     [id] => 3295608981
     [id_str] => 3295608981
     [name] => CryptKitten13
-    [screen_name] => Coolkitten_13
+    [screen_name] => CryptKitten13
     [location] => Azeroth
     [url] => http://coolkitten13.newgrounds.com/
     [description] => Just your mildly irritated neighborhood artist! (💢Tasteful NSFW💢)
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 2535
     [listed_count] => 3
     [created_at] => Sat May 23 19:59:09 +0000 2015
-    [favourites_count] => 44624
+    [favourites_count] => 44625
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
