@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => я мерзость
     [protected] => 
-    [followers_count] => 191
-    [friends_count] => 3530
+    [followers_count] => 192
+    [friends_count] => 3531
     [listed_count] => 2
     [created_at] => Sat Nov 15 11:02:29 +0000 2014
     [favourites_count] => 75502
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12237
+    [statuses_count] => 12236
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
