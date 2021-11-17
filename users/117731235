@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 117731235
     [id_str] => 117731235
-    [name] => Ogumel
+    [name] => Ogumel @ #FireBobbyKotick
     [screen_name] => Ogumel
     [location] => Virginia, USA
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1653
     [listed_count] => 14
     [created_at] => Fri Feb 26 12:35:19 +0000 2010
-    [favourites_count] => 27027
+    [favourites_count] => 27029
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 28235
+    [statuses_count] => 28236
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
