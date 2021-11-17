@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1410636440216563712
     [id_str] => 1410636440216563712
-    [name] => kat 🦇🦝🐻‍❄️
+    [name] => kat 🦇🦝
     [screen_name] => raidenkat
     [location] => 🇦🇺
     [url] => https://kokokat.carrd.co
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1444
+    [statuses_count] => 1445
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
