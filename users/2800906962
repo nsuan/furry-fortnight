@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 2800906962
     [id_str] => 2800906962
-    [name] => 𝖏𝖆𝖈𝖐𝖎𝖊, 𝖑𝖎𝖛𝖎𝖓𝖌 𝖉𝖊𝖆𝖉 𝖌𝖎𝖗𝖑
+    [name] => Jackie Thomas, computer witch
     [screen_name] => JackieCobra
     [location] => Queens, NY
     [url] => https://www.techradar.com/author/jackie-thomas
     [description] => US Computing Editor @techradar | Member @TransJa | 32 | DMs open for Signal | be gay do crime hail satan | Opinions are my own
     [protected] => 
     [followers_count] => 588
-    [friends_count] => 1133
+    [friends_count] => 1134
     [listed_count] => 20
     [created_at] => Wed Sep 10 02:26:22 +0000 2014
-    [favourites_count] => 15189
+    [favourites_count] => 15194
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3999
+    [statuses_count] => 4000
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1454881518606823431/8K4EM9C5_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1454881518606823431/8K4EM9C5_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1461438615276462085/wFJuYCZK_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1461438615276462085/wFJuYCZK_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/2800906962/1630682050
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => 000000
