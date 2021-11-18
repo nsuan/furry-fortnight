@@ -2,9 +2,9 @@ stdClass Object
 (
     [id] => 2761671677
     [id_str] => 2761671677
-    [name] => Bacca
+    [name] => BaccaMG
     [screen_name] => BaccaBMG
-    [location] => Juneau, AK
+    [location] => The Treehouse
     [url] => https://linktr.ee/BaccaMG
     [description] => Hello! I'm Bacca! That is all :)
 
@@ -16,12 +16,12 @@ banner made by ~Day~
     [friends_count] => 1697
     [listed_count] => 7
     [created_at] => Fri Sep 05 03:46:34 +0000 2014
-    [favourites_count] => 5250
+    [favourites_count] => 5255
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1301
+    [statuses_count] => 1303
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
