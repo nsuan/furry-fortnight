@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1069986364723290114
     [id_str] => 1069986364723290114
-    [name] => Trolldad
+    [name] => Elezendad
     [screen_name] => elezendad
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19686
+    [statuses_count] => 19687
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
