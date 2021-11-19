@@ -1,28 +1,25 @@
 stdClass Object
 (
-    [id] => 1247300193999040526
-    [id_str] => 1247300193999040526
-    [name] => Melpominee
-    [screen_name] => melpomineesecho
-    [location] => New York
+    [id] => 1158213261445255168
+    [id_str] => 1158213261445255168
+    [name] => cursyve
+    [screen_name] => cursyve
+    [location] => 
     [url] => 
-    [description] => ◾️ #Warcraft
-◾️ #ABetterABK 💙
-◾️ #WorldofDarkness 🦇
-◾️ #Writer #RP
-◾️ #Horror #Fantasy
-◾️ Hell is empty and the devils are here.
+    [description] => austin • 26 • he/him
+🔞  🌈  ✏️  🎮  📚  🔮
+{ icon @NinaModaffari • header @MysticPotionArt }
     [protected] => 
-    [followers_count] => 368
-    [friends_count] => 200
+    [followers_count] => 52
+    [friends_count] => 646
     [listed_count] => 0
-    [created_at] => Mon Apr 06 23:08:42 +0000 2020
-    [favourites_count] => 120546
+    [created_at] => Mon Aug 05 03:08:54 +0000 2019
+    [favourites_count] => 8500
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8250
+    [statuses_count] => 840
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -31,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1443109525918203909/rr8ErgL-_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1443109525918203909/rr8ErgL-_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1247300193999040526/1635827467
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1436185610830635010/dqIs0Xi__normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1436185610830635010/dqIs0Xi__normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1158213261445255168/1631248307
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
