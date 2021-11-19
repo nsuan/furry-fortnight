@@ -1,26 +1,26 @@
 stdClass Object
 (
-    [id] => 1431171493770272769
-    [id_str] => 1431171493770272769
-    [name] => Tylwen
-    [screen_name] => TylwenStarlight
-    [location] => Azeroth Argent-Dawn EU|Epsilon
-    [url] => https://curiouscat.qa/TylwenStarlight
-    [description] => He/Him | LvL 29 | Argent-Dawn EU / Epsilon | Kaldorei Lover | Elf lover | DM Open | RP - Yes just DM | +18 | #WarcratRP
-
-
-Banner:Lumiarts Avatar:Sabalmirss
+    [id] => 1451598578170818561
+    [id_str] => 1451598578170818561
+    [name] => sleepy
+    [screen_name] => keysmaench
+    [location] => around here somewhere
+    [url] => http://www.twitch.tv/sleepy_creek
+    [description] => 22 - they/she/etc - northern ca
+WoW + ARK + FFXIV
+and everything else!
+@sleepy_creek
     [protected] => 
-    [followers_count] => 306
-    [friends_count] => 1795
+    [followers_count] => 5
+    [friends_count] => 193
     [listed_count] => 0
-    [created_at] => Fri Aug 27 08:27:40 +0000 2021
-    [favourites_count] => 4443
+    [created_at] => Fri Oct 22 17:17:37 +0000 2021
+    [favourites_count] => 601
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1196
+    [statuses_count] => 110
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,9 +29,9 @@ Banner:Lumiarts Avatar:Sabalmirss
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1431172988540424195/-TnSnKdA_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1431172988540424195/-TnSnKdA_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1431171493770272769/1630059690
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1451598632101113858/ptYcj6m3_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1451598632101113858/ptYcj6m3_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1451598578170818561/1634924477
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
