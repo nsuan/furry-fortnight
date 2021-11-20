@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 490020726
+    [id_str] => 490020726
+    [name] => Blaze
+    [screen_name] => _BSGiraldo
+    [location] => Karazhan, Deadwind Pass
+    [url] => 
+    [description] => i don't sleep, just dream
+    [protected] => 
+    [followers_count] => 20
+    [friends_count] => 184
+    [listed_count] => 0
+    [created_at] => Sun Feb 12 04:26:34 +0000 2012
+    [favourites_count] => 64
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 126
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 131516
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1419679942309199883/GZ6xzwhz_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1419679942309199883/GZ6xzwhz_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/490020726/1416798215
+    [profile_link_color] => 009999
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => 140E0A
+    [profile_text_color] => 838978
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)
