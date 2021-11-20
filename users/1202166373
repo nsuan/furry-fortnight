@@ -9,7 +9,7 @@ stdClass Object
     [description] => Freelance Artist
 Contact: Art@Vintrove.com 
 Commissions : Closed
-    [protected] => 
+    [protected] => 1
     [followers_count] => 1446
     [friends_count] => 819
     [listed_count] => 7
