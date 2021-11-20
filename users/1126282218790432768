@@ -14,14 +14,14 @@ header by @BryJL
     [protected] => 
     [followers_count] => 11
     [friends_count] => 88
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Thu May 09 00:26:21 +0000 2019
     [favourites_count] => 5212
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 894
+    [statuses_count] => 895
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
