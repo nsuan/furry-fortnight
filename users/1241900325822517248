@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1241900325822517248
     [id_str] => 1241900325822517248
-    [name] => disco (em itálico)
+    [name] => cursed ramon
     [screen_name] => alfur_automata
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 953
     [listed_count] => 1
     [created_at] => Mon Mar 23 01:31:34 +0000 2020
-    [favourites_count] => 8064
+    [favourites_count] => 8065
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3817
+    [statuses_count] => 3818
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1458103937911951361/TMpl2trl_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1458103937911951361/TMpl2trl_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1461914683254976519/MKpnhNb8_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1461914683254976519/MKpnhNb8_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1241900325822517248/1635015238
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
