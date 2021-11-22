@@ -4,9 +4,9 @@ stdClass Object
     [id_str] => 1462346988230524932
     [name] => Simple Peon The Orc
     [screen_name] => PeonSimple
-    [location] => 
+    [location] => Orgrimmar
     [url] => 
-    [description] => A peon's life is hard, 'specially wen da Horde needs wurriurs. Gots to rite home to mum and dad too
+    [description] => Sumfin need doin'?
     [protected] => 
     [followers_count] => 19
     [friends_count] => 123
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 15
+    [statuses_count] => 13
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
