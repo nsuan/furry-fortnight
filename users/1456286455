@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1456286455
     [id_str] => 1456286455
-    [name] => spence but worse (4 days)
+    [name] => spence but worse in 3 days
     [screen_name] => neophaim
     [location] => Zalera + Coeurl
     [url] => https://neophaim.carrd.co/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 2324
     [listed_count] => 22
     [created_at] => Sat May 25 07:35:31 +0000 2013
-    [favourites_count] => 417395
+    [favourites_count] => 417408
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 137381
+    [statuses_count] => 137382
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
