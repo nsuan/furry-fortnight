@@ -7,7 +7,7 @@ stdClass Object
     [location] => Canada
     [url] => 
     [description] => 21/he-him/Aspiring writer/http://twitch.tv/krexxal18 | Private account: @KrexPrivate | Bnet: Krexxal#1454 | Discord: Krex#0843
-    [protected] => 1
+    [protected] => 
     [followers_count] => 926
     [friends_count] => 4675
     [listed_count] => 6
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 11008
+    [statuses_count] => 11010
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
