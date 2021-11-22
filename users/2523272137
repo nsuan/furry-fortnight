@@ -10,15 +10,15 @@ stdClass Object
 She/They
     [protected] => 
     [followers_count] => 419
-    [friends_count] => 662
+    [friends_count] => 664
     [listed_count] => 11
     [created_at] => Sun May 25 18:47:44 +0000 2014
-    [favourites_count] => 979
+    [favourites_count] => 985
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1068
+    [statuses_count] => 1071
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
