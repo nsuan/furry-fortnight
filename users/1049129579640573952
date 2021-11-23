@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1049129579640573952
     [id_str] => 1049129579640573952
-    [name] => zzapee likes sweaters (currently inactive)
+    [name] => zzapee likes turkies (currently inactive)
     [screen_name] => zzapee
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 896
     [listed_count] => 2
     [created_at] => Mon Oct 08 02:49:18 +0000 2018
-    [favourites_count] => 23813
+    [favourites_count] => 23815
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17670
+    [statuses_count] => 17673
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1459289649478656002/yF4BcEF-_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1459289649478656002/yF4BcEF-_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1049129579640573952/1636053230
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1463017433560612865/JRieqh5N_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1463017433560612865/JRieqh5N_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1049129579640573952/1637645514
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
