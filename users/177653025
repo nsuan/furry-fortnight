@@ -9,7 +9,7 @@ stdClass Object
     [description] => She/Her
 30+
 FFXIV Account: @rosegadyn
-    [protected] => 
+    [protected] => 1
     [followers_count] => 1283
     [friends_count] => 998
     [listed_count] => 19
@@ -19,7 +19,7 @@ FFXIV Account: @rosegadyn
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4681
+    [statuses_count] => 4673
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
