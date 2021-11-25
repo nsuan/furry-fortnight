@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1350232182
     [id_str] => 1350232182
-    [name] => 𝓔𝓵𝓵𝓲𝓮
+    [name] => 𝓔𝓵𝓵𝓲𝓮 🦋
     [screen_name] => Aetherwyvern
     [location] => Westfall
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 3096
     [listed_count] => 0
     [created_at] => Sat Apr 13 21:15:13 +0000 2013
-    [favourites_count] => 28014
+    [favourites_count] => 28029
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6073
+    [statuses_count] => 6075
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
