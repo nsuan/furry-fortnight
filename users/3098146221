@@ -11,9 +11,9 @@ header:@f1shegg
     [protected] => 
     [followers_count] => 186
     [friends_count] => 1112
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Fri Mar 20 02:02:38 +0000 2015
-    [favourites_count] => 94103
+    [favourites_count] => 94106
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
