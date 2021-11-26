@@ -6,10 +6,10 @@ stdClass Object
     [screen_name] => barleybear90
     [location] => Ontario, CA
     [url] => http://twitch.tv/barleybearr
-    [description] => he/him. leo. 26. software dev. former tank now dps. ♥️ @akundasbite ♥️
+    [description] => he/him. leo. 26. software dev. ♥️ @akundasbite ♥️
     [protected] => 
     [followers_count] => 116
-    [friends_count] => 407
+    [friends_count] => 408
     [listed_count] => 5
     [created_at] => Mon Jun 08 06:29:46 +0000 2015
     [favourites_count] => 13546
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 26319
+    [statuses_count] => 26321
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
