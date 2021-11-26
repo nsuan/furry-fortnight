@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 1462505435928354829
     [id_str] => 1462505435928354829
-    [name] => GC Gaming
+    [name] => Glorious Combat
     [screen_name] => gloriouscombat
     [location] => Boston, MA.
-    [url] => https://gloriouscombat.com/
-    [description] => Mobile applications and TCG. http://Twitch.tv/nerdpleasure.
+    [url] => 
+    [description] => 
     [protected] => 
-    [followers_count] => 5
-    [friends_count] => 56
+    [followers_count] => 0
+    [friends_count] => 0
     [listed_count] => 0
     [created_at] => Sun Nov 21 19:37:30 +0000 2021
     [favourites_count] => 0
