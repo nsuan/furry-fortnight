@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => SYSPRIV
     [location] => Windsor, Ontario
     [url] => 
-    [description] => Grumpy sysadmin | Son |  Washed up Plat player | D&D | Level 60 Hunter | HIKES | Stonks 
+    [description] => Grumpy sysadmin | Son |  Washed up Plat player | Level 60 Hunter | HIKES | Stonks 
 
 @minings/@acciozz
     [protected] => 
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 440
+    [statuses_count] => 439
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
