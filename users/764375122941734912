@@ -14,14 +14,14 @@ They/them/he
     [protected] => 
     [followers_count] => 390
     [friends_count] => 1608
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Sat Aug 13 08:16:45 +0000 2016
-    [favourites_count] => 20598
+    [favourites_count] => 20599
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 18805
+    [statuses_count] => 18808
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
