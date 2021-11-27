@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2301266796
     [id_str] => 2301266796
-    [name] => Sprite Samin Sufi McCool
+    [name] => Sprite Samin Sufi
     [screen_name] => world_fraction
     [location] => Jakarta, Indonesia
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4953
     [listed_count] => 1
     [created_at] => Mon Jan 20 11:54:07 +0000 2014
-    [favourites_count] => 138269
+    [favourites_count] => 138270
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 100673
+    [statuses_count] => 100674
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
