@@ -15,15 +15,15 @@ stdClass Object
 - doesn't do much
     [protected] => 
     [followers_count] => 211
-    [friends_count] => 2422
+    [friends_count] => 2421
     [listed_count] => 0
     [created_at] => Fri Oct 16 15:37:54 +0000 2020
-    [favourites_count] => 166461
+    [favourites_count] => 166483
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 31228
+    [statuses_count] => 31231
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
