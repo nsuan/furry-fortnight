@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2686746235
     [id_str] => 2686746235
-    [name] => MintyWyvern, 80% caffeine 20% lizard
+    [name] => MintyWyvern @ Endwalker lockdown mode
     [screen_name] => MintyWyvern
     [location] => header: @pocketghosts
     [url] => http://twitch.tv/MintyWyvern
@@ -20,7 +20,7 @@ fanart: #WyvernArts  Live/Clips: #WyvernLive
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17232
+    [statuses_count] => 17233
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
