@@ -8,11 +8,11 @@ stdClass Object
     [url] => 
     [description] => head's all empty and I don't care.
     [protected] => 1
-    [followers_count] => 401
-    [friends_count] => 2776
+    [followers_count] => 400
+    [friends_count] => 2775
     [listed_count] => 3
     [created_at] => Sun Jan 01 17:41:03 +0000 2012
-    [favourites_count] => 18539
+    [favourites_count] => 18540
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
