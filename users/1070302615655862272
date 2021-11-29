@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1070302615655862272
     [id_str] => 1070302615655862272
-    [name] => ingstad 🦇 cmms closed
+    [name] => ingstad 🦇
     [screen_name] => ingstad4
     [location] => Krasnodar, Russia 
     [url] => http://ko-fi.com/ingstad
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 425
     [listed_count] => 16
     [created_at] => Wed Dec 05 13:03:23 +0000 2018
-    [favourites_count] => 10738
+    [favourites_count] => 10740
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1759
+    [statuses_count] => 1760
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
