@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 1191120692755886080
-    [id_str] => 1191120692755886080
-    [name] => Dreamtusk 🔞 🦈
-    [screen_name] => Dreamtusk1
-    [location] => 
-    [url] => 
-    [description] => He/ Him, horde player, I like trolls and elves.  Banner is my son Scuttles the scarab 🔞| profile pic by @davyonmartz
+    [id] => 1464709255001485316
+    [id_str] => 1464709255001485316
+    [name] => ilovethehorde
+    [screen_name] => ilovethehorde
+    [location] => Orgrimmar
+    [url] => https://linktr.ee/ilovethehorde
+    [description] => All things Horde and World of Warcraft!                       
+
+🩸⚡Blood and Thunder!⚡🩸
     [protected] => 
-    [followers_count] => 102
-    [friends_count] => 474
+    [followers_count] => 4
+    [friends_count] => 393
     [listed_count] => 0
-    [created_at] => Sun Nov 03 22:31:32 +0000 2019
-    [favourites_count] => 24528
+    [created_at] => Sat Nov 27 21:34:42 +0000 2021
+    [favourites_count] => 92
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5042
+    [statuses_count] => 31
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1238740392020975616/wZSIcYGN_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1238740392020975616/wZSIcYGN_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1191120692755886080/1636188851
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1464709753104392199/gJEK3SRo_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1464709753104392199/gJEK3SRo_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1464709255001485316/1638049022
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
