@@ -1,24 +1,23 @@
 stdClass Object
 (
-    [id] => 3456958575
-    [id_str] => 3456958575
-    [name] => Theo 🏳️‍🌈
-    [screen_name] => monkyonmain
-    [location] => Pennsylvania
-    [url] => 
-    [description] => Theo, 31, he/they; talks too much about video games
-(Icon: @KokuKokuBoo)
+    [id] => 954911693448142849
+    [id_str] => 954911693448142849
+    [name] => Jman the Reaper from hell @ReturnedfromHell
+    [screen_name] => Thejman5683
+    [location] => Shibuya-ku, Tokyo
+    [url] => https://thejman5683.carrd.co
+    [description] => 23|Straight Ally|LIS hater|YouTuber| TWEWY KH MGS Omari Mother fandom|Gm of the Twitter UG| #StopAsianHate
     [protected] => 
-    [followers_count] => 498
-    [friends_count] => 458
-    [listed_count] => 0
-    [created_at] => Thu Aug 27 11:05:37 +0000 2015
-    [favourites_count] => 75014
+    [followers_count] => 242
+    [friends_count] => 1613
+    [listed_count] => 1
+    [created_at] => Sun Jan 21 03:01:03 +0000 2018
+    [favourites_count] => 81448
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 139038
+    [statuses_count] => 38690
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,10 +26,10 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1427101683604197380/WG4lozd1_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1427101683604197380/WG4lozd1_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3456958575/1587839177
-    [profile_link_color] => DC413C
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1465039163598815234/9UBDWK1O_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1465039163598815234/9UBDWK1O_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/954911693448142849/1610601003
+    [profile_link_color] => E81C4F
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
