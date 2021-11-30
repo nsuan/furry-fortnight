@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 225019098
     [id_str] => 225019098
-    [name] => 💜Triunviratum art 💜 Commissions waiting queue 💜
+    [name] => 💜Triunviratum art 💜 Commissions: open 💜
     [screen_name] => triunviratum
     [location] => Colombia/Mordor
     [url] => https://twitter.com/triunviratum/status/1416207581538885637
@@ -16,7 +16,7 @@ Quel´thalas - US
     [friends_count] => 392
     [listed_count] => 7
     [created_at] => Fri Dec 10 13:13:46 +0000 2010
-    [favourites_count] => 5168
+    [favourites_count] => 5169
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
