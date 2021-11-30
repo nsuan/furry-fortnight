@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 22575468
     [id_str] => 22575468
-    [name] => Gastly @ ENDWALKIES (50k/50k Nano2021)
+    [name] => Gastly @ ENDWALKIES
     [screen_name] => simplygastly
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 405
     [listed_count] => 10
     [created_at] => Tue Mar 03 03:00:42 +0000 2009
-    [favourites_count] => 44442
+    [favourites_count] => 44447
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 48160
+    [statuses_count] => 48168
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
