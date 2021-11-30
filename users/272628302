@@ -12,7 +12,7 @@ stdClass Object
 ♥ @flobsu
     [protected] => 
     [followers_count] => 161
-    [friends_count] => 324
+    [friends_count] => 323
     [listed_count] => 3
     [created_at] => Sat Mar 26 21:28:16 +0000 2011
     [favourites_count] => 21380
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 60998
+    [statuses_count] => 60997
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
