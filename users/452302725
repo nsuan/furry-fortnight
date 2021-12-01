@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => head's all empty and I don't care.
-    [protected] => 
+    [protected] => 1
     [followers_count] => 402
     [friends_count] => 2785
     [listed_count] => 3
