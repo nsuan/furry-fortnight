@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 742471163541065728
     [id_str] => 742471163541065728
-    [name] => 👻The Ghost of Justice👻
+    [name] => Justice
     [screen_name] => EchoofJustice
     [location] => Alberta, Canada
     [url] => http://www.patreon.com/echoofjustice
@@ -15,12 +15,12 @@ email: justice.hopkins@hotmail.com
     [friends_count] => 939
     [listed_count] => 35
     [created_at] => Mon Jun 13 21:38:14 +0000 2016
-    [favourites_count] => 22665
+    [favourites_count] => 22668
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9353
+    [statuses_count] => 9356
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
