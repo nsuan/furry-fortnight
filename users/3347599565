@@ -7,7 +7,7 @@ stdClass Object
     [location] => Azeroth / Sharlayan
     [url] => 
     [description] => 20 | Sad Lizorb | Mage Supreme | WoW/FFXIV | Mainly Retweets and Follows | 🔞 Probably |
-    [protected] => 1
+    [protected] => 
     [followers_count] => 101
     [friends_count] => 329
     [listed_count] => 1
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1630
+    [statuses_count] => 1631
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
