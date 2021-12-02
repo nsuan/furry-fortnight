@@ -7,7 +7,7 @@ stdClass Object
     [location] => Seattle, WA
     [url] => 
     [description] => Black Lives Matter | Coffee, Cats, and Video Games | She/They | User is 25+ | Avatar via  http://ummmmandy.tumblr.com
-    [protected] => 
+    [protected] => 1
     [followers_count] => 45
     [friends_count] => 501
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6076
+    [statuses_count] => 6077
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

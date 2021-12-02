@@ -9,7 +9,7 @@ stdClass Object
     [description] => head's all empty and I don't care.
     [protected] => 1
     [followers_count] => 402
-    [friends_count] => 2784
+    [friends_count] => 2785
     [listed_count] => 3
     [created_at] => Sun Jan 01 17:41:03 +0000 2012
     [favourites_count] => 18714
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5643
+    [statuses_count] => 5644
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
