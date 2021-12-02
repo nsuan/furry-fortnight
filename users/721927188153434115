@@ -10,15 +10,15 @@ stdClass Object
 Unbelievably awkward person.
     [protected] => 
     [followers_count] => 46
-    [friends_count] => 1378
+    [friends_count] => 1379
     [listed_count] => 0
     [created_at] => Mon Apr 18 05:03:49 +0000 2016
-    [favourites_count] => 30860
+    [favourites_count] => 30864
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4445
+    [statuses_count] => 4446
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
