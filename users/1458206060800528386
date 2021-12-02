@@ -1,24 +1,25 @@
 stdClass Object
 (
-    [id] => 1316548028812189699
-    [id_str] => 1316548028812189699
-    [name] => Exhausted Jackal
-    [screen_name] => JekyllJackal
-    [location] => 
-    [url] => https://pronouny.xyz/u/jekylljackal
-    [description] => Eternally exhausted, 23yr old nb idiot,
-He/They/Star
+    [id] => 1458206060800528386
+    [id_str] => 1458206060800528386
+    [name] => zora
+    [screen_name] => Z0RAxo
+    [location] => she/they
+    [url] => https://www.twitch.tv/Z0RAxo
+    [description] => basic dakota bish • streamer 
+vibing in tamriel, fae enthusiast 🦋 
+formerly @zoradraws
     [protected] => 
-    [followers_count] => 28
-    [friends_count] => 493
+    [followers_count] => 36
+    [friends_count] => 51
     [listed_count] => 0
-    [created_at] => Thu Oct 15 01:14:55 +0000 2020
-    [favourites_count] => 4740
+    [created_at] => Tue Nov 09 22:53:17 +0000 2021
+    [favourites_count] => 6
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 749
+    [statuses_count] => 4
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,9 +28,9 @@ He/They/Star
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1465598391765901313/RVPmcf-m_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1465598391765901313/RVPmcf-m_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1316548028812189699/1604679721
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1464704996302376968/tf25AvnR_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1464704996302376968/tf25AvnR_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1458206060800528386/1637358551
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
