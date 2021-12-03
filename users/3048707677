@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3048707677
     [id_str] => 3048707677
-    [name] => Rasek into Endwalker
+    [name] => Spoiler-Free Rasek
     [screen_name] => buff_moogle
     [location] => Skeleton Hell
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1088
     [listed_count] => 12
     [created_at] => Sat Feb 28 04:58:03 +0000 2015
-    [favourites_count] => 131103
+    [favourites_count] => 131104
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 77307
+    [statuses_count] => 77309
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
