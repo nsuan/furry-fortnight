@@ -12,7 +12,7 @@ stdClass Object
 🍑 icon by @.luwhart
     [protected] => 
     [followers_count] => 34
-    [friends_count] => 503
+    [friends_count] => 504
     [listed_count] => 0
     [created_at] => Tue Oct 16 13:56:23 +0000 2018
     [favourites_count] => 12145
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1248
+    [statuses_count] => 1249
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
