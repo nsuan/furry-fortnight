@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1462346988230524932
     [id_str] => 1462346988230524932
-    [name] => Simple Serf
+    [name] => Merry Serfmas 🎄🎄🎅
     [screen_name] => SerfSimple
     [location] => Stormwind
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 193
     [listed_count] => 0
     [created_at] => Sun Nov 21 09:07:52 +0000 2021
-    [favourites_count] => 104
+    [favourites_count] => 105
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 145
+    [statuses_count] => 147
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
