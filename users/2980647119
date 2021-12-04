@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 2980647119
     [id_str] => 2980647119
-    [name] => sparrow (4 slots open) #buffDH
+    [name] => sparrow (6 slots open) #buffDH
     [screen_name] => russetsparrows
     [location] => Toronto, Ontario
     [url] => https://www.artstation.com/russetsparrows
-    [description] => 26  | freelance artist | demon hunter | nsfw - @felsparrows | personal - @onyxsparrows | Xerà @ Moon Guard |  💚@snailpoop7
+    [description] => 26 | freelance artist | demon hunter | nsfw - @felsparrows | personal - @onyxsparrows | Xerà @ Moon Guard | 💚@snailpoop7
     [protected] => 
     [followers_count] => 837
     [friends_count] => 222
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3687
+    [statuses_count] => 3688
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
