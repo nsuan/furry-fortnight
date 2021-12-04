@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1327693407767187459
     [id_str] => 1327693407767187459
-    [name] => Matt24ski soon @MFF
+    [name] => Matt24ski @MFF
     [screen_name] => Ash_the_Jaguar
     [location] => Green Bay Wisconsin 
     [url] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 1895
     [listed_count] => 0
     [created_at] => Sat Nov 14 19:22:59 +0000 2020
-    [favourites_count] => 953
+    [favourites_count] => 954
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
