@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 39802143
     [id_str] => 39802143
-    [name] => Gamer Mom (Endwalker Waiting Room)
+    [name] => Gamer Mom (Endwalker MSQ/Login Savage)
     [screen_name] => irishred8211
     [location] => Kentucky, USA
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1796
     [listed_count] => 9
     [created_at] => Wed May 13 17:47:23 +0000 2009
-    [favourites_count] => 4003
+    [favourites_count] => 4004
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 11425
+    [statuses_count] => 11427
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
