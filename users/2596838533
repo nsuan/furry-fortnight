@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2596838533
     [id_str] => 2596838533
-    [name] => peach 🍑
+    [name] => peach 🍑 comms open
     [screen_name] => peachiella
     [location] => 
     [url] => http://patreon.com/peachiella
@@ -13,12 +13,12 @@ stdClass Object
     [friends_count] => 484
     [listed_count] => 23
     [created_at] => Mon Jun 30 19:38:56 +0000 2014
-    [favourites_count] => 8393
+    [favourites_count] => 8395
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2201
+    [statuses_count] => 2204
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
