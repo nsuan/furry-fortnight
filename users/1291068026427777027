@@ -9,7 +9,7 @@ stdClass Object
     [description] => 沃夫的机器虎。
     [protected] => 
     [followers_count] => 183
-    [friends_count] => 336
+    [friends_count] => 337
     [listed_count] => 0
     [created_at] => Wed Aug 05 17:46:26 +0000 2020
     [favourites_count] => 80
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 75
+    [statuses_count] => 76
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
