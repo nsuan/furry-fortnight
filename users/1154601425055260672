@@ -9,7 +9,7 @@ stdClass Object
     [description] => I don't know also Yes I'm 18
     [protected] => 
     [followers_count] => 41
-    [friends_count] => 1917
+    [friends_count] => 1916
     [listed_count] => 0
     [created_at] => Fri Jul 26 03:56:45 +0000 2019
     [favourites_count] => 392
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 497
+    [statuses_count] => 498
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
