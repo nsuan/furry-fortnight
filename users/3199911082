@@ -17,14 +17,14 @@ Icon: @platyloid
     [protected] => 
     [followers_count] => 187
     [friends_count] => 887
-    [listed_count] => 0
+    [listed_count] => 7
     [created_at] => Fri Apr 24 02:54:59 +0000 2015
-    [favourites_count] => 145308
+    [favourites_count] => 145312
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 48823
+    [statuses_count] => 48825
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
