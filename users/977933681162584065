@@ -10,7 +10,7 @@ stdClass Object
 (p.s. don't listen to Odin, he only has one eye)
     [protected] => 
     [followers_count] => 90
-    [friends_count] => 1437
+    [friends_count] => 1442
     [listed_count] => 1
     [created_at] => Sun Mar 25 15:42:13 +0000 2018
     [favourites_count] => 7150
@@ -18,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2111
+    [statuses_count] => 2113
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
