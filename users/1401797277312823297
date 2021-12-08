@@ -1,23 +1,24 @@
 stdClass Object
 (
-    [id] => 715807568132759552
-    [id_str] => 715807568132759552
-    [name] => Zeladanial
-    [screen_name] => zeladanial
+    [id] => 1401797277312823297
+    [id_str] => 1401797277312823297
+    [name] => Jeanbattle (Hiatus)
+    [screen_name] => Jeanbattle14
     [location] => 
-    [url] => http://zeladanial.tumblr.com
-    [description] => Mae, She/Her, 26, 🇺🇸, I enjoy cartoons, videogames, art, music, and other things. My #DigitalArt is done with  #CorelPainter2020 or #clipstudiopaint
+    [url] => 
+    [description] => I am an amateur artist who wants to adapt to different environments (Like Fat furs, Muscle, Humans, Etc.)
+and have fun drawing pictures (and meeting friends)
     [protected] => 
-    [followers_count] => 681
-    [friends_count] => 1841
-    [listed_count] => 9
-    [created_at] => Fri Apr 01 07:46:38 +0000 2016
-    [favourites_count] => 6627
+    [followers_count] => 326
+    [friends_count] => 2150
+    [listed_count] => 2
+    [created_at] => Mon Jun 07 07:05:00 +0000 2021
+    [favourites_count] => 3884
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1973
+    [statuses_count] => 2324
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +27,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1402353238247186434/jwoy8rYj_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1402353238247186434/jwoy8rYj_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1452092059897278470/t3dgpZQE_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1452092059897278470/t3dgpZQE_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1401797277312823297/1629913523
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
