@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 871861066749399040
     [id_str] => 871861066749399040
-    [name] => Ramavatarama *COMMISSION STATUS: OPEN*
+    [name] => Ramavatarama *COMMISSION STATUS: CLOSED*
     [screen_name] => RamavataramaArt
     [location] => Chile
     [url] => http://ramavatarama-o-rama.tumblr.com
@@ -13,12 +13,12 @@ http://ko-fi.com/ramavataramaor…
     [friends_count] => 329
     [listed_count] => 11
     [created_at] => Mon Jun 05 22:47:31 +0000 2017
-    [favourites_count] => 25810
+    [favourites_count] => 25814
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11906
+    [statuses_count] => 11909
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
