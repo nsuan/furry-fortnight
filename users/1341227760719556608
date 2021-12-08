@@ -1,27 +1,23 @@
 stdClass Object
 (
-    [id] => 1460711156016979974
-    [id_str] => 1460711156016979974
-    [name] => Autumnbreeze
-    [screen_name] => Gardenelfo
-    [location] => 
-    [url] => 
-    [description] => 🏳️‍🌈 He/him . Wra US
-
-New Alt acc, mainly for Warcraft stuff
-
-Icon is my main OC, by http://artstation.com/toraboi
+    [id] => 1341227760719556608
+    [id_str] => 1341227760719556608
+    [name] => Rortsfike, Unionize Gaming Companies
+    [screen_name] => rortsfike
+    [location] => California
+    [url] => https://youtube.com/channel/UCegLSWQhqL3GMxMIMzacdAg
+    [description] => My WoW Twitter 248 Veng DH, many alts, 2/10 Mythic SOD 10/10 Heroic SOD, KSM, AOTC Nathria. I do a few WoW videos. Horde Guild Leader on Hyjal. He/Him.
     [protected] => 
-    [followers_count] => 17
-    [friends_count] => 385
+    [followers_count] => 226
+    [friends_count] => 1506
     [listed_count] => 0
-    [created_at] => Tue Nov 16 20:47:55 +0000 2021
-    [favourites_count] => 774
+    [created_at] => Tue Dec 22 03:43:18 +0000 2020
+    [favourites_count] => 6418
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 264
+    [statuses_count] => 3117
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,9 +26,9 @@ Icon is my main OC, by http://artstation.com/toraboi
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1460778967535865860/OUSkwYu3_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1460778967535865860/OUSkwYu3_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1460711156016979974/1637112000
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1446754587692601347/g-cLbnK1_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1446754587692601347/g-cLbnK1_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1341227760719556608/1627327327
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
