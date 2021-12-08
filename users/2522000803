@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2522000803
     [id_str] => 2522000803
-    [name] => ❄️Rimefang the Northwind❄️
+    [name] => ☃️❄️Rimefang the Northwind❄️☃️
     [screen_name] => Rimefang07
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1109
     [listed_count] => 0
     [created_at] => Sun May 25 05:41:08 +0000 2014
-    [favourites_count] => 3437
+    [favourites_count] => 3451
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 268
+    [statuses_count] => 270
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
