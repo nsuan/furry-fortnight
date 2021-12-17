@@ -6,18 +6,20 @@ stdClass Object
     [screen_name] => mercuryhammer
     [location] => Cleveland,USA
     [url] => 
-    [description] => she/her|pan|29 vinyls, coffee and video games. ludo jenkai @ cactuar
+    [description] => she/her (29/pansexual)
+bunnies, music, coffee & games.
+ludo jenkai@ cactuar
     [protected] => 
-    [followers_count] => 807
-    [friends_count] => 4419
-    [listed_count] => 0
+    [followers_count] => 804
+    [friends_count] => 4426
+    [listed_count] => 4
     [created_at] => Sat Apr 11 20:30:52 +0000 2009
-    [favourites_count] => 12438
+    [favourites_count] => 12466
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 14285
+    [statuses_count] => 14358
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1466212589634035721/0y0IgGDD_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1466212589634035721/0y0IgGDD_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/30517636/1635102174
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1471187824242270219/S4YQTNC0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1471187824242270219/S4YQTNC0_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/30517636/1639592596
     [profile_link_color] => F58EA8
     [profile_sidebar_border_color] => FFFFFF
     [profile_sidebar_fill_color] => 729388

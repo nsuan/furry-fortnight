@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2979383819
     [id_str] => 2979383819
-    [name] => highlord. 💙 @ENDWALKER
+    [name] => highlord. 💙 @THROUGH YOU, WE LIVE
     [screen_name] => Xccentriq
     [location] => she/they & #ActuallyAutistic
     [url] => 
@@ -10,16 +10,16 @@ stdClass Object
 ✨ @ofsaltandseas / @spiceinreallife the holy trinity ✨
 🦀 @homulilie 🦀
     [protected] => 
-    [followers_count] => 216
-    [friends_count] => 550
+    [followers_count] => 217
+    [friends_count] => 551
     [listed_count] => 8
     [created_at] => Thu Jan 15 04:48:41 +0000 2015
-    [favourites_count] => 16866
+    [favourites_count] => 17000
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6820
+    [statuses_count] => 6867
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -36,7 +36,7 @@ stdClass Object
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 
     [default_profile_image] => 
     [following] => 

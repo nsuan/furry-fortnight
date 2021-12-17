@@ -10,16 +10,16 @@ stdClass Object
 header by @zetman92 
 pfp by @JenEricLive
     [protected] => 
-    [followers_count] => 414
-    [friends_count] => 1360
-    [listed_count] => 11
+    [followers_count] => 415
+    [friends_count] => 1358
+    [listed_count] => 12
     [created_at] => Mon Nov 14 04:32:58 +0000 2016
-    [favourites_count] => 1231
+    [favourites_count] => 1230
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 611
+    [statuses_count] => 613
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

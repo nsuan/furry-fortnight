@@ -10,16 +10,16 @@ stdClass Object
 
 Contact: kotlov.dimitry@gmail.com / Discord: Chertila#1245
     [protected] => 
-    [followers_count] => 3796
-    [friends_count] => 1276
+    [followers_count] => 3805
+    [friends_count] => 1279
     [listed_count] => 21
     [created_at] => Thu Oct 25 13:22:59 +0000 2018
-    [favourites_count] => 10004
+    [favourites_count] => 10072
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 950
+    [statuses_count] => 956
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +28,9 @@ Contact: kotlov.dimitry@gmail.com / Discord: Chertila#1245
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1251555518893772801/QvQMmlSa_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1251555518893772801/QvQMmlSa_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1055449646783496192/1624480965
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1470128448714723335/1cDNV1KK_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1470128448714723335/1cDNV1KK_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1055449646783496192/1639340538
     [profile_link_color] => FF691F
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000

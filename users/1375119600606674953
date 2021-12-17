@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 1375119600606674953
+    [id_str] => 1375119600606674953
+    [name] => ArteMorgana
+    [screen_name] => ArteMorgana
+    [location] => 
+    [url] => 
+    [description] => Elves, patches, renders and roleplay! And other stuff like that! || WoW and FFXIV || 18+
+
+PFP- @kiyoshuki
+    [protected] => 
+    [followers_count] => 17
+    [friends_count] => 121
+    [listed_count] => 0
+    [created_at] => Thu Mar 25 16:17:24 +0000 2021
+    [favourites_count] => 308
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 104
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1381437430893580290/9Ff5_hwB_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1381437430893580290/9Ff5_hwB_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1375119600606674953/1618195352
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

@@ -2,17 +2,17 @@ stdClass Object
 (
     [id] => 2418884222
     [id_str] => 2418884222
-    [name] => Tess 🖤
+    [name] => Tess 💙
     [screen_name] => ShinyWoobat
     [location] => The Netherlands
     [url] => https://ko-fi.com/tessiursa
-    [description] => Hey, I'm Tess! - She/her - Sprout on FFXIV - Night Elf hunter on EU-Lightbringer - Artist on hiatus - Bunny & gerbil parent
+    [description] => Hey, I'm Tess! - She/her - Sprout on FFXIV - Former Night Elf Hunter - Icon by @Tryxxia
     [protected] => 
     [followers_count] => 1895
-    [friends_count] => 664
+    [friends_count] => 663
     [listed_count] => 23
     [created_at] => Sun Mar 30 11:45:17 +0000 2014
-    [favourites_count] => 43419
+    [favourites_count] => 43417
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1410896275940196352/JEFYYdaH_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1410896275940196352/JEFYYdaH_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2418884222/1495740503
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1469795031405969410/8mDI1odQ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1469795031405969410/8mDI1odQ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2418884222/1639230995
     [profile_link_color] => 9266CC
     [profile_sidebar_border_color] => FFFFFF
     [profile_sidebar_fill_color] => DDEEF6
