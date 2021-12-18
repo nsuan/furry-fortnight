@@ -11,10 +11,10 @@ stdClass Object
 Pfp @dogblud
     [protected] => 
     [followers_count] => 782
-    [friends_count] => 500
+    [friends_count] => 501
     [listed_count] => 6
     [created_at] => Tue Feb 14 17:47:18 +0000 2012
-    [favourites_count] => 54088
+    [favourites_count] => 54091
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
