@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => usagithedev
     [location] => bitch land, america
     [url] => 
-    [description] => lvl 27 amorphous blob of an ui engineer. described as "a perfect son of a bitch" by a 1979 horoscope. allegedly "cryptic and frustrating"
+    [description] => amorphous blob of an ui engineer. described as a perfect son of a bitch by a 1979 horoscope. allegedly cryptic and frustrating
 
 tweets are my own
     [protected] => 
@@ -14,12 +14,12 @@ tweets are my own
     [friends_count] => 1142
     [listed_count] => 0
     [created_at] => Wed Jun 05 18:33:44 +0000 2019
-    [favourites_count] => 10599
+    [favourites_count] => 10602
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2041
+    [statuses_count] => 2042
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
