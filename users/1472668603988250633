@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1064615542231785474
-    [id_str] => 1064615542231785474
-    [name] => Augustus Glob
-    [screen_name] => Moosifer001
-    [location] => Denver, CO
+    [id] => 1472668603988250633
+    [id_str] => 1472668603988250633
+    [name] => Last
+    [screen_name] => Last34385631
+    [location] => 
     [url] => 
-    [description] => He/They Full Time Pet Store employee, Full Time Lazy ass
+    [description] => Last
     [protected] => 
-    [followers_count] => 48
-    [friends_count] => 1046
+    [followers_count] => 0
+    [friends_count] => 52
     [listed_count] => 0
-    [created_at] => Mon Nov 19 20:24:59 +0000 2018
-    [favourites_count] => 20609
+    [created_at] => Sun Dec 19 20:42:24 +0000 2021
+    [favourites_count] => 1
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1397
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1285454273195606017/77eZA2IL_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1285454273195606017/77eZA2IL_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1064615542231785474/1590644226
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -36,7 +35,7 @@ stdClass Object
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 
+    [default_profile_image] => 1
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
