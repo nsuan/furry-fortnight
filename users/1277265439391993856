@@ -12,7 +12,7 @@ http://toyhou.se/meowth
 
 pfp: @starry_tiger
     [protected] => 
-    [followers_count] => 200
+    [followers_count] => 199
     [friends_count] => 178
     [listed_count] => 0
     [created_at] => Sun Jun 28 15:40:03 +0000 2020
@@ -21,7 +21,7 @@ pfp: @starry_tiger
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5624
+    [statuses_count] => 5625
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
