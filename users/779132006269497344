@@ -10,15 +10,15 @@ stdClass Object
 header by @Ohmahrie
     [protected] => 
     [followers_count] => 188
-    [friends_count] => 2620
+    [friends_count] => 2621
     [listed_count] => 1
     [created_at] => Fri Sep 23 01:35:20 +0000 2016
-    [favourites_count] => 76113
+    [favourites_count] => 76121
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14397
+    [statuses_count] => 14400
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
