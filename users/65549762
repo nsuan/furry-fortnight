@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 65549762
     [id_str] => 65549762
-    [name] => mana 🍮 @ Fur-Eh! 🎄 TODAY
+    [name] => mana 🍮 @ Fur-Eh! 🎄
     [screen_name] => SiameseMana
     [location] => 
     [url] => https://linktr.ee/Manakir
@@ -18,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9209
+    [statuses_count] => 9210
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
