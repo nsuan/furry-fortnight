@@ -13,15 +13,15 @@ stdClass Object
 ⭸ header: @nnerocchi
     [protected] => 
     [followers_count] => 545
-    [friends_count] => 1398
+    [friends_count] => 1397
     [listed_count] => 1
     [created_at] => Wed Mar 18 19:00:31 +0000 2020
-    [favourites_count] => 17662
+    [favourites_count] => 17664
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3999
+    [statuses_count] => 4001
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
