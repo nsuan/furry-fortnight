@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1167430423296634880
     [id_str] => 1167430423296634880
-    [name] => greencrusader13 finished his first draft!
+    [name] => greencrusader13 is editing
     [screen_name] => greencrusader13
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 401
     [listed_count] => 0
     [created_at] => Fri Aug 30 13:35:06 +0000 2019
-    [favourites_count] => 13959
+    [favourites_count] => 13960
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3047
+    [statuses_count] => 3048
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
