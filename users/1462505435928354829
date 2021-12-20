@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1462505435928354829
     [id_str] => 1462505435928354829
-    [name] => Pheno-Gods
+    [name] => Pheno Gods
     [screen_name] => phenogods
     [location] => Boston, MA.
     [url] => 
-    [description] => 
+    [description] => Nonprofit caregiver association. Free clones. Quality phenos. Donations accepted.
     [protected] => 
     [followers_count] => 4
     [friends_count] => 56
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,6 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1473068791101890561/RsQidxH-_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1473068791101890561/RsQidxH-_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1462505435928354829/1640042099
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
