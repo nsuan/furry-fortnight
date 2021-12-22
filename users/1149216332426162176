@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => Writer/gamer/art enthusiast. Zethos on Wymrest Accord. Wishes he had more coffee. Icon: @KynaArts Header: @GreyVaella
-    [protected] => 
+    [protected] => 1
     [followers_count] => 497
     [friends_count] => 907
     [listed_count] => 5
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14544
+    [statuses_count] => 14545
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
