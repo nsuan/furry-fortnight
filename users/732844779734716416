@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 732844779734716416
     [id_str] => 732844779734716416
-    [name] => 🌸Kyra💜 ~*~comms open~*~
+    [name] => 🌸Kyra💜 ~*~comms closed~*~
     [screen_name] => KyralynnKyra
     [location] => Canada
     [url] => https://www.twitch.tv/kyralynn
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3537
+    [statuses_count] => 3535
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
