@@ -12,15 +12,15 @@ stdClass Object
 WoW - LoL
     [protected] => 
     [followers_count] => 429
-    [friends_count] => 400
+    [friends_count] => 401
     [listed_count] => 7
     [created_at] => Fri Dec 10 13:13:46 +0000 2010
-    [favourites_count] => 5393
+    [favourites_count] => 5395
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8863
+    [statuses_count] => 8866
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
