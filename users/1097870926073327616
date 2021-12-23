@@ -10,7 +10,7 @@ stdClass Object
 I am 32 years old
     [protected] => 
     [followers_count] => 122
-    [friends_count] => 2453
+    [friends_count] => 2452
     [listed_count] => 1
     [created_at] => Tue Feb 19 14:50:01 +0000 2019
     [favourites_count] => 23403
@@ -18,7 +18,7 @@ I am 32 years old
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16854
+    [statuses_count] => 16853
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
