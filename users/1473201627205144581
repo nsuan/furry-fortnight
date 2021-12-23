@@ -1,18 +1,22 @@
 stdClass Object
 (
-    [id] => 1472668603988250633
-    [id_str] => 1472668603988250633
-    [name] => Last
-    [screen_name] => Last34385631
-    [location] => 
+    [id] => 1473201627205144581
+    [id_str] => 1473201627205144581
+    [name] => Emah Miyamoto
+    [screen_name] => EmahMiyamoto
+    [location] => London, England
     [url] => 
-    [description] => Last
-    [protected] => 1
-    [followers_count] => 1
-    [friends_count] => 84
+    [description] => { 🌸 Emah 🌸 } 
+ ☁️𝒎𝒊𝒚𝒂𝒎𝒐𝒕𝒐 -𝒄𝒉𝒂𝒏☁️ 
+Fanpage : code lyoko 
+Edit :)  
+ 🌸 17 years old 🌸
+    [protected] => 
+    [followers_count] => 3
+    [friends_count] => 76
     [listed_count] => 0
-    [created_at] => Sun Dec 19 20:42:24 +0000 2021
-    [favourites_count] => 11
+    [created_at] => Tue Dec 21 08:01:04 +0000 2021
+    [favourites_count] => 12
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,8 +30,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1472716318130507783/v7M0kKWd_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1472716318130507783/v7M0kKWd_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1473262935497748481/MvrmtZSP_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1473262935497748481/MvrmtZSP_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1473201627205144581/1640088230
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
