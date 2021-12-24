@@ -7,7 +7,7 @@ stdClass Object
     [location] => Orgrimmar
     [url] => 
     [description] => Me not dat kind of orc, but afta a ale or two den I am dat kinda orc
-    [protected] => 1
+    [protected] => 
     [followers_count] => 59
     [friends_count] => 224
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 596
+    [statuses_count] => 597
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
