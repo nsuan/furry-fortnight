@@ -9,7 +9,7 @@ stdClass Object
     [description] => my name is eco, i draw things. repost with CREDIT ok.
     [protected] => 
     [followers_count] => 12794
-    [friends_count] => 87
+    [friends_count] => 88
     [listed_count] => 83
     [created_at] => Tue Nov 08 18:03:36 +0000 2016
     [favourites_count] => 1097
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1322
+    [statuses_count] => 1318
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
