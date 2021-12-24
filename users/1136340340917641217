@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => usagithedev
     [location] => bitch land, america
     [url] => 
-    [description] => psyche, ui engineer. described as a perfect son of a bitch by a 1979 horoscope. allegedly cryptic and frustrating.
+    [description] => psyche, ui engineer, a11y advocate. described as a perfect son of a bitch by a 1979 horoscope. allegedly cryptic and frustrating.
 
 tweets r mine.
     [protected] => 
@@ -14,12 +14,12 @@ tweets r mine.
     [friends_count] => 1147
     [listed_count] => 0
     [created_at] => Wed Jun 05 18:33:44 +0000 2019
-    [favourites_count] => 10736
+    [favourites_count] => 10741
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2077
+    [statuses_count] => 2080
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
