@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 780318653241696256
     [id_str] => 780318653241696256
-    [name] => The sassiest little shit lil Tman
+    [name] => I showed you my data pls respond
     [screen_name] => Javitup
     [location] => California, USA
     [url] => http://imightbeafurry.tumblr.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4772
     [listed_count] => 8
     [created_at] => Mon Sep 26 08:10:39 +0000 2016
-    [favourites_count] => 171651
+    [favourites_count] => 171652
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 50925
+    [statuses_count] => 50926
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1470599666056056832/Ee0ct-1f_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1470599666056056832/Ee0ct-1f_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1474670657329762305/u3QrvrB-_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1474670657329762305/u3QrvrB-_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/780318653241696256/1606275182
     [profile_link_color] => 19CF86
     [profile_sidebar_border_color] => 000000
