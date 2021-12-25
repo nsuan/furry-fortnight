@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 30517636
     [id_str] => 30517636
-    [name] => Alana 🐰 (Endwalked and Crying)
+    [name] => Alana 🐰
     [screen_name] => mercuryhammer
     [location] => Cleveland,USA
     [url] => 
@@ -19,7 +19,7 @@ ludo lewis @ cactuar
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 14404
+    [statuses_count] => 14405
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
