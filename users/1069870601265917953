@@ -10,15 +10,15 @@ stdClass Object
 dont follow me🔞
     [protected] => 
     [followers_count] => 4
-    [friends_count] => 4998
+    [friends_count] => 4999
     [listed_count] => 0
     [created_at] => Tue Dec 04 08:26:43 +0000 2018
-    [favourites_count] => 143042
+    [favourites_count] => 143057
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 926
+    [statuses_count] => 945
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,6 +29,7 @@ dont follow me🔞
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1403839055935250443/ceU9KnCE_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1403839055935250443/ceU9KnCE_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1069870601265917953/1640425889
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
