@@ -9,7 +9,7 @@ stdClass Object
     [description] => max/25/they/he/she
     [protected] => 
     [followers_count] => 121
-    [friends_count] => 840
+    [friends_count] => 841
     [listed_count] => 0
     [created_at] => Mon Feb 11 02:55:40 +0000 2013
     [favourites_count] => 33023
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13122
+    [statuses_count] => 13123
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
