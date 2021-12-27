@@ -15,15 +15,15 @@ stdClass Object
 - pfp by @EvKemJams
     [protected] => 
     [followers_count] => 211
-    [friends_count] => 2483
+    [friends_count] => 2482
     [listed_count] => 0
     [created_at] => Fri Oct 16 15:37:54 +0000 2020
-    [favourites_count] => 176130
+    [favourites_count] => 176156
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 33247
+    [statuses_count] => 33251
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
