@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 82288415
     [id_str] => 82288415
-    [name] => ❄️MS-GP-MM89 MerryMaker Gundam🌲
+    [name] => MS-GOST-89 StormLash Gundam
     [screen_name] => VirtualGStorm
     [location] => SPAAAACE
     [url] => https://www.youtube.com/channel/UCYytZLl8G1NNrPEWL6aq22A
@@ -13,12 +13,12 @@ stdClass Object
     [friends_count] => 2227
     [listed_count] => 0
     [created_at] => Wed Oct 14 05:56:27 +0000 2009
-    [favourites_count] => 512674
+    [favourites_count] => 512691
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 84212
+    [statuses_count] => 84216
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,9 +27,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme15/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme15/bg.png
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1464695101322584075/1TUERAlN_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1464695101322584075/1TUERAlN_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/82288415/1638045502
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1475513769359024133/KFwNhI03_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1475513769359024133/KFwNhI03_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/82288415/1640624871
     [profile_link_color] => 4A913C
     [profile_sidebar_border_color] => FFFFFF
     [profile_sidebar_fill_color] => C0DFEC
