@@ -2,13 +2,15 @@ stdClass Object
 (
     [id] => 1291068026427777027
     [id_str] => 1291068026427777027
-    [name] => 定池
+    [name] => 贝尔沃夫
     [screen_name] => BareWofie
     [location] => 
     [url] => 
-    [description] => 沃夫的机器虎。
+    [description] => 你好，我是沃夫贝尔，英文名为Bae·Wulf，是纯爱系美少女作家兼职狼人侦探，同时也在逐渐练习绘画，是FF14的大猫玩家。
+我们狼脾气都很好，还很有礼貌。
+接受小说稿件以及文学翻译(主要是英语）的委托，QQ为2184104933，欢迎找我约稿。
     [protected] => 
-    [followers_count] => 197
+    [followers_count] => 199
     [friends_count] => 356
     [listed_count] => 0
     [created_at] => Wed Aug 05 17:46:26 +0000 2020
@@ -26,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1442027389903646720/xo9oHkqv_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1442027389903646720/xo9oHkqv_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1291068026427777027/1632641095
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1475862612487196679/t1mQcKZd_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1475862612487196679/t1mQcKZd_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1291068026427777027/1640708221
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
