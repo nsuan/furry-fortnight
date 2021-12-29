@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1344780817332105227
     [id_str] => 1344780817332105227
-    [name] => That Video Game Guy
+    [name] => Video Game Guy
     [screen_name] => iliketogame9
     [location] => United States
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 372
     [listed_count] => 1
     [created_at] => Thu Dec 31 23:02:06 +0000 2020
-    [favourites_count] => 25410
+    [favourites_count] => 25419
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9302
+    [statuses_count] => 9305
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
