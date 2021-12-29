@@ -10,7 +10,7 @@ stdClass Object
 header by @Ohmahrie
     [protected] => 
     [followers_count] => 191
-    [friends_count] => 2630
+    [friends_count] => 2631
     [listed_count] => 1
     [created_at] => Fri Sep 23 01:35:20 +0000 2016
     [favourites_count] => 76330
@@ -18,7 +18,7 @@ header by @Ohmahrie
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14434
+    [statuses_count] => 14433
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
