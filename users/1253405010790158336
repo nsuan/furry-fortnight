@@ -13,9 +13,9 @@ stdClass Object
 - big robot fan
 - i'm a famous actor
     [protected] => 
-    [followers_count] => 8
+    [followers_count] => 9
     [friends_count] => 1082
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Thu Apr 23 19:27:03 +0000 2020
     [favourites_count] => 2686
     [utc_offset] => 
