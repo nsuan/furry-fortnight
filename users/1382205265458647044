@@ -9,7 +9,7 @@ stdClass Object
     [description] => 
     [protected] => 
     [followers_count] => 107
-    [friends_count] => 3389
+    [friends_count] => 3386
     [listed_count] => 13
     [created_at] => Wed Apr 14 05:33:33 +0000 2021
     [favourites_count] => 2
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4379
+    [statuses_count] => 4385
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
