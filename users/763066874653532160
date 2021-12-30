@@ -8,8 +8,8 @@ stdClass Object
     [url] => https://www.artstation.com/dstrir
     [description] => Chungus Linear Regressive
     [protected] => 
-    [followers_count] => 29320
-    [friends_count] => 557
+    [followers_count] => 29323
+    [friends_count] => 558
     [listed_count] => 189
     [created_at] => Tue Aug 09 17:38:14 +0000 2016
     [favourites_count] => 19531
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5632
+    [statuses_count] => 5633
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
