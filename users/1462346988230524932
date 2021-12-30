@@ -7,12 +7,12 @@ stdClass Object
     [location] => Somewhere
     [url] => 
     [description] => A casual gamer who likes to make amateur gaming videos
-    [protected] => 
-    [followers_count] => 60
+    [protected] => 1
+    [followers_count] => 59
     [friends_count] => 227
     [listed_count] => 0
     [created_at] => Sun Nov 21 09:07:52 +0000 2021
-    [favourites_count] => 458
+    [favourites_count] => 459
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
