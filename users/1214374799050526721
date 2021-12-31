@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 1214374799050526721
     [id_str] => 1214374799050526721
-    [name] => khai, but in holiday mode
+    [name] => khai
     [screen_name] => tsro_khai
     [location] => 27, one foot in the grave
     [url] => http://twitch.tv/stovku
     [description] => creating content that no one asked for || they/them || icon from lovelydeps on picrew, banner from catcrumb on tumblr
     [protected] => 
-    [followers_count] => 37
-    [friends_count] => 115
+    [followers_count] => 38
+    [friends_count] => 116
     [listed_count] => 1
     [created_at] => Tue Jan 07 02:34:55 +0000 2020
-    [favourites_count] => 1937
+    [favourites_count] => 1939
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 760
+    [statuses_count] => 758
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
