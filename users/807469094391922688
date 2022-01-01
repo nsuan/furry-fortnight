@@ -4,11 +4,11 @@ stdClass Object
     [id_str] => 807469094391922688
     [name] => Meadow
     [screen_name] => meadowlurking
-    [location] => California, USA
+    [location] => 
     [url] => 
-    [description] => LFG SoO M 419 BOOM (RESTO OS) 4/20
+    [description] => LFG SoO M 419 BOOM (RESTO OS) 3/20
     [protected] => 
-    [followers_count] => 8401
+    [followers_count] => 8399
     [friends_count] => 322
     [listed_count] => 76
     [created_at] => Sat Dec 10 06:16:48 +0000 2016
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1823
+    [statuses_count] => 1825
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
