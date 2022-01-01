@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 448150097
     [id_str] => 448150097
-    [name] => Khea 💙 spoilers tagged or rot13
+    [name] => Khea 💙 spoilers tagged
     [screen_name] => musicalmooncat
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 767
     [listed_count] => 1
     [created_at] => Tue Dec 27 17:37:15 +0000 2011
-    [favourites_count] => 97870
+    [favourites_count] => 97887
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 31078
+    [statuses_count] => 31080
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
