@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => «my destiny is my own!»
     [protected] => 
-    [followers_count] => 399
-    [friends_count] => 572
+    [followers_count] => 400
+    [friends_count] => 573
     [listed_count] => 3
     [created_at] => Sun Nov 27 01:43:28 +0000 2016
     [favourites_count] => 39855
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6122
+    [statuses_count] => 6124
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
