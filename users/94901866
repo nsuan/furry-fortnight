@@ -11,14 +11,14 @@ Paladin: Milpalaf-Quel'talas US/Data center:Primal-Ultros
     [protected] => 
     [followers_count] => 129
     [friends_count] => 1536
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Sun Dec 06 00:48:29 +0000 2009
-    [favourites_count] => 16063
+    [favourites_count] => 16069
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4109
+    [statuses_count] => 4110
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
