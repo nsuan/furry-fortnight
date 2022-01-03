@@ -1,26 +1,23 @@
 stdClass Object
 (
-    [id] => 1108449464719736833
-    [id_str] => 1108449464719736833
-    [name] => Muscle Bun - Leveling through Endwalker
-    [screen_name] => Solinii1
-    [location] => Earth
+    [id] => 942857930495418368
+    [id_str] => 942857930495418368
+    [name] => serotonic
+    [screen_name] => serotonic1
+    [location] => ?
     [url] => 
-    [description] => Art Commissioner and Addict. Owner of several OCs. 18+ only.
-Don't hesitate to poke me! 
-
-Giveaway Closed
-    [protected] => 
-    [followers_count] => 5785
-    [friends_count] => 890
-    [listed_count] => 10
-    [created_at] => Wed Mar 20 19:25:21 +0000 2019
-    [favourites_count] => 15246
+    [description] => god I fucking love trance
+    [protected] => 1
+    [followers_count] => 76
+    [friends_count] => 872
+    [listed_count] => 1
+    [created_at] => Mon Dec 18 20:43:42 +0000 2017
+    [favourites_count] => 28257
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11094
+    [statuses_count] => 3310
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,15 +26,15 @@ Giveaway Closed
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1466303358394896387/vmhwcpm3_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1466303358394896387/vmhwcpm3_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1108449464719736833/1634502481
-    [profile_link_color] => E81C4F
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1349188137654902785/Glrs3AQQ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1349188137654902785/Glrs3AQQ_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/942857930495418368/1641013844
+    [profile_link_color] => 9B0443
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
