@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1253482645213904901
     [id_str] => 1253482645213904901
-    [name] => viktor's reply guy
+    [name] => viktor
     [screen_name] => psychogrouppie
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2437
+    [statuses_count] => 2440
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
