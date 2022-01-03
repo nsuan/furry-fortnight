@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1331974325197557760
     [id_str] => 1331974325197557760
-    [name] => Zanzha 🔞
+    [name] => Zanzha
     [screen_name] => Ilystria
     [location] => where the wild things are
     [url] => 
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 475
+    [statuses_count] => 476
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
