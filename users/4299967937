@@ -10,11 +10,11 @@ stdClass Object
 
 I: @saltmatey
     [protected] => 
-    [followers_count] => 1457
+    [followers_count] => 1456
     [friends_count] => 1841
     [listed_count] => 3
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
-    [favourites_count] => 108956
+    [favourites_count] => 108952
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
