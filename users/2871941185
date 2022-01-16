@@ -13,14 +13,14 @@ screenshots.
     [protected] => 
     [followers_count] => 8749
     [friends_count] => 4849
-    [listed_count] => 153
+    [listed_count] => 0
     [created_at] => Wed Oct 22 21:23:15 +0000 2014
     [favourites_count] => 211749
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 97615
+    [statuses_count] => 97616
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
