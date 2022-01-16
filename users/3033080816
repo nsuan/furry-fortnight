@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 3033080816
     [id_str] => 3033080816
-    [name] => ❄️⚓️ Draevian - Holidays Ahoy⚓️❄️
+    [name] => ⚓️ Draevian - Yarr Ahoy⚓️
     [screen_name] => DraevianArt
     [location] => Ancient Spire Outpost
     [url] => http://draevian.tumblr.com/
     [description] => Drae | 25 | He/They | 🏳️‍🌈 | I like a lot of things. 💖 @escalusia 💖
     [protected] => 
-    [followers_count] => 489
+    [followers_count] => 483
     [friends_count] => 411
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Fri Feb 20 16:40:04 +0000 2015
-    [favourites_count] => 15025
+    [favourites_count] => 15044
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2778
+    [statuses_count] => 2781
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,7 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1363258057526943744/bmN7a4G7_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1363258057526943744/bmN7a4G7_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3033080816/1627072472
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3033080816/1642155529
     [profile_link_color] => 19CF86
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000

@@ -10,15 +10,15 @@ stdClass Object
 Angry small man comes to SCREAM about THINGS and maybe memes. Sometimes. I'm contagious and I bite, don't put your fingers in the cage.
     [protected] => 1
     [followers_count] => 22
-    [friends_count] => 91
+    [friends_count] => 99
     [listed_count] => 0
     [created_at] => Sat May 30 18:38:10 +0000 2020
-    [favourites_count] => 3186
+    [favourites_count] => 3506
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2761
+    [statuses_count] => 3158
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -35,7 +35,7 @@ Angry small man comes to SCREAM about THINGS and maybe memes. Sometimes. I'm con
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 

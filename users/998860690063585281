@@ -11,16 +11,16 @@ stdClass Object
 Pfp: @artofcassrobles 
 banner: @SuperSiriusXIII
     [protected] => 
-    [followers_count] => 872
-    [friends_count] => 996
+    [followers_count] => 870
+    [friends_count] => 992
     [listed_count] => 11
     [created_at] => Tue May 22 09:38:41 +0000 2018
-    [favourites_count] => 21473
+    [favourites_count] => 21463
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 24638
+    [statuses_count] => 24649
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

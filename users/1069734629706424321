@@ -10,16 +10,16 @@ stdClass Object
 
 Icon by Stumpyfongo.
     [protected] => 
-    [followers_count] => 296
-    [friends_count] => 847
+    [followers_count] => 300
+    [friends_count] => 851
     [listed_count] => 1
     [created_at] => Mon Dec 03 23:26:25 +0000 2018
-    [favourites_count] => 5283
+    [favourites_count] => 5299
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3019
+    [statuses_count] => 3037
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

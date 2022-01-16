@@ -10,15 +10,15 @@ stdClass Object
 pronouns She/Her
     [protected] => 
     [followers_count] => 189
-    [friends_count] => 358
-    [listed_count] => 0
+    [friends_count] => 359
+    [listed_count] => 26
     [created_at] => Tue Jul 15 01:03:38 +0000 2008
-    [favourites_count] => 497
+    [favourites_count] => 499
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3300
+    [statuses_count] => 3304
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

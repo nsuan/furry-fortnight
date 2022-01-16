@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => Congrats for making it this far in 2020
     [protected] => 
-    [followers_count] => 30
-    [friends_count] => 2372
+    [followers_count] => 29
+    [friends_count] => 2382
     [listed_count] => 0
     [created_at] => Tue Nov 05 08:20:25 +0000 2019
     [favourites_count] => 119
@@ -28,13 +28,13 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1221620801138388993/QKe_WMns_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1221620801138388993/QKe_WMns_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1191631292908986368/1580092095
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1191631292908986368/1641819353
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 

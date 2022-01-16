@@ -10,16 +10,16 @@ stdClass Object
 
 My Stuff: http://Mystix.carrd.co
     [protected] => 
-    [followers_count] => 256
-    [friends_count] => 4466
-    [listed_count] => 0
+    [followers_count] => 255
+    [friends_count] => 4473
+    [listed_count] => 1
     [created_at] => Tue Mar 14 03:47:52 +0000 2017
-    [favourites_count] => 44701
+    [favourites_count] => 45068
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13477
+    [statuses_count] => 13528
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

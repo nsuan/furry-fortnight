@@ -12,16 +12,16 @@ stdClass Object
 
 ✩Discord: Bluence#8687 or DM's
     [protected] => 
-    [followers_count] => 375
-    [friends_count] => 1242
-    [listed_count] => 0
+    [followers_count] => 374
+    [friends_count] => 1250
+    [listed_count] => 1
     [created_at] => Wed Mar 13 04:23:30 +0000 2013
-    [favourites_count] => 917
+    [favourites_count] => 924
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 943
+    [statuses_count] => 950
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 2557846524
     [id_str] => 2557846524
-    [name] => The Doughiest Dough Pie
+    [name] => New Year New Dough Pie
     [screen_name] => RedThaneLaurels
     [location] => Middle TN, somewhere
     [url] => 
     [description] => WrA-US, Buni, Laurels, Doughpie, ballroom dancer IRL, Third Best Kisser on Azeroth He/Him
     [protected] => 
     [followers_count] => 325
-    [friends_count] => 912
+    [friends_count] => 911
     [listed_count] => 3
     [created_at] => Tue Jun 10 00:57:20 +0000 2014
     [favourites_count] => 26655
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 15245
+    [statuses_count] => 15251
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

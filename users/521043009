@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 521043009
+    [id_str] => 521043009
+    [name] => bangyzoom!?
+    [screen_name] => bangyzoom
+    [location] => 
+    [url] => 
+    [description] => 
+    [protected] => 
+    [followers_count] => 94
+    [friends_count] => 3555
+    [listed_count] => 2
+    [created_at] => Sun Mar 11 05:38:52 +0000 2012
+    [favourites_count] => 3608
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 10
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => D01E6A
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/741819035768098816/B0S8R8kk_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/741819035768098816/B0S8R8kk_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/521043009/1354420823
+    [profile_link_color] => E80D69
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 2C0973
+    [profile_text_color] => 2D3C76
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

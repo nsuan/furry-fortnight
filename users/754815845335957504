@@ -10,16 +10,16 @@ stdClass Object
 | 🌃 Emet-Selch Enthusiast | 👥 Alt-aholic |
 | 🌈 Non-Binary | ✨ Pansexual | 🔞 18+ Only |
     [protected] => 
-    [followers_count] => 182
-    [friends_count] => 473
+    [followers_count] => 181
+    [friends_count] => 484
     [listed_count] => 0
     [created_at] => Sun Jul 17 23:11:36 +0000 2016
-    [favourites_count] => 2813
+    [favourites_count] => 2916
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3558
+    [statuses_count] => 3666
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,7 +30,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1148664124857040896/34eDJ9ni_normal.png
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1148664124857040896/34eDJ9ni_normal.png
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/754815845335957504/1640985695
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/754815845335957504/1641588131
     [profile_link_color] => FAB81E
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000

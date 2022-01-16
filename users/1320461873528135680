@@ -10,16 +10,16 @@ stdClass Object
 This is just a personal account where I enjoy some stuff~
 Warning: I retweet a lot....
     [protected] => 
-    [followers_count] => 32
-    [friends_count] => 4466
-    [listed_count] => 0
+    [followers_count] => 34
+    [friends_count] => 4478
+    [listed_count] => 1
     [created_at] => Sun Oct 25 20:28:39 +0000 2020
-    [favourites_count] => 102258
+    [favourites_count] => 104016
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 15094
+    [statuses_count] => 15179
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

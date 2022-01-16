@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 483899253
+    [id_str] => 483899253
+    [name] => Timofan
+    [screen_name] => Timofan1
+    [location] => 
+    [url] => 
+    [description] => любитель Final Fantasy , нюдсов , хентая и манги. Все  это под приправой депрессии , одиночества и невидимости для других людей.
+    [protected] => 
+    [followers_count] => 2
+    [friends_count] => 449
+    [listed_count] => 0
+    [created_at] => Sun Feb 05 14:22:13 +0000 2012
+    [favourites_count] => 2691
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 447
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 000000
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1477916860062609408/SWNETg2x_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1477916860062609408/SWNETg2x_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/483899253/1639997680
+    [profile_link_color] => 1B95E0
+    [profile_sidebar_border_color] => 000000
+    [profile_sidebar_fill_color] => 000000
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)

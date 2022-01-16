@@ -6,21 +6,18 @@ stdClass Object
     [screen_name] => as_konn_art
     [location] => São Paulo
     [url] => http://artstation.com/askonn
-    [description] => Illustrations, Concept artist,  Juice Lover,  Comic artist 
-Instagram:  https://t.co/kntt6RjiSn
-Tumblr: https://t.co/SksynggSwK
-https://t.co/wQCrEgOTKL
+    [description] => Illustrations, Concept artist, Juice Lover, Comic artist Instagram: http://instagram.com/as_konn_art Facebook: http://facebook.com/KonneKoer
     [protected] => 
-    [followers_count] => 381
-    [friends_count] => 1872
+    [followers_count] => 382
+    [friends_count] => 1874
     [listed_count] => 7
     [created_at] => Tue May 26 12:36:47 +0000 2009
-    [favourites_count] => 1338
+    [favourites_count] => 1353
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 595
+    [statuses_count] => 600
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -37,7 +34,7 @@ https://t.co/wQCrEgOTKL
     [profile_sidebar_fill_color] => DAECF4
     [profile_text_color] => 663B12
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 
     [default_profile_image] => 
     [following] => 

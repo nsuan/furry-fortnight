@@ -14,16 +14,16 @@ I don't do free requests
 
 // do not repost my art
     [protected] => 
-    [followers_count] => 750
-    [friends_count] => 444
-    [listed_count] => 0
+    [followers_count] => 746
+    [friends_count] => 442
+    [listed_count] => 7
     [created_at] => Tue Jan 25 17:50:58 +0000 2011
-    [favourites_count] => 176737
+    [favourites_count] => 176974
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 24604
+    [statuses_count] => 24628
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

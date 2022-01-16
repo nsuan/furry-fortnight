@@ -10,16 +10,16 @@ stdClass Object
 - Illustrator
 - 20y
     [protected] => 
-    [followers_count] => 665
-    [friends_count] => 1866
+    [followers_count] => 666
+    [friends_count] => 1886
     [listed_count] => 3
     [created_at] => Fri Jun 24 05:18:25 +0000 2016
-    [favourites_count] => 4461
+    [favourites_count] => 4458
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 687
+    [statuses_count] => 690
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,8 +28,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1284275292257820676/SkZ4nTXJ_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1284275292257820676/SkZ4nTXJ_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1481759369054363650/P_lDre1k_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1481759369054363650/P_lDre1k_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/746210848499064832/1594497087
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
