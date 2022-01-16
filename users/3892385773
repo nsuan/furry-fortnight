@@ -2,13 +2,13 @@ stdClass Object
 (
     [id] => 3892385773
     [id_str] => 3892385773
-    [name] => Sae the Au’ra (photographer soon)
+    [name] => Sae the Au’ra Oni
     [screen_name] => soymilkycat
     [location] => Texas
     [url] => 
-    [description] => 🎨I make art 🖥 tech nerd&pc gamer 🐾 Cali saber cat 💌 telegram @soymilkycat
+    [description] => #ff14 #gposers 🎨I make art (sometimes) 🖥 tech nerd&pc gamer 🐾 Cali saber cat 💌 telegram @soymilkycat
     [protected] => 
-    [followers_count] => 280
+    [followers_count] => 281
     [friends_count] => 1505
     [listed_count] => 2
     [created_at] => Wed Oct 14 14:03:15 +0000 2015
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2618
+    [statuses_count] => 2619
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1481707322447732738/iCa7MhjT_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1481707322447732738/iCa7MhjT_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3892385773/1637266090
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1482833904302276615/RlQwDHqq_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1482833904302276615/RlQwDHqq_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3892385773/1642370127
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
