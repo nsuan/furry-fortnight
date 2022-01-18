@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3290885640
     [id_str] => 3290885640
-    [name] => Brother Panda
+    [name] => Brother Panda 💙
     [screen_name] => PandaTheDrunk
     [location] => New Hampshire, USA
     [url] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 1305
     [listed_count] => 3
     [created_at] => Fri Jul 24 19:38:28 +0000 2015
-    [favourites_count] => 37177
+    [favourites_count] => 37183
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
