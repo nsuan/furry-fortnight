@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1311460559120936967
     [id_str] => 1311460559120936967
-    [name] => 🎨🎻🕹🇺🇸🇩🇴✝️Grumpy Old Ninjuh✝️🇩🇴🇺🇸📯🖼🎮
+    [name] => 🎨🎻🕹🇩🇴🇺🇸✝️Grumpy Old Ninjuh✝️🇺🇸🇩🇴📯🖼🎮
     [screen_name] => GNinjuh
     [location] => 
     [url] => https://linktr.ee/GrumpyOldNinja
@@ -13,12 +13,12 @@ stdClass Object
     [friends_count] => 5000
     [listed_count] => 5
     [created_at] => Thu Oct 01 00:20:23 +0000 2020
-    [favourites_count] => 12662
+    [favourites_count] => 12663
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16978
+    [statuses_count] => 16979
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
