@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 818670218
     [id_str] => 818670218
-    [name] => ボイド: bye 2s
+    [name] => ボイド: can't press shadow form
     [screen_name] => vap0relf
     [location] => Canada
     [url] => 
@@ -10,7 +10,7 @@ stdClass Object
     [protected] => 
     [followers_count] => 754
     [friends_count] => 510
-    [listed_count] => 8
+    [listed_count] => 9
     [created_at] => Wed Sep 12 02:34:43 +0000 2012
     [favourites_count] => 32864
     [utc_offset] => 
