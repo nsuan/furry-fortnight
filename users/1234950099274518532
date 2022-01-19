@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1234950099274518532
     [id_str] => 1234950099274518532
-    [name] => 칼로즈 🍂
+    [name] => 칼로즈 「BADモード」
     [screen_name] => bntcrls
     [location] => venus, planet of love
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4995
     [listed_count] => 0
     [created_at] => Tue Mar 03 21:13:56 +0000 2020
-    [favourites_count] => 147218
+    [favourites_count] => 147241
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 31576
+    [statuses_count] => 31585
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
