@@ -2,13 +2,13 @@ stdClass Object
 (
     [id] => 1313955774746558465
     [id_str] => 1313955774746558465
-    [name] => Xidy (skim milk drinkers are beta cucks)- whole
+    [name] => Xidy -whole
     [screen_name] => Xidy17
     [location] => 
     [url] => 
     [description] => amoungus
     [protected] => 
-    [followers_count] => 8
+    [followers_count] => 9
     [friends_count] => 334
     [listed_count] => 0
     [created_at] => Wed Oct 07 21:34:14 +0000 2020
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 128
+    [statuses_count] => 138
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
