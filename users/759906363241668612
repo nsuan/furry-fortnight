@@ -11,16 +11,16 @@ stdClass Object
 
 header and icon: @lunarsemaphore,
     [protected] => 
-    [followers_count] => 787
-    [friends_count] => 201
+    [followers_count] => 786
+    [friends_count] => 200
     [listed_count] => 5
     [created_at] => Mon Aug 01 00:19:30 +0000 2016
-    [favourites_count] => 16802
+    [favourites_count] => 16804
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16494
+    [statuses_count] => 16496
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
