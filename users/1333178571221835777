@@ -1,24 +1,24 @@
 stdClass Object
 (
-    [id] => 1281790524047802369
-    [id_str] => 1281790524047802369
-    [name] => tentilol.mpeg the evil
-    [screen_name] => tentilol
-    [location] => bruno fanclub
+    [id] => 1333178571221835777
+    [id_str] => 1333178571221835777
+    [name] => Hisse
+    [screen_name] => Hisse_lite
+    [location] => 
     [url] => 
-    [description] => Just a bisexual teen trying to enjoy life~
-(NSFW DNI) (He/Him)
+    [description] => Discord account: Hisse#6693
+Dm status: Open
     [protected] => 
-    [followers_count] => 448
-    [friends_count] => 5001
-    [listed_count] => 4
-    [created_at] => Sat Jul 11 03:21:01 +0000 2020
-    [favourites_count] => 101099
+    [followers_count] => 120
+    [friends_count] => 4942
+    [listed_count] => 0
+    [created_at] => Sun Nov 29 22:39:35 +0000 2020
+    [favourites_count] => 32282
     [utc_offset] => 
     [time_zone] => 
-    [geo_enabled] => 1
+    [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 36718
+    [statuses_count] => 7
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,9 +27,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1478595866860855300/HBeNhRDw_normal.png
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1478595866860855300/HBeNhRDw_normal.png
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1281790524047802369/1642547998
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -37,7 +36,7 @@ stdClass Object
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 
+    [default_profile_image] => 1
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
