@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => WhimsicallyArt
     [location] => London, Ontario
     [url] => 
-    [description] => 29 | She/Her | Bi-Disaster | FFXIV - Mateus | Haurchefant Brainrot
+    [description] => 29 | She/Her | Bi-Disaster | FFXIV - Mateus |
     [protected] => 
     [followers_count] => 209
     [friends_count] => 512
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5023
+    [statuses_count] => 5024
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
