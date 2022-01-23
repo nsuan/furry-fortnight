@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 3329244990
-    [id_str] => 3329244990
-    [name] => Kaisars
-    [screen_name] => Doc_AMM
+    [id] => 229201531
+    [id_str] => 229201531
+    [name] => Robert Johnston
+    [screen_name] => DJInsom
     [location] => 
     [url] => 
-    [description] => 
-    [protected] => 1
-    [followers_count] => 0
-    [friends_count] => 817
-    [listed_count] => 0
-    [created_at] => Mon Aug 24 18:44:57 +0000 2015
-    [favourites_count] => 3293
+    [description] => He/Him // Retweets adult content on occasion // Far too many swears // Header by https://twitter.com/AzureMoonArt?s=17
+    [protected] => 
+    [followers_count] => 461
+    [friends_count] => 1323
+    [listed_count] => 4
+    [created_at] => Tue Dec 21 20:02:23 +0000 2010
+    [favourites_count] => 241595
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 55
+    [statuses_count] => 163469
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme14/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme14/bg.gif
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/637069475708145664/0n0Jr4wj_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/637069475708145664/0n0Jr4wj_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3329244990/1440724230
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1200323212/129187490535261350_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1200323212/129187490535261350_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/229201531/1561154779
     [profile_link_color] => 009999
     [profile_sidebar_border_color] => EEEEEE
     [profile_sidebar_fill_color] => EFEFEF
