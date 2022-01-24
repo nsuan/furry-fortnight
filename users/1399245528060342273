@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1399245528060342273
     [id_str] => 1399245528060342273
-    [name] => ✨The Nocturnium🌙 Giveaway Pinned
+    [name] => ✨The Nocturnium🌙
     [screen_name] => elf_mush
     [location] => North America- EST
     [url] => https://elf-mush.tumblr.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 806
     [listed_count] => 1
     [created_at] => Mon May 31 06:05:18 +0000 2021
-    [favourites_count] => 4416
+    [favourites_count] => 4423
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2745
+    [statuses_count] => 2753
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
