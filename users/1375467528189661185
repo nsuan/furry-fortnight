@@ -10,15 +10,15 @@ stdClass Object
 #ningguang
     [protected] => 
     [followers_count] => 212
-    [friends_count] => 324
+    [friends_count] => 325
     [listed_count] => 2
     [created_at] => Fri Mar 26 15:19:59 +0000 2021
-    [favourites_count] => 15853
+    [favourites_count] => 15859
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 12596
+    [statuses_count] => 12599
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
