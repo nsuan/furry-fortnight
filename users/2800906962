@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2800906962
     [id_str] => 2800906962
-    [name] => Snarky Jackie, AKA Snackie
+    [name] => Snarky Jackie, AKA Snackie 🦋✨
     [screen_name] => JackieCobra
     [location] => Queens, NY
     [url] => https://www.techradar.com/author/jackie-thomas
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 1154
     [listed_count] => 21
     [created_at] => Wed Sep 10 02:26:22 +0000 2014
-    [favourites_count] => 16174
+    [favourites_count] => 16175
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
