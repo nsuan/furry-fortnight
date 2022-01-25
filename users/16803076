@@ -4,11 +4,11 @@ stdClass Object
     [id_str] => 16803076
     [name] => 🏹🌱🐈 Eluvia
     [screen_name] => green_iris
-    [location] => Bothell, WA
-    [url] => http://twitch.tv/eluvia
+    [location] => 
+    [url] => 
     [description] => heliophile | #WoW | #FFXIV Primal-Excalibur | Sin'dorei/ Miqot'e | photographer | xstitcher | mom | EU in USA |she/her| Av: @Lilyia_art
     [protected] => 
-    [followers_count] => 3455
+    [followers_count] => 3454
     [friends_count] => 3043
     [listed_count] => 49
     [created_at] => Thu Oct 16 05:31:39 +0000 2008
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 1
+    [has_extended_profile] => 
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
