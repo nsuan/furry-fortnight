@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => forget injuries, never forget kindness
-    [protected] => 
+    [protected] => 1
     [followers_count] => 155
     [friends_count] => 4976
     [listed_count] => 5
