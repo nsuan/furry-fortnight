@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1144517942316621824
     [id_str] => 1144517942316621824
-    [name] => Shetolae
+    [name] => Shetolae @ BOBA
     [screen_name] => shetolae
     [location] => Feralas, Kalimdor, Azeroth
     [url] => https://thoribasdorshal.carrd.co/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1257
     [listed_count] => 1
     [created_at] => Fri Jun 28 08:08:36 +0000 2019
-    [favourites_count] => 54966
+    [favourites_count] => 54976
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9897
+    [statuses_count] => 9903
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
