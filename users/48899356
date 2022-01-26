@@ -11,7 +11,7 @@ stdClass Object
 Header: @saltmatey
 PfP: @CherRo_Art
     [protected] => 
-    [followers_count] => 512
+    [followers_count] => 511
     [friends_count] => 1309
     [listed_count] => 3
     [created_at] => Sat Jun 20 02:13:04 +0000 2009
@@ -20,7 +20,7 @@ PfP: @CherRo_Art
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3966
+    [statuses_count] => 3967
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
