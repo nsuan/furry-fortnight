@@ -10,7 +10,7 @@ stdClass Object
  bunnies, music, coffee & games. sometimes
     [protected] => 
     [followers_count] => 800
-    [friends_count] => 4467
+    [friends_count] => 4468
     [listed_count] => 4
     [created_at] => Sat Apr 11 20:30:52 +0000 2009
     [favourites_count] => 12609
@@ -18,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 14688
+    [statuses_count] => 14687
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
