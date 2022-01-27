@@ -12,15 +12,15 @@ stdClass Object
 header and icon: @lunarsemaphore,
     [protected] => 
     [followers_count] => 786
-    [friends_count] => 200
+    [friends_count] => 201
     [listed_count] => 5
     [created_at] => Mon Aug 01 00:19:30 +0000 2016
-    [favourites_count] => 16936
+    [favourites_count] => 16937
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16610
+    [statuses_count] => 16611
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
