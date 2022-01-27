@@ -9,7 +9,7 @@ stdClass Object
     [description] => John| 22 yo | tauros | pan | mixed | artist, hobby storyboarder
     [protected] => 
     [followers_count] => 179
-    [friends_count] => 1594
+    [friends_count] => 1593
     [listed_count] => 0
     [created_at] => Mon Apr 02 18:56:16 +0000 2018
     [favourites_count] => 73228
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 25963
+    [statuses_count] => 25965
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
