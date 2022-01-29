@@ -9,15 +9,15 @@ stdClass Object
     [description] => fledgling (o,..,o) 🦇🍷
     [protected] => 
     [followers_count] => 58
-    [friends_count] => 4423
+    [friends_count] => 4425
     [listed_count] => 1
     [created_at] => Tue Aug 02 01:15:00 +0000 2016
-    [favourites_count] => 2391
+    [favourites_count] => 2400
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 826
+    [statuses_count] => 828
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 1
+    [has_extended_profile] => 
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
