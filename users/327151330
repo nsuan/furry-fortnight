@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 327151330
     [id_str] => 327151330
-    [name] => phae⁷ ver. ENDWALKER
+    [name] => phae
     [screen_name] => __phae
     [location] => NYC to Maine
     [url] => http://twitch.tv/missphae
@@ -14,14 +14,14 @@ kpop multi.
     [protected] => 
     [followers_count] => 461
     [friends_count] => 1701
-    [listed_count] => 4
+    [listed_count] => 3
     [created_at] => Fri Jul 01 02:35:42 +0000 2011
-    [favourites_count] => 14773
+    [favourites_count] => 14774
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10312
+    [statuses_count] => 10314
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
