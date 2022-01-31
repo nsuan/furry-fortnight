@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3021605049
     [id_str] => 3021605049
-    [name] => Volentis @back to com work
+    [name] => Volentis @Com
     [screen_name] => VerbaVolens
     [location] => Canada
     [url] => 
@@ -13,7 +13,7 @@ stdClass Object
     [friends_count] => 203
     [listed_count] => 6
     [created_at] => Fri Feb 06 15:56:04 +0000 2015
-    [favourites_count] => 33988
+    [favourites_count] => 33990
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
