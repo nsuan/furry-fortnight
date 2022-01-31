@@ -13,14 +13,14 @@ ArtDump: @LazyGuusha
     [protected] => 
     [followers_count] => 250
     [friends_count] => 1721
-    [listed_count] => 2
+    [listed_count] => 0
     [created_at] => Sun Jul 25 14:22:16 +0000 2010
-    [favourites_count] => 66686
+    [favourites_count] => 66688
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 16169
+    [statuses_count] => 16170
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
