@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3044820982
     [id_str] => 3044820982
-    [name] => Koto
+    [name] => Koto | ew spoilers
     [screen_name] => princeKotori
     [location] => 
     [url] => 
@@ -13,12 +13,12 @@ stdClass Object
     [friends_count] => 91
     [listed_count] => 1
     [created_at] => Thu Feb 19 03:00:52 +0000 2015
-    [favourites_count] => 1027
+    [favourites_count] => 1030
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 498
+    [statuses_count] => 499
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
