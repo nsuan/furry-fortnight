@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1421694276
     [id_str] => 1421694276
-    [name] => 💀 BortMortem (Re-debut soon™️)
+    [name] => 💀 BortMortem
     [screen_name] => BortMortem
     [location] => Some Basement in Chicago
     [url] => https://linktr.ee/BortMortem
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 1861
     [listed_count] => 2
     [created_at] => Sat May 11 22:19:53 +0000 2013
-    [favourites_count] => 12436
+    [favourites_count] => 12437
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
