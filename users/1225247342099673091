@@ -2,24 +2,19 @@ stdClass Object
 (
     [id] => 1225247342099673091
     [id_str] => 1225247342099673091
-    [name] => rachel
+    [name] => rachel // endwalker spoilers
     [screen_name] => shadybringer
     [location] => United States
     [url] => 
     [description] => 26 she/her | i like ffxiv and @epsilonwow
 
-
-
-
-
-
-beware of shb spoilers
+beware of shb + enw spoilers
     [protected] => 
-    [followers_count] => 47
-    [friends_count] => 570
+    [followers_count] => 46
+    [friends_count] => 569
     [listed_count] => 0
     [created_at] => Thu Feb 06 02:38:33 +0000 2020
-    [favourites_count] => 6283
+    [favourites_count] => 6286
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
