@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 709537392
     [id_str] => 709537392
-    [name] => Arashi PoW 🌱in FF14
+    [name] => Arashi PoW
     [screen_name] => Petsofwarcraft
     [location] => Azeroth
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4919
     [listed_count] => 49
     [created_at] => Sat Jul 21 20:37:18 +0000 2012
-    [favourites_count] => 34401
+    [favourites_count] => 34406
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 32159
+    [statuses_count] => 32160
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
