@@ -11,15 +11,15 @@ stdClass Object
 pfp by @KennekyDeky
     [protected] => 
     [followers_count] => 85
-    [friends_count] => 1200
+    [friends_count] => 1201
     [listed_count] => 1
     [created_at] => Sun Feb 27 19:45:32 +0000 2011
-    [favourites_count] => 15283
+    [favourites_count] => 15288
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10641
+    [statuses_count] => 10642
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
