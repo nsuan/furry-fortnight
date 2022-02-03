@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1193274085133959170
     [id_str] => 1193274085133959170
-    [name] => KarrahE ✨ Kickstarter on Thursday!
+    [name] => KarrahE ✨ Kickstarter TODAY!
     [screen_name] => karrah_e
     [location] => 
     [url] => https://www.artstation.com/karrahe
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 721
     [listed_count] => 118
     [created_at] => Sat Nov 09 21:09:03 +0000 2019
-    [favourites_count] => 15315
+    [favourites_count] => 15317
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6309
+    [statuses_count] => 6308
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
