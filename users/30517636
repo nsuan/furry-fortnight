@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 30517636
     [id_str] => 30517636
-    [name] => Alana (gorgeous girls love soup)
+    [name] => Alana
     [screen_name] => mercuryhammer
     [location] => Aether/Cactuar - Ludo Lewis
     [url] => 
@@ -13,12 +13,12 @@ stdClass Object
     [friends_count] => 4468
     [listed_count] => 4
     [created_at] => Sat Apr 11 20:30:52 +0000 2009
-    [favourites_count] => 12650
+    [favourites_count] => 12653
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 14729
+    [statuses_count] => 14731
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
