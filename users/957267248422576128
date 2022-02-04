@@ -11,15 +11,15 @@ stdClass Object
 тупо сижу
     [protected] => 
     [followers_count] => 55
-    [friends_count] => 4977
+    [friends_count] => 4980
     [listed_count] => 2
     [created_at] => Sat Jan 27 15:01:11 +0000 2018
-    [favourites_count] => 23668
+    [favourites_count] => 23676
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 541
+    [statuses_count] => 542
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
