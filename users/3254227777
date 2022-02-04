@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3254227777
     [id_str] => 3254227777
-    [name] => Shadu Murasaki
+    [name] => Shadu "Sabes" Murasaki
     [screen_name] => Shadumura
     [location] => Tulare, CA
     [url] => 
@@ -11,14 +11,14 @@ stdClass Object
     [protected] => 
     [followers_count] => 1251
     [friends_count] => 2135
-    [listed_count] => 0
+    [listed_count] => 61
     [created_at] => Wed Jun 24 02:27:01 +0000 2015
-    [favourites_count] => 659884
+    [favourites_count] => 659896
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 225170
+    [statuses_count] => 225174
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
