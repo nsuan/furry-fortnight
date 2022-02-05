@@ -17,12 +17,12 @@ Nodejs
     [friends_count] => 5000
     [listed_count] => 2
     [created_at] => Sat Apr 28 21:23:19 +0000 2012
-    [favourites_count] => 12884
+    [favourites_count] => 12895
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6803
+    [statuses_count] => 6812
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
