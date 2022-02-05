@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1360380189964967955
-    [id_str] => 1360380189964967955
-    [name] => Ibaraky_999
-    [screen_name] => Ibaraky9
+    [id] => 1439269038413139971
+    [id_str] => 1439269038413139971
+    [name] => KemetJones
+    [screen_name] => JonesKemet
     [location] => 
     [url] => 
-    [description] => 
+    [description] => Idk yet
     [protected] => 
-    [followers_count] => 15
-    [friends_count] => 1734
+    [followers_count] => 52
+    [friends_count] => 590
     [listed_count] => 0
-    [created_at] => Sat Feb 13 00:09:23 +0000 2021
-    [favourites_count] => 1958
+    [created_at] => Sat Sep 18 16:44:25 +0000 2021
+    [favourites_count] => 405
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 303
+    [statuses_count] => 1
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1360380957149302784/maSw6WjF_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1360380957149302784/maSw6WjF_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1360380189964967955/1613178017
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -36,7 +35,7 @@ stdClass Object
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 
+    [default_profile_image] => 1
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
