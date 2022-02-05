@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3021605049
     [id_str] => 3021605049
-    [name] => Volentis
+    [name] => Volentis @scribbling
     [screen_name] => VerbaVolens
     [location] => Canada
     [url] => 
@@ -13,12 +13,12 @@ stdClass Object
     [friends_count] => 203
     [listed_count] => 6
     [created_at] => Fri Feb 06 15:56:04 +0000 2015
-    [favourites_count] => 34073
+    [favourites_count] => 34074
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9130
+    [statuses_count] => 9132
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
