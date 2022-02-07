@@ -10,7 +10,7 @@ stdClass Object
 Character List below
     [protected] => 
     [followers_count] => 185
-    [friends_count] => 1026
+    [friends_count] => 1027
     [listed_count] => 0
     [created_at] => Thu Jan 02 11:48:15 +0000 2020
     [favourites_count] => 4199
@@ -18,7 +18,7 @@ Character List below
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1517
+    [statuses_count] => 1518
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
