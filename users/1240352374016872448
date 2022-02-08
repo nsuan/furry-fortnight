@@ -13,15 +13,15 @@ stdClass Object
 ⭸ header: @maunderfiend
     [protected] => 
     [followers_count] => 578
-    [friends_count] => 1441
+    [friends_count] => 1440
     [listed_count] => 1
     [created_at] => Wed Mar 18 19:00:31 +0000 2020
-    [favourites_count] => 19188
+    [favourites_count] => 19200
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4565
+    [statuses_count] => 4569
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
