@@ -9,7 +9,7 @@ stdClass Object
     [description] => Hyperion // Area52
     [protected] => 
     [followers_count] => 61
-    [friends_count] => 1118
+    [friends_count] => 1119
     [listed_count] => 1
     [created_at] => Tue Nov 06 03:57:32 +0000 2012
     [favourites_count] => 10128
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1083
+    [statuses_count] => 1085
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
