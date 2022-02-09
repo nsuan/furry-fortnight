@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1381647509605425154
     [id_str] => 1381647509605425154
-    [name] => Irishmoogles
+    [name] => moo of mirrah
     [screen_name] => Irishmoogles
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 134
     [listed_count] => 0
     [created_at] => Mon Apr 12 16:36:57 +0000 2021
-    [favourites_count] => 1730
+    [favourites_count] => 1731
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1106
+    [statuses_count] => 1107
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,7 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1381647612302921728/PNCIpHqm_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1381647612302921728/PNCIpHqm_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1381647509605425154/1618245644
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1381647509605425154/1644440023
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
