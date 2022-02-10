@@ -9,7 +9,7 @@ stdClass Object
     [description] => i dont know how twitter works
 dont follow me🔞
     [protected] => 
-    [followers_count] => 35
+    [followers_count] => 34
     [friends_count] => 4998
     [listed_count] => 1
     [created_at] => Tue Dec 04 08:26:43 +0000 2018
@@ -18,7 +18,7 @@ dont follow me🔞
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 15456
+    [statuses_count] => 15455
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
