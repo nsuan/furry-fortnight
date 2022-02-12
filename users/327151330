@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 327151330
     [id_str] => 327151330
-    [name] => phae @ lost ark
+    [name] => phae!
     [screen_name] => __phae
     [location] => NYC to Maine
     [url] => http://twitch.tv/missphae
@@ -16,12 +16,12 @@ kpop multi.
     [friends_count] => 1735
     [listed_count] => 4
     [created_at] => Fri Jul 01 02:35:42 +0000 2011
-    [favourites_count] => 13319
+    [favourites_count] => 13326
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10354
+    [statuses_count] => 10356
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
