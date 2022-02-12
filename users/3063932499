@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => #ELIDIBUS. she/him. 22. ▪️ i don’t need you to tell me who i am. 🦀 @xccentriq 🦀
-    [protected] => 
+    [protected] => 1
     [followers_count] => 60
     [friends_count] => 357
     [listed_count] => 1
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13670
+    [statuses_count] => 13672
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
