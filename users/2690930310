@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => fub free
     [protected] => 
-    [followers_count] => 2295
+    [followers_count] => 2296
     [friends_count] => 957
     [listed_count] => 1
     [created_at] => Tue Jul 29 20:05:20 +0000 2014
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 100319
+    [statuses_count] => 100325
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
