@@ -10,7 +10,7 @@ stdClass Object
 banner: @azorea
     [protected] => 
     [followers_count] => 4477
-    [friends_count] => 1024
+    [friends_count] => 1025
     [listed_count] => 65
     [created_at] => Sun Aug 17 02:36:14 +0000 2014
     [favourites_count] => 20323
@@ -18,7 +18,7 @@ banner: @azorea
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17588
+    [statuses_count] => 17589
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
