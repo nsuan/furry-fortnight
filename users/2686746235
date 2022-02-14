@@ -16,14 +16,14 @@ h: @pocketghosts   I: @PeachHalehaven
     [protected] => 
     [followers_count] => 354
     [friends_count] => 421
-    [listed_count] => 2
+    [listed_count] => 0
     [created_at] => Mon Jul 28 05:33:54 +0000 2014
-    [favourites_count] => 18257
+    [favourites_count] => 18258
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 18592
+    [statuses_count] => 18593
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
