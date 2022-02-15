@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1374059222195929088
-    [id_str] => 1374059222195929088
-    [name] => Terizi 🐲
-    [screen_name] => Let_terizi
+    [id] => 1485175231690035202
+    [id_str] => 1485175231690035202
+    [name] => Kelly Kirby
+    [screen_name] => BitcoinKell
     [location] => 
     [url] => 
-    [description] => The
+    [description] => #bitcoin is the separation of money and state
     [protected] => 
-    [followers_count] => 106
-    [friends_count] => 414
-    [listed_count] => 0
-    [created_at] => Mon Mar 22 18:04:09 +0000 2021
-    [favourites_count] => 35260
+    [followers_count] => 102
+    [friends_count] => 292
+    [listed_count] => 6
+    [created_at] => Sun Jan 23 08:59:12 +0000 2022
+    [favourites_count] => 388
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 44842
+    [statuses_count] => 59
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1473764072944513029/z5-P_mz8_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1473764072944513029/z5-P_mz8_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1374059222195929088/1616436527
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1485175339299094529/5BKD4Qog_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1485175339299094529/5BKD4Qog_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1485175231690035202/1642937470
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
