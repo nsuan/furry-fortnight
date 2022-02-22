@@ -10,16 +10,16 @@ stdClass Object
 
 Alt: @zeonickig
     [protected] => 
-    [followers_count] => 1303
-    [friends_count] => 1595
-    [listed_count] => 9
+    [followers_count] => 1300
+    [friends_count] => 1598
+    [listed_count] => 8
     [created_at] => Sat Apr 02 14:30:22 +0000 2016
-    [favourites_count] => 23755
+    [favourites_count] => 23772
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6066
+    [statuses_count] => 6070
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

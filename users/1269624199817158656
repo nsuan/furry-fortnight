@@ -7,12 +7,13 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => ig: http://instagram.com/nozakozak/
+20
     [protected] => 
-    [followers_count] => 18
-    [friends_count] => 896
+    [followers_count] => 19
+    [friends_count] => 926
     [listed_count] => 1
     [created_at] => Sun Jun 07 13:36:28 +0000 2020
-    [favourites_count] => 6906
+    [favourites_count] => 7170
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 

@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 1166811630430277634
     [id_str] => 1166811630430277634
-    [name] => Dylan Alexander
-    [screen_name] => gideonthebeast
+    [name] => Neon Rayn
+    [screen_name] => neonrayn
     [location] => Los Angeles, CA
-    [url] => https://m.twitch.tv/gideonthebeast
+    [url] => https://m.soundcloud.com/neonrayn
     [description] => Rapper/singer/musician, Twitch streamer, Youtuber, Actor, Horror Fanatic 🧟‍♀️🔪👻🎃super nerd, PC master race
     [protected] => 
     [followers_count] => 1146
-    [friends_count] => 4406
+    [friends_count] => 4402
     [listed_count] => 5
     [created_at] => Wed Aug 28 20:36:11 +0000 2019
-    [favourites_count] => 1096
+    [favourites_count] => 1098
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 446
+    [statuses_count] => 447
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,7 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1410872304301641729/V-L8N396_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1410872304301641729/V-L8N396_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1166811630430277634/1634230051
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1166811630430277634/1645534616
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6

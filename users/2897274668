@@ -6,20 +6,20 @@ stdClass Object
     [screen_name] => Lintmod
     [location] => 
     [url] => http://asksirlintalot.tumblr.com
-    [description] => Discord: https://t.co/jeO2s5oVx5
-Tumblr Archive: https://t.co/lcub6i4qLn
-Commissions OPEN: https://t.co/EZtJguniNA
+    [description] => Discord: http://discord.gg/scSpnGH
+Tumblr Archive: http://lintmod.tumblr.com
+Commissions OPEN: http://lintmod.tumblr.com/private/662841…
     [protected] => 
-    [followers_count] => 1400
-    [friends_count] => 1222
+    [followers_count] => 1397
+    [friends_count] => 1226
     [listed_count] => 4
     [created_at] => Wed Nov 12 07:36:32 +0000 2014
-    [favourites_count] => 106
+    [favourites_count] => 108
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 384
+    [statuses_count] => 387
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -36,7 +36,7 @@ Commissions OPEN: https://t.co/EZtJguniNA
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 
     [default_profile_image] => 
     [following] => 

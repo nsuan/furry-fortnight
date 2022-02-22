@@ -10,15 +10,15 @@ stdClass Object
 #BlackLivesMatter
     [protected] => 
     [followers_count] => 437
-    [friends_count] => 815
+    [friends_count] => 826
     [listed_count] => 4
     [created_at] => Fri May 24 16:25:12 +0000 2019
-    [favourites_count] => 23648
+    [favourites_count] => 23799
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 24159
+    [statuses_count] => 24304
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,8 +27,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1488557694604697603/0Ab6RgNO_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1488557694604697603/0Ab6RgNO_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1495862635870445571/EC_hNPc5_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1495862635870445571/EC_hNPc5_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1131959340536082435/1642989346
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED

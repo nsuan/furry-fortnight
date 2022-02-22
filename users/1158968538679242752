@@ -9,16 +9,16 @@ stdClass Object
     [description] => maker, writer, talker. 
 he/him.
     [protected] => 
-    [followers_count] => 57
+    [followers_count] => 56
     [friends_count] => 200
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Wed Aug 07 05:10:06 +0000 2019
-    [favourites_count] => 2774
+    [favourites_count] => 2773
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2320
+    [statuses_count] => 2319
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
