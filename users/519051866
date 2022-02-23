@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 519051866
     [id_str] => 519051866
-    [name] => Tracy MacLauchlan 🧛‍♀️🖤
+    [name] => Tracy MacLauchlan
     [screen_name] => saetje
     [location] => 
     [url] => http://tracymaclauchlan.myportfolio.com
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 15521
+    [statuses_count] => 15524
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
