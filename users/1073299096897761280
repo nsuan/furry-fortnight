@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1073299096897761280
     [id_str] => 1073299096897761280
-    [name] => демьян 🦷
+    [name] => демьян 🦷 #нетвойне
     [screen_name] => jsimpeternal
     [location] => Краснодар
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 372
     [listed_count] => 3
     [created_at] => Thu Dec 13 19:30:20 +0000 2018
-    [favourites_count] => 29229
+    [favourites_count] => 29230
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 9111
+    [statuses_count] => 9113
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
