@@ -10,7 +10,7 @@ stdClass Object
 He/Him, 18+
     [protected] => 
     [followers_count] => 35
-    [friends_count] => 275
+    [friends_count] => 276
     [listed_count] => 0
     [created_at] => Thu Apr 25 05:05:23 +0000 2013
     [favourites_count] => 2676
@@ -18,7 +18,7 @@ He/Him, 18+
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 634
+    [statuses_count] => 635
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
