@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 79041792
     [id_str] => 79041792
-    [name] => Lina Vega ✍🏻
+    [name] => Lina Vega 🪶
     [screen_name] => vegacabra
     [location] => Bogotá, D.C., Colombia
     [url] => https://www.facebook.com/vegacabra
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 3727
     [listed_count] => 7
     [created_at] => Fri Oct 02 00:02:46 +0000 2009
-    [favourites_count] => 114898
+    [favourites_count] => 114903
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
