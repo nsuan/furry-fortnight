@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 16695286
     [id_str] => 16695286
-    [name] => Blastflight | Goblin in Icewind Dale
+    [name] => Blastflight | Forgotten Realm goof
     [screen_name] => Senri_Ions
     [location] => TX
     [url] => 
@@ -14,12 +14,12 @@ Banner & icon by @ neoncatty /
     [friends_count] => 2267
     [listed_count] => 2
     [created_at] => Sat Oct 11 11:51:07 +0000 2008
-    [favourites_count] => 192265
+    [favourites_count] => 192269
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 29186
+    [statuses_count] => 29188
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,8 +28,8 @@ Banner & icon by @ neoncatty /
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1488685024182509571/lFPuffp-_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1488685024182509571/lFPuffp-_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1497262480854237185/Iznh-OPS_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1497262480854237185/Iznh-OPS_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/16695286/1643765142
     [profile_link_color] => ABB8C2
     [profile_sidebar_border_color] => 000000
