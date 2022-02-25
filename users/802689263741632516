@@ -9,7 +9,7 @@ stdClass Object
     [description] => «my destiny is my own!»
     [protected] => 
     [followers_count] => 416
-    [friends_count] => 644
+    [friends_count] => 646
     [listed_count] => 3
     [created_at] => Sun Nov 27 01:43:28 +0000 2016
     [favourites_count] => 41474
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6293
+    [statuses_count] => 6294
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
