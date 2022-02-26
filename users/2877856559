@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => я мерзость
-    [protected] => 
+    [protected] => 1
     [followers_count] => 189
     [friends_count] => 3606
     [listed_count] => 2
