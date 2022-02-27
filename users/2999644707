@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => new account @k1ko_no
-    [protected] => 
+    [protected] => 1
     [followers_count] => 1050
     [friends_count] => 215
     [listed_count] => 4
