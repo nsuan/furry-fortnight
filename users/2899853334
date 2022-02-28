@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2899853334
     [id_str] => 2899853334
-    [name] => Zeehva | Seekingway
+    [name] => Zeehva
     [screen_name] => zeehva
     [location] => Florida, USA
     [url] => http://Zeehva.tumblr.com
@@ -16,12 +16,12 @@ I&H: HettiKovacs & Frrrozi
     [friends_count] => 1419
     [listed_count] => 3
     [created_at] => Sat Nov 15 02:53:36 +0000 2014
-    [favourites_count] => 11281
+    [favourites_count] => 11282
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6293
+    [statuses_count] => 6295
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
