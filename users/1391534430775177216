@@ -2,8 +2,8 @@ stdClass Object
 (
     [id] => 1391534430775177216
     [id_str] => 1391534430775177216
-    [name] => Met'has Southwind
-    [screen_name] => MetSouthwind
+    [name] => Met'has Shukyyo
+    [screen_name] => MetShukyyo
     [location] => Crystal, Malboro
     [url] => 
     [description] => SAM - Crystal: Malboro. 
@@ -16,7 +16,7 @@ Yorozuya is recruiting!
 DM if you're interested.
     [protected] => 
     [followers_count] => 138
-    [friends_count] => 463
+    [friends_count] => 464
     [listed_count] => 0
     [created_at] => Sun May 09 23:24:03 +0000 2021
     [favourites_count] => 1121
@@ -24,7 +24,7 @@ DM if you're interested.
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 838
+    [statuses_count] => 840
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
