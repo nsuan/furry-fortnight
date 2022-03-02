@@ -7,12 +7,12 @@ stdClass Object
     [location] => Where you think I'm at?
     [url] => 
     [description] => 26 | Desk potato
-    [protected] => 1
+    [protected] => 
     [followers_count] => 65
     [friends_count] => 1906
     [listed_count] => 0
     [created_at] => Wed Mar 16 15:44:18 +0000 2016
-    [favourites_count] => 34967
+    [favourites_count] => 34968
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
