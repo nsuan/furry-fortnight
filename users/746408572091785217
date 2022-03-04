@@ -2,11 +2,12 @@ stdClass Object
 (
     [id] => 746408572091785217
     [id_str] => 746408572091785217
-    [name] => Furtastic
-    [screen_name] => FurtasticWoW
-    [location] => Vol'dun - Zandalar - Azeroth
+    [name] => Uw'znu
+    [screen_name] => Uw_znu
+    [location] => Hydaelyn
     [url] => 
-    [description] => Furry fan of #WorldofWarcraft on Wyrmrest Accord - #FortheHorde!
+    [description] => Former WoW player, now a happy FFXIV gamer.
+RPer | Writer | Friend | 18+
     [protected] => 
     [followers_count] => 364
     [friends_count] => 1061
@@ -26,9 +27,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1270925818282139654/fv7rpOjr_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1270925818282139654/fv7rpOjr_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/746408572091785217/1591847250
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1499622297509847045/8BpPFV2n_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1499622297509847045/8BpPFV2n_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/746408572091785217/1646372793
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
