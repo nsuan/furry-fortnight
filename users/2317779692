@@ -11,14 +11,14 @@ nsfw acc: @CloudedLemonade
     [protected] => 
     [followers_count] => 88
     [friends_count] => 375
-    [listed_count] => 1
+    [listed_count] => 0
     [created_at] => Wed Jan 29 20:50:02 +0000 2014
-    [favourites_count] => 21444
+    [favourites_count] => 21445
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2009
+    [statuses_count] => 2008
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
