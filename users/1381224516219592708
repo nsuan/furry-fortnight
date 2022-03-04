@@ -2,11 +2,14 @@ stdClass Object
 (
     [id] => 1381224516219592708
     [id_str] => 1381224516219592708
-    [name] => 
+    [name] => Wan@wan~徒然なる主従の日々#Tsurezure naru shuju no hibi
     [screen_name] => wanwan18299269
-    [location] => 
+    [location] => 日本 東京
     [url] => 
-    [description] => @wanwan18299269's account is temporarily unavailable because it violates the Twitter Media Policy. Learn more.
+    [description] => 30年以上前から気儘なM癖暮らし。10年前銀座SMクラブBHのChristmas-partyでM女さんと知り逢い、MM癖同士が気が愛、今でも繋がっています。時には女王様の縄でも…
+
+Special thanks to Juri&Eve
+#Fetish #BDSM　#Pensive_days_of_masterslave
     [protected] => 
     [followers_count] => 82
     [friends_count] => 788
@@ -17,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 49
+    [statuses_count] => 50
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +29,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => 
-    [profile_image_url_https] => 
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
