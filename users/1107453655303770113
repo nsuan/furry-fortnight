@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 972369866379456512
-    [id_str] => 972369866379456512
-    [name] => Shrubby Jupiter 💙
-    [screen_name] => shrubbyjupiter
-    [location] => I'm from nowhere!!
-    [url] => https://www.instagram.com/shrubbyjupiter/?hl=en
-    [description] => HAY YOU!!! welcome to my Twitter! I draw a lots of fantasy ⚒COMMISSIONS CLOSED 🛠
+    [id] => 1107453655303770113
+    [id_str] => 1107453655303770113
+    [name] => Lord of Thunder
+    [screen_name] => kingcecil7
+    [location] => Athens
+    [url] => 
+    [description] => 
     [protected] => 
-    [followers_count] => 555
-    [friends_count] => 523
-    [listed_count] => 2
-    [created_at] => Sat Mar 10 07:13:36 +0000 2018
-    [favourites_count] => 39482
+    [followers_count] => 13
+    [friends_count] => 582
+    [listed_count] => 0
+    [created_at] => Mon Mar 18 01:28:21 +0000 2019
+    [favourites_count] => 2221
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8204
+    [statuses_count] => 1608
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1482756156766494727/oR5OYqqf_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1482756156766494727/oR5OYqqf_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/972369866379456512/1620155132
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1383015272693571586/Z4_u1VEV_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1383015272693571586/Z4_u1VEV_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
