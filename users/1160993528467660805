@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => Ele/dele
     [protected] => 
-    [followers_count] => 154
+    [followers_count] => 155
     [friends_count] => 413
     [listed_count] => 0
     [created_at] => Mon Aug 12 19:16:42 +0000 2019
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10513
+    [statuses_count] => 10514
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1476653503594520581/J2a82C5X_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1476653503594520581/J2a82C5X_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1499937653613117446/7S9pg3fl_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1499937653613117446/7S9pg3fl_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1160993528467660805/1632841605
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
