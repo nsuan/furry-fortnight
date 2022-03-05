@@ -10,16 +10,16 @@ stdClass Object
 
 http://ko-fi.com/wazkalia
     [protected] => 
-    [followers_count] => 381
-    [friends_count] => 999
+    [followers_count] => 383
+    [friends_count] => 1001
     [listed_count] => 1
     [created_at] => Mon Mar 24 02:48:11 +0000 2014
-    [favourites_count] => 43759
+    [favourites_count] => 43760
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 29070
+    [statuses_count] => 29071
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
