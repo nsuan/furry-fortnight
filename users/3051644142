@@ -11,7 +11,7 @@ stdClass Object
 🥞
 BLM/ACAB
     [protected] => 
-    [followers_count] => 8321
+    [followers_count] => 8323
     [friends_count] => 264
     [listed_count] => 62
     [created_at] => Sun Mar 01 02:39:44 +0000 2015
@@ -37,7 +37,7 @@ BLM/ACAB
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
