@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 641
     [listed_count] => 0
     [created_at] => Sat Feb 01 15:31:38 +0000 2020
-    [favourites_count] => 6387
+    [favourites_count] => 6390
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 19094
+    [statuses_count] => 19097
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
