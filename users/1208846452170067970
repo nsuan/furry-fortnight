@@ -17,15 +17,15 @@ stdClass Object
 i: @ten_nbr | h: @naokimineta026
     [protected] => 
     [followers_count] => 148
-    [friends_count] => 278
+    [friends_count] => 279
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 9793
+    [favourites_count] => 9795
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 32273
+    [statuses_count] => 32277
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
