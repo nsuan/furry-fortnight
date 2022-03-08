@@ -16,18 +16,18 @@ stdClass Object
 
 --
 
-i: @_pikurusu00 | h: @siomizu7777
+i: @ten_nbr | h: @naokimineta026
     [protected] => 
     [followers_count] => 148
     [friends_count] => 277
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 9781
+    [favourites_count] => 9785
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 32251
+    [statuses_count] => 32254
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -36,9 +36,9 @@ i: @_pikurusu00 | h: @siomizu7777
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1497316565414469645/LeZ_YW9W_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1497316565414469645/LeZ_YW9W_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1208846452170067970/1646593993
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1500988282833977346/Q9K2sP4O_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1500988282833977346/Q9K2sP4O_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1208846452170067970/1646698733
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
