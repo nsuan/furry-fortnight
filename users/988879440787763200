@@ -11,7 +11,7 @@ stdClass Object
 TG: @ryokuwhitediario
     [protected] => 
     [followers_count] => 62
-    [friends_count] => 664
+    [friends_count] => 665
     [listed_count] => 0
     [created_at] => Tue Apr 24 20:36:46 +0000 2018
     [favourites_count] => 3286
@@ -19,7 +19,7 @@ TG: @ryokuwhitediario
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 197
+    [statuses_count] => 198
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,7 +30,6 @@ TG: @ryokuwhitediario
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1477285696893292544/5nemXs07_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1477285696893292544/5nemXs07_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/988879440787763200/1644786178
     [profile_link_color] => AB5C4B
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
