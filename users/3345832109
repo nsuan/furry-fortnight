@@ -7,7 +7,7 @@ stdClass Object
     [location] => North Carolina, USA
     [url] => http://foolishghoulish.tumblr.com
     [description] => ♡ avery • 25 • they/she ♡ daydreamt/overslept - moon guard ♡ living dead girl ♡
-    [protected] => 1
+    [protected] => 
     [followers_count] => 67
     [friends_count] => 485
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7348
+    [statuses_count] => 7350
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
