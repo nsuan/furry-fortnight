@@ -11,16 +11,16 @@ stdClass Object
 
 header: @lunarsemaphore, icon: @kottkrigart
     [protected] => 
-    [followers_count] => 776
+    [followers_count] => 775
     [friends_count] => 197
     [listed_count] => 5
     [created_at] => Mon Aug 01 00:19:30 +0000 2016
-    [favourites_count] => 17446
+    [favourites_count] => 17447
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17116
+    [statuses_count] => 17117
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
