@@ -12,7 +12,7 @@ stdClass Object
 h/i: @gIossbymyg
     [protected] => 
     [followers_count] => 481
-    [friends_count] => 1782
+    [friends_count] => 1780
     [listed_count] => 4
     [created_at] => Fri Jul 01 02:35:42 +0000 2011
     [favourites_count] => 13899
@@ -20,7 +20,7 @@ h/i: @gIossbymyg
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10282
+    [statuses_count] => 10283
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
