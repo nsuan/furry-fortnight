@@ -11,7 +11,7 @@ stdClass Object
 ☆icon by @feefal_
     [protected] => 
     [followers_count] => 349
-    [friends_count] => 906
+    [friends_count] => 905
     [listed_count] => 4
     [created_at] => Wed Oct 19 22:15:24 +0000 2016
     [favourites_count] => 107952
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 52561
+    [statuses_count] => 52562
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
