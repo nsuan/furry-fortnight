@@ -17,15 +17,15 @@ stdClass Object
 i: @ten_nbr | h: @rosa_sketch
     [protected] => 
     [followers_count] => 148
-    [friends_count] => 279
+    [friends_count] => 280
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 9865
+    [favourites_count] => 9867
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 32433
+    [statuses_count] => 32435
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
