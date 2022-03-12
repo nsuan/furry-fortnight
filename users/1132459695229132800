@@ -10,8 +10,8 @@ stdClass Object
 
 pfp by @meg_emmy_james
     [protected] => 
-    [followers_count] => 239
-    [friends_count] => 1283
+    [followers_count] => 238
+    [friends_count] => 1282
     [listed_count] => 0
     [created_at] => Sun May 26 01:33:26 +0000 2019
     [favourites_count] => 12441
@@ -19,7 +19,7 @@ pfp by @meg_emmy_james
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7389
+    [statuses_count] => 7393
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
