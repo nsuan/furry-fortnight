@@ -12,9 +12,9 @@ tg: @/pizzatupizza
     [protected] => 
     [followers_count] => 3126
     [friends_count] => 467
-    [listed_count] => 0
+    [listed_count] => 16
     [created_at] => Sun Dec 16 20:18:22 +0000 2018
-    [favourites_count] => 14598
+    [favourites_count] => 14599
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
