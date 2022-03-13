@@ -15,7 +15,7 @@ stdClass Object
 -all links on on my Linktree
     [protected] => 
     [followers_count] => 580
-    [friends_count] => 463
+    [friends_count] => 464
     [listed_count] => 4
     [created_at] => Fri May 26 22:02:20 +0000 2017
     [favourites_count] => 18839
@@ -23,7 +23,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1324
+    [statuses_count] => 1325
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
