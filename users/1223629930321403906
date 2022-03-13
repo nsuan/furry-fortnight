@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1223629930321403906
     [id_str] => 1223629930321403906
-    [name] => tyler myers truther
+    [name] => assistant manager at the peg house
     [screen_name] => skinnysthicceh
     [location] => rogers arena penalty box
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 643
     [listed_count] => 0
     [created_at] => Sat Feb 01 15:31:38 +0000 2020
-    [favourites_count] => 6470
+    [favourites_count] => 6471
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 19474
+    [statuses_count] => 19479
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
