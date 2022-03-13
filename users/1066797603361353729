@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 955543512061218816
-    [id_str] => 955543512061218816
-    [name] => saint (6.0 spoilers)
-    [screen_name] => SaintEtzer
-    [location] => 
-    [url] => 
-    [description] => 21+, she/her, white. media tab for art, belligerent brass @ crystal-goblin, EW spoilers abound
+    [id] => 1066797603361353729
+    [id_str] => 1066797603361353729
+    [name] => Pup the Magic Dragon
+    [screen_name] => magic_pup
+    [location] => Warrington, England
+    [url] => http://www.furaffinity.net/user/twidashloverxox/
+    [description] => Just a friendly neighbourhood pup/dragon. sometimes contraversial, sometimes a donut, but always a goofball.
+
+Lvl25, mtf, plural, pancakes
     [protected] => 
-    [followers_count] => 1074
-    [friends_count] => 2577
-    [listed_count] => 8
-    [created_at] => Mon Jan 22 20:51:41 +0000 2018
-    [favourites_count] => 18690
+    [followers_count] => 163
+    [friends_count] => 1212
+    [listed_count] => 2
+    [created_at] => Sun Nov 25 20:55:43 +0000 2018
+    [favourites_count] => 28833
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8848
+    [statuses_count] => 13014
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1366509590079287301/b_TYaRR-_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1366509590079287301/b_TYaRR-_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/955543512061218816/1603599657
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1347825495782649856/RxurAWXS_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1347825495782649856/RxurAWXS_normal.jpg
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
