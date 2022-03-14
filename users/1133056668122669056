@@ -2,24 +2,25 @@ stdClass Object
 (
     [id] => 1133056668122669056
     [id_str] => 1133056668122669056
-    [name] => Nethree 🌺🌷🌸
+    [name] => Wiki 🌺🌷🌸
     [screen_name] => nethxee
     [location] => 
     [url] => 
-    [description] => Gibby is the Romeo to my Juliet (she/her)
+    [description] => Capybara lover by day, capybara enjoyer by night (she/her)
 -
 Video editor
+Background art - lordkndy on Pinterest
     [protected] => 
-    [followers_count] => 37
-    [friends_count] => 544
+    [followers_count] => 46
+    [friends_count] => 567
     [listed_count] => 0
     [created_at] => Mon May 27 17:05:35 +0000 2019
-    [favourites_count] => 56319
+    [favourites_count] => 73063
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5767
+    [statuses_count] => 6661
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +29,9 @@ Video editor
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1448053806667796484/TRlDrfRV_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1448053806667796484/TRlDrfRV_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1133056668122669056/1631473016
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1487648635751907329/XllnNcSX_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1487648635751907329/XllnNcSX_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1133056668122669056/1643518575
     [profile_link_color] => 7FDBB6
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
