@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => 
-    [protected] => 
+    [protected] => 1
     [followers_count] => 21
     [friends_count] => 1372
     [listed_count] => 0
