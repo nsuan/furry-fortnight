@@ -1,23 +1,27 @@
 stdClass Object
 (
-    [id] => 2986735653
-    [id_str] => 2986735653
-    [name] => Belethe
-    [screen_name] => Belethe77
-    [location] => 
-    [url] => 
-    [description] => 26yo Gamer, She/Her/Hers, Tabletop Lover, Art Commissioner, PFP and banner by n1mph0us on deviantart. OCs in WoW, SWtor, FFXIV, D&D and World of Darkness
+    [id] => 887791445989568512
+    [id_str] => 887791445989568512
+    [name] => Constance V.✨
+    [screen_name] => Vesperis_Art
+    [location] => France
+    [url] => https://linktr.ee/vesperis
+    [description] => 🌱 Freelance Concept Artist / Illustrator
+🔥 2D Artist @ Périple
+🎨 Prev: BG Artist @ Blue Spirit
+🌸 https://t.co/5jeAriVYKR
+💖 WoW/FFXIV/DnD/Fantasy enthusiast
     [protected] => 
-    [followers_count] => 27
-    [friends_count] => 439
+    [followers_count] => 93
+    [friends_count] => 497
     [listed_count] => 0
-    [created_at] => Tue Jan 20 03:13:32 +0000 2015
-    [favourites_count] => 1355
+    [created_at] => Wed Jul 19 21:49:09 +0000 2017
+    [favourites_count] => 14543
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19
+    [statuses_count] => 275
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,10 +30,10 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1482784086599028737/vpkt0I9i_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1482784086599028737/vpkt0I9i_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2986735653/1642358456
-    [profile_link_color] => ABB8C2
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1479168046136795145/j4KNC_W0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1479168046136795145/j4KNC_W0_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/887791445989568512/1641496119
+    [profile_link_color] => 840606
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
