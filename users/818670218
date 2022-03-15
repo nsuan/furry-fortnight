@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 549
     [listed_count] => 0
     [created_at] => Wed Sep 12 02:34:43 +0000 2012
-    [favourites_count] => 35336
+    [favourites_count] => 35338
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 44064
+    [statuses_count] => 44069
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
