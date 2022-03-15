@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 943276439671115781
     [id_str] => 943276439671115781
-    [name] => Nidarosis 🍇 Commissions OPEN
+    [name] => Nidarosis 🍇 Commissions OPEN (waiting list)
     [screen_name] => Nidarosis
     [location] => Norway
     [url] => 
@@ -16,12 +16,12 @@ stdClass Object
     [friends_count] => 777
     [listed_count] => 78
     [created_at] => Wed Dec 20 00:26:43 +0000 2017
-    [favourites_count] => 32964
+    [favourites_count] => 32966
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19123
+    [statuses_count] => 19125
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
