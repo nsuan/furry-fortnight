@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 326165380
+    [id_str] => 326165380
+    [name] => Mirii
+    [screen_name] => miriimage
+    [location] => Exodar. On azuremyst server
+    [url] => 
+    [description] => tweets about wow adventures and other random things. Mage mostly and shaman. retail worker when not playing Warcraft. proud Canadian
+    [protected] => 
+    [followers_count] => 2574
+    [friends_count] => 3257
+    [listed_count] => 15
+    [created_at] => Wed Jun 29 13:49:20 +0000 2011
+    [favourites_count] => 26798
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 8028
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => ACDED6
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme18/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme18/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/743569482258350080/S-8ChDK-_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/743569482258350080/S-8ChDK-_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/326165380/1432523723
+    [profile_link_color] => 038543
+    [profile_sidebar_border_color] => EEEEEE
+    [profile_sidebar_fill_color] => F6F6F6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)
