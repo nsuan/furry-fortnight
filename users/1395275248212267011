@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1395275248212267011
     [id_str] => 1395275248212267011
-    [name] => 💜HEXECULT🦄
-    [screen_name] => hexecult
-    [location] => 
+    [name] => Artists of Ukraine💙💛Художники України💙💛
+    [screen_name] => artists_ukraine
+    [location] => Ukraine💙💛Україна
     [url] => 
-    [description] => antinatalist, philosophist, artist, bruh, Gerberrie but loony 😏
+    [description] => 
     [protected] => 
     [followers_count] => 34
     [friends_count] => 642
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 43
+    [statuses_count] => 20
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1425927282762428418/hLHVSmwN_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1425927282762428418/hLHVSmwN_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1395275248212267011/1628802483
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1504462931253243910/E4JjcF1Q_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1504462931253243910/E4JjcF1Q_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
