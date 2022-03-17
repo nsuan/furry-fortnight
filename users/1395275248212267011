@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1395275248212267011
     [id_str] => 1395275248212267011
-    [name] => Artists of Ukraine🇺🇦Художники України
+    [name] => Art Горобчики🇺🇦
     [screen_name] => artists_ukraine
     [location] => Ukraine
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 651
     [listed_count] => 0
     [created_at] => Thu May 20 07:08:49 +0000 2021
-    [favourites_count] => 371
+    [favourites_count] => 373
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6
+    [statuses_count] => 7
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1504462931253243910/E4JjcF1Q_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1504462931253243910/E4JjcF1Q_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1504495995039719433/_mWAm9dy_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1504495995039719433/_mWAm9dy_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1395275248212267011/1647528873
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
