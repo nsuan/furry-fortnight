@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 30517636
     [id_str] => 30517636
-    [name] => Alana
+    [name] => Alana (bbq twist fritos enjoyer)
     [screen_name] => curvyrabbit
     [location] => Cactuar - Ludo Lewis 
     [url] => 
-    [description] => (29/pansexual) she/her tiny gremlin. bunnies, music, coffee & games.
+    [description] => (29/pansexual) she/her bunnies, music, coffee & gacha games.
     [protected] => 
     [followers_count] => 803
     [friends_count] => 4577
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 15065
+    [statuses_count] => 15064
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1500824266685755393/U4YptLbM_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1500824266685755393/U4YptLbM_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1504295725085204481/0uNvoyQw_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1504295725085204481/0uNvoyQw_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/30517636/1647136465
     [profile_link_color] => F58EA8
     [profile_sidebar_border_color] => FFFFFF
