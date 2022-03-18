@@ -10,8 +10,8 @@ stdClass Object
 
 I: @saltmatey
     [protected] => 
-    [followers_count] => 1494
-    [friends_count] => 1821
+    [followers_count] => 1493
+    [friends_count] => 1820
     [listed_count] => 3
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
     [favourites_count] => 115883
@@ -19,7 +19,7 @@ I: @saltmatey
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2189
+    [statuses_count] => 2190
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
