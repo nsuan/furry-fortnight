@@ -17,15 +17,15 @@ stdClass Object
 i: @ten_nbr | h: @Per_Pikake
     [protected] => 
     [followers_count] => 149
-    [friends_count] => 278
+    [friends_count] => 279
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 10035
+    [favourites_count] => 10036
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 32912
+    [statuses_count] => 32913
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
