@@ -2,11 +2,13 @@ stdClass Object
 (
     [id] => 2421607400
     [id_str] => 2421607400
-    [name] => Doc-Doc-Doc-Doc
+    [name] => CaptainShenanigans
     [screen_name] => DocLeech
     [location] => San Diego, CA
     [url] => https://ko-fi.com/docleech
-    [description] => Queer chef, gamer, writer and baby artist. EAT THE RUDE
+    [description] => Trans queer chef, gamer, writer, RPer and novice artist.
+Eat the rude
+ACAB and BLM
     [protected] => 
     [followers_count] => 130
     [friends_count] => 271
@@ -17,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2572
+    [statuses_count] => 2574
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1389433427980554240/BaHvZDKA_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1389433427980554240/BaHvZDKA_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2421607400/1560979876
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1505239717364731905/P-6wZ2vC_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1505239717364731905/P-6wZ2vC_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2421607400/1647712089
     [profile_link_color] => C8A2C8
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
