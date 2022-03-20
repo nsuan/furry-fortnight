@@ -17,15 +17,15 @@ rts.
 pfp: @ThisUserIsAngry
     [protected] => 1
     [followers_count] => 10
-    [friends_count] => 1631
+    [friends_count] => 1630
     [listed_count] => 0
     [created_at] => Wed Dec 09 02:21:15 +0000 2020
-    [favourites_count] => 32288
+    [favourites_count] => 32294
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2950
+    [statuses_count] => 2951
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
