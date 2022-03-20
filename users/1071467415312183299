@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1071467415312183299
     [id_str] => 1071467415312183299
-    [name] => Cade da Lynxel 👀
+    [name] => Cade
     [screen_name] => Syntasia1
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 886
+    [statuses_count] => 887
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
