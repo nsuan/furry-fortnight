@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 242822293
     [id_str] => 242822293
-    [name] => Emmeline
+    [name] => Violette Szabo
     [screen_name] => violetteszab0
     [location] => a la izquierda, siempre. 
     [url] => https://www.wien.gv.at/menschen/frauen/stichwort/gewalt/zahlen.html
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 169506
+    [statuses_count] => 169507
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
