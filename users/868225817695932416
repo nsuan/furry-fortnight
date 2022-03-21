@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 868225817695932416
     [id_str] => 868225817695932416
-    [name] => 🔪💀 Unholykazoo 💀🔪 - COMMISSIONS CLOSED (5/5)
+    [name] => Unholykazoo - COMMISSIONS CLOSED (5/5)
     [screen_name] => Unholykazoo
     [location] => 
     [url] => https://linktr.ee/unholykazoo
@@ -12,6 +12,8 @@ stdClass Object
 -AntiNFT
 -NSFW Twitter: @sinningkazoo
 -all links on on my Linktree
+
+pfp under development
     [protected] => 
     [followers_count] => 580
     [friends_count] => 468
@@ -22,7 +24,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1345
+    [statuses_count] => 1344
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
