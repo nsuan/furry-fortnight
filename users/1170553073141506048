@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1170553073141506048
     [id_str] => 1170553073141506048
-    [name] => Kyrie || Comms: CLOSED ||
+    [name] => Kyrie || Comms: OPEN||
     [screen_name] => orielkyrie
     [location] => Vibing with big booba men|| 
     [url] => https://ko-fi.com/orielkyrie
-    [description] => 🌘Hobby artist • 21 •FFXIV goblin- Sairissa• Comms: closed • officer of @WyrmUnity • 🇩🇪🇺🇲
+    [description] => 🌘Hobby artist • 21 •FFXIV goblin- Sairissa• Comms: temporarily open • officer of @wyrmunity • 🇩🇪🇺🇲
     [protected] => 
     [followers_count] => 858
     [friends_count] => 349
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3856
+    [statuses_count] => 3860
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
