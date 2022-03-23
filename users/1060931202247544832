@@ -10,15 +10,15 @@ stdClass Object
 Commissions: Closed
     [protected] => 
     [followers_count] => 3270
-    [friends_count] => 755
+    [friends_count] => 756
     [listed_count] => 6
     [created_at] => Fri Nov 09 16:24:44 +0000 2018
-    [favourites_count] => 64820
+    [favourites_count] => 64823
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 23457
+    [statuses_count] => 23458
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
