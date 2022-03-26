@@ -4,9 +4,9 @@ stdClass Object
     [id_str] => 1067069649781735424
     [name] => Yelah
     [screen_name] => Yelahell
-    [location] => she/her
+    [location] => 
     [url] => 
-    [description] => Drama Queen | Accidentally stupid | 🔞 May Like/RT NSFW, gore (art)
+    [description] => Drama Queen | Accidentally stupid | 🔞 May like/RT NSFW/gore (art) | She/her
     [protected] => 
     [followers_count] => 45
     [friends_count] => 217
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3554
+    [statuses_count] => 3555
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
