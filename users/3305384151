@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3305384151
     [id_str] => 3305384151
-    [name] => 🌚
+    [name] => 🤡
     [screen_name] => noicehead
     [location] => Budapest, Magyarország
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 727
     [listed_count] => 2
     [created_at] => Mon Jun 01 08:47:36 +0000 2015
-    [favourites_count] => 41489
+    [favourites_count] => 41492
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5285
+    [statuses_count] => 5286
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
