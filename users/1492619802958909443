@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1004270814592733185
-    [id_str] => 1004270814592733185
-    [name] => Esria
-    [screen_name] => SweetAsTheSkye
-    [location] => 
+    [id] => 1492619802958909443
+    [id_str] => 1492619802958909443
+    [name] => Mystified Dreamer
+    [screen_name] => MystifyingDream
+    [location] => California, USA
     [url] => 
-    [description] => Table Top Player, Dungeons and Dragon Nerd, #Critter They / Them , 18+ | Banner by @KrystaYvisual, Icon by @Son_OfA_Jay
+    [description] => 33 | He/Him | Multi-fandom | Retweets often | Open to DMs
     [protected] => 
-    [followers_count] => 205
-    [friends_count] => 2687
+    [followers_count] => 4
+    [friends_count] => 26
     [listed_count] => 0
-    [created_at] => Wed Jun 06 07:56:35 +0000 2018
-    [favourites_count] => 32458
+    [created_at] => Sat Feb 12 22:01:57 +0000 2022
+    [favourites_count] => 32
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7519
+    [statuses_count] => 48
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1282064830078357506/KyZxaM1G_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1282064830078357506/KyZxaM1G_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1004270814592733185/1643830079
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1492960082715287554/mL_RzMCK_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1492960082715287554/mL_RzMCK_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1492619802958909443/1644716185
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
