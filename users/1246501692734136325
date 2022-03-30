@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1246501692734136325
     [id_str] => 1246501692734136325
-    [name] => garibalda em situação de barril
+    [name] => garibalda em situação de spoiler
     [screen_name] => vinhodomato
     [location] => sulista original
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 5003
     [listed_count] => 1
     [created_at] => Sat Apr 04 18:15:47 +0000 2020
-    [favourites_count] => 131340
+    [favourites_count] => 131373
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 62148
+    [statuses_count] => 62161
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
