@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 803943702
     [id_str] => 803943702
-    [name] => Jeff Hamilton 💙
+    [name] => Jeff Hamilton
     [screen_name] => JeffAHamilton
     [location] => Irvine, CA
     [url] => https://www.twitch.tv/jeffahamilton
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 5511
     [listed_count] => 112
     [created_at] => Wed Sep 05 05:49:26 +0000 2012
-    [favourites_count] => 323203
+    [favourites_count] => 323208
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 53841
+    [statuses_count] => 53842
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
