@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => KalebCr0ss
     [location] => 
     [url] => 
-    [description] => any pronouns| gender-fluid | @revenantsmetalballs on tiktok |
+    [description] => any pronouns| gender-fluid | @revenantsmetalballs on tiktok | 15
     [protected] => 
     [followers_count] => 42
     [friends_count] => 61
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 1
+    [has_extended_profile] => 
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
