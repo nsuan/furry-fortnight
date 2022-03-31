@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 845381245626449920
     [id_str] => 845381245626449920
-    [name] => Erryn
+    [name] => zelris
     [screen_name] => ObviouslyZelris
     [location] => 
     [url] => https://youtube.com/zelris
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 4099
+    [statuses_count] => 4101
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
