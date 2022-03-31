@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 3454896734
     [id_str] => 3454896734
-    [name] => ฅ isu ฅ
+    [name] => isu
     [screen_name] => Voidforager
     [location] => Lucid Dream
     [url] => 
-    [description] => 🇨🇳🇺🇸I sometimes make renders.
+    [description] => 摆烂中
     [protected] => 
     [followers_count] => 820
     [friends_count] => 282
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 2661
+    [statuses_count] => 2665
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,7 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1509326874794680324/YY6eHD17_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1509326874794680324/YY6eHD17_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3454896734/1639875396
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3454896734/1648698621
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
