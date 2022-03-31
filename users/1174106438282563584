@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1174106438282563584
     [id_str] => 1174106438282563584
-    [name] => Grox "Smol Thrall Why”
+    [name] => Grox "we shrunk Thrall”
     [screen_name] => that_kind_oforc
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 244
     [listed_count] => 2
     [created_at] => Tue Sep 17 23:42:54 +0000 2019
-    [favourites_count] => 51569
+    [favourites_count] => 51590
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 18624
+    [statuses_count] => 18633
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
