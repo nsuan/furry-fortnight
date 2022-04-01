@@ -7,7 +7,7 @@ stdClass Object
     [location] => Florida, USA
     [url] => https://immaculate.carrd.co/
     [description] => i wanna know your bitterness / 24
-    [protected] => 1
+    [protected] => 
     [followers_count] => 188
     [friends_count] => 678
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 27624
+    [statuses_count] => 27627
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
