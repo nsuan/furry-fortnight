@@ -3,13 +3,13 @@ stdClass Object
     [id] => 2321404213
     [id_str] => 2321404213
     [name] => Taliesan, Dragon DRG
-    [screen_name] => Taliesan36
+    [screen_name] => taliesan_drg
     [location] => 
     [url] => 
-    [description] => Early 20s|M|somewhere in the british isles|PFP by @666sludge
-    [protected] => 1
+    [description] => Early 20s|He/him|somewhere in the british isles|PFP by @666sludge|High chance of NSFW, minors go away
+    [protected] => 
     [followers_count] => 1
-    [friends_count] => 421
+    [friends_count] => 420
     [listed_count] => 0
     [created_at] => Fri Jan 31 21:51:35 +0000 2014
     [favourites_count] => 13
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4
+    [statuses_count] => 5
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
