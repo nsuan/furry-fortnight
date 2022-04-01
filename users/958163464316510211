@@ -2,13 +2,13 @@ stdClass Object
 (
     [id] => 958163464316510211
     [id_str] => 958163464316510211
-    [name] => sandbox fan
+    [name] => mya
     [screen_name] => TsuruMyaru
     [location] => ☆ main account ☆ i spam rt art a lot
     [url] => https://www.youtube.com/watch?v=t6APMbhS9xs
     [description] => feel free to req!  ☆@leyIine☆ @hildagoneriI my meow meow ⊹
 http://tsurumyaru.carrd.co
-    [protected] => 1
+    [protected] => 
     [followers_count] => 260
     [friends_count] => 231
     [listed_count] => 4
@@ -18,7 +18,7 @@ http://tsurumyaru.carrd.co
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 44833
+    [statuses_count] => 44830
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,8 +27,8 @@ http://tsurumyaru.carrd.co
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1503106227022278671/3pvVwKgi_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1503106227022278671/3pvVwKgi_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1509875556099280907/gutKkO0r_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1509875556099280907/gutKkO0r_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/958163464316510211/1647009531
     [profile_link_color] => F58EA8
     [profile_sidebar_border_color] => 000000
