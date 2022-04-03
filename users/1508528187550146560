@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1508528187550146560
     [id_str] => 1508528187550146560
-    [name] => LFZ 💛
+    [name] => LFZ 💛💙
     [screen_name] => LFZiridia
     [location] => The Vindicaar
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 424
     [listed_count] => 0
     [created_at] => Mon Mar 28 19:35:30 +0000 2022
-    [favourites_count] => 383
+    [favourites_count] => 386
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 186
+    [statuses_count] => 188
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
