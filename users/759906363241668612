@@ -13,14 +13,14 @@ header: @lunarsemaphore, icon: @kottkrigart
     [protected] => 
     [followers_count] => 769
     [friends_count] => 196
-    [listed_count] => 0
+    [listed_count] => 5
     [created_at] => Mon Aug 01 00:19:30 +0000 2016
-    [favourites_count] => 17740
+    [favourites_count] => 17741
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17395
+    [statuses_count] => 17397
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
