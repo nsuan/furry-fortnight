@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1214374799050526721
     [id_str] => 1214374799050526721
-    [name] => khai | stream hiatus
+    [name] => khai | stream hiatus?
     [screen_name] => tsro_khai
     [location] => 27, one foot in the grave
     [url] => http://twitch.tv/stovku
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1035
+    [statuses_count] => 1036
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
