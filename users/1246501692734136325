@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1246501692734136325
     [id_str] => 1246501692734136325
-    [name] => garibalda baranga
+    [name] => garibalda apaixonada
     [screen_name] => vinhodomato
     [location] => sulista original
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4997
     [listed_count] => 1
     [created_at] => Sat Apr 04 18:15:47 +0000 2020
-    [favourites_count] => 131703
+    [favourites_count] => 131717
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 62330
+    [statuses_count] => 62339
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
