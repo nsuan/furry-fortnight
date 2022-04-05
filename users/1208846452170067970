@@ -17,7 +17,7 @@ stdClass Object
 i: @koedamesan | h: @baydews
     [protected] => 
     [followers_count] => 160
-    [friends_count] => 270
+    [friends_count] => 269
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
     [favourites_count] => 10631
@@ -25,7 +25,7 @@ i: @koedamesan | h: @baydews
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 34034
+    [statuses_count] => 34036
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
