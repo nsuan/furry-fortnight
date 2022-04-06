@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 257877341
     [id_str] => 257877341
-    [name] => 🐙🌸𝕃𝕚𝕝𝔹𝕖𝕖🌸🐙 Commissions Open!
+    [name] => 🐙🌸𝕃𝕚𝕝𝔹𝕖𝕖🌸🐙 Commissions Closed!
     [screen_name] => LilBeeArts
     [location] => UK
     [url] => https://linktr.ee/LilBeeArts
@@ -14,12 +14,12 @@ stdClass Object
     [friends_count] => 1154
     [listed_count] => 7
     [created_at] => Sat Feb 26 11:46:48 +0000 2011
-    [favourites_count] => 30989
+    [favourites_count] => 30990
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4811
+    [statuses_count] => 4812
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
