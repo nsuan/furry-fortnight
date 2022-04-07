@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1060596498113683459
     [id_str] => 1060596498113683459
-    [name] => Darkie Chan🕊️
+    [name] => Darkie Chan
     [screen_name] => ChanDarkie
     [location] => Ярославль, Россия
     [url] => 
@@ -13,12 +13,12 @@ stdClass Object
     [friends_count] => 469
     [listed_count] => 0
     [created_at] => Thu Nov 08 18:14:44 +0000 2018
-    [favourites_count] => 1356
+    [favourites_count] => 1358
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1572
+    [statuses_count] => 1573
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
