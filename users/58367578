@@ -13,16 +13,16 @@ stdClass Object
 
 ❥ Work in progress ❣
     [protected] => 
-    [followers_count] => 669
+    [followers_count] => 671
     [friends_count] => 4562
-    [listed_count] => 2
+    [listed_count] => 3
     [created_at] => Mon Jul 20 02:45:13 +0000 2009
-    [favourites_count] => 71182
+    [favourites_count] => 71207
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2478
+    [statuses_count] => 2480
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
