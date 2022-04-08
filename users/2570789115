@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 2570789115
     [id_str] => 2570789115
-    [name] => Krexxal💙
+    [name] => Krexxal
     [screen_name] => Krexxal
     [location] => Canada
     [url] => 
     [description] => 21/he-him/Aspiring writer/multifandom/http://twitch.tv/krexxal18 | Private account: @KrexPrivate | Discord: Krex#0843
     [protected] => 
-    [followers_count] => 936
-    [friends_count] => 4998
+    [followers_count] => 937
+    [friends_count] => 5000
     [listed_count] => 5
     [created_at] => Thu May 29 18:17:12 +0000 2014
     [favourites_count] => 12210
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 14817
+    [statuses_count] => 14820
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
