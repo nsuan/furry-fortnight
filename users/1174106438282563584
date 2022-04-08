@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1174106438282563584
     [id_str] => 1174106438282563584
-    [name] => Grox "zuggity wuggity”
+    [name] => Grox "my zugzuggies”
     [screen_name] => that_kind_oforc
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 252
     [listed_count] => 1
     [created_at] => Tue Sep 17 23:42:54 +0000 2019
-    [favourites_count] => 56062
+    [favourites_count] => 56063
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20477
+    [statuses_count] => 20478
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
