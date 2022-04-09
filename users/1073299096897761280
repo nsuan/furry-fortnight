@@ -2,17 +2,17 @@ stdClass Object
 (
     [id] => 1073299096897761280
     [id_str] => 1073299096897761280
-    [name] => демьян 🦷 #нетвойне
+    [name] => демьян 🌱 #нетвойне
     [screen_name] => jsimpeternal
     [location] => 
     [url] => 
-    [description] => он/они ☽ 19 ☽ 🖤 @vezhen_
+    [description] => он/они ☽ 19 ☽ 🤍 @vezhen_
     [protected] => 1
     [followers_count] => 208
     [friends_count] => 383
     [listed_count] => 3
     [created_at] => Thu Dec 13 19:30:20 +0000 2018
-    [favourites_count] => 31826
+    [favourites_count] => 31828
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1507717023538810887/zC_Ay51A_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1507717023538810887/zC_Ay51A_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1073299096897761280/1647603678
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1512915815405916160/u4sZMv7Y_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1512915815405916160/u4sZMv7Y_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1073299096897761280/1649542226
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
