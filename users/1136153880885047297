@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => Zeaden1
     [location] => 
     [url] => 
-    [description] => I'm newbie artist who play carry role in dota 2.
+    [description] => I'm newbie artist
     [protected] => 
     [followers_count] => 57
     [friends_count] => 3492
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3115
+    [statuses_count] => 3116
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
