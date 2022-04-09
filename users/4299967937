@@ -12,14 +12,14 @@ I: @saltmatey
     [protected] => 
     [followers_count] => 1539
     [friends_count] => 1943
-    [listed_count] => 5
+    [listed_count] => 4
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
-    [favourites_count] => 118382
+    [favourites_count] => 118391
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2504
+    [statuses_count] => 2505
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
