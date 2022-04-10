@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 1239025031327428609
     [id_str] => 1239025031327428609
-    [name] => 💙 Clara Kitty 💙
-    [screen_name] => ClaraKittyGamer
+    [name] => 💙 Clara the Pink Miqo'te 💙
+    [screen_name] => ClaraMiqo
     [location] => 
     [url] => https://www.twitch.tv/clarakitty
     [description] => 💜 Gamer 💜 Genderfluid 🏳️‍⚧️ They/Xe/She 🏳️‍🌈 DemiAroAce 💜 #ActuallyAutistic 💜 #BlackLivesMatter 💜 #FFXIV - Goblin 💜 Avatar - @K1LL1NGPOPPY 💜
     [protected] => 
-    [followers_count] => 309
-    [friends_count] => 1228
+    [followers_count] => 310
+    [friends_count] => 1235
     [listed_count] => 3
     [created_at] => Sun Mar 15 03:06:10 +0000 2020
     [favourites_count] => 24672
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19374
+    [statuses_count] => 19375
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
