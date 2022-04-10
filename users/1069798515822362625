@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1069798515822362625
     [id_str] => 1069798515822362625
-    [name] => male!kamala
+    [name] => a promise to return
     [screen_name] => phalangefinger
     [location] => he/him | snake
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 354
     [listed_count] => 3
     [created_at] => Tue Dec 04 03:40:16 +0000 2018
-    [favourites_count] => 71120
+    [favourites_count] => 71121
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 18209
+    [statuses_count] => 18212
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
