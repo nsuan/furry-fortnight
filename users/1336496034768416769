@@ -18,15 +18,15 @@ nb.
 pfp: @ThisUserIsAngry
     [protected] => 1
     [followers_count] => 11
-    [friends_count] => 1738
+    [friends_count] => 1743
     [listed_count] => 0
     [created_at] => Wed Dec 09 02:21:15 +0000 2020
-    [favourites_count] => 34895
+    [favourites_count] => 34904
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3392
+    [statuses_count] => 3396
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
