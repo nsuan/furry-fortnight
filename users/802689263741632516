@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 802689263741632516
     [id_str] => 802689263741632516
-    [name] => dam ① 🎃 -173!!
+    [name] => dam ① 🎃 -172!!
     [screen_name] => vulture_lizard
     [location] => suspiria | he!him
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 680
     [listed_count] => 3
     [created_at] => Sun Nov 27 01:43:28 +0000 2016
-    [favourites_count] => 43539
+    [favourites_count] => 43545
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6741
+    [statuses_count] => 6745
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
