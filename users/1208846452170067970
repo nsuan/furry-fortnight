@@ -17,15 +17,15 @@ stdClass Object
 i: @onteteisan | h: @per_pikake
     [protected] => 
     [followers_count] => 164
-    [friends_count] => 266
+    [friends_count] => 265
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 10767
+    [favourites_count] => 10768
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 34341
+    [statuses_count] => 34342
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
