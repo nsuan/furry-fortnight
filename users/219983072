@@ -13,16 +13,16 @@ stdClass Object
 Avatar: Julien Telo.
 Border: Eiichiro Oda.
     [protected] => 
-    [followers_count] => 41
+    [followers_count] => 43
     [friends_count] => 1623
     [listed_count] => 1
     [created_at] => Fri Nov 26 12:56:30 +0000 2010
-    [favourites_count] => 49050
+    [favourites_count] => 49094
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 24111
+    [statuses_count] => 24138
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

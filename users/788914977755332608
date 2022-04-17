@@ -9,15 +9,15 @@ stdClass Object
     [description] => nsfw, 18+ only.
     [protected] => 1
     [followers_count] => 1
-    [friends_count] => 1515
+    [friends_count] => 1520
     [listed_count] => 0
     [created_at] => Thu Oct 20 01:29:22 +0000 2016
-    [favourites_count] => 37592
+    [favourites_count] => 37750
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 188
+    [statuses_count] => 192
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,7 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1477205667048009729/3xHKcoHq_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1477205667048009729/3xHKcoHq_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/788914977755332608/1604623590
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/788914977755332608/1649930065
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6

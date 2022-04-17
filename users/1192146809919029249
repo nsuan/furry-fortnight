@@ -10,16 +10,16 @@ stdClass Object
 18+ only 
 NSFW Misc
     [protected] => 
-    [followers_count] => 88
-    [friends_count] => 167
+    [followers_count] => 90
+    [friends_count] => 171
     [listed_count] => 0
     [created_at] => Wed Nov 06 18:29:18 +0000 2019
-    [favourites_count] => 831
+    [favourites_count] => 863
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 115
+    [statuses_count] => 120
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

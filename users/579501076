@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 579501076
     [id_str] => 579501076
-    [name] => °Panda° commissions: OPEN!
+    [name] => °Panda° commissions: closed
     [screen_name] => Pandeeepppp
     [location] => Sacramento, CA
     [url] => https://www.behance.net/pandeeepppp
@@ -10,15 +10,15 @@ stdClass Object
 commissions: OPEN
     [protected] => 
     [followers_count] => 446
-    [friends_count] => 2111
+    [friends_count] => 2122
     [listed_count] => 9
     [created_at] => Mon May 14 03:10:51 +0000 2012
-    [favourites_count] => 149157
+    [favourites_count] => 149601
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 16218
+    [statuses_count] => 16236
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

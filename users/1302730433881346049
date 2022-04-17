@@ -8,11 +8,11 @@ stdClass Object
     [url] => 
     [description] => Just for snooping
     [protected] => 
-    [followers_count] => 0
-    [friends_count] => 202
+    [followers_count] => 1
+    [friends_count] => 205
     [listed_count] => 0
     [created_at] => Sun Sep 06 22:08:51 +0000 2020
-    [favourites_count] => 3153
+    [favourites_count] => 3489
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 

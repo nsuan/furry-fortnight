@@ -13,15 +13,15 @@ stdClass Object
 Icon by @DarkCrowArt
     [protected] => 
     [followers_count] => 255
-    [friends_count] => 1968
-    [listed_count] => 0
+    [friends_count] => 1972
+    [listed_count] => 2
     [created_at] => Sat Jan 10 03:46:39 +0000 2015
-    [favourites_count] => 97828
+    [favourites_count] => 97723
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19046
+    [statuses_count] => 19064
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

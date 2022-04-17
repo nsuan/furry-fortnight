@@ -10,8 +10,8 @@ stdClass Object
 I do not take requests.
 She/They
     [protected] => 
-    [followers_count] => 1785
-    [friends_count] => 1552
+    [followers_count] => 1786
+    [friends_count] => 1551
     [listed_count] => 41
     [created_at] => Sun Feb 28 22:46:27 +0000 2010
     [favourites_count] => 13004
@@ -19,7 +19,7 @@ She/They
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13154
+    [statuses_count] => 13157
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

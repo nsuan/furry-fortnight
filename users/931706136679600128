@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 931706136679600128
+    [id_str] => 931706136679600128
+    [name] => Tergah
+    [screen_name] => Tergah1
+    [location] => 
+    [url] => 
+    [description] => This is my alternate account. I’m an electrical engineer and a musician.
+    [protected] => 
+    [followers_count] => 105
+    [friends_count] => 2426
+    [listed_count] => 2
+    [created_at] => Sat Nov 18 02:10:28 +0000 2017
+    [favourites_count] => 27831
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 25771
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => F5F8FA
+    [profile_background_image_url] => 
+    [profile_background_image_url_https] => 
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1205728368265744384/0a6dvQ3x_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1205728368265744384/0a6dvQ3x_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/931706136679600128/1576302335
+    [profile_link_color] => 1DA1F2
+    [profile_sidebar_border_color] => C0DEED
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 1
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)
