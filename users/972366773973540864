@@ -1,26 +1,29 @@
 stdClass Object
 (
-    [id] => 2149584871
-    [id_str] => 2149584871
-    [name] => Jetsura
-    [screen_name] => _Jetsura_
-    [location] => Aether/Jenova - Whisperwind
-    [url] => 
-    [description] => World of Warcraft (Whisperwind)/FFXIV (Jenova)
-Lover of dragons, art, gaming, and so much more.
-Profile pic by: @Squaffle
-Header: MikiTakamoto (Deviantart)
+    [id] => 972366773973540864
+    [id_str] => 972366773973540864
+    [name] => the blue one
+    [screen_name] => pisceanCryptid
+    [location] => Trollmarket
+    [url] => https://pisceancryptid.tumblr.com/
+    [description] => Void/Nyx // 27 // Pisces // agender
+--
+massive nerd // artist? // streamer
+--
+random fandoms ahoy, also thoughts and shenanigans
+--
+🚫 tc*st/prosh*p DNI 🚫
     [protected] => 
-    [followers_count] => 193
-    [friends_count] => 728
-    [listed_count] => 4
-    [created_at] => Tue Oct 22 19:21:58 +0000 2013
-    [favourites_count] => 32949
+    [followers_count] => 220
+    [friends_count] => 178
+    [listed_count] => 6
+    [created_at] => Sat Mar 10 07:01:19 +0000 2018
+    [favourites_count] => 10195
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12603
+    [statuses_count] => 8770
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,10 +32,10 @@ Header: MikiTakamoto (Deviantart)
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1475674434438668289/7Z1WAxIs_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1475674434438668289/7Z1WAxIs_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2149584871/1642039048
-    [profile_link_color] => 89C9FA
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1487405197378744326/Hr7YTN6Y_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1487405197378744326/Hr7YTN6Y_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/972366773973540864/1625131327
+    [profile_link_color] => 6FE4D2
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
