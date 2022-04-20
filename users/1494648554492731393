@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1494648554492731393
     [id_str] => 1494648554492731393
-    [name] => Trans Lesbian artist 🏳️‍⚧️📌
+    [name] => Trans Lesbian artist
     [screen_name] => keackerman_
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4167
+    [statuses_count] => 4168
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
