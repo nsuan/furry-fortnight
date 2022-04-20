@@ -1,24 +1,26 @@
 stdClass Object
 (
-    [id] => 3900637816
-    [id_str] => 3900637816
-    [name] => Lemongrace 🍋✨
-    [screen_name] => lemongraceful
-    [location] => Poland
-    [url] => https://lemongrace.carrd.co/
-    [description] => 🌸🍋 ENG/PL | mainly WoW, FFXIV and D&D stuff | 21 
-pfp by @baydews | comms closed!!
+    [id] => 2607217092
+    [id_str] => 2607217092
+    [name] => g l o w i e 🎨🐁 💙💛
+    [screen_name] => glowcrow
+    [location] => Finland
+    [url] => http://ko-fi.com/glowcrow
+    [description] => WoW, DnD and other nerd stuff. I do art! (she/her) 
+
+Commission info: http://glowcrow.carrd.co Commissions CLOSED. 
+Icon by @kr00bs, banner art by me.
     [protected] => 
-    [followers_count] => 16767
-    [friends_count] => 678
-    [listed_count] => 96
-    [created_at] => Thu Oct 08 15:22:08 +0000 2015
-    [favourites_count] => 23001
+    [followers_count] => 833
+    [friends_count] => 446
+    [listed_count] => 27
+    [created_at] => Sun Jul 06 10:21:14 +0000 2014
+    [favourites_count] => 170667
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6161
+    [statuses_count] => 9423
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,10 +29,10 @@ pfp by @baydews | comms closed!!
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1491861453435027461/XYbkR9en_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1491861453435027461/XYbkR9en_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3900637816/1646997945
-    [profile_link_color] => E81C4F
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1496796239060480004/8g2BXZOV_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1496796239060480004/8g2BXZOV_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2607217092/1641391681
+    [profile_link_color] => FF691F
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
