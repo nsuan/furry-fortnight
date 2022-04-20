@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1305553542808207360
-    [id_str] => 1305553542808207360
-    [name] => Velka Pomo
-    [screen_name] => PomoVelka
+    [id] => 1468123765116596224
+    [id_str] => 1468123765116596224
+    [name] => Aztec 420
+    [screen_name] => BryanUrrea5
     [location] => 
     [url] => 
-    [description] => 
+    [description] => 🖤🖕🏻To weird to live to rare or die🖕🏻🖤
     [protected] => 
-    [followers_count] => 104
-    [friends_count] => 4123
-    [listed_count] => 1
-    [created_at] => Mon Sep 14 17:06:43 +0000 2020
-    [favourites_count] => 0
+    [followers_count] => 228
+    [friends_count] => 1759
+    [listed_count] => 3
+    [created_at] => Tue Dec 07 07:43:00 +0000 2021
+    [favourites_count] => 3267
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1
+    [statuses_count] => 60
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
-    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1468125210607980544/tVr-chWF_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1468125210607980544/tVr-chWF_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1468123765116596224/1647563798
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -35,7 +36,7 @@ stdClass Object
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 1
+    [default_profile_image] => 
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
