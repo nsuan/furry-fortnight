@@ -2,13 +2,11 @@ stdClass Object
 (
     [id] => 2891617063
     [id_str] => 2891617063
-    [name] => KRIS
+    [name] => kris
     [screen_name] => yuutayo
     [location] => Oregon
     [url] => https://yuutayo.carrd.co/
-    [description] => Freelance Character Artist & Illustrator
-Contact: yuutayoworks@gmail.com
-Commissions: CLOSED
+    [description] => Freelance Character Artist & Illustrator Contact: yuutayoworks@gmail.com Commissions: CLOSED
     [protected] => 
     [followers_count] => 11572
     [friends_count] => 948
