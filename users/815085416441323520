@@ -2,17 +2,17 @@ stdClass Object
 (
     [id] => 815085416441323520
     [id_str] => 815085416441323520
-    [name] => Euler Lima
+    [name] => The Sketch Fool
     [screen_name] => azeroth365days
-    [location] => Earth
+    [location] => Earth, Wind & Piña Colada
     [url] => 
-    [description] => Artist, latino.
+    [description] => NSFW – Nonprolific Sketch Fool Words
     [protected] => 
     [followers_count] => 1019
-    [friends_count] => 1635
+    [friends_count] => 1636
     [listed_count] => 12
     [created_at] => Sat Dec 31 06:41:21 +0000 2016
-    [favourites_count] => 23081
+    [favourites_count] => 23082
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1469291305461174272/NOqEmr-J_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1469291305461174272/NOqEmr-J_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/815085416441323520/1639256971
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1517203746912043008/Jek7yTjx_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1517203746912043008/Jek7yTjx_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/815085416441323520/1650564555
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
