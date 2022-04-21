@@ -17,7 +17,7 @@ stdClass Object
 i: @cataulait | h: @locominima
     [protected] => 
     [followers_count] => 174
-    [friends_count] => 269
+    [friends_count] => 270
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
     [favourites_count] => 11106
@@ -25,7 +25,7 @@ i: @cataulait | h: @locominima
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 35120
+    [statuses_count] => 35122
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
