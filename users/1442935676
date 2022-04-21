@@ -1,27 +1,25 @@
 stdClass Object
 (
-    [id] => 2970987668
-    [id_str] => 2970987668
-    [name] => New Year, More Chaos || Check 📌 Slots Open!
-    [screen_name] => Composed_Khaos
-    [location] => Austin, TX
-    [url] => https://composed-khaos.carrd.co
-    [description] => The Queen of Discord for 35 yrs, Traditional and Digital Artist, Overall Klutz to the Ninth Power, and Best Worst Healer in Games.
+    [id] => 1442935676
+    [id_str] => 1442935676
+    [name] => Xphurrious
+    [screen_name] => Xphurrious
+    [location] => Minnesota
+    [url] => https://www.twitch.tv/xphurrious
+    [description] => Die with memories, not dreams.                                            
 
-🔞 
-
-Icon by @DarkCrowArt
+Apex Streamer
     [protected] => 
-    [followers_count] => 256
-    [friends_count] => 1971
-    [listed_count] => 2
-    [created_at] => Sat Jan 10 03:46:39 +0000 2015
-    [favourites_count] => 97706
+    [followers_count] => 85
+    [friends_count] => 256
+    [listed_count] => 23
+    [created_at] => Mon May 20 05:32:25 +0000 2013
+    [favourites_count] => 20394
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19080
+    [statuses_count] => 8398
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,9 +28,9 @@ Icon by @DarkCrowArt
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1482086493728485381/WnBSQi2H_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1482086493728485381/WnBSQi2H_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2970987668/1504917304
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1430295646486110217/5gpJesqk_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1430295646486110217/5gpJesqk_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1442935676/1565302982
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
