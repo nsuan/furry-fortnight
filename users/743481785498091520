@@ -1,27 +1,23 @@
 stdClass Object
 (
-    [id] => 1082259904281362432
-    [id_str] => 1082259904281362432
-    [name] => Azem Ghale
-    [screen_name] => KiyGhale
-    [location] => Manchester, England
+    [id] => 743481785498091520
+    [id_str] => 743481785498091520
+    [name] => NoteTrax
+    [screen_name] => NoteTrax
+    [location] => 
     [url] => 
-    [description] => Not spoiler free  🔞
-She/they/he
-29
-Nsfw
-6.0 spoilers
-    [protected] => 
-    [followers_count] => 183
-    [friends_count] => 868
+    [description] => 
+    [protected] => 1
+    [followers_count] => 38
+    [friends_count] => 4578
     [listed_count] => 0
-    [created_at] => Mon Jan 07 12:57:23 +0000 2019
-    [favourites_count] => 49358
+    [created_at] => Thu Jun 16 16:34:05 +0000 2016
+    [favourites_count] => 15828
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12104
+    [statuses_count] => 32
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,9 +26,8 @@ Nsfw
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1348751495915835392/n1f8gQ3A_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1348751495915835392/n1f8gQ3A_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1082259904281362432/1575948653
+    [profile_image_url] => http://pbs.twimg.com/profile_images/775210199179112448/QQcLh3Zp_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/775210199179112448/QQcLh3Zp_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
