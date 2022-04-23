@@ -11,15 +11,15 @@ stdClass Object
 Apex Streamer
     [protected] => 
     [followers_count] => 86
-    [friends_count] => 259
+    [friends_count] => 260
     [listed_count] => 23
     [created_at] => Mon May 20 05:32:25 +0000 2013
-    [favourites_count] => 20564
+    [favourites_count] => 20567
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8410
+    [statuses_count] => 8411
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
