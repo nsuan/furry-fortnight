@@ -1,25 +1,23 @@
 stdClass Object
 (
-    [id] => 1369789910702567428
-    [id_str] => 1369789910702567428
-    [name] => Mao 🦝
-    [screen_name] => MaoMakes
-    [location] => Argent Dawn - EU
+    [id] => 1518232194656915457
+    [id_str] => 1518232194656915457
+    [name] => Kokozzy
+    [screen_name] => Kkzzy_
+    [location] => 
     [url] => 
-    [description] => 🏳️‍🌈 Mao 🇬🇧 -  25  -  She/They/He (Genderfluid)
-** 🔞 Sometimes NSFW!!!**
-Profile Art by @Kiyoshuki - Header by 💖 @MonsoonTick 💖
+    [description] => French Student Artist 🎨 - Beginner on digital, lazy on traditional. Hopes to be able to become a concept artist. ~ Do not use my designs for personal use ! 🚫
     [protected] => 
-    [followers_count] => 295
-    [friends_count] => 942
-    [listed_count] => 2
-    [created_at] => Wed Mar 10 23:19:06 +0000 2021
-    [favourites_count] => 25697
+    [followers_count] => 2
+    [friends_count] => 183
+    [listed_count] => 0
+    [created_at] => Sun Apr 24 14:15:49 +0000 2022
+    [favourites_count] => 1
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3312
+    [statuses_count] => 3
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +26,9 @@ Profile Art by @Kiyoshuki - Header by 💖 @MonsoonTick 💖
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1487617279890186241/0meAkxv6_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1487617279890186241/0meAkxv6_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1369789910702567428/1631385625
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1518234482872131586/pjK48Gih_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1518234482872131586/pjK48Gih_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1518232194656915457/1650810360
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
