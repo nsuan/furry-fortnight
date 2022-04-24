@@ -15,16 +15,16 @@ stdClass Object
 
 pfp under development
     [protected] => 
-    [followers_count] => 587
+    [followers_count] => 586
     [friends_count] => 476
     [listed_count] => 4
     [created_at] => Fri May 26 22:02:20 +0000 2017
-    [favourites_count] => 18875
+    [favourites_count] => 18876
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1388
+    [statuses_count] => 1389
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
