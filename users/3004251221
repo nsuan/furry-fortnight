@@ -2,11 +2,13 @@ stdClass Object
 (
     [id] => 3004251221
     [id_str] => 3004251221
-    [name] => Probably semi-sharp person
-    [screen_name] => lancetmatrix
+    [name] => Mijuas
+    [screen_name] => TrueMijuas
     [location] => Slagelse, Danmark
-    [url] => 
+    [url] => https://www.twitch.tv/mijuas
     [description] => Hey! If you're here, I've either said something really dumb, or something that you liked. Or both.
+
+'Casually' trying to get into streaming.
     [protected] => 
     [followers_count] => 19
     [friends_count] => 331
@@ -26,8 +28,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1261251253033668608/dz2ubHdI_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1261251253033668608/dz2ubHdI_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1518282681431298048/EdvVvU2Z_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1518282681431298048/EdvVvU2Z_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/3004251221/1589540948
     [profile_link_color] => E81C4F
     [profile_sidebar_border_color] => 000000
