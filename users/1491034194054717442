@@ -1,23 +1,24 @@
 stdClass Object
 (
-    [id] => 1311178807068569600
-    [id_str] => 1311178807068569600
-    [name] => {}{}{}
-    [screen_name] => blanksequence
-    [location] => Pawtucket, RI
+    [id] => 1491034194054717442
+    [id_str] => 1491034194054717442
+    [name] => Cia Shelby
+    [screen_name] => cia_shelby
+    [location] => 
     [url] => 
-    [description] => just hanging around
+    [description] => 21🤷‍♂️
+Artist/Digital Designer🎨
     [protected] => 
-    [followers_count] => 20
-    [friends_count] => 732
+    [followers_count] => 88
+    [friends_count] => 1058
     [listed_count] => 0
-    [created_at] => Wed Sep 30 05:39:40 +0000 2020
-    [favourites_count] => 32733
+    [created_at] => Tue Feb 08 13:00:42 +0000 2022
+    [favourites_count] => 998
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 372
+    [statuses_count] => 1458
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +27,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1419115501813485568/o7iUllO8_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1419115501813485568/o7iUllO8_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1311178807068569600/1612067855
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1491034691641745409/kPYLTlCy_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1491034691641745409/kPYLTlCy_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1491034194054717442/1644326069
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
