@@ -10,15 +10,15 @@ stdClass Object
 header:@f1shegg
     [protected] => 
     [followers_count] => 194
-    [friends_count] => 1197
+    [friends_count] => 1198
     [listed_count] => 0
     [created_at] => Fri Mar 20 02:02:38 +0000 2015
-    [favourites_count] => 103706
+    [favourites_count] => 103711
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 47966
+    [statuses_count] => 47968
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
