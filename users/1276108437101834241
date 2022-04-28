@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1276108437101834241
     [id_str] => 1276108437101834241
-    [name] => Euforic Creations **CHIBI COMMS OPEN**
+    [name] => Euforic Creations **Comms Closed**
     [screen_name] => EuforicM
     [location] => Tasmania, Australia
     [url] => https://ko-fi.com/euforiccreations
@@ -18,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 275
+    [statuses_count] => 276
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
