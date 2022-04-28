@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3021605049
     [id_str] => 3021605049
-    [name] => Volentis @ Coms Open
+    [name] => Volentis
     [screen_name] => VerbaVolens
     [location] => Québec
     [url] => 
@@ -14,12 +14,12 @@ Local Canadian struggling with ADHD that like to draw and play games
     [friends_count] => 193
     [listed_count] => 6
     [created_at] => Fri Feb 06 15:56:04 +0000 2015
-    [favourites_count] => 36464
+    [favourites_count] => 36467
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9828
+    [statuses_count] => 9829
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
