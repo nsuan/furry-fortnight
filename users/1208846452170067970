@@ -17,7 +17,7 @@ stdClass Object
 i & h: @Meij00
     [protected] => 
     [followers_count] => 177
-    [friends_count] => 273
+    [friends_count] => 272
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
     [favourites_count] => 11375
@@ -25,7 +25,7 @@ i & h: @Meij00
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 35610
+    [statuses_count] => 35611
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
