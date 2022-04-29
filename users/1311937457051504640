@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1311937457051504640
     [id_str] => 1311937457051504640
-    [name] => kat 🦇 lesbian week !
+    [name] => kat 🦇
     [screen_name] => raidenkat
     [location] => 
     [url] => https://llttlesunshine.carrd.co
@@ -13,12 +13,12 @@ stdClass Object
     [friends_count] => 769
     [listed_count] => 0
     [created_at] => Fri Oct 02 07:54:06 +0000 2020
-    [favourites_count] => 8918
+    [favourites_count] => 8927
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6658
+    [statuses_count] => 6660
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
