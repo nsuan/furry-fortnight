@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1350927984342036493
     [id_str] => 1350927984342036493
-    [name] => Ryu Tandriss
+    [name] => Ryu T
     [screen_name] => ZDPrpz
     [location] => Vancouver, British Columbia
     [url] => 
@@ -14,15 +14,15 @@ I'm on Aether.
 Single
     [protected] => 
     [followers_count] => 340
-    [friends_count] => 1662
+    [friends_count] => 1661
     [listed_count] => 0
     [created_at] => Sun Jan 17 22:08:36 +0000 2021
-    [favourites_count] => 3370
+    [favourites_count] => 3371
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1223
+    [statuses_count] => 1225
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
