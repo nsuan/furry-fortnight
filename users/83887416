@@ -6,18 +6,20 @@ stdClass Object
     [screen_name] => xabean
     [location] => Fairfax, VA
     [url] => http://warewolf.github.io
-    [description] => Work+Fun: @sourcefire | @cisco @TalosSecurity // Tweets are my own opinion.  Do you really trust everything you read on the internet? Alt-@naebax
+    [description] => @Netography / ex @cisco @talossecurity / Tweets are my own opinion. Now http://counter.social/@xabean
+
+Do you really trust everything you read on the internet?
     [protected] => 
-    [followers_count] => 2280
-    [friends_count] => 1155
-    [listed_count] => 93
+    [followers_count] => 2265
+    [friends_count] => 1178
+    [listed_count] => 96
     [created_at] => Tue Oct 20 17:27:43 +0000 2009
-    [favourites_count] => 6866
+    [favourites_count] => 7123
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14454
+    [statuses_count] => 12010
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
