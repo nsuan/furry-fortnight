@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 63051829
+    [id_str] => 63051829
+    [name] => Tay 🤍
+    [screen_name] => brownsunflowerr
+    [location] => San Fernando, CA
+    [url] => 
+    [description] => creative • passionate • funny • loving •single • gay • brown • sunflower child 🌻 • kinky • explicit
+    [protected] => 
+    [followers_count] => 370
+    [friends_count] => 4088
+    [listed_count] => 0
+    [created_at] => Wed Aug 05 06:15:55 +0000 2009
+    [favourites_count] => 43509
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 4735
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 352726
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1506569915062312960/xH5m63JP_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1506569915062312960/xH5m63JP_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/63051829/1648029244
+    [profile_link_color] => 78696D
+    [profile_sidebar_border_color] => E645D3
+    [profile_sidebar_fill_color] => 0A0A0A
+    [profile_text_color] => EB0E19
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)
