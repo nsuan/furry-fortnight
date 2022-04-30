@@ -9,7 +9,7 @@ stdClass Object
     [description] => I am an NFT digital artist.
     [protected] => 
     [followers_count] => 611
-    [friends_count] => 4974
+    [friends_count] => 4975
     [listed_count] => 12
     [created_at] => Sat Jan 29 22:36:03 +0000 2022
     [favourites_count] => 320
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 787
+    [statuses_count] => 786
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
