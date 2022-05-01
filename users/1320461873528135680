@@ -14,12 +14,12 @@ Warning: I retweet a lot....
     [friends_count] => 4831
     [listed_count] => 0
     [created_at] => Sun Oct 25 20:28:39 +0000 2020
-    [favourites_count] => 129038
+    [favourites_count] => 129057
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19959
+    [statuses_count] => 19962
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,7 +30,6 @@ Warning: I retweet a lot....
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1320462391277223938/2anUoWiI_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1320462391277223938/2anUoWiI_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1320461873528135680/1617405998
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
