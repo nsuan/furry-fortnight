@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 845559181067386880
     [id_str] => 845559181067386880
-    [name] => 🌱 your ultimative floor tank
+    [name] => 🌱 ultimative floor tank
     [screen_name] => norflameplague
     [location] => Coerthas, Ishgard
     [url] => 
@@ -15,12 +15,12 @@ stdClass Object
     [friends_count] => 478
     [listed_count] => 0
     [created_at] => Sat Mar 25 08:53:13 +0000 2017
-    [favourites_count] => 22282
+    [favourites_count] => 22288
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3038
+    [statuses_count] => 3039
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
