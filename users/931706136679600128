@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => This is my alternate account. I’m an electrical engineer and a musician.
     [protected] => 
-    [followers_count] => 98
-    [friends_count] => 2449
+    [followers_count] => 97
+    [friends_count] => 2450
     [listed_count] => 2
     [created_at] => Sat Nov 18 02:10:28 +0000 2017
     [favourites_count] => 28642
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 25646
+    [statuses_count] => 25643
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
