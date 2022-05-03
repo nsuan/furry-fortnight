@@ -1,25 +1,23 @@
 stdClass Object
 (
-    [id] => 795689348859568129
-    [id_str] => 795689348859568129
-    [name] => Lady Cheese【 JUNE WAITLIST OPEN 】
-    [screen_name] => LadyCheese1
-    [location] => 
+    [id] => 1520169060801077250
+    [id_str] => 1520169060801077250
+    [name] => Aldmeri Adventures
+    [screen_name] => Undilmo
+    [location] => Alinor, Summerset Isles
     [url] => 
-    [description] => | Live2D Rigging | I do art sometimes! | She/her | 22 |
-| Obsessed with Dragon Age and WoW | http://ladycheesecommissions.carrd.co
-#TheDreadWolfRises
+    [description] => Elder Scrolls Nerd • Altmer Supremacy • ESO • PS4 • Voice Actor • Loremaster • Writer • 26yo • In Character ESO Adventures Poster
     [protected] => 
-    [followers_count] => 531
-    [friends_count] => 637
-    [listed_count] => 9
-    [created_at] => Mon Nov 07 18:08:18 +0000 2016
-    [favourites_count] => 36413
+    [followers_count] => 11
+    [friends_count] => 36
+    [listed_count] => 0
+    [created_at] => Fri Apr 29 22:33:58 +0000 2022
+    [favourites_count] => 42
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 775
+    [statuses_count] => 22
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1463329072860258308/MQuB3bsM_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1463329072860258308/MQuB3bsM_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/795689348859568129/1629727715
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1521240065837576193/uo9pKhAU_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1521240065837576193/uo9pKhAU_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1520169060801077250/1651271785
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
