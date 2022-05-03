@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1246501692734136325
     [id_str] => 1246501692734136325
-    [name] => calvarao minha garibalda
+    [name] => garibalda agoniada
     [screen_name] => vinhodomato
     [location] => sulista original
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4980
     [listed_count] => 1
     [created_at] => Sat Apr 04 18:15:47 +0000 2020
-    [favourites_count] => 136005
+    [favourites_count] => 136010
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 64332
+    [statuses_count] => 64334
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
