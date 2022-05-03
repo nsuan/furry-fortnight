@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1404392240596754437
     [id_str] => 1404392240596754437
-    [name] => 🏳️‍🌈 K a t z i 🇺🇦 - FUCK ELON MUSK
+    [name] => 🏳️‍🌈 K a t z i 🇺🇦
     [screen_name] => CaelKatzi
     [location] => Aotearoa 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 343
     [listed_count] => 2
     [created_at] => Mon Jun 14 10:56:48 +0000 2021
-    [favourites_count] => 25865
+    [favourites_count] => 25872
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9723
+    [statuses_count] => 9728
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
