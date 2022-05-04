@@ -4,9 +4,9 @@ stdClass Object
     [id_str] => 1337220562096181251
     [name] => ehkko 🌻
     [screen_name] => ehkkolocation
-    [location] => Locked in Eminem’s Basement 
+    [location] => Oklahoma, USA
     [url] => 
-    [description] => stream of consciousness for @EhkkoArt | 27 y/o | she/her | 🔞 may be nsfw? no youngins | idk man I’m just here, vibin | @itsRiuk 💕
+    [description] => 27 y/o | she/her | 🔞 may be nsfw? no youngins | @itsRiuk 💕
     [protected] => 
     [followers_count] => 72
     [friends_count] => 524
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4587
+    [statuses_count] => 4588
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
