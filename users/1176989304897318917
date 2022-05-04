@@ -14,14 +14,14 @@ icon - @/dragondawdles
     [protected] => 
     [followers_count] => 287
     [friends_count] => 560
-    [listed_count] => 0
+    [listed_count] => 3
     [created_at] => Wed Sep 25 22:39:54 +0000 2019
     [favourites_count] => 18331
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16977
+    [statuses_count] => 16979
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
