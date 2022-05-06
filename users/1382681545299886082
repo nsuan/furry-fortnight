@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1396247076409810944
-    [id_str] => 1396247076409810944
-    [name] => Beaniejoy
-    [screen_name] => Beaniejoy2
+    [id] => 1382681545299886082
+    [id_str] => 1382681545299886082
+    [name] => Sarah Love
+    [screen_name] => SarahLo94209116
     [location] => 
     [url] => 
-    [description] => 25, she/they
+    [description] => I love anime
     [protected] => 
-    [followers_count] => 13
-    [friends_count] => 173
+    [followers_count] => 5
+    [friends_count] => 616
     [listed_count] => 0
-    [created_at] => Sat May 22 23:30:36 +0000 2021
-    [favourites_count] => 30442
+    [created_at] => Thu Apr 15 13:05:52 +0000 2021
+    [favourites_count] => 58
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 541
+    [statuses_count] => 24
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
-    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1382681645006880771/Um3yolnV_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1382681645006880771/Um3yolnV_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -35,7 +35,7 @@ stdClass Object
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 1
+    [default_profile_image] => 
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
