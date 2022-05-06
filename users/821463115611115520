@@ -13,15 +13,15 @@ stdClass Object
 'Sorry for being the apologetic one.'
     [protected] => 
     [followers_count] => 240
-    [friends_count] => 4976
+    [friends_count] => 4980
     [listed_count] => 0
     [created_at] => Tue Jan 17 21:04:03 +0000 2017
-    [favourites_count] => 24895
+    [favourites_count] => 24903
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7421
+    [statuses_count] => 7422
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
