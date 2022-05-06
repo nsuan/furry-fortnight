@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1266546242777210881
-    [id_str] => 1266546242777210881
-    [name] => lea (agent penguinman)
-    [screen_name] => presentmic
-    [location] => condemn war everywhere.
+    [id] => 1322605913581211649
+    [id_str] => 1322605913581211649
+    [name] => Stance
+    [screen_name] => teastance
+    [location] => 
     [url] => 
-    [description] => the living seem rather, well, dead. / léandre+29+he/they+trans+bi+white / no minors allowed. / i write sometimes. / official art used in header + icon.
-    [protected] => 1
-    [followers_count] => 37
-    [friends_count] => 325
+    [description] => Digital artist, art student 🌸
+    [protected] => 
+    [followers_count] => 4
+    [friends_count] => 118
     [listed_count] => 0
-    [created_at] => Sat May 30 01:45:53 +0000 2020
-    [favourites_count] => 20826
+    [created_at] => Sat Oct 31 18:26:55 +0000 2020
+    [favourites_count] => 529
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17953
+    [statuses_count] => 17
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1521329440394985472/nrVFCZgt_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1521329440394985472/nrVFCZgt_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1266546242777210881/1651548179
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1384786041584955394/BVagOLYk_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1384786041584955394/BVagOLYk_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
