@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1174106438282563584
     [id_str] => 1174106438282563584
-    [name] => Grox ‘eyebrows plz’
+    [name] => Grox ‘a mook apparently’
     [screen_name] => that_kind_oforc
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 306
     [listed_count] => 3
     [created_at] => Tue Sep 17 23:42:54 +0000 2019
-    [favourites_count] => 69959
+    [favourites_count] => 69964
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 26640
+    [statuses_count] => 26644
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
