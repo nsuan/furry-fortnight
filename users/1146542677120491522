@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => wolfieroomba
     [location] => 
     [url] => 
-    [description] => 18 y/o, he/him gamer, artist, chaotic. Banner by @catboyzaid
+    [description] => 20 y/o, he/him gamer, artist, chaotic. Banner by @catboyzaid
     [protected] => 
     [followers_count] => 3
     [friends_count] => 220
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
