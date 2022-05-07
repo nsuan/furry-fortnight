@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1690118904
     [id_str] => 1690118904
-    [name] => 🧜 Happy MerMay 2022! 🧜‍♀️
+    [name] => ...........
     [screen_name] => theredknight100
     [location] => Texas, USA
     [url] => http://www.youtube.com/user/theredknight100
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 3808
     [listed_count] => 11
     [created_at] => Thu Aug 22 05:49:37 +0000 2013
-    [favourites_count] => 73386
+    [favourites_count] => 73389
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1521289043480358913/sgln1bPD_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1521289043480358913/sgln1bPD_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1690118904/1651364312
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1523083145712746496/Ehay8ZgX_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1523083145712746496/Ehay8ZgX_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1690118904/1651966294
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => FFFFFF
     [profile_sidebar_fill_color] => DDEEF6
