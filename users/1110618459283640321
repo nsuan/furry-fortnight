@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 1266715352550998016
-    [id_str] => 1266715352550998016
-    [name] => AXELE
-    [screen_name] => AXELEART
-    [location] =>  Cathedral of the Deep 
-    [url] => http://www.redbubble.com/people/Axeleart
-    [description] => ⚔️ Illustrator & Character artist |  Soulsborne | Fantasy | She/Her 📨 DM for business inquiries - NFTs DNI
+    [id] => 1110618459283640321
+    [id_str] => 1110618459283640321
+    [name] => 🌈🐲 CreatureFeature 💛🤍💜🖤
+    [screen_name] => BitsnBones1
+    [location] => 
+    [url] => 
+    [description] => Els, they/them - costumes, art, figures, creatures- I make a lot of stuff (ask me about my creatures)
+
+Black Lives Matter, racists/homophobes eat shit
     [protected] => 
-    [followers_count] => 1275
-    [friends_count] => 619
-    [listed_count] => 16
-    [created_at] => Sat May 30 12:57:39 +0000 2020
-    [favourites_count] => 10169
+    [followers_count] => 32
+    [friends_count] => 282
+    [listed_count] => 1
+    [created_at] => Tue Mar 26 19:04:09 +0000 2019
+    [favourites_count] => 1193
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 616
+    [statuses_count] => 3304
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1478070455697301511/WpWelb8M_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1478070455697301511/WpWelb8M_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1266715352550998016/1640691522
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1288000547707138049/SPyyJLz0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1288000547707138049/SPyyJLz0_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1110618459283640321/1569346010
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
