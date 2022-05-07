@@ -11,10 +11,10 @@ stdClass Object
 I: greasepond
     [protected] => 
     [followers_count] => 1696
-    [friends_count] => 2057
+    [friends_count] => 2056
     [listed_count] => 4
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
-    [favourites_count] => 121891
+    [favourites_count] => 121895
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
