@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 4299967937
     [id_str] => 4299967937
-    [name] => 🌱 approved kariwase 💛
+    [name] => 🌱 approved kariwase 💙
     [screen_name] => KariWase
     [location] => Traverse Town
     [url] => https://kariwase.tumblr.com/
@@ -10,16 +10,16 @@ stdClass Object
 
 I: greasepond
     [protected] => 
-    [followers_count] => 1696
-    [friends_count] => 2056
+    [followers_count] => 1695
+    [friends_count] => 2057
     [listed_count] => 4
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
-    [favourites_count] => 121897
+    [favourites_count] => 121901
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2733
+    [statuses_count] => 2736
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
