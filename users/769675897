@@ -10,8 +10,8 @@ stdClass Object
 http://ivytenebrae.com
 When ordinary life shackles me, I escape
     [protected] => 
-    [followers_count] => 124197
-    [friends_count] => 73531
+    [followers_count] => 124196
+    [friends_count] => 73530
     [listed_count] => 347
     [created_at] => Mon Aug 20 15:02:07 +0000 2012
     [favourites_count] => 29739
@@ -19,7 +19,7 @@ When ordinary life shackles me, I escape
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 35197
+    [statuses_count] => 35200
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
