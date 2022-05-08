@@ -10,7 +10,7 @@ stdClass Object
 header:@f1shegg
     [protected] => 
     [followers_count] => 196
-    [friends_count] => 1236
+    [friends_count] => 1237
     [listed_count] => 1
     [created_at] => Fri Mar 20 02:02:38 +0000 2015
     [favourites_count] => 103979
@@ -18,7 +18,7 @@ header:@f1shegg
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 48142
+    [statuses_count] => 48144
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
