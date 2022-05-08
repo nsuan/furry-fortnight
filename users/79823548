@@ -10,8 +10,8 @@ stdClass Object
 
 "Quer saber, eu cansei. Cansei violeta, e eu vou dar um jeito de te esquecer. E eu vou conseguir." 💔
     [protected] => 
-    [followers_count] => 460
-    [friends_count] => 1795
+    [followers_count] => 461
+    [friends_count] => 1796
     [listed_count] => 0
     [created_at] => Sun Oct 04 20:32:47 +0000 2009
     [favourites_count] => 44817
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 2554
+    [statuses_count] => 2555
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
