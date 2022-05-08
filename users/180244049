@@ -7,7 +7,7 @@ stdClass Object
     [location] => Chicago💨
     [url] => 
     [description] => ✨they/them✨ local manic art goblin • autistic • nsfw | ace + kink pos 🔞 • of @systemfoiled
-    [protected] => 
+    [protected] => 1
     [followers_count] => 489
     [friends_count] => 81
     [listed_count] => 21
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 35580
+    [statuses_count] => 35582
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
