@@ -1,28 +1,23 @@
 stdClass Object
 (
-    [id] => 1345667817526480896
-    [id_str] => 1345667817526480896
-    [name] => CHIMENEA
-    [screen_name] => chimene62004590
+    [id] => 1490325750519640074
+    [id_str] => 1490325750519640074
+    [name] => Álvaro
+    [screen_name] => lvaro64548930
     [location] => 
     [url] => 
-    [description] => in this profile there is too much porn ,Gay and straight, sometimes I publish my drawings
-I respect almost everyone except.
-
-.
-
-Argentino
+    [description] => 
     [protected] => 
-    [followers_count] => 330
-    [friends_count] => 1613
-    [listed_count] => 1
-    [created_at] => Sun Jan 03 09:47:04 +0000 2021
-    [favourites_count] => 21582
+    [followers_count] => 72
+    [friends_count] => 1216
+    [listed_count] => 0
+    [created_at] => Sun Feb 06 14:05:36 +0000 2022
+    [favourites_count] => 760
     [utc_offset] => 
     [time_zone] => 
-    [geo_enabled] => 
+    [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 2774
+    [statuses_count] => 24
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -31,9 +26,8 @@ Argentino
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1509562641253113868/WD5Amsc6_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1509562641253113868/WD5Amsc6_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1345667817526480896/1621025917
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -41,7 +35,7 @@ Argentino
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 
+    [default_profile_image] => 1
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
