@@ -10,7 +10,7 @@ stdClass Object
 pfp by @graysheartart
     [protected] => 
     [followers_count] => 34
-    [friends_count] => 531
+    [friends_count] => 530
     [listed_count] => 1
     [created_at] => Sun Jun 25 15:44:16 +0000 2017
     [favourites_count] => 7764
@@ -18,7 +18,7 @@ pfp by @graysheartart
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 1851
+    [statuses_count] => 1847
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
