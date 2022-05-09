@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 259309271
     [id_str] => 259309271
-    [name] => Phazius, Cat Gamemaster
+    [name] => Phazius, has covid
     [screen_name] => Phazius
     [location] => Canada
     [url] => http://www.twitch.tv/phazius
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 2654
     [listed_count] => 24
     [created_at] => Tue Mar 01 16:07:06 +0000 2011
-    [favourites_count] => 98486
+    [favourites_count] => 98487
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 70117
+    [statuses_count] => 70118
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
