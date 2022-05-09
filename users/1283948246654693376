@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 713189857015640064
-    [id_str] => 713189857015640064
-    [name] => Dbughouse
-    [screen_name] => Dbughouse
+    [id] => 1283948246654693376
+    [id_str] => 1283948246654693376
+    [name] => Sujin
+    [screen_name] => DuskElezen
     [location] => 
     [url] => 
-    [description] => 
+    [description] => Ayo, Idk What I'm doing || Elezen, Duskwight || DM's open || 18+ No Minors || He, Him || RP
     [protected] => 
-    [followers_count] => 11
-    [friends_count] => 227
-    [listed_count] => 0
-    [created_at] => Fri Mar 25 02:24:47 +0000 2016
-    [favourites_count] => 1720
+    [followers_count] => 1037
+    [friends_count] => 1310
+    [listed_count] => 5
+    [created_at] => Fri Jul 17 02:14:58 +0000 2020
+    [favourites_count] => 17521
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 309
+    [statuses_count] => 8062
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/992583317387018242/YbU5sqm4_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/992583317387018242/YbU5sqm4_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1484246114832424963/GG4FrbM3_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1484246114832424963/GG4FrbM3_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1283948246654693376/1621149822
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
