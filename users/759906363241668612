@@ -11,8 +11,8 @@ stdClass Object
 
 header: @lunarsemaphore, icon: @kottkrigart
     [protected] => 
-    [followers_count] => 766
-    [friends_count] => 197
+    [followers_count] => 767
+    [friends_count] => 198
     [listed_count] => 5
     [created_at] => Mon Aug 01 00:19:30 +0000 2016
     [favourites_count] => 18005
