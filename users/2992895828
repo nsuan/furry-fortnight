@@ -11,16 +11,16 @@ stdClass Object
 ACE
 30 something
     [protected] => 
-    [followers_count] => 702
+    [followers_count] => 701
     [friends_count] => 4650
     [listed_count] => 9
     [created_at] => Fri Jan 23 04:21:48 +0000 2015
-    [favourites_count] => 280201
+    [favourites_count] => 280213
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 42505
+    [statuses_count] => 42506
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
