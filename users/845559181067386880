@@ -12,7 +12,7 @@ stdClass Object
 🔺coffee addict alchemist
     [protected] => 
     [followers_count] => 42
-    [friends_count] => 487
+    [friends_count] => 488
     [listed_count] => 0
     [created_at] => Sat Mar 25 08:53:13 +0000 2017
     [favourites_count] => 22792
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3094
+    [statuses_count] => 3096
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
