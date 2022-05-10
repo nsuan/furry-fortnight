@@ -10,15 +10,15 @@ stdClass Object
 @aleexu_  my wife
     [protected] => 1
     [followers_count] => 60
-    [friends_count] => 779
+    [friends_count] => 780
     [listed_count] => 0
     [created_at] => Fri Oct 02 07:54:06 +0000 2020
-    [favourites_count] => 9247
+    [favourites_count] => 9252
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6792
+    [statuses_count] => 6797
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,9 +27,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1520459870608437248/9Fu4XGqR_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1520459870608437248/9Fu4XGqR_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1311937457051504640/1651340857
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1523851321694375936/qRQ5ydAt_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1523851321694375936/qRQ5ydAt_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1311937457051504640/1652149442
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
