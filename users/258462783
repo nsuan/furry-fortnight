@@ -9,7 +9,7 @@ stdClass Object
     [description] => Está do seu agrado?
     [protected] => 
     [followers_count] => 97
-    [friends_count] => 1291
+    [friends_count] => 1290
     [listed_count] => 2
     [created_at] => Sun Feb 27 19:45:32 +0000 2011
     [favourites_count] => 17894
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12353
+    [statuses_count] => 12354
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
