@@ -10,15 +10,15 @@ stdClass Object
 Also makes artwork!
     [protected] => 
     [followers_count] => 251
-    [friends_count] => 1082
+    [friends_count] => 1084
     [listed_count] => 2
     [created_at] => Tue Feb 26 01:34:59 +0000 2013
-    [favourites_count] => 9266
+    [favourites_count] => 9268
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2954
+    [statuses_count] => 2955
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
