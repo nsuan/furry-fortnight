@@ -9,10 +9,10 @@ stdClass Object
     [description] => 
     [protected] => 1
     [followers_count] => 46
-    [friends_count] => 3059
+    [friends_count] => 3060
     [listed_count] => 0
     [created_at] => Tue Nov 27 17:01:38 +0000 2012
-    [favourites_count] => 12114
+    [favourites_count] => 12115
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
