@@ -15,7 +15,7 @@ stdClass Object
     [favourites_count] => 947
     [utc_offset] => 
     [time_zone] => 
-    [geo_enabled] => 
+    [geo_enabled] => 1
     [verified] => 
     [statuses_count] => 932
     [lang] => 
