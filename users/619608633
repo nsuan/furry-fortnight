@@ -9,7 +9,7 @@ stdClass Object
     [description] => 35 year old male hedgehog, gamer, warrior poet, fair young gunslinger of Verona.
     [protected] => 
     [followers_count] => 2132
-    [friends_count] => 5000
+    [friends_count] => 5001
     [listed_count] => 22
     [created_at] => Wed Jun 27 00:12:29 +0000 2012
     [favourites_count] => 29788
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 47016
+    [statuses_count] => 47017
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
