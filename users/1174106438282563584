@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1174106438282563584
     [id_str] => 1174106438282563584
-    [name] => Groxi
+    [name] => Groxigar
     [screen_name] => that_kind_oforc
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 307
     [listed_count] => 3
     [created_at] => Tue Sep 17 23:42:54 +0000 2019
-    [favourites_count] => 72317
+    [favourites_count] => 72320
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 27691
+    [statuses_count] => 27692
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
