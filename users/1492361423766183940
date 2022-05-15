@@ -6,8 +6,8 @@ stdClass Object
     [screen_name] => enamourous
     [location] => 
     [url] => 
-    [description] => 🔞 resident marvel fan (derogatory). he/him. stop calling me homophobic, i’m not afraid of no house. 🦀 @Xccentriq 🦀
-    [protected] => 
+    [description] => 🔞 he/him. stop calling me homophobic, i’m not afraid of no house. 🦀 @Xccentriq 🦀
+    [protected] => 1
     [followers_count] => 21
     [friends_count] => 78
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1099
+    [statuses_count] => 1105
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
