@@ -10,10 +10,10 @@ stdClass Object
 Full time failure. 25
     [protected] => 
     [followers_count] => 125
-    [friends_count] => 5001
+    [friends_count] => 5000
     [listed_count] => 0
     [created_at] => Tue Feb 14 19:00:06 +0000 2012
-    [favourites_count] => 73695
+    [favourites_count] => 73692
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
