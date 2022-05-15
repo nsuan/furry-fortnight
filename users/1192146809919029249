@@ -11,15 +11,15 @@ stdClass Object
 NSFW Misc
     [protected] => 
     [followers_count] => 91
-    [friends_count] => 180
+    [friends_count] => 181
     [listed_count] => 0
     [created_at] => Wed Nov 06 18:29:18 +0000 2019
-    [favourites_count] => 915
+    [favourites_count] => 916
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 122
+    [statuses_count] => 123
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
