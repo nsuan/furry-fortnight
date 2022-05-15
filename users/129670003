@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 129670003
     [id_str] => 129670003
-    [name] => alnarra🔜FWA
+    [name] => alnarra
     [screen_name] => alnarraTweets
     [location] => Chattanooga, TN 
     [url] => http://alnarra.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 994
     [listed_count] => 10
     [created_at] => Mon Apr 05 02:11:37 +0000 2010
-    [favourites_count] => 10872
+    [favourites_count] => 10874
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4115
+    [statuses_count] => 4116
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
