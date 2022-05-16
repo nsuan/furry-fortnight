@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 868225817695932416
     [id_str] => 868225817695932416
-    [name] => Unholykazoo - COMMISSIONS CLOSED (2/5)
+    [name] => Unholykazoo - COMMISSIONS CLOSED (1/5)
     [screen_name] => Unholykazoo
     [location] => 
     [url] => https://linktr.ee/unholykazoo
@@ -17,7 +17,7 @@ stdClass Object
     [friends_count] => 494
     [listed_count] => 4
     [created_at] => Fri May 26 22:02:20 +0000 2017
-    [favourites_count] => 19081
+    [favourites_count] => 19082
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
