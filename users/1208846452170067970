@@ -14,16 +14,16 @@ stdClass Object
 
 i: @BellBellyR | h: @onteteisan
     [protected] => 
-    [followers_count] => 186
+    [followers_count] => 187
     [friends_count] => 273
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 12022
+    [favourites_count] => 12025
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 36955
+    [statuses_count] => 36959
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
