@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 16641153
     [id_str] => 16641153
-    [name] => Windspeaker Rosoe
+    [name] => A Name Goes Here
     [screen_name] => Rosoe
     [location] => the Mid-west
     [url] => http://valdiis.tumblr.com
-    [description] => FORMERLY an IC-only Twitter for part of the Moon Guard Twitter Project. Due to Tumblopcalypse, this is being converted to an OOC Twitter.
+    [description] => Used to be an IC WoW Twitter. Now an OOC browsing-only Twitter run by a FFXIV player. (Yes, I do still use this account; no, you cannot buy it.)
     [protected] => 
     [followers_count] => 163
-    [friends_count] => 221
+    [friends_count] => 222
     [listed_count] => 3
     [created_at] => Wed Oct 08 01:11:32 +0000 2008
     [favourites_count] => 19
@@ -26,8 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme5/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme5/bg.gif
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1263298428/100x100cropped_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1263298428/100x100cropped_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1526700794837405697/Li_s269K_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1526700794837405697/Li_s269K_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/16641153/1652828810
     [profile_link_color] => D02B55
     [profile_sidebar_border_color] => 829D5E
     [profile_sidebar_fill_color] => 99CC33
