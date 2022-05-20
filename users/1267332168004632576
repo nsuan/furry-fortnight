@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => ✨ hi, I’m lils ✨ casual digital artist ✨ emotionally, i am the possum digging in your garbage.
     [protected] => 
-    [followers_count] => 8
-    [friends_count] => 35
+    [followers_count] => 9
+    [friends_count] => 36
     [listed_count] => 0
     [created_at] => Mon Jun 01 05:48:43 +0000 2020
     [favourites_count] => 12
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12
+    [statuses_count] => 14
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
