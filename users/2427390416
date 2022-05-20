@@ -1,25 +1,27 @@
 stdClass Object
 (
-    [id] => 816141276
-    [id_str] => 816141276
-    [name] => Fluffy boy
-    [screen_name] => BirlotTiger
-    [location] => 
-    [url] => 
-    [description] => A Weretiger From West Coast.
+    [id] => 2427390416
+    [id_str] => 2427390416
+    [name] => Skulla | Now on P❖treon!
+    [screen_name] => skulladraws
+    [location] => São Paulo, Brasil
+    [url] => http://patreon.com/skulladraws
+    [description] => PT/ENG • 26 • she/her • artist • NSFW! 🔞
+COMMISSIONS CLOSED
+Profile pic: @CherRo_Art
 
-🇲🇽 | TFs Lover | Car Enthusiast | Bizarre | Centaur/Taur | Surreal Art |
+☕ ko-fi: http://ko-fi.com/skulladraws
     [protected] => 
-    [followers_count] => 643
-    [friends_count] => 387
-    [listed_count] => 3
-    [created_at] => Mon Sep 10 22:20:25 +0000 2012
-    [favourites_count] => 8331
+    [followers_count] => 1574
+    [friends_count] => 514
+    [listed_count] => 14
+    [created_at] => Fri Apr 04 14:43:14 +0000 2014
+    [favourites_count] => 3304
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3758
+    [statuses_count] => 1467
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,10 +30,10 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme14/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme14/bg.gif
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1503885243597611015/f5nJ_PYo_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1503885243597611015/f5nJ_PYo_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/816141276/1625337890
-    [profile_link_color] => 009999
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1475147837075857423/mF0iKKW5_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1475147837075857423/mF0iKKW5_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2427390416/1649899533
+    [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => EEEEEE
     [profile_sidebar_fill_color] => EFEFEF
     [profile_text_color] => 333333
