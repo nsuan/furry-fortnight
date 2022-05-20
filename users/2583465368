@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2583465368
     [id_str] => 2583465368
-    [name] => vampire prince nina 🦇(suffering arcane brainrot)
+    [name] => vampire prince nina 🦇
     [screen_name] => NinaModaffari
     [location] => belmont, ca
     [url] => https://ninamodaffari.carrd.co
@@ -14,12 +14,12 @@ stdClass Object
     [friends_count] => 4795
     [listed_count] => 141
     [created_at] => Mon Jun 23 06:26:50 +0000 2014
-    [favourites_count] => 101562
+    [favourites_count] => 101579
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 21783
+    [statuses_count] => 21785
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
