@@ -2,13 +2,13 @@ stdClass Object
 (
     [id] => 61223454
     [id_str] => 61223454
-    [name] => Shrieking Gym-Bunny (apparently)
-    [screen_name] => ricoladidada
+    [name] => Gym-Rat (now with less shrieking)
+    [screen_name] => sickybebe
     [location] => Canada
     [url] => 
     [description] => she/THEY - 🇪🇪 🇨🇦  - Rambling, snark and awkward moments... NOW IN A CAN!
     [protected] => 
-    [followers_count] => 42
+    [followers_count] => 38
     [friends_count] => 1390
     [listed_count] => 8
     [created_at] => Wed Jul 29 15:41:29 +0000 2009
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1676
+    [statuses_count] => 1674
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
