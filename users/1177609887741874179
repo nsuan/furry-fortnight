@@ -10,16 +10,16 @@ stdClass Object
 Pfp: @shadoca_art 
 Banner: @pandaspalkoj
     [protected] => 
-    [followers_count] => 200
-    [friends_count] => 800
+    [followers_count] => 199
+    [friends_count] => 799
     [listed_count] => 0
     [created_at] => Fri Sep 27 15:44:25 +0000 2019
-    [favourites_count] => 24587
+    [favourites_count] => 24592
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2895
+    [statuses_count] => 2896
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
