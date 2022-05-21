@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1266546242777210881
     [id_str] => 1266546242777210881
-    [name] => lea (stupid little man)
+    [name] => lea (very smart at one thing)
     [screen_name] => presentmic
     [location] => condemn war everywhere.
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 344
     [listed_count] => 0
     [created_at] => Sat May 30 01:45:53 +0000 2020
-    [favourites_count] => 21893
+    [favourites_count] => 21904
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 18923
+    [statuses_count] => 18931
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
