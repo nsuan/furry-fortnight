@@ -9,7 +9,7 @@ stdClass Object
     [description] => I fart on you
     [protected] => 
     [followers_count] => 312
-    [friends_count] => 1415
+    [friends_count] => 1416
     [listed_count] => 4
     [created_at] => Fri Nov 23 11:13:44 +0000 2018
     [favourites_count] => 1118
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 679
+    [statuses_count] => 680
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
