@@ -10,15 +10,15 @@ stdClass Object
 NSFW Account @v0rianloken
     [protected] => 
     [followers_count] => 894
-    [friends_count] => 738
+    [friends_count] => 739
     [listed_count] => 72
     [created_at] => Mon Mar 16 01:03:28 +0000 2009
-    [favourites_count] => 182147
+    [favourites_count] => 182158
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 110780
+    [statuses_count] => 110784
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
