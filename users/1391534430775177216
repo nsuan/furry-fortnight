@@ -2,9 +2,9 @@ stdClass Object
 (
     [id] => 1391534430775177216
     [id_str] => 1391534430775177216
-    [name] => Loki Kimura
+    [name] => Loki // Met
     [screen_name] => LokikimuraSAM
-    [location] => Crystal, Malboro
+    [location] => Crystal, Balmung
     [url] => 
     [description] => SAM 
 -
@@ -17,12 +17,12 @@ http://lokimura.carrd.co/#
     [friends_count] => 977
     [listed_count] => 0
     [created_at] => Sun May 09 23:24:03 +0000 2021
-    [favourites_count] => 3338
+    [favourites_count] => 3341
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1941
+    [statuses_count] => 1942
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
