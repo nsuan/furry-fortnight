@@ -13,10 +13,10 @@ stdClass Object
 h: @pocketghosts
     [protected] => 
     [followers_count] => 365
-    [friends_count] => 421
+    [friends_count] => 420
     [listed_count] => 2
     [created_at] => Mon Jul 28 05:33:54 +0000 2014
-    [favourites_count] => 18973
+    [favourites_count] => 18974
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
