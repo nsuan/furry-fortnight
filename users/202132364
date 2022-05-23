@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 202132364
     [id_str] => 202132364
-    [name] => Stephen Dunne
+    [name] => Greg Arious
     [screen_name] => Dunnesparce
     [location] => Ireland
     [url] => https://twitch.tv/dunnesparce
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1820
     [listed_count] => 4
     [created_at] => Wed Oct 13 11:17:30 +0000 2010
-    [favourites_count] => 64210
+    [favourites_count] => 64219
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 22160
+    [statuses_count] => 22162
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
