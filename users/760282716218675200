@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 760282716218675200
     [name] => Ginko
     [screen_name] => angrytreat
-    [location] => he/him
+    [location] => 
     [url] => 
     [description] => 🍷🦇🖤
     [protected] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 5003
     [listed_count] => 1
     [created_at] => Tue Aug 02 01:15:00 +0000 2016
-    [favourites_count] => 3884
+    [favourites_count] => 3907
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1524
+    [statuses_count] => 1539
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
