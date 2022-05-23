@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => I retweet a lot of art
     [protected] => 
-    [followers_count] => 69
+    [followers_count] => 70
     [friends_count] => 2678
     [listed_count] => 1
     [created_at] => Tue Oct 09 20:02:49 +0000 2018
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11713
+    [statuses_count] => 11712
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
