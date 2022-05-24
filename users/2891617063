@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2891617063
     [id_str] => 2891617063
-    [name] => kris
+    [name] => kris @ patreon
     [screen_name] => yuutayo
     [location] => Elwynn Forest, EK
     [url] => https://yuutayo.carrd.co/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 544
     [listed_count] => 61
     [created_at] => Thu Nov 06 02:44:35 +0000 2014
-    [favourites_count] => 50278
+    [favourites_count] => 50279
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 30862
+    [statuses_count] => 30863
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
