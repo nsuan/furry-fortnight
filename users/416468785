@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 416468785
     [id_str] => 416468785
-    [name] => Zito’s Complementary Bean Shot
+    [name] => Provence Enjoyer
     [screen_name] => Arochius
     [location] => San Antonio, TX
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 235
     [listed_count] => 8
     [created_at] => Sat Nov 19 18:45:12 +0000 2011
-    [favourites_count] => 21526
+    [favourites_count] => 21527
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 56615
+    [statuses_count] => 56618
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1485371493869670400/JyOnNolI_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1485371493869670400/JyOnNolI_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1529118436697292801/LZAsJxlZ_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1529118436697292801/LZAsJxlZ_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/416468785/1545766678
     [profile_link_color] => 0084B4
     [profile_sidebar_border_color] => C0DEED
