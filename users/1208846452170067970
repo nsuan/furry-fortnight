@@ -15,15 +15,15 @@ stdClass Object
 i: @locominima | h: @onteteisan
     [protected] => 
     [followers_count] => 207
-    [friends_count] => 274
+    [friends_count] => 275
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 12425
+    [favourites_count] => 12427
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 37520
+    [statuses_count] => 37522
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
