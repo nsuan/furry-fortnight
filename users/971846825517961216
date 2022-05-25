@@ -9,10 +9,10 @@ stdClass Object
     [description] => I’m a fuckin’ moron and that’s okay | She/Her | 26 | Artist? | Married | Video games✨| 18+ ‘cause Just in case
     [protected] => 
     [followers_count] => 42
-    [friends_count] => 501
+    [friends_count] => 502
     [listed_count] => 0
     [created_at] => Thu Mar 08 20:35:14 +0000 2018
-    [favourites_count] => 8393
+    [favourites_count] => 8402
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1520459547759968256/F8PpjifJ_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1520459547759968256/F8PpjifJ_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/971846825517961216/1639213391
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1529308968966729728/mdBngat3_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1529308968966729728/mdBngat3_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/971846825517961216/1653450657
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
