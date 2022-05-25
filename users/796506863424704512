@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => She/Her • 21 • forever yelling abt fictional people
-    [protected] => 
+    [protected] => 1
     [followers_count] => 123
     [friends_count] => 674
     [listed_count] => 1
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 13870
+    [statuses_count] => 13869
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
