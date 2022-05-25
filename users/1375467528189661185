@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1375467528189661185
     [id_str] => 1375467528189661185
-    [name] => anu
+    [name] => anu | lyro day
     [screen_name] => alloutevelynn
     [location] => if you don't like me block me 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 368
     [listed_count] => 2
     [created_at] => Fri Mar 26 15:19:59 +0000 2021
-    [favourites_count] => 20795
+    [favourites_count] => 20803
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 16797
+    [statuses_count] => 16805
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
