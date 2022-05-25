@@ -11,15 +11,15 @@ stdClass Object
 PFP: @Wolfhidewinter
     [protected] => 
     [followers_count] => 873
-    [friends_count] => 512
+    [friends_count] => 513
     [listed_count] => 9
     [created_at] => Tue Feb 14 17:47:18 +0000 2012
-    [favourites_count] => 58695
+    [favourites_count] => 58701
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12338
+    [statuses_count] => 12339
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
