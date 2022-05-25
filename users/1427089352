@@ -2,9 +2,9 @@ stdClass Object
 (
     [id] => 1427089352
     [id_str] => 1427089352
-    [name] => ً
+    [name] => 💭
     [screen_name] => earthguts
-    [location] => avi by lynoniaa!
+    [location] => avi by fulsvamp!
     [url] => http://mossguts.carrd.co/
     [description] => ↟ 27 y/o • 🇺🇸 🇸🇪 ☽
     [protected] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 735
     [listed_count] => 5
     [created_at] => Tue May 14 05:45:55 +0000 2013
-    [favourites_count] => 19648
+    [favourites_count] => 19649
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1525278741798309888/DlpaCPvw_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1525278741798309888/DlpaCPvw_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1529466255547179008/ravwTC3F_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1529466255547179008/ravwTC3F_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1427089352/1652021568
     [profile_link_color] => FAB81E
     [profile_sidebar_border_color] => FFFFFF
