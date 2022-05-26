@@ -1,23 +1,26 @@
 stdClass Object
 (
-    [id] => 1405786064
-    [id_str] => 1405786064
-    [name] => Kaleana
-    [screen_name] => Kaleana_
+    [id] => 820918470
+    [id_str] => 820918470
+    [name] => Nox Myrinoire
+    [screen_name] => Schillwing
     [location] => Azeroth
     [url] => 
-    [description] => Guild Leader of ‘Isle of Misfit’ - Grizzly Hills (H) and Alt-oholic. Soulmate of @DreadPirateRomy. World of Warcraft - US & EU💜  Fallout 76 on PS4
-    [protected] => 1
-    [followers_count] => 679
-    [friends_count] => 4931
-    [listed_count] => 7
-    [created_at] => Sun May 05 18:35:21 +0000 2013
-    [favourites_count] => 10033
+    [description] => Amateur Art Commissioner | Retweets 🔞 | Moon Guardian | Proud Dragondad OC
+
+- pfp by @SketchyGoth
+- bg by @DaramarArt
+    [protected] => 
+    [followers_count] => 30
+    [friends_count] => 318
+    [listed_count] => 0
+    [created_at] => Thu Sep 13 05:14:13 +0000 2012
+    [favourites_count] => 5083
     [utc_offset] => 
     [time_zone] => 
-    [geo_enabled] => 1
+    [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2030
+    [statuses_count] => 1495
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,16 +29,16 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/3666187616/122080a20e494304fd55d3cdd4f87d67_normal.jpeg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/3666187616/122080a20e494304fd55d3cdd4f87d67_normal.jpeg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1405786064/1532107481
-    [profile_link_color] => 1DA1F2
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1436285362431799299/urof-C1A_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1436285362431799299/urof-C1A_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/820918470/1622662260
+    [profile_link_color] => 0700C4
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
-    [default_profile] => 1
+    [default_profile] => 
     [default_profile_image] => 
     [following] => 
     [follow_request_sent] => 
