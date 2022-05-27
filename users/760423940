@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => cambiando la piel
     [protected] => 
-    [followers_count] => 751
-    [friends_count] => 2714
+    [followers_count] => 750
+    [friends_count] => 2715
     [listed_count] => 1
     [created_at] => Thu Aug 16 00:01:35 +0000 2012
     [favourites_count] => 5792
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3436
+    [statuses_count] => 3437
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
