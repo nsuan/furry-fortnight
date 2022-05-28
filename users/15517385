@@ -14,12 +14,12 @@ priv account: @hsipest
     [friends_count] => 1730
     [listed_count] => 103
     [created_at] => Mon Jul 21 16:49:16 +0000 2008
-    [favourites_count] => 17458
+    [favourites_count] => 17459
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11628
+    [statuses_count] => 11629
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
