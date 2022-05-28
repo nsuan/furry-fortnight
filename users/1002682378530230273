@@ -9,16 +9,16 @@ stdClass Object
     [description] => Artist
 Commissioned closed
     [protected] => 
-    [followers_count] => 8748
+    [followers_count] => 8747
     [friends_count] => 1585
-    [listed_count] => 66
+    [listed_count] => 67
     [created_at] => Fri Jun 01 22:44:42 +0000 2018
-    [favourites_count] => 67027
+    [favourites_count] => 67031
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 43915
+    [statuses_count] => 43917
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
