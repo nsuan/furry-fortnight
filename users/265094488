@@ -1,0 +1,53 @@
+stdClass Object
+(
+    [id] => 265094488
+    [id_str] => 265094488
+    [name] => ✧°•John•°✧ Commissions OPEN
+    [screen_name] => johnnygoransson
+    [location] => Sweden
+    [url] => https://www.patreon.com/johnnygoransson
+    [description] => Artist/ freelance animator. 🏳️‍🌈
+ || contact: john.gorillaprutt@gmail.com ||
+COMMISSION STATUS: open
+    [protected] => 
+    [followers_count] => 10652
+    [friends_count] => 3358
+    [listed_count] => 54
+    [created_at] => Sun Mar 13 00:56:05 +0000 2011
+    [favourites_count] => 87257
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 28624
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 365A61
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme4/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme4/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1377773934058291208/GMKQCh28_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1377773934058291208/GMKQCh28_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/265094488/1537715025
+    [profile_link_color] => FFA6C8
+    [profile_sidebar_border_color] => 002C2E
+    [profile_sidebar_fill_color] => D5E0DE
+    [profile_text_color] => 000000
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)
