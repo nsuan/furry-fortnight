@@ -9,8 +9,8 @@ stdClass Object
     [description] => Artist
 Commissioned closed
     [protected] => 
-    [followers_count] => 8753
-    [friends_count] => 1586
+    [followers_count] => 8752
+    [friends_count] => 1585
     [listed_count] => 66
     [created_at] => Fri Jun 01 22:44:42 +0000 2018
     [favourites_count] => 67025
@@ -18,7 +18,7 @@ Commissioned closed
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 43910
+    [statuses_count] => 43912
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
