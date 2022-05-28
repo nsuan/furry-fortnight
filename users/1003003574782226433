@@ -13,7 +13,7 @@ stdClass Object
 -
 (BG © @Verathos, Pfp © @Admiralshiba)
     [protected] => 
-    [followers_count] => 1448
+    [followers_count] => 1451
     [friends_count] => 1646
     [listed_count] => 6
     [created_at] => Sat Jun 02 20:01:01 +0000 2018
@@ -22,7 +22,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 28334
+    [statuses_count] => 28333
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
