@@ -10,7 +10,7 @@ stdClass Object
 
 #twitchaffiliate 🌸 ENG VTuber 🌸
     [protected] => 
-    [followers_count] => 557
+    [followers_count] => 556
     [friends_count] => 1190
     [listed_count] => 10
     [created_at] => Sat Feb 26 11:46:48 +0000 2011
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5061
+    [statuses_count] => 5063
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
