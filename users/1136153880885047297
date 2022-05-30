@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => I'm newbie artist
     [protected] => 
-    [followers_count] => 75
+    [followers_count] => 74
     [friends_count] => 4757
     [listed_count] => 5
     [created_at] => Wed Jun 05 06:12:48 +0000 2019
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3643
+    [statuses_count] => 3644
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
