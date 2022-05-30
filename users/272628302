@@ -10,8 +10,8 @@ stdClass Object
 💬 assisto, jogo, falo pouco e retweeto muito
 🦋 @flobsu
     [protected] => 
-    [followers_count] => 160
-    [friends_count] => 314
+    [followers_count] => 161
+    [friends_count] => 315
     [listed_count] => 3
     [created_at] => Sat Mar 26 21:28:16 +0000 2011
     [favourites_count] => 22781
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 62407
+    [statuses_count] => 62406
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
