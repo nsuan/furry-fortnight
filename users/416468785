@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 416468785
     [id_str] => 416468785
-    [name] => Provence Enjoyer
+    [name] => Well, you look to be unkindled
     [screen_name] => Arochius
     [location] => San Antonio, TX
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 234
     [listed_count] => 8
     [created_at] => Sat Nov 19 18:45:12 +0000 2011
-    [favourites_count] => 21658
+    [favourites_count] => 21660
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 56746
+    [statuses_count] => 56747
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
