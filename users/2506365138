@@ -11,15 +11,15 @@ stdClass Object
 #blacklivesmatter
     [protected] => 
     [followers_count] => 359
-    [friends_count] => 1986
-    [listed_count] => 10
+    [friends_count] => 1988
+    [listed_count] => 0
     [created_at] => Mon May 19 04:32:17 +0000 2014
-    [favourites_count] => 27211
+    [favourites_count] => 27215
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 11740
+    [statuses_count] => 11745
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
