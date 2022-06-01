@@ -7,7 +7,7 @@ stdClass Object
     [location] => United States
     [url] => http://twitch.tv/wisteriaisle
     [description] => she/her // cozy variety gamer • 🪴🍓🌻 | lover of labor unions and animal crossing | 18+ for language
-    [protected] => 1
+    [protected] => 
     [followers_count] => 211
     [friends_count] => 211
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7080
+    [statuses_count] => 7081
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
