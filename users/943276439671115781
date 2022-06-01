@@ -2,12 +2,12 @@ stdClass Object
 (
     [id] => 943276439671115781
     [id_str] => 943276439671115781
-    [name] => Nidarosis 🍇 Commissions OPEN
+    [name] => Nidarosis 🍇 Commissions CLOSED
     [screen_name] => Nidarosis
     [location] => Norway
     [url] => 
     [description] => 💜Freelance artist, she/her (25)
-💜Commissions OPEN
+💜Commissions CLOSED
 💜@BFG_HSK💜
 ✉️ Business - nidarosis.art@gmail.com
 🌲http://linktr.ee/nidarosis
@@ -16,7 +16,7 @@ stdClass Object
     [friends_count] => 788
     [listed_count] => 79
     [created_at] => Wed Dec 20 00:26:43 +0000 2017
-    [favourites_count] => 33346
+    [favourites_count] => 33347
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
