@@ -10,8 +10,8 @@ stdClass Object
 
 @Mermaylove
     [protected] => 
-    [followers_count] => 764
-    [friends_count] => 888
+    [followers_count] => 765
+    [friends_count] => 889
     [listed_count] => 0
     [created_at] => Sat Jan 22 12:02:27 +0000 2022
     [favourites_count] => 9034
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10151
+    [statuses_count] => 10152
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
