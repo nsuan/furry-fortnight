@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 15989194
     [name] => M. A.
     [screen_name] => socalyote
-    [location] => CA, US
+    [location] => Colorado, USA
     [url] => 
     [description] => Non-work (personal) OOC twitter account.
     [protected] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 810
     [listed_count] => 6
     [created_at] => Mon Aug 25 23:28:08 +0000 2008
-    [favourites_count] => 15771
+    [favourites_count] => 15772
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
