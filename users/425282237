@@ -15,12 +15,12 @@ NO N//F//T//S
     [friends_count] => 297
     [listed_count] => 24
     [created_at] => Wed Nov 30 20:14:08 +0000 2011
-    [favourites_count] => 81392
+    [favourites_count] => 81397
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 50978
+    [statuses_count] => 50986
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,8 +29,9 @@ NO N//F//T//S
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1532892388057681920/4PiyxJuH_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1532892388057681920/4PiyxJuH_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1533109765991038977/1MT4G_1i_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1533109765991038977/1MT4G_1i_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/425282237/1654356850
     [profile_link_color] => 92B0B6
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
