@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => I am nothing, subhuman at best.
     [protected] => 
-    [followers_count] => 2189
-    [friends_count] => 4996
+    [followers_count] => 2190
+    [friends_count] => 4998
     [listed_count] => 6
     [created_at] => Tue Apr 13 19:22:38 +0000 2021
     [favourites_count] => 122546
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20552
+    [statuses_count] => 20551
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
