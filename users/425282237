@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 425282237
     [id_str] => 425282237
-    [name] => Grey, Bayan Enjoyer Supreme
+    [name] => Grey
     [screen_name] => Kelandiir
     [location] => Proshitters DNI
     [url] => 
@@ -15,12 +15,12 @@ NO N//F//T//S
     [friends_count] => 297
     [listed_count] => 24
     [created_at] => Wed Nov 30 20:14:08 +0000 2011
-    [favourites_count] => 81366
+    [favourites_count] => 81372
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 50965
+    [statuses_count] => 50969
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,9 +29,8 @@ NO N//F//T//S
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1530827178128027648/OdFaHane_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1530827178128027648/OdFaHane_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/425282237/1652677474
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1532892388057681920/4PiyxJuH_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1532892388057681920/4PiyxJuH_normal.jpg
     [profile_link_color] => 92B0B6
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
