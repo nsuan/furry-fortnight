@@ -10,7 +10,7 @@ stdClass Object
 User is 35+
     [protected] => 
     [followers_count] => 0
-    [friends_count] => 125
+    [friends_count] => 124
     [listed_count] => 0
     [created_at] => Sat Mar 12 16:43:23 +0000 2022
     [favourites_count] => 125
