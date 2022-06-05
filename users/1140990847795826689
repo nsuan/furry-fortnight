@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1140990847795826689
     [id_str] => 1140990847795826689
-    [name] => Cocodrill (Commissions open)
+    [name] => Goatielicious (Commissions open)
     [screen_name] => GrumpyGoatie
     [location] => 
     [url] => https://www.instagram.com/grumpygoatie/
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 400
     [listed_count] => 7
     [created_at] => Tue Jun 18 14:33:11 +0000 2019
-    [favourites_count] => 20331
+    [favourites_count] => 20332
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1531252754521391107/vI76t4t0_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1531252754521391107/vI76t4t0_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1140990847795826689/1653914082
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1533511488714989568/9xPP2l8c_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1533511488714989568/9xPP2l8c_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1140990847795826689/1654452606
     [profile_link_color] => FF691F
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
