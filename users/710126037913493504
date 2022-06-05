@@ -10,15 +10,15 @@ stdClass Object
 🌿ig: llenerdoa
     [protected] => 
     [followers_count] => 37
-    [friends_count] => 404
+    [friends_count] => 405
     [listed_count] => 1
     [created_at] => Wed Mar 16 15:30:15 +0000 2016
-    [favourites_count] => 12846
+    [favourites_count] => 12849
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5012
+    [statuses_count] => 5013
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
