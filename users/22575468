@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 22575468
     [id_str] => 22575468
-    [name] => Gastly (Temporary Smoliv Stan Account)
+    [name] => Gastly
     [screen_name] => simplygastly
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 52846
+    [statuses_count] => 52848
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
