@@ -3,7 +3,7 @@ stdClass Object
     [id] => 363473763
     [id_str] => 363473763
     [name] => oh boy, 3 am!
-    [screen_name] => lsfahel
+    [screen_name] => shieldmaven
     [location] => 
     [url] => 
     [description] => Alex - 27 - he/him - lesbian - loves video games and anime girls
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 231
     [listed_count] => 1
     [created_at] => Sun Aug 28 04:17:43 +0000 2011
-    [favourites_count] => 2714
+    [favourites_count] => 2715
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 11877
+    [statuses_count] => 11878
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
