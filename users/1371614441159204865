@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1371614441159204865
     [id_str] => 1371614441159204865
-    [name] => jumpingway
+    [name] => jumpingway * dragoon #11
     [screen_name] => drachentrials
     [location] => 
     [url] => http://jennagerie.carrd.co
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 977
     [listed_count] => 1
     [created_at] => Tue Mar 16 00:09:16 +0000 2021
-    [favourites_count] => 18804
+    [favourites_count] => 18807
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
