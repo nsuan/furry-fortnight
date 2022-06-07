@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 778
     [listed_count] => 2
     [created_at] => Mon Jul 23 19:25:52 +0000 2018
-    [favourites_count] => 35673
+    [favourites_count] => 35674
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16883
+    [statuses_count] => 16884
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,7 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1524747992074317824/UganfF2T_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1524747992074317824/UganfF2T_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1021476508064538624/1652363094
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1021476508064538624/1654604370
     [profile_link_color] => 7FDBB6
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
