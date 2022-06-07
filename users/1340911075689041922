@@ -7,7 +7,7 @@ stdClass Object
     [location] => she/they 
     [url] => 
     [description] => lesbian / Alexstrasza #1 simp / Night elf and Nightborne enjoyer
-    [protected] => 
+    [protected] => 1
     [followers_count] => 213
     [friends_count] => 912
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2914
+    [statuses_count] => 2916
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
