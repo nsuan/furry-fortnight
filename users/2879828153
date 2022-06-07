@@ -10,16 +10,16 @@ stdClass Object
 http://Youtube.com/iSinGaming
 http://twitch.tv/iSinGaming
     [protected] => 
-    [followers_count] => 14920
-    [friends_count] => 16139
-    [listed_count] => 98
+    [followers_count] => 14919
+    [friends_count] => 16138
+    [listed_count] => 97
     [created_at] => Sun Nov 16 17:51:45 +0000 2014
-    [favourites_count] => 36088
+    [favourites_count] => 36092
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 41229
+    [statuses_count] => 41230
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
