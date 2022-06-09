@@ -12,7 +12,7 @@ stdClass Object
 
 i: @koedamesan | h: @rosa_sketch
     [protected] => 
-    [followers_count] => 207
+    [followers_count] => 208
     [friends_count] => 268
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
@@ -21,7 +21,7 @@ i: @koedamesan | h: @rosa_sketch
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 38301
+    [statuses_count] => 38305
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
