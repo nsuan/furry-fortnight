@@ -9,7 +9,7 @@ stdClass Object
     [description] => 21yearold
     [protected] => 
     [followers_count] => 84
-    [friends_count] => 3722
+    [friends_count] => 3728
     [listed_count] => 0
     [created_at] => Wed Jun 16 03:04:30 +0000 2021
     [favourites_count] => 47656
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 22
+    [statuses_count] => 23
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
