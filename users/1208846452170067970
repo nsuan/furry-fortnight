@@ -12,16 +12,16 @@ stdClass Object
 
 i: @koedamesan | h: @rosa_sketch
     [protected] => 
-    [followers_count] => 210
+    [followers_count] => 209
     [friends_count] => 269
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 12961
+    [favourites_count] => 12971
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 38377
+    [statuses_count] => 38387
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
