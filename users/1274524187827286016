@@ -12,7 +12,7 @@ stdClass Object
 - Animator
     [protected] => 
     [followers_count] => 729
-    [friends_count] => 5000
+    [friends_count] => 5001
     [listed_count] => 3
     [created_at] => Sun Jun 21 02:07:25 +0000 2020
     [favourites_count] => 21143
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19680
+    [statuses_count] => 19681
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
