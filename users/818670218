@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 818670218
     [id_str] => 818670218
-    [name] => ボイド: Vampires are for Everybody!
+    [name] => ボイド: R1 Antibelf
     [screen_name] => vap0relf
     [location] => a mcdonalds
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 579
     [listed_count] => 6
     [created_at] => Wed Sep 12 02:34:43 +0000 2012
-    [favourites_count] => 39851
+    [favourites_count] => 39852
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 51478
+    [statuses_count] => 51481
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
