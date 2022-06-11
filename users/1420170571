@@ -7,7 +7,7 @@ stdClass Object
     [location] => Stockholm & Tehrān/تهران
     [url] => https://youtu.be/U1l6mn6vNFw
     [description] => Socialdemokrat 🌹 | Iran | Sweden | 🐣🐤🐥 | 🦆
-    [protected] => 1
+    [protected] => 
     [followers_count] => 650
     [friends_count] => 1326
     [listed_count] => 4
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 108052
+    [statuses_count] => 108051
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
