@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1433565713134985217
     [id_str] => 1433565713134985217
-    [name] => Magpyre | emergency comms open | extended wait
+    [name] => Magpyre | emergency comms open | extended TaT
     [screen_name] => corvidica
     [location] => In the fire. 
     [url] => https://ko-fi.com/corvidica
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2158
+    [statuses_count] => 2160
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
