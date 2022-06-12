@@ -9,7 +9,7 @@ stdClass Object
     [description] => my sunshine must be somewhere
     [protected] => 1
     [followers_count] => 82
-    [friends_count] => 5003
+    [friends_count] => 5004
     [listed_count] => 0
     [created_at] => Wed Feb 21 18:53:29 +0000 2018
     [favourites_count] => 41898
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17808
+    [statuses_count] => 17810
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

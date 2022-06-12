@@ -13,15 +13,15 @@ stdClass Object
 i: @baydews | h: @rosa_sketch
     [protected] => 
     [followers_count] => 212
-    [friends_count] => 271
+    [friends_count] => 272
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 13109
+    [favourites_count] => 13113
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 38563
+    [statuses_count] => 38564
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
