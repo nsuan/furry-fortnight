@@ -10,16 +10,16 @@ stdClass Object
 
                                 avatar by @ noriella
     [protected] => 
-    [followers_count] => 367
+    [followers_count] => 366
     [friends_count] => 1256
     [listed_count] => 4
     [created_at] => Fri Jan 16 13:48:39 +0000 2015
-    [favourites_count] => 78208
+    [favourites_count] => 78210
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 35920
+    [statuses_count] => 35921
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
