@@ -1,25 +1,23 @@
 stdClass Object
 (
-    [id] => 1158213261445255168
-    [id_str] => 1158213261445255168
-    [name] => cursyve
-    [screen_name] => cursyve
-    [location] => 
+    [id] => 1429040846498902027
+    [id_str] => 1429040846498902027
+    [name] => 𝙲𝚘𝚛𝚋𝚢𝚗 🖤
+    [screen_name] => ghostfacereject
+    [location] => He/They/It + Neos.🦇
     [url] => 
-    [description] => austin • 26 • he/him
-🔞  🌈  ✏️  🎮  📚  🔮
-{ icon @NinaModaffari • header @MysticPotionArt }
-    [protected] => 
-    [followers_count] => 66
-    [friends_count] => 972
-    [listed_count] => 0
-    [created_at] => Mon Aug 05 03:08:54 +0000 2019
-    [favourites_count] => 14970
+    [description] => #CORPSE & #GHOSTFACE enjoyer - editor+writer+streamer+soon-to-be v-tuber.🤍 #GHOSTFACE: “What’s your favorite scary movie~?”
+    [protected] => 1
+    [followers_count] => 57
+    [friends_count] => 2956
+    [listed_count] => 1
+    [created_at] => Sat Aug 21 11:21:10 +0000 2021
+    [favourites_count] => 2659
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1873
+    [statuses_count] => 2446
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1436185610830635010/dqIs0Xi__normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1436185610830635010/dqIs0Xi__normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1158213261445255168/1631248307
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1528719440485007360/oNtozyB3_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1528719440485007360/oNtozyB3_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1429040846498902027/1652479078
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
