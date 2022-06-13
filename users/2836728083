@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 2836728083
     [id_str] => 2836728083
-    [name] => DINO ✨ {Comms Closed} ✨
+    [name] => DINO ✨ {Comms Limited} ✨
     [screen_name] => DinoDraws
-    [location] => 
+    [location] => They/Them | She/Her
     [url] => https://linktr.ee/dinosaurdraws
-    [description] => Artist | 31 | Weird Entity | they/she | mixed (chinese/white) | DinosaurDrawsArt@gmail.com | COMMS Closed| http://dinodraws.carrd.co pfp @SongsandSorcery
+    [description] => Artist | 31 | Weird Entity | they/she | mixed (chinese/white) | DinosaurDrawsArt@gmail.com | COMMS Limited | http://dinodraws.carrd.co pfp @SongsandSorcery
     [protected] => 
     [followers_count] => 834
     [friends_count] => 2087
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4937
+    [statuses_count] => 4936
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
