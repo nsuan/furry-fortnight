@@ -9,10 +9,10 @@ stdClass Object
     [description] => Digital Artist. Commissions open! ✉️
     [protected] => 
     [followers_count] => 495
-    [friends_count] => 752
+    [friends_count] => 753
     [listed_count] => 2
     [created_at] => Fri Jun 12 01:32:28 +0000 2020
-    [favourites_count] => 1496
+    [favourites_count] => 1498
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
