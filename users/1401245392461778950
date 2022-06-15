@@ -7,7 +7,7 @@ stdClass Object
     [location] => Azeroth
     [url] => 
     [description] => Mary 🐦|| I do art sometimes ||💙🦁❤️|| Certified Rommath simp V2🍅 ||
-    [protected] => 
+    [protected] => 1
     [followers_count] => 177
     [friends_count] => 703
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1136
+    [statuses_count] => 1137
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
