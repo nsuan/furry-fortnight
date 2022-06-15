@@ -10,10 +10,10 @@ stdClass Object
 banner: @azorea
     [protected] => 
     [followers_count] => 4511
-    [friends_count] => 1033
+    [friends_count] => 1019
     [listed_count] => 66
     [created_at] => Sun Aug 17 02:36:14 +0000 2014
-    [favourites_count] => 21162
+    [favourites_count] => 21163
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
