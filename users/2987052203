@@ -10,7 +10,7 @@ stdClass Object
 pfp by @ZenjakaA
     [protected] => 
     [followers_count] => 102
-    [friends_count] => 743
+    [friends_count] => 744
     [listed_count] => 1
     [created_at] => Tue Jan 20 09:36:59 +0000 2015
     [favourites_count] => 994
@@ -18,7 +18,7 @@ pfp by @ZenjakaA
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 933
+    [statuses_count] => 934
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
