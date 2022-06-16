@@ -12,16 +12,16 @@ stdClass Object
 
 h: @rosa_sketch
     [protected] => 
-    [followers_count] => 215
+    [followers_count] => 216
     [friends_count] => 275
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 13362
+    [favourites_count] => 13363
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 38789
+    [statuses_count] => 38790
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
