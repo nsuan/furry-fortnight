@@ -2,8 +2,8 @@ stdClass Object
 (
     [id] => 1073299096897761280
     [id_str] => 1073299096897761280
-    [name] => демьян 🌱
-    [screen_name] => jsimpeternal
+    [name] => демьян
+    [screen_name] => crims0ncloud
     [location] => he/him ✧ рус/eng
     [url] => 
     [description] => 19 ✧ мы – лёд под ногами майора
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 416
     [listed_count] => 3
     [created_at] => Thu Dec 13 19:30:20 +0000 2018
-    [favourites_count] => 35853
+    [favourites_count] => 35854
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1531942303727702017/JlEg1OkK_normal.png
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1531942303727702017/JlEg1OkK_normal.png
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1073299096897761280/1649542226
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1537531163228745729/zeDoG1Dg_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1537531163228745729/zeDoG1Dg_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1073299096897761280/1655410971
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
