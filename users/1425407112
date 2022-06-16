@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1425407112
     [id_str] => 1425407112
-    [name] => 🎄Elwinne Greenleaf🎄
+    [name] => Elwinne Greenleaf
     [screen_name] => elwinnegleaf
     [location] => canada
     [url] => http://www.patreon.com/elwinne
@@ -13,12 +13,12 @@ Discord http://discord.gg/Yh57X9P
     [friends_count] => 1609
     [listed_count] => 3
     [created_at] => Mon May 13 12:43:14 +0000 2013
-    [favourites_count] => 10943
+    [favourites_count] => 10949
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5695
+    [statuses_count] => 5701
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
