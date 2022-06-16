@@ -9,7 +9,7 @@ stdClass Object
     [description] => 18+ account
 I am 33 years old
     [protected] => 
-    [followers_count] => 156
+    [followers_count] => 157
     [friends_count] => 2676
     [listed_count] => 1
     [created_at] => Tue Feb 19 14:50:01 +0000 2019
@@ -18,7 +18,7 @@ I am 33 years old
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 18751
+    [statuses_count] => 18749
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
