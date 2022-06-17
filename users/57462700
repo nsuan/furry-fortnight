@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 57462700
     [id_str] => 57462700
-    [name] => 203Y (COMMS OPEN 0/5 SLOTS)
+    [name] => 203Y (COMMS CLOSED)
     [screen_name] => Zoey_Jo
     [location] => AZ, USA
     [url] => http://203y.tumblr.com/
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 320
     [listed_count] => 0
     [created_at] => Thu Jul 16 22:11:37 +0000 2009
-    [favourites_count] => 6921
+    [favourites_count] => 6922
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
