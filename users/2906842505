@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2906842505
     [id_str] => 2906842505
-    [name] => AlliCat
+    [name] => AlliCat 🏳️‍🌈
     [screen_name] => the_alli_cat
     [location] => Maryland, USA
     [url] => https://twitch.tv/allicat214
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 376
     [listed_count] => 25
     [created_at] => Fri Dec 05 20:53:52 +0000 2014
-    [favourites_count] => 33092
+    [favourites_count] => 33098
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 10435
+    [statuses_count] => 10436
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1535721339952275456/lXOz9nNw_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1535721339952275456/lXOz9nNw_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1537949476760891395/_Esi6a04_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1537949476760891395/_Esi6a04_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/2906842505/1652970947
     [profile_link_color] => 91D2FA
     [profile_sidebar_border_color] => 000000
