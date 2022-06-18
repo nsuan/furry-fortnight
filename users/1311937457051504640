@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1311937457051504640
     [id_str] => 1311937457051504640
-    [name] => raccoon eunthusiast
+    [name] => raccoon enthusiast
     [screen_name] => raidenkat
     [location] => she/they
     [url] => https://llttlesunshine.carrd.co
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 871
     [listed_count] => 0
     [created_at] => Fri Oct 02 07:54:06 +0000 2020
-    [favourites_count] => 11288
+    [favourites_count] => 11293
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7572
+    [statuses_count] => 7574
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
