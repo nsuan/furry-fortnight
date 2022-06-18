@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 1265259601349545985
     [name] => Norphy
     [screen_name] => vaterplanke
-    [location] => fell of wie lukas
+    [location] => 
     [url] => 
     [description] => 🕊 | they/them
     [protected] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 819
     [listed_count] => 2
     [created_at] => Tue May 26 12:33:09 +0000 2020
-    [favourites_count] => 31625
+    [favourites_count] => 31651
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 9844
+    [statuses_count] => 9847
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
