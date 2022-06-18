@@ -10,16 +10,16 @@ stdClass Object
 
 Please leave me to my evil works if you're under 18.
     [protected] => 
-    [followers_count] => 200
+    [followers_count] => 201
     [friends_count] => 1258
     [listed_count] => 2
     [created_at] => Mon Aug 18 01:26:50 +0000 2014
-    [favourites_count] => 47232
+    [favourites_count] => 47236
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1904
+    [statuses_count] => 1905
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
