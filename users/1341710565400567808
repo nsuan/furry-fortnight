@@ -10,10 +10,10 @@ stdClass Object
 Для сбора контента, чтобы не забивать фид основе
     [protected] => 
     [followers_count] => 11
-    [friends_count] => 1371
+    [friends_count] => 1374
     [listed_count] => 0
     [created_at] => Wed Dec 23 11:41:53 +0000 2020
-    [favourites_count] => 1221
+    [favourites_count] => 1224
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
