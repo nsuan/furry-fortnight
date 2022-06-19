@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 816371030302359553
     [id_str] => 816371030302359553
-    [name] => Corvus
+    [name] => Corvus 🐦
     [screen_name] => corvusyn
     [location] => New Jersey, USA
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 32843
+    [statuses_count] => 32844
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
