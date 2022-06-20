@@ -13,15 +13,15 @@ stdClass Object
 @Mermaylove
     [protected] => 
     [followers_count] => 760
-    [friends_count] => 889
+    [friends_count] => 890
     [listed_count] => 0
     [created_at] => Sat Jan 22 12:02:27 +0000 2022
-    [favourites_count] => 9476
+    [favourites_count] => 9477
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10739
+    [statuses_count] => 10740
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,8 +30,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1538990941595484163/5ws8N1Yf_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1538990941595484163/5ws8N1Yf_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1539004940210819075/u2YVN-Wl_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1539004940210819075/u2YVN-Wl_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1484858932665405446/1655748021
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
