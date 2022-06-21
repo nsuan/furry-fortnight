@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 845381245626449920
     [id_str] => 845381245626449920
-    [name] => prideful zelris
+    [name] => erryn
     [screen_name] => ObviouslyZelris
     [location] => 
     [url] => https://youtube.com/zelris
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 293
     [listed_count] => 8
     [created_at] => Fri Mar 24 21:06:10 +0000 2017
-    [favourites_count] => 7474
+    [favourites_count] => 7478
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 4283
+    [statuses_count] => 4285
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
