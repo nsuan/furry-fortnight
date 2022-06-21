@@ -10,8 +10,8 @@ stdClass Object
 nsfw acc: @CloudedLemonade
     [protected] => 
     [followers_count] => 85
-    [friends_count] => 386
-    [listed_count] => 1
+    [friends_count] => 385
+    [listed_count] => 0
     [created_at] => Wed Jan 29 20:50:02 +0000 2014
     [favourites_count] => 22160
     [utc_offset] => 
