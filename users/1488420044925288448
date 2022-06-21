@@ -8,9 +8,9 @@ stdClass Object
     [url] => 
     [description] => Sommelier & Gamer, when I have the chance.
 All thoughts are my own.
-    [protected] => 
+    [protected] => 1
     [followers_count] => 67
-    [friends_count] => 1315
+    [friends_count] => 1302
     [listed_count] => 0
     [created_at] => Tue Feb 01 07:53:15 +0000 2022
     [favourites_count] => 247
