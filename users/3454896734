@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3454896734
     [id_str] => 3454896734
-    [name] => isu@commission close
+    [name] => isu@commission open (1/2)
     [screen_name] => Voidforager
     [location] => Lucid Dream
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 290
     [listed_count] => 0
     [created_at] => Sat Sep 05 03:12:57 +0000 2015
-    [favourites_count] => 6337
+    [favourites_count] => 6338
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3021
+    [statuses_count] => 3025
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
