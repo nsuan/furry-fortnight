@@ -2,11 +2,13 @@ stdClass Object
 (
     [id] => 1432773021404651536
     [id_str] => 1432773021404651536
-    [name] => The True Loa of Simps 👾🌿
+    [name] => Goji is on hiatus. 👾🌿
     [screen_name] => GoodBoiGoji
     [location] => 
     [url] => 
-    [description] => 
+    [description] => Hit me on discord if you need/want me.
+
+Goji#1146
     [protected] => 
     [followers_count] => 93
     [friends_count] => 509
@@ -17,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7184
+    [statuses_count] => 7185
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
