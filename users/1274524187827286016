@@ -12,10 +12,10 @@ stdClass Object
 - Animator
     [protected] => 
     [followers_count] => 730
-    [friends_count] => 5002
+    [friends_count] => 5003
     [listed_count] => 3
     [created_at] => Sun Jun 21 02:07:25 +0000 2020
-    [favourites_count] => 21122
+    [favourites_count] => 21118
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
