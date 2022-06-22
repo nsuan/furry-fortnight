@@ -9,7 +9,7 @@ stdClass Object
     [description] => My other account has been permanently suspended for stating that @randpaul is a Russian agent (he is). Family fosters kittens
     [protected] => 
     [followers_count] => 215
-    [friends_count] => 4016
+    [friends_count] => 4017
     [listed_count] => 0
     [created_at] => Wed Jul 01 21:20:51 +0000 2020
     [favourites_count] => 347
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 268
+    [statuses_count] => 269
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
