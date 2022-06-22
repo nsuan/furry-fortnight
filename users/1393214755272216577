@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1393214755272216577
     [id_str] => 1393214755272216577
-    [name] => Mr metal balls
+    [name] => Mr metal balls 🏳️‍🌈🏳️‍⚧️
     [screen_name] => KalebCr0ss
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 74
     [listed_count] => 0
     [created_at] => Fri May 14 14:41:13 +0000 2021
-    [favourites_count] => 1689
+    [favourites_count] => 1690
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 80
+    [statuses_count] => 81
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1505043316814974976/kBfeaodV_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1505043316814974976/kBfeaodV_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1539620128509153280/40VkfVaj_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1539620128509153280/40VkfVaj_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1393214755272216577/1648746150
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
