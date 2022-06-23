@@ -15,7 +15,7 @@ stdClass Object
 ✧ NSFW/18+
     [protected] => 
     [followers_count] => 185
-    [friends_count] => 676
+    [friends_count] => 677
     [listed_count] => 0
     [created_at] => Mon Dec 03 23:32:36 +0000 2018
     [favourites_count] => 19341
@@ -23,7 +23,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20604
+    [statuses_count] => 20610
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
