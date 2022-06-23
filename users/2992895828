@@ -13,14 +13,14 @@ ACE
     [protected] => 
     [followers_count] => 715
     [friends_count] => 4666
-    [listed_count] => 0
+    [listed_count] => 9
     [created_at] => Fri Jan 23 04:21:48 +0000 2015
-    [favourites_count] => 282643
+    [favourites_count] => 282665
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 42635
+    [statuses_count] => 42639
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
