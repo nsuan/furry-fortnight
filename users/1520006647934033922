@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => 🏳️‍🌈
     [protected] => 
-    [followers_count] => 559
-    [friends_count] => 2459
+    [followers_count] => 560
+    [friends_count] => 2460
     [listed_count] => 2
     [created_at] => Fri Apr 29 11:46:48 +0000 2022
     [favourites_count] => 17396
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 31267
+    [statuses_count] => 31266
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
