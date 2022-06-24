@@ -10,15 +10,15 @@ stdClass Object
 contact: dstrir@gmail.com
     [protected] => 
     [followers_count] => 42125
-    [friends_count] => 605
+    [friends_count] => 606
     [listed_count] => 270
     [created_at] => Tue Aug 09 17:38:14 +0000 2016
-    [favourites_count] => 22162
+    [favourites_count] => 22167
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6563
+    [statuses_count] => 6564
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
