@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => Estudiante de la UNET y de la UNA, me gustan las peliculas de todo genero y las series de tv, asi como la musica y juegos de Consola.
     [protected] => 
-    [followers_count] => 285
-    [friends_count] => 5008
+    [followers_count] => 284
+    [friends_count] => 5007
     [listed_count] => 0
     [created_at] => Fri Feb 27 20:51:28 +0000 2015
     [favourites_count] => 150034
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 37985
+    [statuses_count] => 37983
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
