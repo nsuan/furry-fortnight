@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 750094608827346944
     [id_str] => 750094608827346944
-    [name] => 🍄 Nordenheim 🍄 is LIVE! 🔴
+    [name] => 🍄 Nordenheim 🍄
     [screen_name] => Nordenheim1
     [location] => The Wandering Woods
     [url] => https://linktr.ee/Nordenheim
@@ -18,7 +18,7 @@ For business enquiries email me at: creator@nordenheim.co.uk
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2448
+    [statuses_count] => 2449
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
