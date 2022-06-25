@@ -10,16 +10,16 @@ stdClass Object
 
 Lvl26, mtf, plural, pancakes
     [protected] => 
-    [followers_count] => 171
+    [followers_count] => 170
     [friends_count] => 1224
     [listed_count] => 0
     [created_at] => Sun Nov 25 20:55:43 +0000 2018
-    [favourites_count] => 32756
+    [favourites_count] => 32769
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13576
+    [statuses_count] => 13578
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
