@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1452338669860241408
     [id_str] => 1452338669860241408
-    [name] => Amigras @ Kamurocho
+    [name] => Amigras Messerschmidt
     [screen_name] => EorzeaSchmidt
     [location] => Sophia, Materia
     [url] => 
@@ -22,12 +22,12 @@ banner: @dadafell
     [friends_count] => 2407
     [listed_count] => 3
     [created_at] => Sun Oct 24 18:18:27 +0000 2021
-    [favourites_count] => 13539
+    [favourites_count] => 13543
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5636
+    [statuses_count] => 5637
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
