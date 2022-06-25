@@ -11,10 +11,10 @@ stdClass Object
 http://twitch.tv/toastythunder
     [protected] => 
     [followers_count] => 135
-    [friends_count] => 923
+    [friends_count] => 925
     [listed_count] => 5
     [created_at] => Thu Apr 14 00:27:44 +0000 2011
-    [favourites_count] => 34576
+    [favourites_count] => 34580
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
