@@ -9,7 +9,7 @@ stdClass Object
     [description] => a Bird IRL
     [protected] => 
     [followers_count] => 58
-    [friends_count] => 512
+    [friends_count] => 513
     [listed_count] => 1
     [created_at] => Wed Dec 05 14:16:12 +0000 2012
     [favourites_count] => 618
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2341
+    [statuses_count] => 2346
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
