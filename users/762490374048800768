@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 762490374048800768
     [id_str] => 762490374048800768
-    [name] => Affogato/Java 🔜 Anthrohio
+    [name] => Affogato/Java
     [screen_name] => ToastieCoffee
     [location] => Ohio, USA
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1714
     [listed_count] => 0
     [created_at] => Mon Aug 08 03:27:26 +0000 2016
-    [favourites_count] => 25653
+    [favourites_count] => 25654
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4963
+    [statuses_count] => 4964
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
