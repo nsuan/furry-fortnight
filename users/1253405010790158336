@@ -14,7 +14,7 @@ stdClass Object
 - gender critical transgender guy
     [protected] => 
     [followers_count] => 13
-    [friends_count] => 1246
+    [friends_count] => 1251
     [listed_count] => 1
     [created_at] => Thu Apr 23 19:27:03 +0000 2020
     [favourites_count] => 2721
@@ -22,7 +22,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3793
+    [statuses_count] => 3813
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
