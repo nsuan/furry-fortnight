@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1432773021404651536
     [id_str] => 1432773021404651536
-    [name] => Goji is on hiatus. 👾🌿
+    [name] => Goji is not depressed. 👾🌿
     [screen_name] => GoodBoiGoji
     [location] => 
     [url] => 
@@ -14,12 +14,12 @@ Goji#1146
     [friends_count] => 509
     [listed_count] => 1
     [created_at] => Tue Aug 31 18:31:29 +0000 2021
-    [favourites_count] => 32022
+    [favourites_count] => 32038
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7228
+    [statuses_count] => 7233
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,8 +28,8 @@ Goji#1146
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1527500362290184193/mLA3UW-R_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1527500362290184193/mLA3UW-R_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1541397415135264768/gIgGDKeV_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1541397415135264768/gIgGDKeV_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1432773021404651536/1644094958
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
