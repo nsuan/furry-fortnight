@@ -11,7 +11,7 @@ stdClass Object
 ☆ Pfp by me
     [protected] => 
     [followers_count] => 364
-    [friends_count] => 937
+    [friends_count] => 938
     [listed_count] => 4
     [created_at] => Wed Oct 19 22:15:24 +0000 2016
     [favourites_count] => 112292
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 55171
+    [statuses_count] => 55170
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
