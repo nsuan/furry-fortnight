@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1246501692734136325
     [id_str] => 1246501692734136325
-    [name] => garibalda mata bebes
+    [name] => garibalda abortera
     [screen_name] => vinhodomato
     [location] => 🇧🇷
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4992
     [listed_count] => 1
     [created_at] => Sat Apr 04 18:15:47 +0000 2020
-    [favourites_count] => 146928
+    [favourites_count] => 146931
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 68898
+    [statuses_count] => 68901
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
