@@ -1,25 +1,23 @@
 stdClass Object
 (
-    [id] => 1369789910702567428
-    [id_str] => 1369789910702567428
-    [name] => Mao 🦝
-    [screen_name] => MaoMakes
-    [location] => Argent Dawn - EU
+    [id] => 1302171190782427144
+    [id_str] => 1302171190782427144
+    [name] => Heng Kit Lee
+    [screen_name] => HengKitLee1
+    [location] => Malaysia
     [url] => 
-    [description] => 🏳️‍🌈 Mao 🇬🇧 -  26  -  She/They/He (Genderfluid)
-** 🔞 Sometimes NSFW!!!**
-Profile Art by @Kiyoshuki - Header by 💖 @MonsoonTick 💖
+    [description] => 
     [protected] => 
-    [followers_count] => 316
-    [friends_count] => 984
-    [listed_count] => 1
-    [created_at] => Wed Mar 10 23:19:06 +0000 2021
-    [favourites_count] => 28627
+    [followers_count] => 3
+    [friends_count] => 291
+    [listed_count] => 0
+    [created_at] => Sat Sep 05 09:06:43 +0000 2020
+    [favourites_count] => 2
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3591
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +26,9 @@ Profile Art by @Kiyoshuki - Header by 💖 @MonsoonTick 💖
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1487617279890186241/0meAkxv6_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1487617279890186241/0meAkxv6_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1369789910702567428/1631385625
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1502128096761180167/5XgCThF3_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1502128096761180167/5XgCThF3_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1302171190782427144/1646970247
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6

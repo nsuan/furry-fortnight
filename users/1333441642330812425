@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1333441642330812425
     [id_str] => 1333441642330812425
-    [name] => Trolldaeron COMMISSIONS CLOSED
+    [name] => Trolldaeron
     [screen_name] => Trolldaeronart
     [location] => 
     [url] => https://linktr.ee/Trolldaeron
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1815
     [listed_count] => 3
     [created_at] => Mon Nov 30 16:04:55 +0000 2020
-    [favourites_count] => 32845
+    [favourites_count] => 32848
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8559
+    [statuses_count] => 8561
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
