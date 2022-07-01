@@ -11,15 +11,15 @@ stdClass Object
 pfp @artbymiras
     [protected] => 
     [followers_count] => 451
-    [friends_count] => 3609
+    [friends_count] => 3610
     [listed_count] => 4
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
-    [favourites_count] => 12552
+    [favourites_count] => 12556
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3486
+    [statuses_count] => 3488
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
