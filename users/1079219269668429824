@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1079219269668429824
     [id_str] => 1079219269668429824
-    [name] => Captain Emi 🎮
+    [name] => Emi 🎮
     [screen_name] => gamergirlemi
     [location] => Tampa, FL
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1651
     [listed_count] => 0
     [created_at] => Sun Dec 30 03:34:59 +0000 2018
-    [favourites_count] => 53128
+    [favourites_count] => 53130
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4937
+    [statuses_count] => 4940
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
