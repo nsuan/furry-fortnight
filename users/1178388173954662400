@@ -11,7 +11,7 @@ stdClass Object
 pfp @/sauntproof
     [protected] => 
     [followers_count] => 451
-    [friends_count] => 3622
+    [friends_count] => 3623
     [listed_count] => 4
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
     [favourites_count] => 12595
@@ -19,7 +19,7 @@ pfp @/sauntproof
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3496
+    [statuses_count] => 3497
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
