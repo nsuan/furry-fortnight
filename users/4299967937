@@ -14,16 +14,16 @@ stdClass Object
 I: fusspot
 b: yec_yourz
     [protected] => 
-    [followers_count] => 2650
+    [followers_count] => 2651
     [friends_count] => 2227
     [listed_count] => 4
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
-    [favourites_count] => 125962
+    [favourites_count] => 125965
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3166
+    [statuses_count] => 3167
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
