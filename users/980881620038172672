@@ -4,9 +4,9 @@ stdClass Object
     [id_str] => 980881620038172672
     [name] => Rembourrage
     [screen_name] => RembourrageX
-    [location] => Henderson, NV
+    [location] => 
     [url] => http://plushyontheweb.tumblr.com/
-    [description] => John| 22 yo |autistic | pan | mixed | artist, hobby storyboarder
+    [description] => John| 23 | mixed | artist| hobby storyboarder
     [protected] => 
     [followers_count] => 146
     [friends_count] => 1665
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 26693
+    [statuses_count] => 26695
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
