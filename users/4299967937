@@ -15,15 +15,15 @@ I: fusspot
 b: yec_yourz
     [protected] => 
     [followers_count] => 2652
-    [friends_count] => 2229
+    [friends_count] => 2227
     [listed_count] => 4
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
-    [favourites_count] => 126042
+    [favourites_count] => 126048
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3176
+    [statuses_count] => 3178
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
