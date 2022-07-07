@@ -13,15 +13,15 @@ stdClass Object
        'So you wanna talk about power?'
     [protected] => 
     [followers_count] => 240
-    [friends_count] => 5001
+    [friends_count] => 5000
     [listed_count] => 0
     [created_at] => Tue Jan 17 21:04:03 +0000 2017
-    [favourites_count] => 26955
+    [favourites_count] => 26957
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7669
+    [statuses_count] => 7670
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
