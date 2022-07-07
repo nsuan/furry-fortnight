@@ -8,8 +8,8 @@ stdClass Object
     [url] => http://warewolf.github.io
     [description] => @Netography / ex @cisco @talossecurity / Tweets are my own opinion.  Do you really trust everything you read on the internet?
     [protected] => 
-    [followers_count] => 2261
-    [friends_count] => 1182
+    [followers_count] => 2260
+    [friends_count] => 1181
     [listed_count] => 97
     [created_at] => Tue Oct 20 17:27:43 +0000 2009
     [favourites_count] => 7228
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12275
+    [statuses_count] => 12276
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
