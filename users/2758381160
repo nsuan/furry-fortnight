@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2758381160
     [id_str] => 2758381160
-    [name] => Cinder
+    [name] => Ella (they/them)
     [screen_name] => cinderspooks
     [location] => 
     [url] => https://shanivee.carrd.co/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4791
     [listed_count] => 6
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
-    [favourites_count] => 43247
+    [favourites_count] => 43248
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 59282
+    [statuses_count] => 59283
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1538229809729490945/YP0CM-mU_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1538229809729490945/YP0CM-mU_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/2758381160/1655577539
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1544961529614827522/JFolV6kk_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1544961529614827522/JFolV6kk_normal.jpg
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
