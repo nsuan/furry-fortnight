@@ -14,15 +14,15 @@ stdClass Object
 http://tsurumyaru.carrd.co
     [protected] => 
     [followers_count] => 263
-    [friends_count] => 239
+    [friends_count] => 240
     [listed_count] => 4
     [created_at] => Tue Jan 30 02:22:26 +0000 2018
-    [favourites_count] => 22477
+    [favourites_count] => 22480
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 45368
+    [statuses_count] => 45373
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
