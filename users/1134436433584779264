@@ -10,15 +10,15 @@ stdClass Object
 欢迎聊天~
     [protected] => 
     [followers_count] => 1557
-    [friends_count] => 5000
+    [friends_count] => 4995
     [listed_count] => 33
     [created_at] => Fri May 31 12:28:17 +0000 2019
-    [favourites_count] => 15599
+    [favourites_count] => 15601
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 8700
+    [statuses_count] => 8702
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
