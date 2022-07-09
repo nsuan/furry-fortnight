@@ -10,8 +10,8 @@ stdClass Object
 http://Youtube.com/iSinGaming
 http://twitch.tv/iSinGaming
     [protected] => 
-    [followers_count] => 14900
-    [friends_count] => 16394
+    [followers_count] => 14899
+    [friends_count] => 16393
     [listed_count] => 98
     [created_at] => Sun Nov 16 17:51:45 +0000 2014
     [favourites_count] => 36609
@@ -19,7 +19,7 @@ http://twitch.tv/iSinGaming
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 41549
+    [statuses_count] => 41550
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
