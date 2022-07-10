@@ -12,7 +12,7 @@ stdClass Object
 #IStandWithVic
     [protected] => 
     [followers_count] => 622
-    [friends_count] => 4967
+    [friends_count] => 4966
     [listed_count] => 9
     [created_at] => Thu Oct 01 00:20:23 +0000 2020
     [favourites_count] => 27285
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 37278
+    [statuses_count] => 37280
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
