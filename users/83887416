@@ -7,7 +7,7 @@ stdClass Object
     [location] => Fairfax, VA
     [url] => http://warewolf.github.io
     [description] => @Netography / ex @cisco @talossecurity / Tweets are my own opinion.  Do you really trust everything you read on the internet?
-    [protected] => 
+    [protected] => 1
     [followers_count] => 2260
     [friends_count] => 1181
     [listed_count] => 96
