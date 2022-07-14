@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => born 1995
     [protected] => 
-    [followers_count] => 6
+    [followers_count] => 7
     [friends_count] => 1925
     [listed_count] => 0
     [created_at] => Tue Jan 28 17:24:36 +0000 2014
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20838
+    [statuses_count] => 20847
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
