@@ -14,7 +14,7 @@ stdClass Object
 I: fusspot
 b: yec_yourz
     [protected] => 
-    [followers_count] => 2691
+    [followers_count] => 2692
     [friends_count] => 2248
     [listed_count] => 4
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
@@ -23,7 +23,7 @@ b: yec_yourz
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3354
+    [statuses_count] => 3352
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
