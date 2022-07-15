@@ -1,25 +1,23 @@
 stdClass Object
 (
-    [id] => 826982179204915200
-    [id_str] => 826982179204915200
-    [name] => SmartDissent.com
-    [screen_name] => smartdissent
-    [location] => America
-    [url] => http://www.smartdissent.com
-    [description] => Be Smart. Stay Informed. Actively Dissent. Database sorted by topic: http://smartdissent.com #SmartDissent
-
-PRO VACCINE & DEMOCRACY. ANTI STUPIDITY & FASCISM.
+    [id] => 717195089726996481
+    [id_str] => 717195089726996481
+    [name] => Kahnopris🌱
+    [screen_name] => KahnoPris
+    [location] => 경기쪽
+    [url] => 
+    [description] => INFJ 광초룡 겜잡덕 용덕후 사무직 ! 사담계 @kahnopris11 뒷계 @kahnopris1111 헤더 @_MungKim (뒷계 취향계신청은 DM 주세요!)
     [protected] => 
-    [followers_count] => 58377
-    [friends_count] => 51660
-    [listed_count] => 187
-    [created_at] => Thu Feb 02 02:34:50 +0000 2017
-    [favourites_count] => 32716
+    [followers_count] => 3142
+    [friends_count] => 2348
+    [listed_count] => 31
+    [created_at] => Tue Apr 05 03:40:09 +0000 2016
+    [favourites_count] => 157731
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 309728
+    [statuses_count] => 112211
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,10 +26,10 @@ PRO VACCINE & DEMOCRACY. ANTI STUPIDITY & FASCISM.
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/855424935564640256/NZgt6MHq_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/855424935564640256/NZgt6MHq_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/826982179204915200/1492784212
-    [profile_link_color] => 25408F
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1532896725140402178/sB0KSuQi_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1532896725140402178/sB0KSuQi_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/717195089726996481/1650767632
+    [profile_link_color] => 6B8E23
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
