@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1368165527894384640
-    [id_str] => 1368165527894384640
-    [name] => XENIZAT
-    [screen_name] => XENIZAT1
-    [location] => wondering that myself
+    [id] => 1513044543628881923
+    [id_str] => 1513044543628881923
+    [name] => Gabriel Sam
+    [screen_name] => Gabriel52309385
+    [location] => 
     [url] => 
-    [description] => Dnd player, Science nerd, Bibliophile
+    [description] => 
     [protected] => 
-    [followers_count] => 55
-    [friends_count] => 5000
+    [followers_count] => 23
+    [friends_count] => 542
     [listed_count] => 0
-    [created_at] => Sat Mar 06 11:44:47 +0000 2021
-    [favourites_count] => 16230
+    [created_at] => Sun Apr 10 06:42:04 +0000 2022
+    [favourites_count] => 750
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10326
+    [statuses_count] => 203
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1368167208199786503/vqcgakmD_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1368167208199786503/vqcgakmD_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1513044628966105089/qvkaluhB_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1513044628966105089/qvkaluhB_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
