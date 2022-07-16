@@ -11,10 +11,10 @@ stdClass Object
 header@/Itz-Sparkz
     [protected] => 
     [followers_count] => 456
-    [friends_count] => 3672
+    [friends_count] => 3674
     [listed_count] => 4
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
-    [favourites_count] => 12779
+    [favourites_count] => 12785
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
