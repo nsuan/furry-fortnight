@@ -9,7 +9,7 @@ stdClass Object
     [description] => 밝게 웃으며 즐겁게! 착하게! 삽시다!
     [protected] => 
     [followers_count] => 100
-    [friends_count] => 1364
+    [friends_count] => 1363
     [listed_count] => 1
     [created_at] => Wed Oct 27 03:07:10 +0000 2021
     [favourites_count] => 3214
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 429
+    [statuses_count] => 430
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
