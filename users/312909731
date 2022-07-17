@@ -4,11 +4,10 @@ stdClass Object
     [id_str] => 312909731
     [name] => László
     [screen_name] => danieliszl
-    [location] => Somewhere over the rainbow
+    [location] => Somewhere, over the rainbow
     [url] => http://blog.danielisz.org
     [description] => Keep things simple. 
 Stay away from ticks 💚
-🇷🇴🇭🇺🇺🇸
     [protected] => 
     [followers_count] => 154
     [friends_count] => 275
@@ -19,7 +18,7 @@ Stay away from ticks 💚
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 2119
+    [statuses_count] => 2120
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
