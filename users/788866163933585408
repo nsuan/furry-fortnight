@@ -4,20 +4,22 @@ stdClass Object
     [id_str] => 788866163933585408
     [name] => Ani 💗
     [screen_name] => anistrasza
-    [location] => 
+    [location] => They/Them  ~ Non-binary ~ 18
     [url] => 
-    [description] => 
+    [description] => League, VHS, Stardew Valley, DbD
+
+Just here 💞
     [protected] => 
-    [followers_count] => 377
-    [friends_count] => 958
-    [listed_count] => 4
+    [followers_count] => 0
+    [friends_count] => 0
+    [listed_count] => 0
     [created_at] => Wed Oct 19 22:15:24 +0000 2016
-    [favourites_count] => 0
+    [favourites_count] => 3
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 56023
+    [statuses_count] => 56027
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +28,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
-    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1549067618727985153/szsys7FA_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1549067618727985153/szsys7FA_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/788866163933585408/1658161503
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -35,7 +38,7 @@ stdClass Object
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 1
+    [default_profile_image] => 
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
