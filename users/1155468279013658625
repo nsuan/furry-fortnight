@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 992165499910815744
-    [id_str] => 992165499910815744
-    [name] => 𝔊𝔥𝔬𝔲𝔩 🦇
-    [screen_name] => GarbageKittn
+    [id] => 1155468279013658625
+    [id_str] => 1155468279013658625
+    [name] => DOKI
+    [screen_name] => dokino_
     [location] => 
-    [url] => 
-    [description] => she/they/he/it 🦇 nonbinary goth weirdo 🦇 28 🦇 ADHD gremlin 🦇 I screech into the void 🦇 pfp by Tamath0tchi🦇 banner by @idaida_art
+    [url] => https://linktr.ee/zev_
+    [description] => Doki/Zev : they/them :  en/pl
+art sometimes, I eat rocks
+http://artfight.net/~DupaBiskupa
     [protected] => 
-    [followers_count] => 326
-    [friends_count] => 2462
-    [listed_count] => 1
-    [created_at] => Thu May 03 22:14:23 +0000 2018
-    [favourites_count] => 8929
+    [followers_count] => 839
+    [friends_count] => 1638
+    [listed_count] => 6
+    [created_at] => Sun Jul 28 13:21:20 +0000 2019
+    [favourites_count] => 5563
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4425
+    [statuses_count] => 1516
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,15 +28,15 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1548631746995953664/rF1AWxgc_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1548631746995953664/rF1AWxgc_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/992165499910815744/1656720027
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1547650434541555714/crz8KzjR_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1547650434541555714/crz8KzjR_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1155468279013658625/1654098671
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 1
+    [has_extended_profile] => 
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
