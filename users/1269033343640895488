@@ -1,25 +1,23 @@
 stdClass Object
 (
-    [id] => 1484858932665405446
-    [id_str] => 1484858932665405446
-    [name] => Nadd (≧◡≦)🐈‍⬛ @Dragonflight
-    [screen_name] => EastBlueMermaid
-    [location] => Elantris
-    [url] => 
-    [description] => Nady • art, wip & ramblings~ | I like Gojo too 💞∠( ᐛ 」∠)＿ 
-|30↑|🔞|🍁☀🐳 | FFXIV & WoW~
-@KumoNoSugaki
+    [id] => 1269033343640895488
+    [id_str] => 1269033343640895488
+    [name] => Hawth! 🌌
+    [screen_name] => _CursedFlame
+    [location] => the fuckin underworld
+    [url] => https://inkshriek.github.io/portfolio/
+    [description] => The shadows twist and turn. 🎃 | he/they | 🇪🇸🏳️‍🌈 | BLM | Vibing with @_DarkPassage! | Icon by @gogmazios!
     [protected] => 
-    [followers_count] => 766
-    [friends_count] => 899
+    [followers_count] => 31
+    [friends_count] => 199
     [listed_count] => 0
-    [created_at] => Sat Jan 22 12:02:27 +0000 2022
-    [favourites_count] => 10277
+    [created_at] => Fri Jun 05 22:29:04 +0000 2020
+    [favourites_count] => 5360
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11809
+    [statuses_count] => 2974
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1548990566670782465/_gBwKzFY_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1548990566670782465/_gBwKzFY_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1484858932665405446/1657050906
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1451255055353589766/KIns8JWE_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1451255055353589766/KIns8JWE_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1269033343640895488/1634841317
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
