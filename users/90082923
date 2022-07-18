@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 90082923
+    [id_str] => 90082923
+    [name] => Christopher Bair
+    [screen_name] => iwriteforme
+    [location] => Austin, TX, so far
+    [url] => http://www.christopherbair.com/
+    [description] => Author of the Mariko Takashi light novel series and "Talons", now available as an audiobook. https://www.audible.com/pd/B07XL67FD1/?source_code=AUDFPWS0223189MW
+    [protected] => 
+    [followers_count] => 716
+    [friends_count] => 152
+    [listed_count] => 18
+    [created_at] => Sun Nov 15 03:15:05 +0000 2009
+    [favourites_count] => 109
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 45905
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 1A1B1F
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme9/bg.gif
+    [profile_background_tile] => 
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1104273664847929345/rhSal8hF_normal.png
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1104273664847929345/rhSal8hF_normal.png
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/90082923/1552114697
+    [profile_link_color] => 5F3971
+    [profile_sidebar_border_color] => 001600
+    [profile_sidebar_fill_color] => 083308
+    [profile_text_color] => 999999
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)
