@@ -6,10 +6,10 @@ stdClass Object
     [screen_name] => celestial_ram
     [location] => 
     [url] => 
-    [description] => Aries / He/Him / 25 / a dump for my dnd character art. Sometimes NSFW.
+    [description] => Aries / He/Him / 25 / a dump for my dnd character art.
     [protected] => 
     [followers_count] => 57
-    [friends_count] => 857
+    [friends_count] => 856
     [listed_count] => 1
     [created_at] => Tue Dec 04 04:48:25 +0000 2018
     [favourites_count] => 1580
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 131
+    [statuses_count] => 129
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
