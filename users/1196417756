@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1196417756
     [id_str] => 1196417756
-    [name] => 🏳️‍⚧️🌈ascian raptor🌈🏳️‍⚧️ | crying on the moon
+    [name] => 🏳️‍⚧️🌈ascian raptor🌈🏳️‍⚧️
     [screen_name] => Eitherys
     [location] => Denver, CO
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11433
+    [statuses_count] => 11434
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
