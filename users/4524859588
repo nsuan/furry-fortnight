@@ -10,16 +10,16 @@ stdClass Object
 
 Art Account; @chunkypandah
     [protected] => 
-    [followers_count] => 23
+    [followers_count] => 24
     [friends_count] => 1372
     [listed_count] => 0
     [created_at] => Fri Dec 18 12:57:51 +0000 2015
-    [favourites_count] => 14705
+    [favourites_count] => 14711
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7094
+    [statuses_count] => 7095
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
