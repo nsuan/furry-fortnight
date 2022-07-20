@@ -11,15 +11,15 @@ stdClass Object
 • Personal acct: @Mintfyre
     [protected] => 
     [followers_count] => 42
-    [friends_count] => 447
+    [friends_count] => 448
     [listed_count] => 0
     [created_at] => Fri Apr 22 15:50:56 +0000 2011
-    [favourites_count] => 3172
+    [favourites_count] => 3176
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 760
+    [statuses_count] => 761
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
