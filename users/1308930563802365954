@@ -14,7 +14,7 @@ stdClass Object
 - Taken 💖
     [protected] => 
     [followers_count] => 48
-    [friends_count] => 2599
+    [friends_count] => 2600
     [listed_count] => 0
     [created_at] => Thu Sep 24 00:46:06 +0000 2020
     [favourites_count] => 3178
@@ -22,7 +22,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1016
+    [statuses_count] => 1018
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
