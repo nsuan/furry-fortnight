@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => I'm a huge nerd that draws sometimes. Approaching my 30th year
-    [protected] => 
+    [protected] => 1
     [followers_count] => 2246
     [friends_count] => 1012
     [listed_count] => 4
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 26239
+    [statuses_count] => 26240
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
