@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1262903545403244550
     [id_str] => 1262903545403244550
-    [name] => Kawaī KoneKo ♡
+    [name] => 
     [screen_name] => AkatskDeku
-    [location] => São Paulo, Brasil
+    [location] => 
     [url] => 
-    [description] => salve
+    [description] => @AkatskDeku's account is temporarily unavailable because it violates the Twitter Media Policy. Learn more.
     [protected] => 
     [followers_count] => 24
     [friends_count] => 1670
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1549559467154481153/FNxIwvgm_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1549559467154481153/FNxIwvgm_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1262903545403244550/1658501091
+    [profile_image_url] => 
+    [profile_image_url_https] => 
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
