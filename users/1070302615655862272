@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 1070302615655862272
     [name] => demyan 🦷 #standwithukraine
     [screen_name] => demmmyn
-    [location] => rostov-on-don
+    [location] => 
     [url] => http://ko-fi.com/ingstad
     [description] => http://ukrainewar.carrd.co / game designer/artist ✧ he/him ✧ рус/eng ✧ 19 ✧ pfp @/voisa4
     [protected] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 511
     [listed_count] => 21
     [created_at] => Wed Dec 05 13:03:23 +0000 2018
-    [favourites_count] => 14182
+    [favourites_count] => 14186
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2135
+    [statuses_count] => 2136
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
