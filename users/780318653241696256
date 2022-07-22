@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 780318653241696256
     [id_str] => 780318653241696256
-    [name] => Frijole (Back to life, back to reality)
+    [name] => Frijole
     [screen_name] => Javitup
     [location] => California, USA
     [url] => https://ko-fi.com/lsdstudios
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 56310
+    [statuses_count] => 56311
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
