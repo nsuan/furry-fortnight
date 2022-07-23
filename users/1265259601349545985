@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 1265259601349545985
     [id_str] => 1265259601349545985
-    [name] => Noah (mommy issues)
+    [name] => noah
     [screen_name] => vaterplanke
     [location] => gentlemommy
     [url] => 
-    [description] => nerd type beat
+    [description] => kinderfresser
     [protected] => 
     [followers_count] => 268
-    [friends_count] => 873
+    [friends_count] => 874
     [listed_count] => 2
     [created_at] => Tue May 26 12:33:09 +0000 2020
-    [favourites_count] => 37888
+    [favourites_count] => 37899
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 10935
+    [statuses_count] => 10941
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
