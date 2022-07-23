@@ -6,8 +6,8 @@ stdClass Object
     [screen_name] => MrDarwenstreet
     [location] => UK
     [url] => 
-    [description] => ADEU | Epsilon.
-Wretch | Dismas
+    [description] => ADEU     |  Wretch
+Epsilon   | Dismas
 
 Commissions CLOSED 2/2
     [protected] => 
@@ -20,7 +20,7 @@ Commissions CLOSED 2/2
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1369
+    [statuses_count] => 1370
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
