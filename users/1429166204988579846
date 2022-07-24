@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1429166204988579846
     [id_str] => 1429166204988579846
-    [name] => SuramarElf { COMISSIONS OPEN 3/5 }
+    [name] => SuramarElf { COMISSIONS OPEN 4/5 }
     [screen_name] => SuramarElf
     [location] =>  
     [url] => http://tinyurl.com/38csvpmm
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 773
     [listed_count] => 2
     [created_at] => Sat Aug 21 19:40:20 +0000 2021
-    [favourites_count] => 10269
+    [favourites_count] => 10274
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2155
+    [statuses_count] => 2157
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
