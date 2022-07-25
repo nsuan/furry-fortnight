@@ -11,15 +11,15 @@ stdClass Object
 Demidemi
     [protected] => 
     [followers_count] => 30
-    [friends_count] => 498
+    [friends_count] => 499
     [listed_count] => 1
     [created_at] => Sat Jun 04 02:33:33 +0000 2016
-    [favourites_count] => 24306
+    [favourites_count] => 24321
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2003
+    [statuses_count] => 2005
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
