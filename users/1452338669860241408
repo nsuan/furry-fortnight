@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1452338669860241408
     [id_str] => 1452338669860241408
-    [name] => Amigras Messerschmidt
+    [name] => Amigras Messerschmidt is exploring Kamurocho again
     [screen_name] => EorzeaSchmidt
     [location] => Sophia, Materia
     [url] => 
@@ -27,7 +27,7 @@ banner: @dadafell
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5649
+    [statuses_count] => 5650
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
