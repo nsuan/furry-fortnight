@@ -7,17 +7,18 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => I like everything.
+24
     [protected] => 
     [followers_count] => 60
     [friends_count] => 4993
     [listed_count] => 0
     [created_at] => Sun Aug 23 04:10:39 +0000 2020
-    [favourites_count] => 48148
+    [favourites_count] => 48147
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 25
+    [statuses_count] => 26
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
