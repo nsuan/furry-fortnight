@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 745826884223590400
     [name] => 🌈Ian🌈
     [screen_name] => just_a_walk
-    [location] => Canada
+    [location] => 
     [url] => 
     [description] => Ian, 30 🏳️‍🌈 He/Him. Socialist. Gay. French Canadian. Dolly enthusiast.
     [protected] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 9811
+    [statuses_count] => 9813
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
