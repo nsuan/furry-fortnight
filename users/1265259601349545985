@@ -7,12 +7,12 @@ stdClass Object
     [location] => nicht bei ihr 😔
     [url] => 
     [description] => 
-    [protected] => 
+    [protected] => 1
     [followers_count] => 272
     [friends_count] => 903
     [listed_count] => 2
     [created_at] => Tue May 26 12:33:09 +0000 2020
-    [favourites_count] => 40319
+    [favourites_count] => 40321
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
