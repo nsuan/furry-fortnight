@@ -10,15 +10,15 @@ stdClass Object
 Jenova's Only Elezen
     [protected] => 
     [followers_count] => 101
-    [friends_count] => 383
+    [friends_count] => 384
     [listed_count] => 1
     [created_at] => Tue Dec 01 05:25:33 +0000 2020
-    [favourites_count] => 10119
+    [favourites_count] => 10122
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3403
+    [statuses_count] => 3404
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
