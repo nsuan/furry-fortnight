@@ -2,9 +2,9 @@ stdClass Object
 (
     [id] => 1265259601349545985
     [id_str] => 1265259601349545985
-    [name] => noah (sie fan acc)
+    [name] => noah
     [screen_name] => vaterplanke
-    [location] => zwischen ihren thighs
+    [location] => 
     [url] => 
     [description] => 
     [protected] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 908
     [listed_count] => 2
     [created_at] => Tue May 26 12:33:09 +0000 2020
-    [favourites_count] => 40547
+    [favourites_count] => 40549
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
@@ -28,7 +28,6 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1554512299070824448/4YN1NuYZ_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1554512299070824448/4YN1NuYZ_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1265259601349545985/1659042820
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
