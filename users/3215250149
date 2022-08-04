@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3215250149
     [id_str] => 3215250149
-    [name] => Eddie Munson's Pet Rock
+    [name] => Avery, Purveyor of Khajit Goods
     [screen_name] => goblin_avery
     [location] => Somewhere Over the Rainbow 
     [url] => 
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 555
+    [statuses_count] => 557
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
