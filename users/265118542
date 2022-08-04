@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => http://linktr.ee/tournamentofages
     [description] => Photographer who does some gaming and charity things. PNW is home. Other art/makeup/skincare/random thoughts/etc.
-    [protected] => 1
+    [protected] => 
     [followers_count] => 2674
     [friends_count] => 463
     [listed_count] => 24
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 23265
+    [statuses_count] => 23266
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
