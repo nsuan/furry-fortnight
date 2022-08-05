@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1353468741561028608
     [id_str] => 1353468741561028608
-    [name] => Tallyn 🔞 (COMM STATUS: OPEN) 🏳️‍🌈
+    [name] => Tallyn 🔞 (COMM STATUS: CLOSED) 🏳️‍🌈
     [screen_name] => Tallynchan
     [location] => 
     [url] => https://www.patreon.com/Tallyn
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1206
     [listed_count] => 1
     [created_at] => Sun Jan 24 22:24:37 +0000 2021
-    [favourites_count] => 3171
+    [favourites_count] => 3172
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2784
+    [statuses_count] => 2786
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
