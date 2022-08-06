@@ -10,8 +10,8 @@ stdClass Object
 
 Follow me for more retweets!
     [protected] => 
-    [followers_count] => 150
-    [friends_count] => 562
+    [followers_count] => 151
+    [friends_count] => 593
     [listed_count] => 0
     [created_at] => Tue Jan 04 15:51:37 +0000 2022
     [favourites_count] => 128
@@ -19,7 +19,7 @@ Follow me for more retweets!
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 99
+    [statuses_count] => 100
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
