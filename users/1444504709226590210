@@ -13,15 +13,15 @@ stdClass Object
 •Commissions Info-
     [protected] => 
     [followers_count] => 58
-    [friends_count] => 254
+    [friends_count] => 256
     [listed_count] => 0
     [created_at] => Sun Oct 03 03:29:22 +0000 2021
-    [favourites_count] => 306
+    [favourites_count] => 307
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 206
+    [statuses_count] => 208
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
