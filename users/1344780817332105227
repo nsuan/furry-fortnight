@@ -7,7 +7,7 @@ stdClass Object
     [location] => United States
     [url] => 
     [description] => Just a dude living in the USA. Old. I’m here for comics, games, news and politics. Currently playing: Assassin’s Creed: Origins.
-    [protected] => 
+    [protected] => 1
     [followers_count] => 158
     [friends_count] => 486
     [listed_count] => 1
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16185
+    [statuses_count] => 16186
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
