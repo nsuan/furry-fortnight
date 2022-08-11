@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2379020736
     [id_str] => 2379020736
-    [name] => Nick Avirem #НетВойне
+    [name] => пупырь ежа #НетВойне
     [screen_name] => nik_avirem
     [location] => Egham, South East
     [url] => http://avismortem.bandcamp.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 203
     [listed_count] => 2
     [created_at] => Sat Mar 08 17:08:29 +0000 2014
-    [favourites_count] => 219291
+    [favourites_count] => 219301
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 8960
+    [statuses_count] => 8963
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
