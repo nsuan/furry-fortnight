@@ -2,13 +2,14 @@ stdClass Object
 (
     [id] => 1398268758045642757
     [id_str] => 1398268758045642757
-    [name] => a swamp
+    [name] => + a swamp +
     [screen_name] => wormlonde
-    [location] => personal for @lurrlonde
+    [location] => 
     [url] => 
     [description] => welcome to my empire of dirt
 WIPs & spice & unfiltered yelling that im too shy to do on main 🔞
 pfp by @YaboiSparrow
+personal for @lurrlonde
     [protected] => 
     [followers_count] => 172
     [friends_count] => 202
@@ -19,7 +20,7 @@ pfp by @YaboiSparrow
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1104
+    [statuses_count] => 1105
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
