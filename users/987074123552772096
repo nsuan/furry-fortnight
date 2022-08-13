@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 987074123552772096
     [id_str] => 987074123552772096
-    [name] => Mr Quiet 🌙 (2 Slots) Commissions Open!
+    [name] => Mr Quiet 🌙 (1 Slot) Commissions Open!
     [screen_name] => QuietScrappy
     [location] => any pronouns
     [url] => https://www.patreon.com/quietscrappy
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 1029
     [listed_count] => 33
     [created_at] => Thu Apr 19 21:03:04 +0000 2018
-    [favourites_count] => 40664
+    [favourites_count] => 40668
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
