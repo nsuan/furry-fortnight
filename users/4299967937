@@ -13,12 +13,12 @@ stdClass Object
 
 I: fusspot
 b: yec_yourz
-    [protected] => 1
-    [followers_count] => 2656
+    [protected] => 
+    [followers_count] => 2655
     [friends_count] => 1848
     [listed_count] => 5
     [created_at] => Fri Nov 27 20:53:52 +0000 2015
-    [favourites_count] => 128168
+    [favourites_count] => 128176
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
