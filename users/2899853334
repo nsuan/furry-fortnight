@@ -15,12 +15,12 @@ I&H: Frrrozi, Zoratrix, & Milkcubus
     [friends_count] => 1574
     [listed_count] => 3
     [created_at] => Sat Nov 15 02:53:36 +0000 2014
-    [favourites_count] => 13136
+    [favourites_count] => 13138
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7620
+    [statuses_count] => 7621
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -37,7 +37,7 @@ I&H: Frrrozi, Zoratrix, & Milkcubus
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
