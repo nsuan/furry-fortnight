@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2549347873
     [id_str] => 2549347873
-    [name] => TG-I✨🍀✨🌿🔜Gencon!!!
+    [name] => TG-I✨🍀✨🌿
     [screen_name] => TJgallaha
     [location] => Richmond, VA
     [url] => http://tgistudio.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 905
     [listed_count] => 9
     [created_at] => Fri Jun 06 05:51:29 +0000 2014
-    [favourites_count] => 37372
+    [favourites_count] => 37374
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 11213
+    [statuses_count] => 11214
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
