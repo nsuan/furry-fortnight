@@ -12,14 +12,14 @@ Header @42WV_
     [protected] => 
     [followers_count] => 219
     [friends_count] => 308
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Thu Sep 24 13:24:09 +0000 2009
-    [favourites_count] => 38323
+    [favourites_count] => 38324
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 47925
+    [statuses_count] => 47926
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
