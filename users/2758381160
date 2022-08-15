@@ -2,10 +2,10 @@ stdClass Object
 (
     [id] => 2758381160
     [id_str] => 2758381160
-    [name] => Keighty Pari
+    [name] => Zee
     [screen_name] => cinderspooks
     [location] => 
-    [url] => https://shanivee.carrd.co/
+    [url] => 
     [description] => Shani, or Zee, or even Cinder, or possibly even shawna / shauna / shana.
     [protected] => 
     [followers_count] => 2500
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 62436
+    [statuses_count] => 62437
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
