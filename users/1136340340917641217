@@ -11,15 +11,15 @@ stdClass Object
 tweets r mine.
     [protected] => 
     [followers_count] => 64
-    [friends_count] => 1263
+    [friends_count] => 1264
     [listed_count] => 0
     [created_at] => Wed Jun 05 18:33:44 +0000 2019
-    [favourites_count] => 12966
+    [favourites_count] => 12972
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2988
+    [statuses_count] => 2991
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
