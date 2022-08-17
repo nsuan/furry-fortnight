@@ -10,15 +10,15 @@ stdClass Object
 header:@VladHarabagiu
     [protected] => 
     [followers_count] => 955
-    [friends_count] => 2010
+    [friends_count] => 2009
     [listed_count] => 10
     [created_at] => Tue Jun 21 22:06:38 +0000 2011
-    [favourites_count] => 61834
+    [favourites_count] => 61836
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 44988
+    [statuses_count] => 44990
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
