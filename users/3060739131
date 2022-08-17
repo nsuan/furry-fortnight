@@ -12,14 +12,14 @@ main art: @artdinna
     [protected] => 
     [followers_count] => 208
     [friends_count] => 266
-    [listed_count] => 0
+    [listed_count] => 2
     [created_at] => Wed Feb 25 04:31:49 +0000 2015
     [favourites_count] => 5244
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6577
+    [statuses_count] => 6578
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
