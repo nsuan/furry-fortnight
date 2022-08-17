@@ -10,7 +10,7 @@ stdClass Object
 
 Giveaway now closed.
     [protected] => 
-    [followers_count] => 8682
+    [followers_count] => 8681
     [friends_count] => 1050
     [listed_count] => 13
     [created_at] => Wed Mar 20 19:25:21 +0000 2019
@@ -19,7 +19,7 @@ Giveaway now closed.
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16393
+    [statuses_count] => 16394
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
