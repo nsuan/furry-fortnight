@@ -16,16 +16,16 @@ Crystal
 
 -
     [protected] => 
-    [followers_count] => 756
-    [friends_count] => 1475
+    [followers_count] => 755
+    [friends_count] => 1474
     [listed_count] => 1
     [created_at] => Sun May 09 23:24:03 +0000 2021
-    [favourites_count] => 5642
+    [favourites_count] => 5649
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3141
+    [statuses_count] => 3142
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -34,8 +34,8 @@ Crystal
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1549076908544995328/s5xEKYoG_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1549076908544995328/s5xEKYoG_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1560708800536948736/fXdquQsd_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1560708800536948736/fXdquQsd_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1391534430775177216/1651078182
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
