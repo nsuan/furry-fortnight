@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1083146286365167616
     [id_str] => 1083146286365167616
-    [name] => 🦊FIDL🦊
+    [name] => 🦊FIDL🦊 Giveaway pinned
     [screen_name] => FoxLishman
     [location] => Perth, Western Australia
     [url] => https://www.amazon.com/Fox-Lishman/e/B07JLVHFKV%3Fref=dbs_a_mng_rwt_scns_share
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 827
     [listed_count] => 2
     [created_at] => Wed Jan 09 23:39:33 +0000 2019
-    [favourites_count] => 4594
+    [favourites_count] => 4596
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 866
+    [statuses_count] => 867
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
