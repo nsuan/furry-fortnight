@@ -12,15 +12,15 @@ stdClass Object
 art account) @phollysday
     [protected] => 1
     [followers_count] => 159
-    [friends_count] => 3337
+    [friends_count] => 3338
     [listed_count] => 1
     [created_at] => Wed May 13 23:38:43 +0000 2015
-    [favourites_count] => 58338
+    [favourites_count] => 58340
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12877
+    [statuses_count] => 12890
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
