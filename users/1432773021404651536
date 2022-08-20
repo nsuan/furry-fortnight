@@ -11,15 +11,15 @@ stdClass Object
 Goji#1146
     [protected] => 
     [followers_count] => 101
-    [friends_count] => 608
+    [friends_count] => 609
     [listed_count] => 1
     [created_at] => Tue Aug 31 18:31:29 +0000 2021
-    [favourites_count] => 41166
+    [favourites_count] => 41174
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9528
+    [statuses_count] => 9530
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
