@@ -11,14 +11,14 @@ commissions: OPEN
     [protected] => 
     [followers_count] => 444
     [friends_count] => 2213
-    [listed_count] => 0
+    [listed_count] => 9
     [created_at] => Mon May 14 03:10:51 +0000 2012
-    [favourites_count] => 155761
+    [favourites_count] => 155778
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 16564
+    [statuses_count] => 16565
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
