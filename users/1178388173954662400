@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1178388173954662400
     [id_str] => 1178388173954662400
-    [name] => ☕CoffeeDog☕️@DENFUR
+    [name] => ☕CoffeeDog☕️
     [screen_name] => Axel_shepsky
     [location] => 🏔Colorado🏔
     [url] => https://toyhou.se/Axel_Shepsky/characters
@@ -14,7 +14,7 @@ stdClass Object
     [friends_count] => 3864
     [listed_count] => 4
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
-    [favourites_count] => 13557
+    [favourites_count] => 13561
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
