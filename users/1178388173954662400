@@ -11,15 +11,15 @@ stdClass Object
  pfp:@duneebugg header:@thedinosaurmann
     [protected] => 
     [followers_count] => 484
-    [friends_count] => 3865
+    [friends_count] => 3866
     [listed_count] => 4
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
-    [favourites_count] => 13574
+    [favourites_count] => 13580
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3738
+    [statuses_count] => 3739
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
