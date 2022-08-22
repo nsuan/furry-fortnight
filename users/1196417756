@@ -7,7 +7,7 @@ stdClass Object
     [location] => Denver, CO
     [url] => 
     [description] => nikolai rose/nikki | 32 | nb they/them/fae/faer | ffxiv | d&d | birbs | ascian apologist | wol/npc 24/7/365 | #ActuallyAutistic |
-    [protected] => 
+    [protected] => 1
     [followers_count] => 194
     [friends_count] => 748
     [listed_count] => 3
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11592
+    [statuses_count] => 11593
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
