@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1888179145
     [id_str] => 1888179145
-    [name] => Chad Riley Black Lives Matter
+    [name] => Chad Riley
     [screen_name] => rpgeek12
     [location] => Portland, OR
     [url] => http://enforcer84.deviantart.com/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 2844
     [listed_count] => 4
     [created_at] => Fri Sep 20 23:22:20 +0000 2013
-    [favourites_count] => 211165
+    [favourites_count] => 211170
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 78871
+    [statuses_count] => 78874
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
