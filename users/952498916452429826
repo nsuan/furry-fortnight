@@ -15,7 +15,7 @@ Lightkeeper with stars in his eyes 🤧💜 forever missing Lucas and Emeril
     [friends_count] => 3100
     [listed_count] => 0
     [created_at] => Sun Jan 14 11:13:33 +0000 2018
-    [favourites_count] => 27625
+    [favourites_count] => 27631
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -37,7 +37,7 @@ Lightkeeper with stars in his eyes 🤧💜 forever missing Lucas and Emeril
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
