@@ -9,10 +9,10 @@ stdClass Object
     [description] => kann nimmer
     [protected] => 
     [followers_count] => 271
-    [friends_count] => 927
+    [friends_count] => 928
     [listed_count] => 2
     [created_at] => Tue May 26 12:33:09 +0000 2020
-    [favourites_count] => 41207
+    [favourites_count] => 41240
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1562114263614984194/AGuEHmZU_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1562114263614984194/AGuEHmZU_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1562518817879871488/52Ryak9c_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1562518817879871488/52Ryak9c_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1265259601349545985/1661206431
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
