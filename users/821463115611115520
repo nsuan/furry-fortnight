@@ -13,15 +13,15 @@ stdClass Object
     'Don't try to make yourself remember, darling'
     [protected] => 
     [followers_count] => 242
-    [friends_count] => 4946
+    [friends_count] => 4948
     [listed_count] => 0
     [created_at] => Tue Jan 17 21:04:03 +0000 2017
-    [favourites_count] => 28479
+    [favourites_count] => 28486
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7872
+    [statuses_count] => 7873
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
