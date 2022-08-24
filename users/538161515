@@ -6,9 +6,7 @@ stdClass Object
     [screen_name] => KyleKayhos
     [location] => 
     [url] => https://www.patreon.com/KylePunkArt
-    [description] => Fantasy Artist. For any commission enquiries email me: kylejherring@gmail.com
-
-Dragonvault Website: http://dragonvaultgame.com
+    [description] => Fantasy Artist. For commission info please check out: http://linktr.ee/KylePunkArt
 
 Commissions are OPEN!
     [protected] => 
@@ -21,7 +19,7 @@ Commissions are OPEN!
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2463
+    [statuses_count] => 2464
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
