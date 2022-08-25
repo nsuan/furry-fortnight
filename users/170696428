@@ -14,9 +14,9 @@ ArtDump: @LazyGuusha
     [protected] => 
     [followers_count] => 333
     [friends_count] => 1842
-    [listed_count] => 0
+    [listed_count] => 2
     [created_at] => Sun Jul 25 14:22:16 +0000 2010
-    [favourites_count] => 86858
+    [favourites_count] => 86871
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
