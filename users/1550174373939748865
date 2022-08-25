@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => working on games
-    [protected] => 
+    [protected] => 1
     [followers_count] => 34
     [friends_count] => 319
     [listed_count] => 0
