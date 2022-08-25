@@ -11,7 +11,7 @@ stdClass Object
 btag: phae#1446
     [protected] => 
     [followers_count] => 526
-    [friends_count] => 2045
+    [friends_count] => 2046
     [listed_count] => 5
     [created_at] => Fri Jul 01 02:35:42 +0000 2011
     [favourites_count] => 16722
@@ -19,7 +19,7 @@ btag: phae#1446
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5132
+    [statuses_count] => 5129
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
