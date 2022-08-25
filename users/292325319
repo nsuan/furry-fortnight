@@ -13,15 +13,15 @@ stdClass Object
 pfp @BourbonGourblin
     [protected] => 
     [followers_count] => 670
-    [friends_count] => 1506
+    [friends_count] => 1509
     [listed_count] => 4
     [created_at] => Tue May 03 13:33:54 +0000 2011
-    [favourites_count] => 21032
+    [favourites_count] => 21041
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3255
+    [statuses_count] => 3258
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
