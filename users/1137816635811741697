@@ -12,15 +12,15 @@ stdClass Object
 pfp @bleptarts
     [protected] => 
     [followers_count] => 104
-    [friends_count] => 724
+    [friends_count] => 723
     [listed_count] => 0
     [created_at] => Sun Jun 09 20:20:00 +0000 2019
-    [favourites_count] => 3031
+    [favourites_count] => 3033
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2766
+    [statuses_count] => 2768
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
