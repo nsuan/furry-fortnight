@@ -16,16 +16,16 @@ Crystal
 
 -
     [protected] => 
-    [followers_count] => 835
-    [friends_count] => 1571
+    [followers_count] => 836
+    [friends_count] => 1572
     [listed_count] => 1
     [created_at] => Sun May 09 23:24:03 +0000 2021
-    [favourites_count] => 6048
+    [favourites_count] => 6056
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3328
+    [statuses_count] => 3329
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
