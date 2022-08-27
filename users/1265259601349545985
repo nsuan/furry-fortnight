@@ -9,7 +9,7 @@ stdClass Object
     [description] => kann nimmer
     [protected] => 
     [followers_count] => 272
-    [friends_count] => 924
+    [friends_count] => 925
     [listed_count] => 2
     [created_at] => Tue May 26 12:33:09 +0000 2020
     [favourites_count] => 41540
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 12318
+    [statuses_count] => 12317
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
