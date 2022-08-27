@@ -11,14 +11,14 @@ header:@VladHarabagiu
     [protected] => 
     [followers_count] => 959
     [friends_count] => 2013
-    [listed_count] => 0
+    [listed_count] => 10
     [created_at] => Tue Jun 21 22:06:38 +0000 2011
-    [favourites_count] => 62538
+    [favourites_count] => 62541
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 45577
+    [statuses_count] => 45580
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
