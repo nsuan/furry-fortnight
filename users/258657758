@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 258657758
     [id_str] => 258657758
-    [name] => dee @ live in lond*n
+    [name] => dee
     [screen_name] => afterwits
     [location] => 
     [url] => http://web.archive.org/web/20150221125906/http://www.sewingandembroiderywarehouse.com/embtrb.htm
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 389
     [listed_count] => 65
     [created_at] => Mon Feb 28 05:25:32 +0000 2011
-    [favourites_count] => 220052
+    [favourites_count] => 220301
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 25645
+    [statuses_count] => 25831
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

@@ -11,12 +11,12 @@ stdClass Object
 ♥ Warlock & Zyra main
 ♥ Full-time Weeb
 ♥ Occasional NSFW, sometimes horny on main
-    [protected] => 
-    [followers_count] => 228
-    [friends_count] => 2358
+    [protected] => 1
+    [followers_count] => 221
+    [friends_count] => 2362
     [listed_count] => 8
     [created_at] => Thu Apr 30 19:14:06 +0000 2009
-    [favourites_count] => 6170
+    [favourites_count] => 6200
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
@@ -30,8 +30,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1544210050851295233/PJoT1LPU_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1544210050851295233/PJoT1LPU_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1563756184904929280/ALaefarc_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1563756184904929280/ALaefarc_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/36744578/1658046207
     [profile_link_color] => F58EA8
     [profile_sidebar_border_color] => BDDCAD

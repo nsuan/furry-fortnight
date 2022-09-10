@@ -10,7 +10,7 @@ stdClass Object
 (i was also Neomushi!)
     [protected] => 
     [followers_count] => 50
-    [friends_count] => 276
+    [friends_count] => 277
     [listed_count] => 6
     [created_at] => Sun Aug 31 00:24:14 +0000 2014
     [favourites_count] => 555
@@ -18,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5550
+    [statuses_count] => 5549
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

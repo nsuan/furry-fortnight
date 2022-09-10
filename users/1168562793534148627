@@ -14,8 +14,8 @@ stdClass Object
 
 🎮      ⚔️     ⚰️
     [protected] => 
-    [followers_count] => 145
-    [friends_count] => 1033
+    [followers_count] => 146
+    [friends_count] => 1032
     [listed_count] => 0
     [created_at] => Mon Sep 02 16:34:26 +0000 2019
     [favourites_count] => 249
@@ -23,7 +23,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 416
+    [statuses_count] => 415
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

@@ -4,22 +4,22 @@ stdClass Object
     [id_str] => 1315716535537872905
     [name] => The Owl
     [screen_name] => TheOwlsWatch
-    [location] => Las Tierras Intermedias
+    [location] => Nightcity
     [url] => 
-    [description] => Tomando notas de cosas... importantes.
-Grito de pánico en https://www.twitch.tv/theowlswatch
-Youtube https://www.youtube.com/channel/UCNK5INLZ59EPKDPt9MjIxWQ
+    [description] => Tomando notas de cosas "importantes".
+Grito de pánico en http://twitch.tv/theowlswatch
+Youtube http://youtube.com/channel/UCNK5I…
     [protected] => 
-    [followers_count] => 341
-    [friends_count] => 1236
+    [followers_count] => 344
+    [friends_count] => 1253
     [listed_count] => 1
     [created_at] => Mon Oct 12 18:12:31 +0000 2020
-    [favourites_count] => 10595
+    [favourites_count] => 11216
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 986
+    [statuses_count] => 1064
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,7 +30,7 @@ Youtube https://www.youtube.com/channel/UCNK5INLZ59EPKDPt9MjIxWQ
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1556022056684326913/ccoti1es_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1556022056684326913/ccoti1es_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1315716535537872905/1636910590
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1315716535537872905/1662481197
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6

@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 762490374048800768
     [id_str] => 762490374048800768
-    [name] => Affogato/Java🔜🚙IFC2022
+    [name] => Affogato/Java
     [screen_name] => ToastieCoffee
     [location] => Ohio, USA
     [url] => 
     [description] => She/her ☕ D.A.D/Lioness with big teefs ☕ coffee fanatic ☕ has survived line con x2 ☕ smol bean ☕loves @martogsnowpaw 3000☕ icon by @AkiraRan_artist
     [protected] => 
     [followers_count] => 144
-    [friends_count] => 1717
+    [friends_count] => 1721
     [listed_count] => 0
     [created_at] => Mon Aug 08 03:27:26 +0000 2016
-    [favourites_count] => 25806
+    [favourites_count] => 25852
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5019
+    [statuses_count] => 5039
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,7 +28,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1467946478996008970/cRDPS7g3_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1467946478996008970/cRDPS7g3_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/762490374048800768/1479625036
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/762490374048800768/1662686531
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6

@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 966990445
     [id_str] => 966990445
-    [name] => Flyremoon | REDEBUT SOON
+    [name] => Flyremoon
     [screen_name] => Flyremoon
     [location] => Belgique
     [url] => https://allmylinks.com/flyremoon
@@ -10,20 +10,19 @@ stdClass Object
 • Fanart ► #FlyreArt
 
 • #Vtuberfr
-• Mama Vtuber @hime_koii
 
 • ↓ Follow me here ↓
     [protected] => 
-    [followers_count] => 1326
-    [friends_count] => 3107
+    [followers_count] => 1332
+    [friends_count] => 3153
     [listed_count] => 8
     [created_at] => Fri Nov 23 22:57:47 +0000 2012
-    [favourites_count] => 9298
+    [favourites_count] => 9418
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2469
+    [statuses_count] => 2517
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -32,9 +31,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1539960877461278720/KZQtkvtY_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1539960877461278720/KZQtkvtY_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/966990445/1655990244
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1564044514632810497/O6BBA39v_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1564044514632810497/O6BBA39v_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/966990445/1661732246
     [profile_link_color] => 85CD5A
     [profile_sidebar_border_color] => FFFFFF
     [profile_sidebar_fill_color] => C8D5E1

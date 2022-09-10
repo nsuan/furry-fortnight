@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 942145972083109888
     [name] => ✨ lilnird
     [screen_name] => lilnird
-    [location] => Dreamland
+    [location] => my imagination
     [url] => 
     [description] => digital artist. graphic designer. web strategist. 
 
@@ -14,16 +14,16 @@ stdClass Object
 
 comms: closed
     [protected] => 
-    [followers_count] => 1779
-    [friends_count] => 969
+    [followers_count] => 1781
+    [friends_count] => 976
     [listed_count] => 16
     [created_at] => Sat Dec 16 21:34:38 +0000 2017
-    [favourites_count] => 40799
+    [favourites_count] => 40984
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19438
+    [statuses_count] => 19522
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

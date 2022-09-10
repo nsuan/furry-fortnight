@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 242825453
     [id_str] => 242825453
-    [name] => Ellie 🍁 Art Giveaway in Pinned!
+    [name] => Ellie 🍁 Art
     [screen_name] => NyamineArt
     [location] => Canada
     [url] => https://www.twitch.tv/niki292
@@ -13,16 +13,16 @@ I don't do free requests
 
 // do not repost my art
     [protected] => 
-    [followers_count] => 860
-    [friends_count] => 496
+    [followers_count] => 861
+    [friends_count] => 516
     [listed_count] => 7
     [created_at] => Tue Jan 25 17:50:58 +0000 2011
-    [favourites_count] => 178472
+    [favourites_count] => 178872
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 25082
+    [statuses_count] => 25120
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

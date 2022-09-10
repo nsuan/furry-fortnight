@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 852871675855163392
     [id_str] => 852871675855163392
-    [name] => Rechelle Valentine
+    [name] => Rechelle Heart
     [screen_name] => whiskey_punx
     [location] => Brandon, Manitoba
     [url] => 
@@ -10,7 +10,7 @@ stdClass Object
 *floats lifelessly down a river*
     [protected] => 
     [followers_count] => 9
-    [friends_count] => 307
+    [friends_count] => 320
     [listed_count] => 0
     [created_at] => Fri Apr 14 13:10:27 +0000 2017
     [favourites_count] => 61
@@ -27,9 +27,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1563178621958819840/NAY58z37_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1563178621958819840/NAY58z37_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/852871675855163392/1660849714
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1565888001187758081/AMV6fCyo_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1565888001187758081/AMV6fCyo_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/852871675855163392/1662171767
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6

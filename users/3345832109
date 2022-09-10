@@ -2,24 +2,26 @@ stdClass Object
 (
     [id] => 3345832109
     [id_str] => 3345832109
-    [name] => 𝔞𝔳𝔢𝔯𝔶 ✧･ﾟ
+    [name] => 𝔤𝔥𝔬𝔲𝔩𝔦𝔢 ✧･ﾟ
     [screen_name] => drustvars
     [location] => North Carolina, USA
-    [url] => 
-    [description] => ♡ avery / ghoulie ✧ 25 ✧ she/they ✧ wow | ovw | misc ♡
+    [url] => https://thirteencities.tumblr.com/
+    [description] => ✧ ur friendly neighborhood poltergeist ✧ 25 ✧ she/they ✧ 
+
+♡ wow | ovw | misc ♡
 
 🔞 ᴍɪɴᴏʀꜱ ᴅɴɪ 🔞
-    [protected] => 
-    [followers_count] => 88
-    [friends_count] => 551
+    [protected] => 1
+    [followers_count] => 87
+    [friends_count] => 564
     [listed_count] => 0
     [created_at] => Thu Jun 25 19:09:06 +0000 2015
-    [favourites_count] => 6307
+    [favourites_count] => 6495
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8562
+    [statuses_count] => 8844
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +30,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1558788166831808513/ji2KZ3nV_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1558788166831808513/ji2KZ3nV_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3345832109/1659463854
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1566552173789544450/5tTrcfpN_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1566552173789544450/5tTrcfpN_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3345832109/1662330118
     [profile_link_color] => 70B35A
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000

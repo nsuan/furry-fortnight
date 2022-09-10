@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3064166055
     [id_str] => 3064166055
-    [name] => 🥔 Allarae 🥔
+    [name] => Allarae
     [screen_name] => AllarinDawnglow
     [location] => 
     [url] => https://wyrmrest.fandom.com/wiki/Allarae_Dawnglow
@@ -12,16 +12,16 @@ If I booped you, you had it coming.
 
 Header and PFP: @CherRo_Art ❤️
     [protected] => 
-    [followers_count] => 5267
-    [friends_count] => 2997
+    [followers_count] => 5279
+    [friends_count] => 3002
     [listed_count] => 24
     [created_at] => Fri Feb 27 00:40:24 +0000 2015
-    [favourites_count] => 46548
+    [favourites_count] => 46722
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13507
+    [statuses_count] => 13583
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

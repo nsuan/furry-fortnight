@@ -8,17 +8,18 @@ stdClass Object
     [url] => https://www.artstation.com/dstrir
     [description] => beginner artist
 contact: dstrir@gmail.com
+icon by @oniyannasama
     [protected] => 
-    [followers_count] => 46790
-    [friends_count] => 619
-    [listed_count] => 297
+    [followers_count] => 49331
+    [friends_count] => 640
+    [listed_count] => 314
     [created_at] => Tue Aug 09 17:38:14 +0000 2016
-    [favourites_count] => 22629
+    [favourites_count] => 22997
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6821
+    [statuses_count] => 6987
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,8 +28,8 @@ contact: dstrir@gmail.com
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1562748854084198400/rLb_fq3y_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1562748854084198400/rLb_fq3y_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1566890851116191744/e849Gw-8_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1566890851116191744/e849Gw-8_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/763066874653532160/1556199269
     [profile_link_color] => 370A10
     [profile_sidebar_border_color] => 000000
