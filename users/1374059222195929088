@@ -10,16 +10,16 @@ stdClass Object
 
 Art acc: @Terizi_doodles
     [protected] => 
-    [followers_count] => 102
+    [followers_count] => 101
     [friends_count] => 401
     [listed_count] => 1
     [created_at] => Mon Mar 22 18:04:09 +0000 2021
-    [favourites_count] => 48100
+    [favourites_count] => 48102
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 59701
+    [statuses_count] => 59704
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
