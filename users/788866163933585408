@@ -11,15 +11,15 @@ stdClass Object
 Just here 💞
     [protected] => 
     [followers_count] => 384
-    [friends_count] => 993
-    [listed_count] => 0
+    [friends_count] => 992
+    [listed_count] => 4
     [created_at] => Wed Oct 19 22:15:24 +0000 2016
-    [favourites_count] => 118205
+    [favourites_count] => 118209
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 57688
+    [statuses_count] => 57690
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
