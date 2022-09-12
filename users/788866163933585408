@@ -10,16 +10,16 @@ stdClass Object
 
 Just here 💞 18
     [protected] => 
-    [followers_count] => 384
-    [friends_count] => 995
+    [followers_count] => 383
+    [friends_count] => 992
     [listed_count] => 4
     [created_at] => Wed Oct 19 22:15:24 +0000 2016
-    [favourites_count] => 118369
+    [favourites_count] => 118374
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 57764
+    [statuses_count] => 57766
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
