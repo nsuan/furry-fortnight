@@ -13,15 +13,15 @@ stdClass Object
 ✿ http://linktr.ee/Esmesketch
     [protected] => 
     [followers_count] => 427
-    [friends_count] => 1649
+    [friends_count] => 1646
     [listed_count] => 1
     [created_at] => Wed Dec 05 22:39:31 +0000 2018
-    [favourites_count] => 13215
+    [favourites_count] => 13214
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1577
+    [statuses_count] => 1572
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -32,7 +32,7 @@ stdClass Object
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1568977255837073408/cO_-8deG_normal.png
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1568977255837073408/cO_-8deG_normal.png
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1070447605556109313/1661496759
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1070447605556109313/1662973633
     [profile_link_color] => F58EA8
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
