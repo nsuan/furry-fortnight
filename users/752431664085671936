@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 752431664085671936
     [id_str] => 752431664085671936
-    [name] => fried unicorns with a side of gay sauce
+    [name] => delicious fantasy meat
     [screen_name] => friedunicornstu
     [location] => Stolen Wahpekute Land
     [url] => https://friedunicornstudio.carrd.co/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 887
     [listed_count] => 22
     [created_at] => Mon Jul 11 09:17:43 +0000 2016
-    [favourites_count] => 18466
+    [favourites_count] => 18465
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7958
+    [statuses_count] => 7959
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
