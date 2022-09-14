@@ -12,16 +12,16 @@ stdClass Object
 #ThereIsNoSuchThingAsWhitePeople
 #ThereIsNoSuchThingAsBlackPeople
     [protected] => 
-    [followers_count] => 720
+    [followers_count] => 719
     [friends_count] => 4990
     [listed_count] => 9
     [created_at] => Thu Oct 01 00:20:23 +0000 2020
-    [favourites_count] => 33246
+    [favourites_count] => 33250
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 48122
+    [statuses_count] => 48127
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
