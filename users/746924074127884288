@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 746924074127884288
     [id_str] => 746924074127884288
-    [name] => Tiber
+    [name] => sage
     [screen_name] => fucktiber
     [location] => they/them | 23
     [url] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 407
     [listed_count] => 0
     [created_at] => Sun Jun 26 04:32:31 +0000 2016
-    [favourites_count] => 24527
+    [favourites_count] => 24536
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
