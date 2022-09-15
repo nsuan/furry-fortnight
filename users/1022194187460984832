@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 1022194187460984832
     [id_str] => 1022194187460984832
-    [name] => ooooffffdd
+    [name] => 00:00.0
     [screen_name] => Curiouscoyote2
     [location] => Cascadia
     [url] => 
-    [description] => he's a 10 except he actually reads the spec
+    [description] => Ugly Cries into the PCIE spec
     [protected] => 
-    [followers_count] => 304
+    [followers_count] => 303
     [friends_count] => 4985
     [listed_count] => 2
     [created_at] => Wed Jul 25 18:57:40 +0000 2018
-    [favourites_count] => 30086
+    [favourites_count] => 30090
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2226
+    [statuses_count] => 2228
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
