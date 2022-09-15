@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 2758381160
     [id_str] => 2758381160
-    [name] => Zee
+    [name] => Cinder
     [screen_name] => mewtwokazoo
     [location] => 
     [url] => 
     [description] => 
     [protected] => 
-    [followers_count] => 2485
-    [friends_count] => 4823
+    [followers_count] => 2486
+    [friends_count] => 4822
     [listed_count] => 6
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
-    [favourites_count] => 50454
+    [favourites_count] => 50457
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 63851
+    [statuses_count] => 63857
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
