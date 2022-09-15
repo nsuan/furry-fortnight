@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 170696428
     [id_str] => 170696428
-    [name] => Aira, The Toxic Gremlin
+    [name] => Guu, The Toxic Gremlin
     [screen_name] => LazyGuu
     [location] => PL
     [url] => 
@@ -16,12 +16,12 @@ ArtDump: @LazyGuusha
     [friends_count] => 1861
     [listed_count] => 2
     [created_at] => Sun Jul 25 14:22:16 +0000 2010
-    [favourites_count] => 89509
+    [favourites_count] => 89517
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 18470
+    [statuses_count] => 18472
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
