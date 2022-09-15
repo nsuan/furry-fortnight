@@ -16,14 +16,14 @@ comms: closed
     [protected] => 
     [followers_count] => 1780
     [friends_count] => 976
-    [listed_count] => 0
+    [listed_count] => 16
     [created_at] => Sat Dec 16 21:34:38 +0000 2017
-    [favourites_count] => 41067
+    [favourites_count] => 41069
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19559
+    [statuses_count] => 19560
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
