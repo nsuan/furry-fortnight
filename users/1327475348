@@ -13,15 +13,15 @@ Ig: Lausnes_ruben
 Lock: @feckoffokay
     [protected] => 
     [followers_count] => 123
-    [friends_count] => 1847
+    [friends_count] => 1846
     [listed_count] => 0
     [created_at] => Thu Apr 04 17:53:45 +0000 2013
-    [favourites_count] => 42820
+    [favourites_count] => 42823
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 25647
+    [statuses_count] => 25650
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
