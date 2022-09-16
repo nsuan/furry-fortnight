@@ -2,17 +2,17 @@ stdClass Object
 (
     [id] => 416468785
     [id_str] => 416468785
-    [name] => brandon coded
+    [name] => bezosblaster
     [screen_name] => Arochius
     [location] => San Antonio, TX
     [url] => 
-    [description] => We do what the living can not ||| banner by @herecomesbeef ||| icon by @holstercatart
+    [description] => We do what the living can not ||| banner by @herecomesbeef ||| icon by @miqoting
     [protected] => 
     [followers_count] => 153
     [friends_count] => 240
     [listed_count] => 8
     [created_at] => Sat Nov 19 18:45:12 +0000 2011
-    [favourites_count] => 22800
+    [favourites_count] => 22801
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1551773723790811137/xhd2QG6H_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1551773723790811137/xhd2QG6H_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1570778815751766016/fA46Hy-P_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1570778815751766016/fA46Hy-P_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/416468785/1545766678
     [profile_link_color] => 0084B4
     [profile_sidebar_border_color] => C0DEED
