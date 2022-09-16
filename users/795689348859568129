@@ -12,15 +12,15 @@ stdClass Object
 #TheDreadWolfRises
     [protected] => 
     [followers_count] => 836
-    [friends_count] => 704
+    [friends_count] => 705
     [listed_count] => 14
     [created_at] => Mon Nov 07 18:08:18 +0000 2016
-    [favourites_count] => 36806
+    [favourites_count] => 36809
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 811
+    [statuses_count] => 813
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
