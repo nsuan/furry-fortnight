@@ -9,7 +9,7 @@ stdClass Object
     [description] => 34 * he/they * going nowhere at the speed of light
     [protected] => 
     [followers_count] => 52
-    [friends_count] => 225
+    [friends_count] => 226
     [listed_count] => 1
     [created_at] => Tue May 12 03:41:43 +0000 2009
     [favourites_count] => 6967
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3457
+    [statuses_count] => 3458
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
