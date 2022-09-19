@@ -10,15 +10,15 @@ stdClass Object
 NO MINORS.
     [protected] => 
     [followers_count] => 191
-    [friends_count] => 1032
+    [friends_count] => 1031
     [listed_count] => 3
     [created_at] => Wed Jan 09 23:39:33 +0000 2019
-    [favourites_count] => 8807
+    [favourites_count] => 8823
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1739
+    [statuses_count] => 1740
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
