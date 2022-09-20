@@ -2,8 +2,8 @@ stdClass Object
 (
     [id] => 2758381160
     [id_str] => 2758381160
-    [name] => Cinder
-    [screen_name] => mewtwokazoo
+    [name] => Booper Dooper
+    [screen_name] => agentskellyman
     [location] => 
     [url] => 
     [description] => Incredibly hireable.  digital artist and designer, games media.
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4749
     [listed_count] => 6
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
-    [favourites_count] => 51259
+    [favourites_count] => 51260
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 64182
+    [statuses_count] => 64183
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
