@@ -6,7 +6,9 @@ stdClass Object
     [screen_name] => enamourous
     [location] => 
     [url] => 
-    [description] => timelessness isn't that much of a feat. 🦀 @Xccentriq 🦀 💕 @kaszmostiras 💕 🖤 @voidangeliic ☠️
+    [description] => timelessness isn't that much of a feat. 
+
+   🦀 @Xccentriq 🦀 💕 @kaszmostiras 💕 🖤 @voidangeliic ☠️
     [protected] => 
     [followers_count] => 27
     [friends_count] => 113
@@ -17,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2563
+    [statuses_count] => 2564
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
