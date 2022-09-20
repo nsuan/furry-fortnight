@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2844692223
     [id_str] => 2844692223
-    [name] => Drocoden of Gondor
+    [name] => Drocus Pocus
     [screen_name] => drococu
     [location] => 
     [url] => http://twitch.tv/drococu
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 488
     [listed_count] => 2
     [created_at] => Sun Oct 26 05:04:37 +0000 2014
-    [favourites_count] => 16466
+    [favourites_count] => 16467
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7137
+    [statuses_count] => 7138
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
