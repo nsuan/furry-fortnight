@@ -6,13 +6,13 @@ stdClass Object
     [screen_name] => Slothy37161694
     [location] => 
     [url] => 
-    [description] => I play WoW and Sonic | following every WoW or Sonic account I see | 26 he/him | @ruxigheorghe 🤍
+    [description] => I play WoW and Sonic | following every WoW or Sonic account I see | 28 he/him | @ruxigheorghe 🤍
     [protected] => 
     [followers_count] => 42
     [friends_count] => 214
     [listed_count] => 0
     [created_at] => Mon Sep 30 17:57:18 +0000 2019
-    [favourites_count] => 3379
+    [favourites_count] => 3382
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
