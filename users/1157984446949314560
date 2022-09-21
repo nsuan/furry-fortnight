@@ -9,7 +9,7 @@ stdClass Object
     [description] => Eu sou um oceano encanado
 
 🎨: @cenourart
-    [protected] => 1
+    [protected] => 
     [followers_count] => 36
     [friends_count] => 354
     [listed_count] => 0
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4173
+    [statuses_count] => 4174
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
