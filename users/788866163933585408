@@ -11,15 +11,15 @@ stdClass Object
 Just here 💞 Domo
     [protected] => 
     [followers_count] => 382
-    [friends_count] => 1001
+    [friends_count] => 1000
     [listed_count] => 4
     [created_at] => Wed Oct 19 22:15:24 +0000 2016
-    [favourites_count] => 119476
+    [favourites_count] => 119478
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 58157
+    [statuses_count] => 58156
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
