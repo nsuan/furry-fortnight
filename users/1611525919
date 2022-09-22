@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1611525919
     [id_str] => 1611525919
-    [name] => Mesaak 🏳️‍🌈 Comms opening in SEPTEMBER
+    [name] => Mesaak 🏳️‍🌈
     [screen_name] => MargaretEsaak
     [location] => 
     [url] => https://ko-fi.com/7561GKI9A5MP
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 460
     [listed_count] => 6
     [created_at] => Sun Jul 21 22:44:39 +0000 2013
-    [favourites_count] => 32700
+    [favourites_count] => 32701
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 17075
+    [statuses_count] => 17077
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
