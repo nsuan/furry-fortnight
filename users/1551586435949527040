@@ -1,23 +1,24 @@
 stdClass Object
 (
-    [id] => 1039690299273105408
-    [id_str] => 1039690299273105408
-    [name] => Leyloria Fal'anore
-    [screen_name] => LeyloriaMG
+    [id] => 1551586435949527040
+    [id_str] => 1551586435949527040
+    [name] => Jack Howell
+    [screen_name] => how10157832
     [location] => 
-    [url] => https://youtu.be/dQw4w9WgXcQ
-    [description] => • Heiress of Fire • Red Head Connoisseur • Mage Main • Art Commissioner • Cat Mom • 18+ • art acc: @LeyloriaArt • FFXIV/WoW • She/Her • 23 •
+    [url] => 
+    [description] => Continuity Announcer of ETV and a host of The Live Show LIVE! and Roblox Big Brother, BBLB and Big Mouth.
+Also a host of Telly Addicts.
     [protected] => 
-    [followers_count] => 2273
-    [friends_count] => 987
-    [listed_count] => 4
-    [created_at] => Wed Sep 12 01:40:58 +0000 2018
-    [favourites_count] => 26936
+    [followers_count] => 267
+    [friends_count] => 2962
+    [listed_count] => 1
+    [created_at] => Mon Jul 25 15:13:52 +0000 2022
+    [favourites_count] => 112
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2744
+    [statuses_count] => 35
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +27,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1444006670326239238/BZVWuFVA_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1444006670326239238/BZVWuFVA_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1039690299273105408/1656550101
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1551586537585917958/Iat9cUDs_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1551586537585917958/Iat9cUDs_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1551586435949527040/1658762173
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
