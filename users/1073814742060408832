@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1073814742060408832
     [id_str] => 1073814742060408832
-    [name] => Chatell (Comms CLOSED)
+    [name] => Chatell (Comms OPEN)
     [screen_name] => ChatellModels
     [location] => 
     [url] => http://ko-fi.com/chatellmodels
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 1510
+    [statuses_count] => 1511
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
