@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3303653904
     [id_str] => 3303653904
-    [name] => lacey
+    [name] => lacey 🔜 HAL-CON
     [screen_name] => byelacey
     [location] => 
     [url] => https://linktr.ee/byelacey
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 953
     [listed_count] => 233
     [created_at] => Sat Aug 01 22:50:42 +0000 2015
-    [favourites_count] => 189569
+    [favourites_count] => 189570
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 45290
+    [statuses_count] => 45292
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
