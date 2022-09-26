@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 760282716218675200
     [id_str] => 760282716218675200
-    [name] => Ginko
+    [name] => Jason
     [screen_name] => angrytreat
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 5001
     [listed_count] => 1
     [created_at] => Tue Aug 02 01:15:00 +0000 2016
-    [favourites_count] => 5539
+    [favourites_count] => 5554
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2489
+    [statuses_count] => 2495
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
