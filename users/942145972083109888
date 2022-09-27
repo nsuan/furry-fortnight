@@ -14,16 +14,16 @@ stdClass Object
 
 comms: closed
     [protected] => 
-    [followers_count] => 1783
+    [followers_count] => 1782
     [friends_count] => 989
     [listed_count] => 16
     [created_at] => Sat Dec 16 21:34:38 +0000 2017
-    [favourites_count] => 41429
+    [favourites_count] => 41433
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19680
+    [statuses_count] => 19681
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
