@@ -1,27 +1,23 @@
 stdClass Object
 (
-    [id] => 1405854924282413062
-    [id_str] => 1405854924282413062
-    [name] => Stan Renart 🦁🦊🌆 VTUBER
-    [screen_name] => StanRenart
+    [id] => 1448098546834677765
+    [id_str] => 1448098546834677765
+    [name] => 🖤.𝕞𝕠𝕞𝕞𝕪’𝕤 𝕓𝕣𝕠𝕨𝕟 𝕓𝕠𝕪.🖤
+    [screen_name] => KmerVuu
     [location] => France
-    [url] => https://linktr.ee/stanrenart
-    [description] => ✨ Comédien / Vtuber kemono /  Doublage  /  FF14 /  JDR. 
-
-27  He / Himbo 
-
-je partage mes passions et les artwork que je kiffe ( SFW , parfois suggestif ) ✨
+    [url] => 
+    [description] => ~ ʀᴘ/ɴꜱꜰᴡ ~. ꜰʀ/ᴇɴɢ.~ 22ʏᴏ.~ ᴏꜰᴛᴇɴ ʜᴏʀɴʏ.~ ᴍᴅɴɪ.~ ɢᴀᴍᴇꜱ: ɢᴡ2, ᴅʙᴅ, ᴡᴏᴡ, ᴏᴠᴇʀᴡᴀᴛᴄʜ. ᴀᴘᴇx. ʀᴅʀ2.~
     [protected] => 
-    [followers_count] => 518
-    [friends_count] => 1171
-    [listed_count] => 4
-    [created_at] => Fri Jun 18 11:48:39 +0000 2021
-    [favourites_count] => 12851
+    [followers_count] => 4196
+    [friends_count] => 4194
+    [listed_count] => 16
+    [created_at] => Wed Oct 13 01:29:39 +0000 2021
+    [favourites_count] => 61001
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2443
+    [statuses_count] => 4995
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,9 +26,9 @@ je partage mes passions et les artwork que je kiffe ( SFW , parfois suggestif ) 
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1560797179379433472/KuwGDm9f_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1560797179379433472/KuwGDm9f_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1405854924282413062/1648322000
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1560595012798275584/U1x_7yOq_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1560595012798275584/U1x_7yOq_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1448098546834677765/1634426716
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
