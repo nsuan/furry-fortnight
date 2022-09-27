@@ -6,18 +6,19 @@ stdClass Object
     [screen_name] => shath_yar
     [location] => 
     [url] => 
-    [description] => Chewing bubblegum and looking at things. Nsfw sometimes.
+    [description] => Chewing bubblegum and looking at things. 
+Nsfw sometimes.
     [protected] => 
     [followers_count] => 91
     [friends_count] => 2084
     [listed_count] => 0
     [created_at] => Wed Mar 16 15:44:18 +0000 2016
-    [favourites_count] => 48039
+    [favourites_count] => 48051
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10818
+    [statuses_count] => 10828
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
