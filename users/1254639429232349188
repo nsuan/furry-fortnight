@@ -12,14 +12,14 @@ I might start doing some of my own, though it might take me a while.
     [protected] => 
     [followers_count] => 319
     [friends_count] => 4762
-    [listed_count] => 0
+    [listed_count] => 3
     [created_at] => Mon Apr 27 05:12:41 +0000 2020
     [favourites_count] => 26420
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4761
+    [statuses_count] => 4762
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
