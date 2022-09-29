@@ -13,7 +13,7 @@ stdClass Object
 @starfraggies ✨
     [protected] => 
     [followers_count] => 261
-    [friends_count] => 841
+    [friends_count] => 842
     [listed_count] => 3
     [created_at] => Tue Nov 09 22:53:17 +0000 2021
     [favourites_count] => 2950
@@ -21,7 +21,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1440
+    [statuses_count] => 1442
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
