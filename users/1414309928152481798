@@ -12,15 +12,15 @@ stdClass Object
 ☆Firefly ✨
     [protected] => 
     [followers_count] => 94
-    [friends_count] => 2196
+    [friends_count] => 2213
     [listed_count] => 1
     [created_at] => Sun Jul 11 19:46:21 +0000 2021
-    [favourites_count] => 13238
+    [favourites_count] => 13289
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1259
+    [statuses_count] => 1263
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,8 +29,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1574193756756140035/3dHLeESN_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1574193756756140035/3dHLeESN_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1575821989377351680/mwil7EcI_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1575821989377351680/mwil7EcI_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1414309928152481798/1661650756
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
