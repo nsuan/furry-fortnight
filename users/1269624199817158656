@@ -10,15 +10,15 @@ stdClass Object
 multif 👹
     [protected] => 
     [followers_count] => 34
-    [friends_count] => 1882
+    [friends_count] => 1883
     [listed_count] => 0
     [created_at] => Sun Jun 07 13:36:28 +0000 2020
-    [favourites_count] => 19901
+    [favourites_count] => 19906
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 201
+    [statuses_count] => 202
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
