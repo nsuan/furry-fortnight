@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 50839655
     [id_str] => 50839655
-    [name] => Das
+    [name] => DaSpooky
     [screen_name] => Dasacht
     [location] => Ireland, Limerick
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4554
     [listed_count] => 14
     [created_at] => Fri Jun 26 00:28:11 +0000 2009
-    [favourites_count] => 120893
+    [favourites_count] => 120899
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 67302
+    [statuses_count] => 67306
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
