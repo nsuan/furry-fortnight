@@ -22,7 +22,7 @@ h: @pocketghosts
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7971
+    [statuses_count] => 7974
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -31,8 +31,8 @@ h: @pocketghosts
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1554001450182643712/s2RPHq8K_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1554001450182643712/s2RPHq8K_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1576933850638213120/5D3OqPz9_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1576933850638213120/5D3OqPz9_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/2686746235/1656314827
     [profile_link_color] => 1B95E0
     [profile_sidebar_border_color] => 000000
