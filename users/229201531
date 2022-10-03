@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 229201531
     [id_str] => 229201531
-    [name] => Robert Johnston
+    [name] => Roboort Johnston
     [screen_name] => DJInsom
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1513
     [listed_count] => 3
     [created_at] => Tue Dec 21 20:02:23 +0000 2010
-    [favourites_count] => 337466
+    [favourites_count] => 337488
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 210566
+    [statuses_count] => 210571
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
