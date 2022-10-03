@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3060852585
     [id_str] => 3060852585
-    [name] => Ciel 🏳️‍🌈
+    [name] => Ciel
     [screen_name] => cielnightingale
     [location] => California
     [url] => http://cielnightingale.carrd.co
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1158
     [listed_count] => 1
     [created_at] => Wed Feb 25 05:40:01 +0000 2015
-    [favourites_count] => 38450
+    [favourites_count] => 38456
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2874
+    [statuses_count] => 2876
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
