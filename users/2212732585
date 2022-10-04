@@ -9,7 +9,7 @@ stdClass Object
     [description] => and uhhhhhh stan Angus McFife
     [protected] => 
     [followers_count] => 511
-    [friends_count] => 836
+    [friends_count] => 837
     [listed_count] => 1
     [created_at] => Sun Nov 24 16:25:34 +0000 2013
     [favourites_count] => 547
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8397
+    [statuses_count] => 8398
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -34,7 +34,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 
+    [has_extended_profile] => 1
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
