@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 782251619480137728
     [id_str] => 782251619480137728
-    [name] => Scrib 🦀💙🌱
+    [name] => Scrib, but spooky 🦀💙🌱
     [screen_name] => scribblebear
     [location] => England
     [url] => https://ko-fi.com/scribblebear
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 534
     [listed_count] => 9
     [created_at] => Sat Oct 01 16:11:34 +0000 2016
-    [favourites_count] => 106801
+    [favourites_count] => 106802
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 52065
+    [statuses_count] => 52067
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
