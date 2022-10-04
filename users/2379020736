@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2379020736
     [id_str] => 2379020736
-    [name] => пупырь ежа #НетВойне
+    [name] => пупырь ежа
     [screen_name] => nik_avirem
     [location] => Wandsworth, London
     [url] => https://avirem.bandcamp.com/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 205
     [listed_count] => 2
     [created_at] => Sat Mar 08 17:08:29 +0000 2014
-    [favourites_count] => 221041
+    [favourites_count] => 221063
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 9132
+    [statuses_count] => 9134
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
