@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 430
     [listed_count] => 0
     [created_at] => Sun Apr 24 14:15:49 +0000 2022
-    [favourites_count] => 308
+    [favourites_count] => 309
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1549247255240216577/sbXxPA5D_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1549247255240216577/sbXxPA5D_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1518232194656915457/1658204412
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1577711500873142293/8-lIOtvy_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1577711500873142293/8-lIOtvy_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1518232194656915457/1664990693
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
