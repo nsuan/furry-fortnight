@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1028702123381469191
     [id_str] => 1028702123381469191
-    [name] => Khaz ☭ 💙
+    [name] => Khaz ☭
     [screen_name] => talendril123
     [location] => Discord: Khaz#1953
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 2451
     [listed_count] => 7
     [created_at] => Sun Aug 12 17:57:53 +0000 2018
-    [favourites_count] => 119167
+    [favourites_count] => 119168
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 26520
+    [statuses_count] => 26521
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
