@@ -7,7 +7,7 @@ stdClass Object
     [location] => Minneapolis, MN
     [url] => 
     [description] => always a work in progress | professional Twitter lurker | 30-something MN cryptid | she/her
-    [protected] => 
+    [protected] => 1
     [followers_count] => 15
     [friends_count] => 256
     [listed_count] => 0
