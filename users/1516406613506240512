@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1516406613506240512
     [id_str] => 1516406613506240512
-    [name] => マーズ
+    [name] => Pachimarsu
     [screen_name] => fel_n_disorder
     [location] => 
     [url] => https://www.artstation.com/marsuthewarlock
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1354
+    [statuses_count] => 1357
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
