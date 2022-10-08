@@ -10,11 +10,11 @@ stdClass Object
 
 btag: phae#1446
     [protected] => 
-    [followers_count] => 531
+    [followers_count] => 532
     [friends_count] => 2084
     [listed_count] => 5
     [created_at] => Fri Jul 01 02:35:42 +0000 2011
-    [favourites_count] => 16771
+    [favourites_count] => 16774
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
