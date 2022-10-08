@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2703764653
     [id_str] => 2703764653
-    [name] => ✨ Selthis ✨ POSSIBLE DF SPOILERS
+    [name] => ✨ Selthis ✨
     [screen_name] => SelthisMariana
     [location] => mage tower hell
     [url] => http://selthis.cosmicvo.id
@@ -16,12 +16,12 @@ stdClass Object
     [friends_count] => 1677
     [listed_count] => 3
     [created_at] => Sun Aug 03 09:43:50 +0000 2014
-    [favourites_count] => 59047
+    [favourites_count] => 59055
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 45899
+    [statuses_count] => 45906
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
