@@ -2,22 +2,23 @@ stdClass Object
 (
     [id] => 780797183092154369
     [id_str] => 780797183092154369
-    [name] => Aerian Buttglow
+    [name] => Aerian Sunglow
     [screen_name] => Juice_Gnugat
     [location] => Selma, CA
     [url] => 
-    [description] => I like long walks on the beach and butts.
+    [description] => Casually browsing this site. Not much of a social media fan.
+やあ、君を愛している!
     [protected] => 
     [followers_count] => 52
     [friends_count] => 483
     [listed_count] => 0
     [created_at] => Tue Sep 27 15:52:09 +0000 2016
-    [favourites_count] => 480
+    [favourites_count] => 477
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 551
+    [statuses_count] => 548
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +27,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1551399288927686658/l-tbcWKj_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1551399288927686658/l-tbcWKj_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/780797183092154369/1658686901
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1579216265339580416/Ttj3zv54_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1579216265339580416/Ttj3zv54_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/780797183092154369/1665349473
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
