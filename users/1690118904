@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1690118904
     [id_str] => 1690118904
-    [name] => ⭐️ Red The Wolf-Pegasus! ⭐️
+    [name] => 🎃 It’s Time For Halloween! 🎃
     [screen_name] => theredknight100
     [location] => Texas, USA
     [url] => http://www.youtube.com/user/theredknight100
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4092
     [listed_count] => 11
     [created_at] => Thu Aug 22 05:49:37 +0000 2013
-    [favourites_count] => 81802
+    [favourites_count] => 81789
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14958
+    [statuses_count] => 14959
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1573086209676644353/nHXLOspt_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1573086209676644353/nHXLOspt_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1690118904/1663887955
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1579212176178528260/o-PTowx2_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1579212176178528260/o-PTowx2_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1690118904/1665348498
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => FFFFFF
     [profile_sidebar_fill_color] => DDEEF6
