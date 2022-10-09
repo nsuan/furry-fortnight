@@ -11,15 +11,15 @@ stdClass Object
 #SMA3
     [protected] => 
     [followers_count] => 465
-    [friends_count] => 3058
+    [friends_count] => 3059
     [listed_count] => 1
     [created_at] => Thu Oct 31 01:45:43 +0000 2019
-    [favourites_count] => 43028
+    [favourites_count] => 43043
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12261
+    [statuses_count] => 12264
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
