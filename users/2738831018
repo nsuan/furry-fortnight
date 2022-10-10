@@ -10,15 +10,15 @@ stdClass Object
 bnnr @azorea
     [protected] => 
     [followers_count] => 4492
-    [friends_count] => 1080
+    [friends_count] => 1081
     [listed_count] => 64
     [created_at] => Sun Aug 17 02:36:14 +0000 2014
-    [favourites_count] => 22098
+    [favourites_count] => 22099
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 18541
+    [statuses_count] => 18542
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
