@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1361662855477616643
     [id_str] => 1361662855477616643
-    [name] => Anfisa. 🐰 Raffle pinned! ♥
+    [name] => Anfisa. 🐰 Raffle ended! ♥
     [screen_name] => sleepybnuny
     [location] => Italy
     [url] => https://sleepybnuny.carrd.co/#
@@ -15,15 +15,15 @@ stdClass Object
 http://ko-fi.com/sleepybnuny#
     [protected] => 
     [followers_count] => 170
-    [friends_count] => 883
+    [friends_count] => 885
     [listed_count] => 0
     [created_at] => Tue Feb 16 13:05:33 +0000 2021
-    [favourites_count] => 20475
+    [favourites_count] => 20472
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1850
+    [statuses_count] => 1851
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
