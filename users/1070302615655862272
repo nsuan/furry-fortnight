@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1070302615655862272
     [id_str] => 1070302615655862272
-    [name] => ingstad 🦷cmms closed
+    [name] => ingstad 🦷
     [screen_name] => demmmyn
     [location] => rostov-on-don
     [url] => https://ingstd.carrd.co/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 558
     [listed_count] => 25
     [created_at] => Wed Dec 05 13:03:23 +0000 2018
-    [favourites_count] => 15940
+    [favourites_count] => 15941
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2493
+    [statuses_count] => 2495
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
