@@ -10,7 +10,7 @@ stdClass Object
 Here be cat pics.
     [protected] => 
     [followers_count] => 5134
-    [friends_count] => 5246
+    [friends_count] => 5247
     [listed_count] => 104
     [created_at] => Sun Jun 17 21:43:08 +0000 2012
     [favourites_count] => 161990
@@ -18,7 +18,7 @@ Here be cat pics.
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 85682
+    [statuses_count] => 85687
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
