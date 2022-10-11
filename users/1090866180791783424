@@ -17,15 +17,15 @@ stdClass Object
 • 🇨🇦 • 🏳️‍🌈 • 🇳🇴 •
     [protected] => 
     [followers_count] => 404
-    [friends_count] => 1625
-    [listed_count] => 0
+    [friends_count] => 1624
+    [listed_count] => 1
     [created_at] => Thu Jan 31 06:55:39 +0000 2019
-    [favourites_count] => 281451
+    [favourites_count] => 281405
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 39487
+    [statuses_count] => 39488
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
