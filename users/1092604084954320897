@@ -13,14 +13,14 @@ Commission queue: 0/4 (closed)
     [protected] => 
     [followers_count] => 2156
     [friends_count] => 324
-    [listed_count] => 12
+    [listed_count] => 0
     [created_at] => Tue Feb 05 02:01:28 +0000 2019
-    [favourites_count] => 34701
+    [favourites_count] => 34514
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12166
+    [statuses_count] => 12090
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
