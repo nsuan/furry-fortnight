@@ -1,23 +1,28 @@
 stdClass Object
 (
-    [id] => 728243823680229376
-    [id_str] => 728243823680229376
-    [name] => Gently Nervous 😅
-    [screen_name] => howtofuckoff101
-    [location] => 
-    [url] => 
-    [description] => Sup I go by he/him I am a demisexual panromantic trans man, 25 yrs, transphobes, and minors etc. will be blocked, I dont need that kind of negativity in my life
-    [protected] => 1
-    [followers_count] => 138
-    [friends_count] => 2950
+    [id] => 1102305240227885058
+    [id_str] => 1102305240227885058
+    [name] => Viking Pan-King 🏳️‍🌈
+    [screen_name] => ThorgrimF
+    [location] => Limbic Lobe
+    [url] => https://twitter.com/ThorgrimF
+    [description] => Rescue Heros made me bi.
+I like mountains and nature, I have a beard.
+dungeons and dragons made me pan. 
+
+he/them
+Frick Terfs
+    [protected] => 
+    [followers_count] => 85
+    [friends_count] => 2284
     [listed_count] => 0
-    [created_at] => Thu May 05 15:23:52 +0000 2016
-    [favourites_count] => 45950
+    [created_at] => Sun Mar 03 20:30:23 +0000 2019
+    [favourites_count] => 36246
     [utc_offset] => 
     [time_zone] => 
-    [geo_enabled] => 1
+    [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3204
+    [statuses_count] => 3668
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,15 +31,15 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1394770012339019776/aAfhwazB_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1394770012339019776/aAfhwazB_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/728243823680229376/1605985742
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1261493437305516033/6ktsrIsw_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1261493437305516033/6ktsrIsw_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1102305240227885058/1591546591
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 1
+    [has_extended_profile] => 
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
