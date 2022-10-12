@@ -8,8 +8,8 @@ stdClass Object
     [url] => http://thedukes.org
     [description] => @DukeTwins' father. Test pilot. Rocket scientist. @Acceleroto founder. Amateur astronomer & photographer.
     [protected] => 
-    [followers_count] => 2888
-    [friends_count] => 2311
+    [followers_count] => 2885
+    [friends_count] => 2310
     [listed_count] => 176
     [created_at] => Sun May 04 15:52:30 +0000 2008
     [favourites_count] => 5651
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 28078
+    [statuses_count] => 28079
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
