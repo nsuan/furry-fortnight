@@ -7,9 +7,10 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => My lit'l place of NSFW stuff
+Be warned I draw at the speed of a turtle
     [protected] => 1
-    [followers_count] => 5
-    [friends_count] => 924
+    [followers_count] => 6
+    [friends_count] => 925
     [listed_count] => 0
     [created_at] => Sun Oct 17 21:20:27 +0000 2021
     [favourites_count] => 15651
@@ -17,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3090
+    [statuses_count] => 3092
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
