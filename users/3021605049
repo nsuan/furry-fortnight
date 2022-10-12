@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3021605049
     [id_str] => 3021605049
-    [name] => Volentis @ post Op recovery
+    [name] => Volentis
     [screen_name] => VerbaVolens
     [location] => 🇨🇦 (Québec)
     [url] => 
@@ -17,12 +17,12 @@ pfp:@YANM0RI
     [friends_count] => 197
     [listed_count] => 6
     [created_at] => Fri Feb 06 15:56:04 +0000 2015
-    [favourites_count] => 41053
+    [favourites_count] => 41195
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11100
+    [statuses_count] => 11123
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
