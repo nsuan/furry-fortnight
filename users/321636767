@@ -11,14 +11,14 @@ header:@VladHarabagiu icon @Slurku
     [protected] => 
     [followers_count] => 967
     [friends_count] => 2033
-    [listed_count] => 10
+    [listed_count] => 0
     [created_at] => Tue Jun 21 22:06:38 +0000 2011
-    [favourites_count] => 65694
+    [favourites_count] => 65698
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 48019
+    [statuses_count] => 48020
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
