@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 106224528
+    [id_str] => 106224528
+    [name] => Lazarus ✨🎃🕸👻🧛🏽‍♀️🧟💀
+    [screen_name] => niaOaklandish
+    [location] => from Oakland to Germany
+    [url] => http://nialazarus.com
+    [description] => sometimes I tweet; views mine ✦ Deaf ✦ ASL, DGS + more ✦ Linguistics + Education + Social Justice ✦ PhD candidate @UniCologne
+    [protected] => 
+    [followers_count] => 950
+    [friends_count] => 917
+    [listed_count] => 7
+    [created_at] => Mon Jan 18 22:04:59 +0000 2010
+    [favourites_count] => 141600
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 1
+    [verified] => 
+    [statuses_count] => 12553
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => 022330
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme15/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme15/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1305102488819904518/dzfP_GFc_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1305102488819904518/dzfP_GFc_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/106224528/1454219369
+    [profile_link_color] => AB0505
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => C0DFEC
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)
