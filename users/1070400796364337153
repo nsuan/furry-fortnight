@@ -10,15 +10,15 @@ stdClass Object
 http://giums.carrd.co
     [protected] => 
     [followers_count] => 960
-    [friends_count] => 906
+    [friends_count] => 908
     [listed_count] => 5
     [created_at] => Wed Dec 05 19:33:31 +0000 2018
-    [favourites_count] => 5581
+    [favourites_count] => 5592
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1716
+    [statuses_count] => 1722
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,7 +29,7 @@ http://giums.carrd.co
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1070401913026478080/FTbc5rmx_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1070401913026478080/FTbc5rmx_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1070400796364337153/1616954907
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1070400796364337153/1665887230
     [profile_link_color] => FF0000
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
