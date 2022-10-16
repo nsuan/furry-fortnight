@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 549605629
     [id_str] => 549605629
-    [name] => Nathan | Commissions open! Info@pinned
+    [name] => Nathan
     [screen_name] => TheIronleaf
     [location] => In the gutter
     [url] => https://theironleaf.carrd.co/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1746
     [listed_count] => 4
     [created_at] => Mon Apr 09 22:39:11 +0000 2012
-    [favourites_count] => 18998
+    [favourites_count] => 18999
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17237
+    [statuses_count] => 17239
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
