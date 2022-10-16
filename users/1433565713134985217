@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1433565713134985217
     [id_str] => 1433565713134985217
-    [name] => Agent 🏳️‍⚧️ COMMISSIONS CLOSED / BACKED UP
+    [name] => Agent COMMISSIONS CLOSED / BACKED UP
     [screen_name] => corvidica
     [location] => 
     [url] => https://ko-fi.com/corvidica
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3331
+    [statuses_count] => 3332
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
