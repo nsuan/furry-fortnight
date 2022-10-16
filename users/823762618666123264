@@ -10,7 +10,7 @@ stdClass Object
 I wish i had something interesting to put here
     [protected] => 
     [followers_count] => 43
-    [friends_count] => 212
+    [friends_count] => 211
     [listed_count] => 0
     [created_at] => Tue Jan 24 05:21:27 +0000 2017
     [favourites_count] => 5921
@@ -18,7 +18,7 @@ I wish i had something interesting to put here
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14712
+    [statuses_count] => 14713
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
