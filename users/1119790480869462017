@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1119790480869462017
     [id_str] => 1119790480869462017
-    [name] => Cuppo
+    [name] => De Lux
     [screen_name] => Cup_o_Color
     [location] => He/they
     [url] => https://www.twitch.tv/cup_o_color
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 1227
     [listed_count] => 0
     [created_at] => Sun Apr 21 02:30:30 +0000 2019
-    [favourites_count] => 21688
+    [favourites_count] => 21689
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
