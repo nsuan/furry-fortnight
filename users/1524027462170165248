@@ -11,15 +11,15 @@ stdClass Object
 Artistic.
     [protected] => 
     [followers_count] => 93
-    [friends_count] => 422
+    [friends_count] => 423
     [listed_count] => 0
     [created_at] => Tue May 10 14:21:12 +0000 2022
-    [favourites_count] => 5932
+    [favourites_count] => 5935
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6776
+    [statuses_count] => 6777
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
