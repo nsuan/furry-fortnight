@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 258657758
     [id_str] => 258657758
-    [name] => dee
+    [name] => port: 22, 3389 / permit_ip: 0.0.0.0/0
     [screen_name] => afterwits
     [location] => 
     [url] => http://web.archive.org/web/20150221125906/http://www.sewingandembroiderywarehouse.com/embtrb.htm
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 401
     [listed_count] => 65
     [created_at] => Mon Feb 28 05:25:32 +0000 2011
-    [favourites_count] => 221260
+    [favourites_count] => 221261
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 26683
+    [statuses_count] => 26686
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
