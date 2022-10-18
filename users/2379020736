@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2379020736
     [id_str] => 2379020736
-    [name] => пупырь ежа
+    [name] => Nick Avirem
     [screen_name] => nik_avirem
     [location] => Wandsworth, London
     [url] => https://avirem.bandcamp.com/
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 9220
+    [statuses_count] => 9224
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
