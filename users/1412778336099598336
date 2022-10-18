@@ -9,7 +9,7 @@ stdClass Object
     [description] => I like art, 21, he/him
     [protected] => 
     [followers_count] => 26
-    [friends_count] => 4533
+    [friends_count] => 4532
     [listed_count] => 0
     [created_at] => Wed Jul 07 14:19:47 +0000 2021
     [favourites_count] => 66774
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4292
+    [statuses_count] => 4291
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
