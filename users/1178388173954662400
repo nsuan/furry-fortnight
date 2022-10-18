@@ -11,15 +11,15 @@ stdClass Object
  pfp: @thesonaler
     [protected] => 
     [followers_count] => 508
-    [friends_count] => 4100
-    [listed_count] => 0
+    [friends_count] => 4101
+    [listed_count] => 5
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
-    [favourites_count] => 14560
+    [favourites_count] => 14561
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3944
+    [statuses_count] => 3945
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
