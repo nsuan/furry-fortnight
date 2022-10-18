@@ -10,16 +10,16 @@ stdClass Object
 
 https://www.dmsguild.com/product/380078?src=twi
     [protected] => 
-    [followers_count] => 525
-    [friends_count] => 3346
+    [followers_count] => 524
+    [friends_count] => 3347
     [listed_count] => 3
     [created_at] => Thu Dec 16 15:04:09 +0000 2021
-    [favourites_count] => 1216
+    [favourites_count] => 1220
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 579
+    [statuses_count] => 580
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
