@@ -11,15 +11,15 @@ stdClass Object
 COMMISSION STATUS: full
     [protected] => 
     [followers_count] => 10620
-    [friends_count] => 3510
-    [listed_count] => 53
+    [friends_count] => 3506
+    [listed_count] => 54
     [created_at] => Sun Mar 13 00:56:05 +0000 2011
-    [favourites_count] => 92157
+    [favourites_count] => 92176
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 29477
+    [statuses_count] => 29478
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
