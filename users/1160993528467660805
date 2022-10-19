@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1160993528467660805
     [id_str] => 1160993528467660805
-    [name] => pedro tu
+    [name] => pedro tu μυστικός
     [screen_name] => Pax_artem
     [location] => 
     [url] => 
@@ -18,7 +18,7 @@ Ele/dele
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14993
+    [statuses_count] => 14995
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
