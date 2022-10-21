@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1069690154351132672
     [id_str] => 1069690154351132672
-    [name] => Ikayuro @ ArtFight!
+    [name] => Ikayuro
     [screen_name] => ikayuro
     [location] => Buried Beneath a Pile of Books
     [url] => https://ikayuro-arts.carrd.co/
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3233
+    [statuses_count] => 3235
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
