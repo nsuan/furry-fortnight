@@ -10,15 +10,15 @@ stdClass Object
 I wish i had something interesting to put here
     [protected] => 
     [followers_count] => 43
-    [friends_count] => 213
+    [friends_count] => 214
     [listed_count] => 0
     [created_at] => Tue Jan 24 05:21:27 +0000 2017
-    [favourites_count] => 5961
+    [favourites_count] => 5963
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14764
+    [statuses_count] => 14765
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
