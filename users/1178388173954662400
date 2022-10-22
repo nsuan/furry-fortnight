@@ -11,15 +11,15 @@ stdClass Object
  pfp: @seylgark
     [protected] => 
     [followers_count] => 509
-    [friends_count] => 4154
+    [friends_count] => 4156
     [listed_count] => 5
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
-    [favourites_count] => 14687
+    [favourites_count] => 14688
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3961
+    [statuses_count] => 3962
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
