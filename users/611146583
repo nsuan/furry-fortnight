@@ -10,15 +10,15 @@ stdClass Object
 Here be cat pics.
     [protected] => 
     [followers_count] => 5154
-    [friends_count] => 5273
+    [friends_count] => 5272
     [listed_count] => 104
     [created_at] => Sun Jun 17 21:43:08 +0000 2012
-    [favourites_count] => 162872
+    [favourites_count] => 162873
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 86116
+    [statuses_count] => 86118
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
