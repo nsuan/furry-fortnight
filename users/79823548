@@ -10,8 +10,8 @@ stdClass Object
 
 "Você sempre vai ser o amor da minha vida."
     [protected] => 
-    [followers_count] => 627
-    [friends_count] => 2596
+    [followers_count] => 628
+    [friends_count] => 2597
     [listed_count] => 0
     [created_at] => Sun Oct 04 20:32:47 +0000 2009
     [favourites_count] => 79071
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3917
+    [statuses_count] => 3916
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
