@@ -10,15 +10,15 @@ stdClass Object
 All thoughts are my own.
     [protected] => 1
     [followers_count] => 24
-    [friends_count] => 1372
+    [friends_count] => 1375
     [listed_count] => 0
     [created_at] => Tue Feb 01 07:53:15 +0000 2022
-    [favourites_count] => 349
+    [favourites_count] => 350
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 64
+    [statuses_count] => 65
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
