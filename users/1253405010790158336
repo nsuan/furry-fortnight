@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1253405010790158336
     [id_str] => 1253405010790158336
-    [name] => teeth
+    [name] => gone/inactive
     [screen_name] => a_scytale
     [location] => uwu island
     [url] => 
@@ -10,7 +10,7 @@ stdClass Object
 - big robot fan
 - i'm a famous actor
 - gender critical ftm guy
-    [protected] => 
+    [protected] => 1
     [followers_count] => 18
     [friends_count] => 1347
     [listed_count] => 1
