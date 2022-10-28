@@ -9,7 +9,7 @@ stdClass Object
     [description] => I do stuff sometimes.
     [protected] => 
     [followers_count] => 2730
-    [friends_count] => 4889
+    [friends_count] => 4887
     [listed_count] => 7
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
     [favourites_count] => 56921
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 68191
+    [statuses_count] => 68195
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
