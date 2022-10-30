@@ -10,16 +10,16 @@ stdClass Object
 
 Shinzou wo Sasageyo!
     [protected] => 
-    [followers_count] => 622
-    [friends_count] => 723
+    [followers_count] => 0
+    [friends_count] => 0
     [listed_count] => 0
     [created_at] => Mon Aug 08 17:20:34 +0000 2022
-    [favourites_count] => 6541
+    [favourites_count] => 1
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9845
+    [statuses_count] => 9843
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,8 +28,8 @@ Shinzou wo Sasageyo!
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1586494593167753221/DDth2Zrq_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1586494593167753221/DDth2Zrq_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1586697695342764032/lOGS7XHV_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1586697695342764032/lOGS7XHV_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1556691802538786817/1666789935
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
