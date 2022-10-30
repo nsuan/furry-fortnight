@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => shieldmaven
     [location] => 
     [url] => 
-    [description] => Alex - 28 - he/him - lesbian - loves video games and anime girls
+    [description] => 
     [protected] => 
     [followers_count] => 47
     [friends_count] => 253
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 11888
+    [statuses_count] => 11877
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
