@@ -14,15 +14,15 @@ Dag Dag
 Nodejs
     [protected] => 
     [followers_count] => 304
-    [friends_count] => 4996
+    [friends_count] => 4995
     [listed_count] => 2
     [created_at] => Sat Apr 28 21:23:19 +0000 2012
-    [favourites_count] => 26559
+    [favourites_count] => 26563
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14695
+    [statuses_count] => 14698
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
