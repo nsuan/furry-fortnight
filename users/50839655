@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 50839655
     [id_str] => 50839655
-    [name] => DaSpooky
+    [name] => Dasacht
     [screen_name] => Dasacht
     [location] => Ireland, Limerick
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 67891
+    [statuses_count] => 67892
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
