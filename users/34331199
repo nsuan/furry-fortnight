@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 34331199
     [id_str] => 34331199
-    [name] => Puck booboo
+    [name] => Puck
     [screen_name] => puckeroo
     [location] => Iron Mountain, MI
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 16839
+    [statuses_count] => 16842
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
