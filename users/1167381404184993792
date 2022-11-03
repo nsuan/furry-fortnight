@@ -11,7 +11,7 @@ stdClass Object
 🖌️@peter_spiecker
     [protected] => 
     [followers_count] => 42
-    [friends_count] => 436
+    [friends_count] => 437
     [listed_count] => 1
     [created_at] => Fri Aug 30 10:20:03 +0000 2019
     [favourites_count] => 2171
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 465
+    [statuses_count] => 464
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
