@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void void
     [protected] => 
-    [followers_count] => 916
-    [friends_count] => 637
+    [followers_count] => 915
+    [friends_count] => 636
     [listed_count] => 7
     [created_at] => Wed Sep 12 02:34:43 +0000 2012
     [favourites_count] => 44888
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 59892
+    [statuses_count] => 59893
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
