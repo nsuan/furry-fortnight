@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1242099034577186817
     [id_str] => 1242099034577186817
-    [name] => Blizzard pins collector💙
+    [name] => Blizzard pins collector
     [screen_name] => BlizzardpinAlan
     [location] => Southern District, Hong Kong
     [url] => 
-    [description] => I am a blizzard pins collector from Hong Kong. For now, I’m missing 17 pins to complete all blizzard pins collections. dm me if you have some rare pins!
+    [description] => I am a blizzard pins collector from Hong Kong. For now, I’m missing 16 pins to complete all blizzard pins collections. dm me if you have some rare pins!
     [protected] => 
     [followers_count] => 24
     [friends_count] => 136
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 473
+    [statuses_count] => 472
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
