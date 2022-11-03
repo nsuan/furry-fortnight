@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1305168709900664835
     [id_str] => 1305168709900664835
-    [name] => BalGov (Commission Closed)
+    [name] => BalGov (Commission Open)
     [screen_name] => GovindaIqbal
     [location] => 
     [url] => 
-    [description] => indonesian | artist (5/5 Slots ) IG @BalGov Devianart @BalGov
+    [description] => indonesian | artist (4/5 Slots ) IG @BalGov Devianart @BalGov
     [protected] => 
     [followers_count] => 317
     [friends_count] => 528
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 162
+    [statuses_count] => 163
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
