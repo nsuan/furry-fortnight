@@ -12,15 +12,15 @@ stdClass Object
 Personal:🗡 @RogueStabby 🗡
     [protected] => 
     [followers_count] => 6029
-    [friends_count] => 4681
+    [friends_count] => 4680
     [listed_count] => 93
     [created_at] => Fri Nov 15 19:30:05 +0000 2013
-    [favourites_count] => 251593
+    [favourites_count] => 251602
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 76192
+    [statuses_count] => 76194
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
