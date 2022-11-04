@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => I do stuff sometimes.
-    [protected] => 1
+    [protected] => 
     [followers_count] => 2745
     [friends_count] => 4895
     [listed_count] => 7
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 68777
+    [statuses_count] => 68778
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
