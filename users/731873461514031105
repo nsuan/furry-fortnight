@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => Hagiozgames
     [location] => Ocala, FL
     [url] => 
-    [description] => This is my new twitter for my new youtube channel I hope you enjoy https://www.youtube.com/channel/UCUBHW-g-SGq-WDydJ6KIMnA
+    [description] => This is my new twitter for my new youtube channel I hope you enjoy http://youtube.com/hagiosgames
     [protected] => 
     [followers_count] => 172
     [friends_count] => 624
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2670
+    [statuses_count] => 2671
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
