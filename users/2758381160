@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => I do stuff sometimes.
     [protected] => 
-    [followers_count] => 2748
-    [friends_count] => 4896
+    [followers_count] => 2747
+    [friends_count] => 4894
     [listed_count] => 7
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
     [favourites_count] => 57447
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 68863
+    [statuses_count] => 68864
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
