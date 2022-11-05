@@ -14,15 +14,15 @@ stdClass Object
 pfp: @FIYUNAE
     [protected] => 
     [followers_count] => 279
-    [friends_count] => 938
+    [friends_count] => 945
     [listed_count] => 5
     [created_at] => Tue Nov 09 22:53:17 +0000 2021
-    [favourites_count] => 3301
+    [favourites_count] => 3302
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1612
+    [statuses_count] => 1614
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
