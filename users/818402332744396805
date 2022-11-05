@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 818402332744396805
     [id_str] => 818402332744396805
-    [name] => 🍂 Kaelystra 🍂🎃
+    [name] => 🍂 Kaelystra 🍂
     [screen_name] => kaelystrasza
     [location] => Station Square
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1807
     [listed_count] => 3
     [created_at] => Mon Jan 09 10:21:36 +0000 2017
-    [favourites_count] => 50027
+    [favourites_count] => 50028
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19558
+    [statuses_count] => 19559
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
