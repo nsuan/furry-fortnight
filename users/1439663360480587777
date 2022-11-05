@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => I am healthy, I am wealthy , I am divine everything comes to me in the perfect time, I am hot I am rich, I’m so fine universe and me are aligned
-    [protected] => 1
+    [protected] => 
     [followers_count] => 4
     [friends_count] => 787
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3201
+    [statuses_count] => 3206
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
