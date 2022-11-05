@@ -12,7 +12,7 @@ stdClass Object
 https://imgur.com/a/0OiUv8D
     [protected] => 
     [followers_count] => 673
-    [friends_count] => 586
+    [friends_count] => 585
     [listed_count] => 2
     [created_at] => Sat Oct 22 15:26:57 +0000 2016
     [favourites_count] => 12860
@@ -20,7 +20,7 @@ https://imgur.com/a/0OiUv8D
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2187
+    [statuses_count] => 2188
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
