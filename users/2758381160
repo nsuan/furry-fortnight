@@ -7,8 +7,8 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => I do stuff sometimes.
-    [protected] => 
-    [followers_count] => 2742
+    [protected] => 1
+    [followers_count] => 2741
     [friends_count] => 4752
     [listed_count] => 7
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
