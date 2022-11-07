@@ -6,18 +6,20 @@ stdClass Object
     [screen_name] => Nemo2342
     [location] => Anchorage, Alaska
     [url] => 
-    [description] => He/Him. All opinions expressed are my own, except for the ones I have stolen from other people. Icon by @Ashinthepan, banner by @Alreesa92
+    [description] => He/Him. All opinions expressed are my own, except for the ones I have stolen from other people. Icon = @Ashinthepan, banner = @Alreesa92
+
+@Nemo2342@mastodon.art
     [protected] => 
     [followers_count] => 1066
     [friends_count] => 1108
     [listed_count] => 44
     [created_at] => Sun Jul 06 03:18:06 +0000 2014
-    [favourites_count] => 188903
+    [favourites_count] => 188904
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 134579
+    [statuses_count] => 134580
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
