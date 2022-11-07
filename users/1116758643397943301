@@ -3,7 +3,7 @@ stdClass Object
     [id] => 1116758643397943301
     [id_str] => 1116758643397943301
     [name] => Working on Starscrypt! woot!woot!
-    [screen_name] => CinnriStarling
+    [screen_name] => NightElfPaladin
     [location] => Selenari
     [url] => http://twitch.tv/cinnristarling
     [description] => Art only account for Cinnri "Dusk" Starling
@@ -12,11 +12,11 @@ Webcomic: @starscrypt
 Personal Account: @NightElfPaladin
 Wannabe #ENVTuber
     [protected] => 
-    [followers_count] => 1756
+    [followers_count] => 1755
     [friends_count] => 1167
-    [listed_count] => 31
+    [listed_count] => 30
     [created_at] => Fri Apr 12 17:43:03 +0000 2019
-    [favourites_count] => 7845
+    [favourites_count] => 7840
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 

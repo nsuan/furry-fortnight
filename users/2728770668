@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2728770668
     [id_str] => 2728770668
-    [name] => 🏳️‍⚧️ Salix, Morally Reprehensible Zenos Enjoyer
+    [name] => 🏳️‍⚧️ Salix, and what are you gonna do about it
     [screen_name] => banderjack
     [location] => USA
     [url] => https://www.deviantart.com/banderjack
@@ -15,14 +15,14 @@ Show me dragons!
     [protected] => 
     [followers_count] => 95
     [friends_count] => 637
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Wed Aug 13 06:51:09 +0000 2014
-    [favourites_count] => 37434
+    [favourites_count] => 37438
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16447
+    [statuses_count] => 16450
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
