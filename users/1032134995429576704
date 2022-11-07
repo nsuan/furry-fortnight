@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1032134995429576704
     [id_str] => 1032134995429576704
-    [name] => 🦇Maggie the Mage🕸
+    [name] => 🍄Maggie the Mage🍁
     [screen_name] => maggieemage
     [location] => Laguna Niguel, CA
     [url] => 
@@ -10,14 +10,14 @@ stdClass Object
     [protected] => 
     [followers_count] => 436
     [friends_count] => 4990
-    [listed_count] => 0
+    [listed_count] => 2
     [created_at] => Wed Aug 22 05:18:53 +0000 2018
-    [favourites_count] => 86400
+    [favourites_count] => 86406
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 21327
+    [statuses_count] => 21329
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
