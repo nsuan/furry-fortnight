@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2482712678
     [id_str] => 2482712678
-    [name] => Burning Rat on a Sinking Ship
+    [name] => Carrington Event Live Tweets
     [screen_name] => twoamcoffee
     [location] => Seattle, WA
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6199
+    [statuses_count] => 6200
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
