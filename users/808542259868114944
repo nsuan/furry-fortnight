@@ -9,7 +9,7 @@ stdClass Object
     [description] => Oh you know
     [protected] => 
     [followers_count] => 456
-    [friends_count] => 1551
+    [friends_count] => 1552
     [listed_count] => 9
     [created_at] => Tue Dec 13 05:21:11 +0000 2016
     [favourites_count] => 76516
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 55156
+    [statuses_count] => 55155
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
