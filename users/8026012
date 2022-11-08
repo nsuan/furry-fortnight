@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => wildbill
     [location] => Gilroy, California
     [url] => http://wildbill.nulldevice.net
-    [description] => Father, Sysadmin, Writer, Nerd. Usually in that order, but not necessarily. Working at Apple. Was once Virtual Editor for @LinuxJournal. G8 GXP Driver.
+    [description] => Father, Sysadmin, Writer, Nerd. Usually in that order. Maps @ . Ex-Virtual Editor for @LinuxJournal. G8 GXP Driver. @wildbill@mastodon.social
     [protected] => 
     [followers_count] => 1405
     [friends_count] => 2440
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 37251
+    [statuses_count] => 37253
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
