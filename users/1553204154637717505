@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1553204154637717505
     [id_str] => 1553204154637717505
-    [name] => saint's halloween name
+    [name] => saintlight celebration
     [screen_name] => saintpesters
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 46
     [listed_count] => 1
     [created_at] => Sat Jul 30 02:28:56 +0000 2022
-    [favourites_count] => 4556
+    [favourites_count] => 4558
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2731
+    [statuses_count] => 2735
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
