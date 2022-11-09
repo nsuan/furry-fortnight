@@ -11,7 +11,7 @@ stdClass Object
      November Comms: OPEN
     [protected] => 
     [followers_count] => 222
-    [friends_count] => 809
+    [friends_count] => 808
     [listed_count] => 15
     [created_at] => Thu Mar 19 17:53:04 +0000 2015
     [favourites_count] => 6560
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2839
+    [statuses_count] => 2840
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
