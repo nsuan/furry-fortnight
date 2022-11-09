@@ -15,7 +15,7 @@ stdClass Object
 • ↓ Follow me here ↓
     [protected] => 
     [followers_count] => 1394
-    [friends_count] => 3337
+    [friends_count] => 3338
     [listed_count] => 10
     [created_at] => Fri Nov 23 22:57:47 +0000 2012
     [favourites_count] => 10048
@@ -23,7 +23,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2737
+    [statuses_count] => 2738
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
