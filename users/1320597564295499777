@@ -9,7 +9,7 @@ stdClass Object
     [description] => personal account 29 they/them @thecoops_s
     [protected] => 
     [followers_count] => 226
-    [friends_count] => 222
+    [friends_count] => 223
     [listed_count] => 1
     [created_at] => Mon Oct 26 05:26:25 +0000 2020
     [favourites_count] => 8068
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2653
+    [statuses_count] => 2654
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
