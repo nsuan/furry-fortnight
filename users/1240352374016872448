@@ -12,16 +12,16 @@ stdClass Object
 ⭸  h: @milkcubus
 ⭸  pfp: @trannnah
     [protected] => 
-    [followers_count] => 850
-    [friends_count] => 1768
+    [followers_count] => 849
+    [friends_count] => 1767
     [listed_count] => 9
     [created_at] => Wed Mar 18 19:00:31 +0000 2020
-    [favourites_count] => 24776
+    [favourites_count] => 24778
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7313
+    [statuses_count] => 7314
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
