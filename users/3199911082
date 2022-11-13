@@ -15,16 +15,16 @@ Twitch: http://twitch.tv/TweeterTheElf
 
 TikTok:
     [protected] => 
-    [followers_count] => 242
+    [followers_count] => 243
     [friends_count] => 1066
-    [listed_count] => 0
+    [listed_count] => 8
     [created_at] => Fri Apr 24 02:54:59 +0000 2015
-    [favourites_count] => 188621
+    [favourites_count] => 188615
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 66179
+    [statuses_count] => 66180
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
