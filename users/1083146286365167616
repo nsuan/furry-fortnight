@@ -11,14 +11,14 @@ NO MINORS.
     [protected] => 
     [followers_count] => 365
     [friends_count] => 1304
-    [listed_count] => 0
+    [listed_count] => 12
     [created_at] => Wed Jan 09 23:39:33 +0000 2019
-    [favourites_count] => 14483
+    [favourites_count] => 14488
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3198
+    [statuses_count] => 3199
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
