@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 731976774171516928
     [id_str] => 731976774171516928
-    [name] => The News Nerd on Eorzea
+    [name] => The News Nerd on Azeroth
     [screen_name] => newsnerdooc
     [location] => Azeroth and the Interwebs 
     [url] => 
-    [description] => IRL Journalist and DnD dweeb. I stan for Runeterra, Eorzea, Azeroth.
+    [description] => IRL Journalist and DnD dweeb. 29, I write OCs in Dungeons and Dragons as well as Azeroth.
     [protected] => 
     [followers_count] => 107
     [friends_count] => 687
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 627
+    [statuses_count] => 629
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
