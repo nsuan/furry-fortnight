@@ -11,7 +11,7 @@ stdClass Object
 pfp: @plasticrainart
     [protected] => 
     [followers_count] => 156
-    [friends_count] => 677
+    [friends_count] => 676
     [listed_count] => 1
     [created_at] => Mon Nov 17 22:20:27 +0000 2008
     [favourites_count] => 12816
@@ -19,7 +19,7 @@ pfp: @plasticrainart
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11055
+    [statuses_count] => 11056
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
