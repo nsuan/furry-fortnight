@@ -11,15 +11,15 @@ stdClass Object
  Header @thedinosaurmann
     [protected] => 
     [followers_count] => 513
-    [friends_count] => 4245
+    [friends_count] => 4247
     [listed_count] => 6
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
-    [favourites_count] => 15118
+    [favourites_count] => 15120
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 4045
+    [statuses_count] => 4046
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
