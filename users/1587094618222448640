@@ -2,13 +2,13 @@ stdClass Object
 (
     [id] => 1587094618222448640
     [id_str] => 1587094618222448640
-    [name] => You can do #NaNoWriMo2022
+    [name] => #NaNoWriMo2022 in 15 minute sprints!
     [screen_name] => nanowrimo2022
     [location] => 
     [url] => 
-    [description] => Novelist/teacher Kim Purcell @kimberlypurcell. #Nanowrimo tips for busy people! Instagram: writingforbusypeople. I believe anyone can write a book!
+    [description] => Novelist Kim Purcell @kimberlypurcell. Trafficked (Penguin) and This is Not a Love Letter (Hyperion) Instagram: writingforbusypeople.
     [protected] => 
-    [followers_count] => 375
+    [followers_count] => 378
     [friends_count] => 3004
     [listed_count] => 1
     [created_at] => Mon Oct 31 14:50:43 +0000 2022
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 49
+    [statuses_count] => 51
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
