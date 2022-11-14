@@ -9,7 +9,7 @@ stdClass Object
     [description] => Just a normal guy being social and looking at Artist's works.
     [protected] => 
     [followers_count] => 73
-    [friends_count] => 2171
+    [friends_count] => 2173
     [listed_count] => 15
     [created_at] => Fri Apr 30 10:10:28 +0000 2021
     [favourites_count] => 16578
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3052
+    [statuses_count] => 3054
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
