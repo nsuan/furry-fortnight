@@ -2,18 +2,17 @@ stdClass Object
 (
     [id] => 492458671
     [id_str] => 492458671
-    [name] => Mars Weber
+    [name] => LoveYou
     [screen_name] => Weber2002
     [location] => Hamburg, Deutschland
     [url] => https://www.artstation.com/mariusschipor
-    [description] => Artist from Germany, Hamburg 🇩🇪🌍
-Full time failure. 25
+    [description] => 
     [protected] => 
     [followers_count] => 244
-    [friends_count] => 4985
+    [friends_count] => 4986
     [listed_count] => 0
     [created_at] => Tue Feb 14 19:00:06 +0000 2012
-    [favourites_count] => 78969
+    [favourites_count] => 78975
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -27,8 +26,8 @@ Full time failure. 25
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1288999406382002180/PUCXs5bK_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1288999406382002180/PUCXs5bK_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1592251914456125440/gN2-LLMM_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1592251914456125440/gN2-LLMM_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/492458671/1594506857
     [profile_link_color] => 29716A
     [profile_sidebar_border_color] => 000000
