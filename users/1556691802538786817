@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 1556691802538786817
     [id_str] => 1556691802538786817
-    [name] => Nad
+    [name] => Modo avión
     [screen_name] => _MinnieStitch_
     [location] => Velaris 💫🏔️
     [url] => https://worldofwarcraft.com/es-es/character/eu/shendralar/diysare
     [description] => The city lights gilded his face. “I love my people, and my family. Do not think I wouldn’t become a monster to keep them protected.”
     [protected] => 
-    [followers_count] => 617
-    [friends_count] => 722
+    [followers_count] => 615
+    [friends_count] => 721
     [listed_count] => 0
     [created_at] => Mon Aug 08 17:20:34 +0000 2022
     [favourites_count] => 7000
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10943
+    [statuses_count] => 10946
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
