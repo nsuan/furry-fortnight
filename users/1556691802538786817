@@ -7,7 +7,7 @@ stdClass Object
     [location] => Velaris 💫🏔️
     [url] => https://worldofwarcraft.com/es-es/character/eu/shendralar/diysare
     [description] => Andaluza en tierras madrileñas adicta a la lectura. Otako por obligación. Ravenclaw y no soporto a los de Hufflepuff. Disney. Flamenca vibes.
-    [protected] => 
+    [protected] => 1
     [followers_count] => 614
     [friends_count] => 718
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11060
+    [statuses_count] => 11059
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
