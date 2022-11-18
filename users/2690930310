@@ -12,7 +12,7 @@ stdClass Object
 ✦ pfp: @straybeetle & banner: @kokuuhakuu
     [protected] => 
     [followers_count] => 2557
-    [friends_count] => 992
+    [friends_count] => 991
     [listed_count] => 6
     [created_at] => Tue Jul 29 20:05:20 +0000 2014
     [favourites_count] => 407834
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 112933
+    [statuses_count] => 112936
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
