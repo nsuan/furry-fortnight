@@ -13,16 +13,16 @@ stdClass Object
 Header: @saltmatey
 PfP: @sylessae
     [protected] => 
-    [followers_count] => 626
+    [followers_count] => 627
     [friends_count] => 1625
     [listed_count] => 4
     [created_at] => Sat Jun 20 02:13:04 +0000 2009
-    [favourites_count] => 38253
+    [favourites_count] => 38256
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5730
+    [statuses_count] => 5708
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
