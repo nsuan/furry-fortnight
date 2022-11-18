@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1404392240596754437
     [id_str] => 1404392240596754437
-    [name] => K a t z i 🏳️‍🌈
+    [name] => K a t z i 🏳️‍🌈 @katzi@mastodon.nz
     [screen_name] => CaelKatzi
     [location] => Aotearoa New Zealand 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 483
     [listed_count] => 0
     [created_at] => Mon Jun 14 10:56:48 +0000 2021
-    [favourites_count] => 42315
+    [favourites_count] => 42319
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 15746
+    [statuses_count] => 15752
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
