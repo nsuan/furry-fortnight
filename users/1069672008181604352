@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => Just here to vibe and talk about what I like!!
 24 | swe | Art: @tardii_art
-    [protected] => 
+    [protected] => 1
     [followers_count] => 49
     [friends_count] => 141
     [listed_count] => 0
@@ -18,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 957
+    [statuses_count] => 958
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
