@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1068126926596964352
     [id_str] => 1068126926596964352
-    [name] => knell
+    [name] => ouro
     [screen_name] => ourosnoreos
     [location] => 
     [url] => 
-    [description] => there is a better world / oh, there must be (icon  by @cozyhuii) / vent acc, friends only
+    [description] => there is a better world / oh, there must be (icon by @0110_maia) / vent acc, friends only
     [protected] => 1
     [followers_count] => 15
     [friends_count] => 197
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 50
+    [statuses_count] => 51
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1555837235835965441/5iOYpLem_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1555837235835965441/5iOYpLem_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1593403195338149888/p-XLv1f0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1593403195338149888/p-XLv1f0_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/1068126926596964352/1664749356
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
