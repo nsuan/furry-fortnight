@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => 23 year old dude person just retweeting stuff without looking
     [protected] => 
-    [followers_count] => 155
+    [followers_count] => 156
     [friends_count] => 2605
     [listed_count] => 4
     [created_at] => Sun Sep 23 14:36:37 +0000 2018
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 70883
+    [statuses_count] => 70882
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
