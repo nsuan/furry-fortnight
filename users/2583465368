@@ -10,8 +10,8 @@ stdClass Object
 
 ♦️http://ninamodaffari.com
     [protected] => 
-    [followers_count] => 15835
-    [friends_count] => 4956
+    [followers_count] => 15830
+    [friends_count] => 4957
     [listed_count] => 219
     [created_at] => Mon Jun 23 06:26:50 +0000 2014
     [favourites_count] => 122040
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 28532
+    [statuses_count] => 28533
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
