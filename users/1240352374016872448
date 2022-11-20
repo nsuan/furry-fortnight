@@ -11,16 +11,16 @@ stdClass Object
 ⭸  h: @milkcubus
 ⭸  pfp: @_ayaben
     [protected] => 
-    [followers_count] => 876
+    [followers_count] => 875
     [friends_count] => 1800
     [listed_count] => 9
     [created_at] => Wed Mar 18 19:00:31 +0000 2020
-    [favourites_count] => 24924
+    [favourites_count] => 24926
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7410
+    [statuses_count] => 7411
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
