@@ -8,7 +8,7 @@ stdClass Object
     [url] => https://linktr.ee/altoh_gg
     [description] => Light shows and gaming
 TLNT / Team LED - Altoh
-    [protected] => 1
+    [protected] => 
     [followers_count] => 83
     [friends_count] => 745
     [listed_count] => 0
@@ -18,7 +18,7 @@ TLNT / Team LED - Altoh
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3610
+    [statuses_count] => 3626
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
