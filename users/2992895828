@@ -12,15 +12,15 @@ ACE
 30 something
     [protected] => 
     [followers_count] => 708
-    [friends_count] => 4687
+    [friends_count] => 4686
     [listed_count] => 8
     [created_at] => Fri Jan 23 04:21:48 +0000 2015
-    [favourites_count] => 293573
+    [favourites_count] => 293593
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 43084
+    [statuses_count] => 43086
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
