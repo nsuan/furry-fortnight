@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => https://www.clippings.me/users/pbarstad
     [description] => Writer, editor, and gamer. Local dog lady and Zelda expert. They/them pronouns. Tweets are my own! My Patreon is found at http://patreon.com/noxquel
-    [protected] => 
+    [protected] => 1
     [followers_count] => 413
     [friends_count] => 301
     [listed_count] => 9
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5162
+    [statuses_count] => 5163
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
