@@ -1,24 +1,23 @@
 stdClass Object
 (
-    [id] => 448150097
-    [id_str] => 448150097
-    [name] => Khea 💙 6.2 MSQ done
-    [screen_name] => musicalmooncat
-    [location] => 
-    [url] => http://twitch.tv/mooncatkhea
-    [description] => Khea/Ziarre ♡ personal for mostly FFXIV, sometimes other games
-She/her. ♡ Demi ♡ BPII & ADHD ♡ user is 30+ ♡ pfp: @/reallycoolsword
+    [id] => 1071166774366953474
+    [id_str] => 1071166774366953474
+    [name] => BookWyrm
+    [screen_name] => Snaxol0tl
+    [location] => Halifax, Nova Scotia
+    [url] => 
+    [description] => She/Her/They, Bi/Pan, 26 ♥♥ Main account of @/ScaleyGirl4 my Ciri
     [protected] => 
-    [followers_count] => 228
-    [friends_count] => 832
-    [listed_count] => 1
-    [created_at] => Tue Dec 27 17:37:15 +0000 2011
-    [favourites_count] => 111380
+    [followers_count] => 48
+    [friends_count] => 870
+    [listed_count] => 0
+    [created_at] => Fri Dec 07 22:17:15 +0000 2018
+    [favourites_count] => 57486
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 35929
+    [statuses_count] => 2994
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,9 +26,8 @@ She/her. ♡ Demi ♡ BPII & ADHD ♡ user is 30+ ♡ pfp: @/reallycoolsword
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1370234088053936128/ghYODYzG_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1370234088053936128/ghYODYzG_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/448150097/1638437991
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1071181517454487553/0JXoL4FP_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1071181517454487553/0JXoL4FP_normal.jpg
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
