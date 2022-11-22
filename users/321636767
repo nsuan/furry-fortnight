@@ -10,15 +10,15 @@ stdClass Object
 header:@VladHarabagiu icon @Slurku
     [protected] => 
     [followers_count] => 976
-    [friends_count] => 2043
+    [friends_count] => 2042
     [listed_count] => 13
     [created_at] => Tue Jun 21 22:06:38 +0000 2011
-    [favourites_count] => 67871
+    [favourites_count] => 67882
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 49811
+    [statuses_count] => 49817
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
