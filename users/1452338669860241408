@@ -20,14 +20,14 @@ banner: @dadafell
     [protected] => 
     [followers_count] => 302
     [friends_count] => 2303
-    [listed_count] => 0
+    [listed_count] => 4
     [created_at] => Sun Oct 24 18:18:27 +0000 2021
-    [favourites_count] => 13138
+    [favourites_count] => 13139
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5638
+    [statuses_count] => 5636
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
