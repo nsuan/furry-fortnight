@@ -1,24 +1,25 @@
 stdClass Object
 (
-    [id] => 749420079205347328
-    [id_str] => 749420079205347328
-    [name] => Fruity Fella
-    [screen_name] => elbie_magic
-    [location] => Brisbane, Queensland
-    [url] => https://elbie-art.carrd.co/
-    [description] => I'm a gay little artist, what do you want from me? || Meanjin based
-|| FFXIV || Felicien Ferdilaix on Adamantoise ~
+    [id] => 738826371342991360
+    [id_str] => 738826371342991360
+    [name] => Vulpera Vibes
+    [screen_name] => Zoryn_
+    [location] => Morgantown, WV
+    [url] => 
+    [description] => / They/Them / BLM / Anti Fascist Zor Action / Epsilon's Resident Vulpera Addict / Zory'n on Mateus / 18+ pref, generally sfw
+
+I 💜 @RetroZorrr and @pilluwu
     [protected] => 
-    [followers_count] => 376
-    [friends_count] => 1497
-    [listed_count] => 2
-    [created_at] => Sun Jul 03 01:50:45 +0000 2016
-    [favourites_count] => 40887
+    [followers_count] => 232
+    [friends_count] => 2977
+    [listed_count] => 1
+    [created_at] => Fri Jun 03 20:15:08 +0000 2016
+    [favourites_count] => 144209
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3382
+    [statuses_count] => 2280
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1582718275443601411/mdLuS1B8_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1582718275443601411/mdLuS1B8_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/749420079205347328/1668786033
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1585440901316452352/BwfonsFv_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1585440901316452352/BwfonsFv_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/738826371342991360/1600843388
     [profile_link_color] => E81C4F
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
