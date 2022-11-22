@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 836607869835411459
-    [id_str] => 836607869835411459
-    [name] => ✧kamu
-    [screen_name] => kamvnha
-    [location] => 
-    [url] => http://kamvnha.carrd.co
-    [description] => 18+ | art sometimes | mostly lurking
+    [id] => 3977309353
+    [id_str] => 3977309353
+    [name] => Jewel Wildmoon 🇹🇹
+    [screen_name] => JewelWildmoon
+    [location] => 🇹🇹 (Caribbean)
+    [url] => 
+    [description] => 21F Taken |Pan |Discord: Jewel Wildmoon#5624 |Multifandom |IT Student |Follows some🔞accs |Open DM |Multiship |OCxCanon support |RPs|Multiverse |Pfp: @orias_art
     [protected] => 
-    [followers_count] => 77
-    [friends_count] => 526
-    [listed_count] => 0
-    [created_at] => Tue Feb 28 16:03:54 +0000 2017
-    [favourites_count] => 60961
+    [followers_count] => 644
+    [friends_count] => 4580
+    [listed_count] => 5
+    [created_at] => Thu Oct 22 06:20:19 +0000 2015
+    [favourites_count] => 61007
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1329
+    [statuses_count] => 22123
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,10 +26,10 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1595106455761346560/cPRfaPbp_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1595106455761346560/cPRfaPbp_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/836607869835411459/1628180076
-    [profile_link_color] => E73D62
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1296453384824815617/1xQT0oN7_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1296453384824815617/1xQT0oN7_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3977309353/1620583270
+    [profile_link_color] => 1B95E0
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
@@ -43,7 +43,7 @@ stdClass Object
     [muting] => 
     [blocking] => 
     [blocked_by] => 
-    [translator_type] => regular
+    [translator_type] => none
     [withheld_in_countries] => Array
         (
         )
