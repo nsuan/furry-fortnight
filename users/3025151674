@@ -1,23 +1,26 @@
 stdClass Object
 (
-    [id] => 2999651742
-    [id_str] => 2999651742
-    [name] => Alarcón
-    [screen_name] => BlackSun939
-    [location] => 
-    [url] => 
-    [description] => 
+    [id] => 3025151674
+    [id_str] => 3025151674
+    [name] => Tuzi
+    [screen_name] => qqtuzi
+    [location] => 🐰
+    [url] => https://tuzi-arts.tumblr.com
+    [description] => Hey its me, cool internet bunny dude with a Huion
+Programmer, artist and LEGO addict
+- 
+TL is sometimes suggestive
     [protected] => 
-    [followers_count] => 182
-    [friends_count] => 1752
-    [listed_count] => 0
-    [created_at] => Wed Jan 28 19:03:11 +0000 2015
-    [favourites_count] => 285
+    [followers_count] => 1408
+    [friends_count] => 730
+    [listed_count] => 27
+    [created_at] => Sun Feb 08 15:44:52 +0000 2015
+    [favourites_count] => 27338
     [utc_offset] => 
     [time_zone] => 
-    [geo_enabled] => 
+    [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 166
+    [statuses_count] => 11781
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +29,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1079865451004526592/veCIv7qN_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1079865451004526592/veCIv7qN_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1567252867626536963/uRVDNZjR_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1567252867626536963/uRVDNZjR_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3025151674/1588564901
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
