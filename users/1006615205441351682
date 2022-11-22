@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 1006615205441351682
     [name] => Terrasyll ♋
     [screen_name] => Terrasyll
-    [location] => Pennsylvania, USA
+    [location] => 
     [url] => https://m.twitch.tv/terrasyll
     [description] => 🐙21🐙 Bnet: Kiba#11337 🔪 It's time to D D D Duel🐩 pfp: Pxnbunny
     [protected] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 490
     [listed_count] => 0
     [created_at] => Tue Jun 12 19:12:21 +0000 2018
-    [favourites_count] => 7596
+    [favourites_count] => 7597
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3876
+    [statuses_count] => 3877
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
