@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 588013917
     [id_str] => 588013917
-    [name] => ✨🎃 Vic the Fox Witch 🎃✨
+    [name] => Vic A. Fox | HolMat soon!
     [screen_name] => xebenkeck
     [location] => Colorado, USA
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 664
     [listed_count] => 8
     [created_at] => Wed May 23 02:17:41 +0000 2012
-    [favourites_count] => 15546
+    [favourites_count] => 15548
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14759
+    [statuses_count] => 14761
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme10/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme10/bg.gif
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1581493797900275712/SQITXtCI_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1581493797900275712/SQITXtCI_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/588013917/1634788404
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1595527750181191680/izJ2CxdO_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1595527750181191680/izJ2CxdO_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/588013917/1669238455
     [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
