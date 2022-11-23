@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1161205062468866048
     [id_str] => 1161205062468866048
-    [name] => Las Kelli ☀️ комишены открыты
+    [name] => Las Kelli ☀️ комишены закрыты
     [screen_name] => las_kelli
     [location] => 
     [url] => https://laskelli.crd.co/
@@ -19,7 +19,7 @@ http://laskelli-commissions.crd.co |
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3486
+    [statuses_count] => 3487
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
