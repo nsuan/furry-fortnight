@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 2758381160
     [id_str] => 2758381160
-    [name] => Shani (Parody)
-    [screen_name] => UsernameHaunted
+    [name] => Christmas Username
+    [screen_name] => MerryCrims
     [location] => 
     [url] => 
-    [description] => 
+    [description] => I'm an artist who specializes in digital painting.
     [protected] => 1
     [followers_count] => 2787
     [friends_count] => 5002
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 70502
+    [statuses_count] => 70503
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
