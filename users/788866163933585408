@@ -11,7 +11,7 @@ stdClass Object
  💞 Domo
     [protected] => 
     [followers_count] => 375
-    [friends_count] => 1030
+    [friends_count] => 1029
     [listed_count] => 6
     [created_at] => Wed Oct 19 22:15:24 +0000 2016
     [favourites_count] => 124984
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 60489
+    [statuses_count] => 60487
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
