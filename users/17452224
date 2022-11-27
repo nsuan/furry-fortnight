@@ -12,9 +12,9 @@ pfp: @fangciful
     [protected] => 
     [followers_count] => 158
     [friends_count] => 681
-    [listed_count] => 0
+    [listed_count] => 1
     [created_at] => Mon Nov 17 22:20:27 +0000 2008
-    [favourites_count] => 12905
+    [favourites_count] => 12908
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
