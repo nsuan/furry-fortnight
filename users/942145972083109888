@@ -18,12 +18,12 @@ comms: closed
     [friends_count] => 1005
     [listed_count] => 16
     [created_at] => Sat Dec 16 21:34:38 +0000 2017
-    [favourites_count] => 41963
+    [favourites_count] => 41965
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19863
+    [statuses_count] => 19862
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
