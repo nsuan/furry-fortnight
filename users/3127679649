@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3127679649
     [id_str] => 3127679649
-    [name] => Gigi @ PACKING
+    [name] => Gigi @ PACKING // commissions open!
     [screen_name] => pikagi
     [location] => Baltimore, MD
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7114
+    [statuses_count] => 7115
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
