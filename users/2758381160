@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => I'm an artist who specializes in digital painting. $ZeBallerina
     [protected] => 
-    [followers_count] => 2874
-    [friends_count] => 4135
+    [followers_count] => 2873
+    [friends_count] => 4128
     [listed_count] => 8
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
     [favourites_count] => 59358
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 71159
+    [statuses_count] => 71160
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
