@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1210226572722102272
-    [id_str] => 1210226572722102272
-    [name] => yosh
-    [screen_name] => niosshi
+    [id] => 1598245709236473856
+    [id_str] => 1598245709236473856
+    [name] => Naga Hype Train
+    [screen_name] => NagaHypeTrain
     [location] => 
     [url] => 
-    [description] => 20y. fuck you for that
+    [description] => Official twitter for a brand spankin new and growing community with an old demand. Playable Naga in @Warcraft!
     [protected] => 
-    [followers_count] => 66
-    [friends_count] => 879
+    [followers_count] => 1
+    [friends_count] => 6
     [listed_count] => 0
-    [created_at] => Thu Dec 26 15:51:22 +0000 2019
-    [favourites_count] => 11430
+    [created_at] => Thu Dec 01 09:20:53 +0000 2022
+    [favourites_count] => 4
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3317
+    [statuses_count] => 4
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1424633903889911810/sd9KwK9j_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1424633903889911810/sd9KwK9j_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1210226572722102272/1601467823
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1598245896109535232/o-q-vy57_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1598245896109535232/o-q-vy57_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
