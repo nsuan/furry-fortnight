@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1023470298493009921
     [id_str] => 1023470298493009921
-    [name] => Juniper545 @ MFF
+    [name] => Juniper545 missing MFF
     [screen_name] => juniper545
     [location] => Illinois, USA
     [url] => 
@@ -11,15 +11,15 @@ stdClass Object
 https://hasanihomiwa.carrd
     [protected] => 
     [followers_count] => 154
-    [friends_count] => 3081
+    [friends_count] => 3082
     [listed_count] => 0
     [created_at] => Sun Jul 29 07:28:29 +0000 2018
-    [favourites_count] => 62973
+    [favourites_count] => 63012
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7599
+    [statuses_count] => 7612
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
