@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 721927188153434115
     [id_str] => 721927188153434115
-    [name] => Niir Moon
+    [name] => Niir
     [screen_name] => Duskpresence
     [location] => 
     [url] => 
@@ -11,10 +11,10 @@ stdClass Object
                               Them/They 🏳️‍⚧️
     [protected] => 
     [followers_count] => 37
-    [friends_count] => 1637
+    [friends_count] => 1638
     [listed_count] => 0
     [created_at] => Mon Apr 18 05:03:49 +0000 2016
-    [favourites_count] => 37188
+    [favourites_count] => 37191
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
