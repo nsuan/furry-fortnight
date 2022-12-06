@@ -4,12 +4,12 @@ stdClass Object
     [id_str] => 225752611
     [name] => Christian Schaal
     [screen_name] => c_schaal
-    [location] => Hessen
+    [location] => Frankfurt/Main, Germany
     [url] => https://pentaquin.com
-    [description] => 🕹️ Hobby #GameDeveloper | Founder of @terovania and creator of @pentaquin - a hobbyist project of students creating a 2D platformer #indiegame
+    [description] => 🖥️#Webdesigner | 🕹️Hobby #GameDeveloper | 🚀#Founder of @terovania and creator of @pentaquin - a hobbyist project for creating a 2D platformer #indiegame
     [protected] => 
     [followers_count] => 68
-    [friends_count] => 432
+    [friends_count] => 434
     [listed_count] => 1
     [created_at] => Sun Dec 12 10:48:59 +0000 2010
     [favourites_count] => 6669
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 122
+    [statuses_count] => 130
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
