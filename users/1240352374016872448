@@ -13,7 +13,7 @@ stdClass Object
 ⭸  pfp: @_ayaben
     [protected] => 
     [followers_count] => 898
-    [friends_count] => 1812
+    [friends_count] => 1813
     [listed_count] => 9
     [created_at] => Wed Mar 18 19:00:31 +0000 2020
     [favourites_count] => 25198
@@ -21,7 +21,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7518
+    [statuses_count] => 7519
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
