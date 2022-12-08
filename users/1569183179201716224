@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 1315981796027371520
-    [id_str] => 1315981796027371520
-    [name] => Random_GuyNL
-    [screen_name] => YE90717827
-    [location] => Nederland
-    [url] => 
-    [description] => Gamer 🎮, Books 📚, Witchcraft 🔮, panseksueel / versatile 🏳️‍🌈 and 26 years old 🇳🇱
+    [id] => 1569183179201716224
+    [id_str] => 1569183179201716224
+    [name] => 🐚 ΛᄂΛIЯΛ🤍
+    [screen_name] => AL4IRA
+    [location] => 🔞MDNI—LGBTQ+🏳️‍🌈
+    [url] => https://al4ira.carrd.co/
+    [description] => ♪ doodler | lvl 26 goblin | commissioner ♫
+
+pfp by erosyiren header by _m_alexa_
     [protected] => 
-    [followers_count] => 469
-    [friends_count] => 4411
-    [listed_count] => 2
-    [created_at] => Tue Oct 13 11:44:52 +0000 2020
-    [favourites_count] => 9061
+    [followers_count] => 326
+    [friends_count] => 903
+    [listed_count] => 8
+    [created_at] => Mon Sep 12 04:37:02 +0000 2022
+    [favourites_count] => 3087
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2726
+    [statuses_count] => 1311
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +28,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1471293342860390402/H3fW0YZ__normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1471293342860390402/H3fW0YZ__normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1600000825732087808/fqZbuUIO_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1600000825732087808/fqZbuUIO_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1569183179201716224/1670288814
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
