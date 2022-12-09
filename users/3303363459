@@ -2,24 +2,22 @@ stdClass Object
 (
     [id] => 3303363459
     [id_str] => 3303363459
-    [name] => 𝗠𝗼𝗿𝗶𝘀
+    [name] => Sin'dorei NPC
     [screen_name] => MorisDreadvale
-    [location] => 
-    [url] => http://morisdreadvale.cf
-    [description] => Moe/Moris #ISFP RP/PvE 🏳️‍🌈 | WoW & FFXIV  | Icon : @czad0ra l May RT/Like NSFW / horny on main 🔞
-
-WoW & FFXIV
+    [location] => N’zoth’s Basement 
+    [url] => http://morisdreadvaled.tumblr.com
+    [description] => Moris(Moe)🏳️‍🌈 mostly shadow priest, void, gaga, wrathion, n’zoth, kaelthas stuff over here ...and bored
     [protected] => 
-    [followers_count] => 2190
-    [friends_count] => 822
-    [listed_count] => 5
+    [followers_count] => 3427
+    [friends_count] => 1133
+    [listed_count] => 16
     [created_at] => Sat May 30 03:28:01 +0000 2015
-    [favourites_count] => 40050
+    [favourites_count] => 79511
     [utc_offset] => 
     [time_zone] => 
-    [geo_enabled] => 1
+    [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20030
+    [statuses_count] => 37251
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +26,9 @@ WoW & FFXIV
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1436883319736750087/lu-bxwz-_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1436883319736750087/lu-bxwz-_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3303363459/1628162690
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1597837968567373824/0uvIONem_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1597837968567373824/0uvIONem_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/3303363459/1661555735
     [profile_link_color] => 1B95E0
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
