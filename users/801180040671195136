@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 801180040671195136
     [name] => M. Renger
     [screen_name] => Mister_Renger
-    [location] => Bayreuth, Bayern
+    [location] => 
     [url] => 
     [description] => 
     [protected] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 103
+    [statuses_count] => 104
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
