@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 252430810
     [id_str] => 252430810
-    [name] => RJoArt
+    [name] => LahelaDesigns
     [screen_name] => Lahela86
     [location] => 
     [url] => 
     [description] => Artist, cosplayer, gamer, bookworm, geek, nerd, you name it. I specialize in watercolor and colored pencil art. I LOVE ART!!
     [protected] => 
     [followers_count] => 957
-    [friends_count] => 1871
+    [friends_count] => 1849
     [listed_count] => 19
     [created_at] => Tue Feb 15 05:10:19 +0000 2011
     [favourites_count] => 536
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 67
+    [statuses_count] => 68
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
