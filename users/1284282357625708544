@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1284282357625708544
     [id_str] => 1284282357625708544
-    [name] => ella 𓆏 🎃 💙💛 married ! 💍
+    [name] => 𓆏 ella 𓆏
     [screen_name] => kaldoreikisses
     [location] => Seattle
     [url] => http://kaldoreikissescommissions.carrd.co
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1294
     [listed_count] => 8
     [created_at] => Sat Jul 18 00:22:39 +0000 2020
-    [favourites_count] => 73841
+    [favourites_count] => 73846
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20309
+    [statuses_count] => 20311
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
