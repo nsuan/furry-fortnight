@@ -17,7 +17,7 @@ I might start doing some of my own, though it might take me a while.
     [favourites_count] => 27004
     [utc_offset] => 
     [time_zone] => 
-    [geo_enabled] => 
+    [geo_enabled] => 1
     [verified] => 
     [statuses_count] => 4928
     [lang] => 
