@@ -18,16 +18,16 @@ pfp: @motherdanger_
 
 banner: @dadafell
     [protected] => 
-    [followers_count] => 300
+    [followers_count] => 301
     [friends_count] => 2296
     [listed_count] => 4
     [created_at] => Sun Oct 24 18:18:27 +0000 2021
-    [favourites_count] => 13027
+    [favourites_count] => 13028
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5619
+    [statuses_count] => 5620
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
