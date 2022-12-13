@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 832600620339077120
     [id_str] => 832600620339077120
-    [name] => lily 🎃
+    [name] => lily 🐴
     [screen_name] => feyspeaker
     [location] => Kingdom of the Burning Sun
     [url] => http://www.feyspeaker.com
@@ -16,12 +16,12 @@ http://feyspeaker.com
     [friends_count] => 910
     [listed_count] => 46
     [created_at] => Fri Feb 17 14:40:31 +0000 2017
-    [favourites_count] => 23130
+    [favourites_count] => 23131
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6874
+    [statuses_count] => 6876
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
