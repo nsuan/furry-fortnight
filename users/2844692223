@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2844692223
     [id_str] => 2844692223
-    [name] => Happy Holydrocs
+    [name] => Jingle Droc
     [screen_name] => drococu
     [location] => 
     [url] => http://twitch.tv/drococu
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8045
+    [statuses_count] => 8046
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1590566772545097728/GQs1c3-5_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1590566772545097728/GQs1c3-5_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1602790663212437505/8wlHTY5z_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1602790663212437505/8wlHTY5z_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/2844692223/1662917051
     [profile_link_color] => 60AF60
     [profile_sidebar_border_color] => 000000
