@@ -11,16 +11,16 @@ stdClass Object
 
 Views expressed here are my own and do not reflect my employer.
     [protected] => 
-    [followers_count] => 9321
-    [friends_count] => 3585
+    [followers_count] => 9320
+    [friends_count] => 3587
     [listed_count] => 260
     [created_at] => Tue Feb 05 18:39:09 +0000 2008
-    [favourites_count] => 24538
+    [favourites_count] => 24539
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 51418
+    [statuses_count] => 51419
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
