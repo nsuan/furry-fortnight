@@ -3,11 +3,11 @@ stdClass Object
     [id] => 1518232194656915457
     [id_str] => 1518232194656915457
     [name] => Styx.
-    [screen_name] => iStyxi_
+    [screen_name] => iKkzi_
     [location] => 
     [url] => 
     [description] => French Artist Student. ~ Do not use my designs for personal use ! 🚫
-    [protected] => 1
+    [protected] => 
     [followers_count] => 20
     [friends_count] => 458
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 50
+    [statuses_count] => 51
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
