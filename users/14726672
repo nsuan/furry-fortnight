@@ -2,16 +2,16 @@ stdClass Object
 (
     [id] => 14726672
     [id_str] => 14726672
-    [name] => Flo_Machina
+    [name] => Flo is BUSY
     [screen_name] => Flo_Machina
     [location] => Philadelphia, PA
     [url] => http://www.guildedage.net
     [description] => She/They 🏳‍⚧ - Late 30s Former Webcomics Middlestar - Mostly trans/queer memes & political retweets, some Blorboposting, ReBoot
 
 BLM - Trans Rights - Unionize
-    [protected] => 
+    [protected] => 1
     [followers_count] => 801
-    [friends_count] => 421
+    [friends_count] => 422
     [listed_count] => 79
     [created_at] => Sat May 10 18:23:53 +0000 2008
     [favourites_count] => 86120
@@ -19,7 +19,7 @@ BLM - Trans Rights - Unionize
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 76612
+    [statuses_count] => 76618
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
