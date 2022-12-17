@@ -9,7 +9,7 @@ stdClass Object
     [description] => i love lana.
     [protected] => 
     [followers_count] => 35
-    [friends_count] => 574
+    [friends_count] => 575
     [listed_count] => 0
     [created_at] => Sat Mar 10 09:35:12 +0000 2018
     [favourites_count] => 1289
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 295
+    [statuses_count] => 293
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
