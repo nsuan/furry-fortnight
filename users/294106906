@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 294106906
     [id_str] => 294106906
-    [name] => moz /48
+    [name] => @moz@liberdon.com
     [screen_name] => moz850
     [location] => 
     [url] => 
-    [description] => In fairy dust we trust! 🚀  IPv6 ♥️ / #netneutrality / Infrastructure & Networking
+    [description] => In fairy dust we trust! 🚀 IPv6 ♥️ / #netneutrality / Infrastructure & Networking
     [protected] => 
     [followers_count] => 94
     [friends_count] => 716
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 330
+    [statuses_count] => 331
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
