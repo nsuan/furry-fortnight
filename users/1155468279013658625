@@ -5,7 +5,7 @@ stdClass Object
     [name] => DOKI
     [screen_name] => dokino_
     [location] => 
-    [url] => https://linktr.ee/zev_
+    [url] => 
     [description] => Doki/Zev : they/them :  en/pl
 art sometimes, I eat rocks
     [protected] => 
@@ -13,12 +13,12 @@ art sometimes, I eat rocks
     [friends_count] => 1983
     [listed_count] => 11
     [created_at] => Sun Jul 28 13:21:20 +0000 2019
-    [favourites_count] => 10418
+    [favourites_count] => 10419
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2439
+    [statuses_count] => 2440
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
