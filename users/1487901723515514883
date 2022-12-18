@@ -1,25 +1,23 @@
 stdClass Object
 (
-    [id] => 1254983184766427138
-    [id_str] => 1254983184766427138
-    [name] => Alan Drako / Klan Drako
-    [screen_name] => AlanDrako1
+    [id] => 1487901723515514883
+    [id_str] => 1487901723515514883
+    [name] => average worgen enjoyer
+    [screen_name] => bearboysummer
     [location] => 
     [url] => 
-    [description] => G+ Veteran, Gamer, Pokémon Fan, 18+ NSFW Rps Only.
-Age: 21
-DMs Open
-    [protected] => 1
-    [followers_count] => 188
-    [friends_count] => 3408
-    [listed_count] => 2
-    [created_at] => Tue Apr 28 03:58:08 +0000 2020
-    [favourites_count] => 2257
+    [description] => Gabe | 22 | He/They 🏳️‍⚧️  | WOW MG Main | Married to the wonderful @bunnyboywinter 🐰 🖤
+    [protected] => 
+    [followers_count] => 3
+    [friends_count] => 121
+    [listed_count] => 0
+    [created_at] => Sun Jan 30 21:33:21 +0000 2022
+    [favourites_count] => 515
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2379
+    [statuses_count] => 202
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +26,9 @@ DMs Open
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1430233761933893639/V6tQUs3Q_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1430233761933893639/V6tQUs3Q_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1254983184766427138/1620154107
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1567263846582321152/ZOTqSXiX_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1567263846582321152/ZOTqSXiX_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1487901723515514883/1643579064
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
