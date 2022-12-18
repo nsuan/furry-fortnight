@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 193147499
     [id_str] => 193147499
-    [name] => Merry Cami 🎄 socials pinned! ✨️
+    [name] => Merry Cami 🎄 check pinned tweet! ✨️
     [screen_name] => Caminukai
     [location] => Chile
     [url] => https://caminukai.carrd.co/
@@ -16,12 +16,12 @@ stdClass Object
     [friends_count] => 1012
     [listed_count] => 111
     [created_at] => Tue Sep 21 02:36:10 +0000 2010
-    [favourites_count] => 20711
+    [favourites_count] => 20712
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12197
+    [statuses_count] => 12198
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
