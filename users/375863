@@ -6,7 +6,9 @@ stdClass Object
     [screen_name] => scotu
     [location] => San Francisco, CA
     [url] => http://www.matteoscotuzzi.com
-    [description] => Software developer in SF. RIP my long running laser eyes avatar that was co-opted by blockchainers…
+    [description] => Software developer in SF. 
+
+Mastodon: @matteo@hachyderm.io
     [protected] => 
     [followers_count] => 576
     [friends_count] => 2346
