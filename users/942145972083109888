@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 942145972083109888
     [id_str] => 942145972083109888
-    [name] => Nird | @lilnird on everything
+    [name] => Nird | @lilnird on everything & Discord pinned
     [screen_name] => lilnird
     [location] => my imagination
     [url] => 
@@ -15,15 +15,15 @@ stdClass Object
 comms: closed
     [protected] => 
     [followers_count] => 1772
-    [friends_count] => 1029
+    [friends_count] => 1030
     [listed_count] => 16
     [created_at] => Sat Dec 16 21:34:38 +0000 2017
-    [favourites_count] => 42026
+    [favourites_count] => 42030
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19938
+    [statuses_count] => 19941
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
