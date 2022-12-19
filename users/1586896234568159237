@@ -1,23 +1,24 @@
 stdClass Object
 (
-    [id] => 968622239686934528
-    [id_str] => 968622239686934528
-    [name] => DrDiddles
-    [screen_name] => RavenKing6911
-    [location] => 
+    [id] => 1586896234568159237
+    [id_str] => 1586896234568159237
+    [name] => Tijana ⚔️
+    [screen_name] => MatryoshkaTP
+    [location] => Belgrade, Serbia
     [url] => 
-    [description] => 
+    [description] => Digital art student / ENG/SRB/RU / 24 / WoW, League, FFXIV / mostly art and OCs / ENFJ / Knight addict ⚔️🛡️
+Cover by @PavkovicOgnjen
     [protected] => 
-    [followers_count] => 12
-    [friends_count] => 601
+    [followers_count] => 28
+    [friends_count] => 361
     [listed_count] => 0
-    [created_at] => Tue Feb 27 23:01:52 +0000 2018
-    [favourites_count] => 1326
+    [created_at] => Mon Oct 31 01:42:18 +0000 2022
+    [favourites_count] => 3758
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 506
+    [statuses_count] => 109
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +27,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1595247719043706880/Avz5ZtpV_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1595247719043706880/Avz5ZtpV_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/968622239686934528/1669171669
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1590453417830453251/yosFwl8Z_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1590453417830453251/yosFwl8Z_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1586896234568159237/1668028620
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
