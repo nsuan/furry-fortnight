@@ -6,7 +6,7 @@ stdClass Object
     [screen_name] => ketsays
     [location] => 
     [url] => https://www.twitch.tv/keteket
-    [description] => I write code. Yay Java! Yay Angular!  I also play games on Twitch... A lot. Like WoW.   Banner by @SkogDesigns.
+    [description] => I write code for space stuff. Yay Java! Yay Angular!  I also play games on Twitch... A lot. Like WoW.   Banner by @SkogDesigns.
     [protected] => 
     [followers_count] => 714
     [friends_count] => 245
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 21813
+    [statuses_count] => 21815
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
