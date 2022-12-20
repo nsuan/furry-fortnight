@@ -14,16 +14,16 @@ stdClass Object
 ✶ 🔞 Account 
 ꧁
     [protected] => 
-    [followers_count] => 1044
-    [friends_count] => 4844
+    [followers_count] => 1045
+    [friends_count] => 4845
     [listed_count] => 9
     [created_at] => Mon Jul 20 02:45:13 +0000 2009
-    [favourites_count] => 134170
+    [favourites_count] => 134173
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9429
+    [statuses_count] => 9431
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
