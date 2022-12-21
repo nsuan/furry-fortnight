@@ -6,21 +6,19 @@ stdClass Object
     [screen_name] => Flo_Machina
     [location] => Philadelphia, PA
     [url] => http://www.guildedage.net
-    [description] => You think gals should feel so comfortable these days,
+    [description] => You think gals should feel so comfortable these days
 But sex and gender bring some troubles to the fray
-And trouble tears apart another Golden Heart
-So I want
     [protected] => 1
     [followers_count] => 780
     [friends_count] => 425
     [listed_count] => 79
     [created_at] => Sat May 10 18:23:53 +0000 2008
-    [favourites_count] => 86028
+    [favourites_count] => 86029
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 76687
+    [statuses_count] => 76690
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
