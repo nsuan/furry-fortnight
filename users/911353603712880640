@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 911353603712880640
     [id_str] => 911353603712880640
-    [name] => Callum and 5 others🐀
+    [name] => Callum🐀 and 5 others
     [screen_name] => C_Parkesy
     [location] => New Zealand
     [url] => 
@@ -17,12 +17,12 @@ N/F/T free zone.
     [friends_count] => 3767
     [listed_count] => 1
     [created_at] => Fri Sep 22 22:16:46 +0000 2017
-    [favourites_count] => 387750
+    [favourites_count] => 387759
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14022
+    [statuses_count] => 14023
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
