@@ -1,0 +1,51 @@
+stdClass Object
+(
+    [id] => 1618438393
+    [id_str] => 1618438393
+    [name] => 𝔯𝔬𝔰𝔞𝔩𝔢𝔯𝔞
+    [screen_name] => rosaIera
+    [location] => Brill, Tirisfal Glades
+    [url] => https://steamcommunity.com/id/rosalera/
+    [description] => ❛ A night of curses, a night to remember! Wouldn’t you say, friend? ❜ ー undead elf irl · 30s · she/her · 🦂 ·  NA Horde · etc games · 🏹
+    [protected] => 1
+    [followers_count] => 251
+    [friends_count] => 318
+    [listed_count] => 7
+    [created_at] => Wed Jul 24 19:02:07 +0000 2013
+    [favourites_count] => 25808
+    [utc_offset] => 
+    [time_zone] => 
+    [geo_enabled] => 
+    [verified] => 
+    [statuses_count] => 7852
+    [lang] => 
+    [contributors_enabled] => 
+    [is_translator] => 
+    [is_translation_enabled] => 
+    [profile_background_color] => C0DEED
+    [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
+    [profile_background_tile] => 1
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1601373574807408640/7ddr4PBL_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1601373574807408640/7ddr4PBL_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1618438393/1670689397
+    [profile_link_color] => D5CADB
+    [profile_sidebar_border_color] => FFFFFF
+    [profile_sidebar_fill_color] => DDEEF6
+    [profile_text_color] => 333333
+    [profile_use_background_image] => 1
+    [has_extended_profile] => 1
+    [default_profile] => 
+    [default_profile_image] => 
+    [following] => 
+    [follow_request_sent] => 
+    [notifications] => 
+    [muting] => 
+    [blocking] => 
+    [blocked_by] => 
+    [translator_type] => none
+    [withheld_in_countries] => Array
+        (
+        )
+
+)
