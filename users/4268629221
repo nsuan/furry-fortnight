@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 4268629221
     [id_str] => 4268629221
-    [name] => Aaronplane @ Twitch!
+    [name] => Aaronplane | VTuber
     [screen_name] => aar0nplane
     [location] => Illinois, USA
     [url] => https://twitch.tv/aaronplane
-    [description] => Artist & Streamer | VTuber | Editor of @silverbloodVN. // 21+ Please! Goth Streamer focused on MMOs!
+    [description] => Artist & Streamer | VTuber | Editor of @silverbloodVN. // 21+ Please! Witchy Streamer focused on MMOs!
     [protected] => 
     [followers_count] => 170
     [friends_count] => 403
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 2960
+    [statuses_count] => 2962
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
