@@ -10,8 +10,8 @@ stdClass Object
 
 Twitter banner done by the talented and wonderful https://twitter.com/Nalukahvi
     [protected] => 
-    [followers_count] => 526
-    [friends_count] => 1214
+    [followers_count] => 527
+    [friends_count] => 1215
     [listed_count] => 0
     [created_at] => Tue Dec 04 16:06:43 +0000 2018
     [favourites_count] => 3722
@@ -19,7 +19,7 @@ Twitter banner done by the talented and wonderful https://twitter.com/Nalukahvi
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 25885
+    [statuses_count] => 25887
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
