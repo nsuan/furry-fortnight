@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 294106906
     [id_str] => 294106906
-    [name] => @moz@liberdon.com
+    [name] => @moz@peering.social
     [screen_name] => moz850
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 331
+    [statuses_count] => 330
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
