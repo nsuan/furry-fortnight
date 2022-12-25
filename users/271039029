@@ -10,7 +10,7 @@ stdClass Object
 Will be a vtuber when rich enough 
 No minors allowed
     [protected] => 
-    [followers_count] => 93
+    [followers_count] => 92
     [friends_count] => 2298
     [listed_count] => 0
     [created_at] => Wed Mar 23 18:54:32 +0000 2011
@@ -19,7 +19,7 @@ No minors allowed
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11392
+    [statuses_count] => 11393
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
