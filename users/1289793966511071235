@@ -15,12 +15,12 @@ comms closed
     [friends_count] => 995
     [listed_count] => 31
     [created_at] => Sun Aug 02 05:23:46 +0000 2020
-    [favourites_count] => 105472
+    [favourites_count] => 105477
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 26377
+    [statuses_count] => 26384
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -31,7 +31,7 @@ comms closed
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1606637427958812674/DfDmaEGn_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1606637427958812674/DfDmaEGn_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1289793966511071235/1667351693
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1289793966511071235/1671949813
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
