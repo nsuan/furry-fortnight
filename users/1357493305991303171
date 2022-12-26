@@ -5,10 +5,10 @@ stdClass Object
     [name] => Adrigos
     [screen_name] => voidrigos
     [location] => 
-    [url] => http://refsheet.net/Manakir
-    [description] => 26 | Adrigos on Wyrmrest Accord & Kaelthren on Moon Guard | 18+ Only | See My Main: @SiameseMana | i: @luminaena b: @CyberellaDraws
+    [url] => 
+    [description] => 27 | Adrigos on Wyrmrest Accord & Kaelthren on Moon Guard | 18+ Only | i: @luminaena b: @CyberellaDraws
     [protected] => 
-    [followers_count] => 40
+    [followers_count] => 36
     [friends_count] => 118
     [listed_count] => 0
     [created_at] => Fri Feb 05 00:56:48 +0000 2021
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 36
+    [statuses_count] => 35
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
