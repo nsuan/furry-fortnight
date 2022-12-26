@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1064615227793334272
     [id_str] => 1064615227793334272
-    [name] => Sephiroth & Merlin's malewife
+    [name] => Sephiroth & Alucard's malewife
     [screen_name] => BaiLangLong
     [location] => England, United Kingdom
     [url] => https://ko-fi.com/bailanglong
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 908
     [listed_count] => 0
     [created_at] => Mon Nov 19 20:23:44 +0000 2018
-    [favourites_count] => 24267
+    [favourites_count] => 24269
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4454
+    [statuses_count] => 4456
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
