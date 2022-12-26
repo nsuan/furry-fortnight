@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 3026493096
     [name] => Shots
     [screen_name] => irlshots
-    [location] => University of Oklahoma
+    [location] => Austin, TX
     [url] => 
     [description] => World of Warcraft, Destiny 2, and Super Smash Brothers Melee enthusiast. Veteran. Boomer Sooner!
     [protected] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 422
     [listed_count] => 1
     [created_at] => Wed Feb 18 16:34:59 +0000 2015
-    [favourites_count] => 25393
+    [favourites_count] => 25394
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
