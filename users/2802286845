@@ -11,15 +11,15 @@ stdClass Object
 PFP: @RAGEWANE
     [protected] => 
     [followers_count] => 217
-    [friends_count] => 199
+    [friends_count] => 200
     [listed_count] => 9
     [created_at] => Fri Oct 03 17:17:56 +0000 2014
-    [favourites_count] => 21825
+    [favourites_count] => 21826
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 14548
+    [statuses_count] => 14549
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
