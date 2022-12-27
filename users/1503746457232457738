@@ -1,26 +1,23 @@
 stdClass Object
 (
-    [id] => 1006667269835980802
-    [id_str] => 1006667269835980802
-    [name] => magluero @ comms soon!
-    [screen_name] => magurosoda
-    [location] => they 🏳️‍🌈🏴‍☠️🇵🇭
-    [url] => http://ko-fi.com/magurosoda
-    [description] => Hi! I'm Maguro, or Soda, either one works.
-Main: @chompchi 🧋
-
-⚠️ I do not support N/F/Ts nor is any of my art an N/F/T.
+    [id] => 1503746457232457738
+    [id_str] => 1503746457232457738
+    [name] => Freddie
+    [screen_name] => Ramen_Barato
+    [location] => 
+    [url] => 
+    [description] => Escritor promedio
     [protected] => 
-    [followers_count] => 447
-    [friends_count] => 697
-    [listed_count] => 4
-    [created_at] => Tue Jun 12 22:39:14 +0000 2018
-    [favourites_count] => 8044
+    [followers_count] => 7
+    [friends_count] => 184
+    [listed_count] => 0
+    [created_at] => Tue Mar 15 14:55:40 +0000 2022
+    [favourites_count] => 2641
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 569
+    [statuses_count] => 925
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,9 +26,8 @@ Main: @chompchi 🧋
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1569098869107003392/fLUPMyjY_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1569098869107003392/fLUPMyjY_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1006667269835980802/1613496584
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1599223974512271365/LZ4FoSrL_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1599223974512271365/LZ4FoSrL_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
