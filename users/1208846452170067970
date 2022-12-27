@@ -12,7 +12,7 @@ stdClass Object
 
 i: @cataulait | h: @MintSaDui
     [protected] => 
-    [followers_count] => 224
+    [followers_count] => 225
     [friends_count] => 251
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
@@ -21,7 +21,7 @@ i: @cataulait | h: @MintSaDui
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 47441
+    [statuses_count] => 47445
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
