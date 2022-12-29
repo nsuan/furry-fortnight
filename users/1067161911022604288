@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 1067161911022604288
     [id_str] => 1067161911022604288
-    [name] => angry emt whos fueled by kindness
+    [name] => caffeinated mess
     [screen_name] => Whattosay17
     [location] => The sun
     [url] => 
     [description] => If you see me out n about wave to me it’ll mean a lot.
     [protected] => 
     [followers_count] => 170
-    [friends_count] => 467
+    [friends_count] => 451
     [listed_count] => 0
     [created_at] => Mon Nov 26 21:03:21 +0000 2018
     [favourites_count] => 15979
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9516
+    [statuses_count] => 9518
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1593951034660921345/BohDS7FH_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1593951034660921345/BohDS7FH_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1067161911022604288/1631884518
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1608473700290138112/ud9qx-vP_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1608473700290138112/ud9qx-vP_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1067161911022604288/1672325000
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
