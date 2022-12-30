@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1073814742060408832
     [id_str] => 1073814742060408832
-    [name] => Chatell (Comms Open)
-    [screen_name] => ChatellModels
+    [name] => CoffeeDROP!
+    [screen_name] => coffeedropart
     [location] => 
-    [url] => http://ko-fi.com/chatellmodels
-    [description] => Chatell 💙 Pepsi 🤍 WoW Models/Animations 💗 She/Her
+    [url] => 
+    [description] => Coffee, Coffeedrop, Rae 💙 Epsilon/Wyrmrest Accord 🤍 WoW Models/Animations 💗 She/Her
     [protected] => 
     [followers_count] => 703
     [friends_count] => 207
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1590053380034011143/Xt3mahxm_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1590053380034011143/Xt3mahxm_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1073814742060408832/1667933243
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1608968442840768517/UevUTbjx_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1608968442840768517/UevUTbjx_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1073814742060408832/1672442945
     [profile_link_color] => 19CF86
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
