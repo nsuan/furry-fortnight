@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2758381160
     [id_str] => 2758381160
-    [name] => Christmas Username
+    [name] => vay
     [screen_name] => MerryCrims
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 5002
     [listed_count] => 8
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
-    [favourites_count] => 62257
+    [favourites_count] => 62260
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 73906
+    [statuses_count] => 73915
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
