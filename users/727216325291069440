@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 727216325291069440
     [id_str] => 727216325291069440
-    [name] => Frog - BA (2:1) in Computer Animation
+    [name] => Frog
     [screen_name] => Cookies_zoe
     [location] => Middlesbrough UK
     [url] => https://discord.gg/NDpbvXv
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1114
     [listed_count] => 1
     [created_at] => Mon May 02 19:20:57 +0000 2016
-    [favourites_count] => 7953
+    [favourites_count] => 7960
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5655
+    [statuses_count] => 5657
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
