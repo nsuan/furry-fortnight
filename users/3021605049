@@ -12,16 +12,16 @@ stdClass Object
 
 h:@fabcrabART
     [protected] => 
-    [followers_count] => 519
-    [friends_count] => 201
+    [followers_count] => 518
+    [friends_count] => 200
     [listed_count] => 8
     [created_at] => Fri Feb 06 15:56:04 +0000 2015
-    [favourites_count] => 43088
+    [favourites_count] => 43089
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11747
+    [statuses_count] => 11748
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
