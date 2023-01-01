@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 2379020736
     [name] => Nick Avirem
     [screen_name] => nik_avirem
-    [location] => Wandsworth, London
+    [location] => London, England
     [url] => https://avirem.bandcamp.com/
     [description] => Dapper zombie with a love for salted caramel 🏳️‍🌈 #FFXIV DRK SGE RDM MCH RPR #WOW MM hunter (dark ranger), Devoker #Destiny2 Warlock
     [protected] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 201
     [listed_count] => 2
     [created_at] => Sat Mar 08 17:08:29 +0000 2014
-    [favourites_count] => 226047
+    [favourites_count] => 226058
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
