@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2244596286
     [id_str] => 2244596286
-    [name] => Xalbcar
+    [name] => Xalbcar, birthday on january 5
     [screen_name] => thexalbcar
     [location] => Lima, Peru
     [url] => https://ko-fi.com/xalbcar
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4982
     [listed_count] => 38
     [created_at] => Fri Dec 13 22:30:40 +0000 2013
-    [favourites_count] => 83290
+    [favourites_count] => 83291
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 33407
+    [statuses_count] => 33408
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
