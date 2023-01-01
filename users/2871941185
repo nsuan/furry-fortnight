@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2871941185
     [id_str] => 2871941185
-    [name] => Cinnri -Dusk- Starling
+    [name] => Cinnri "Dusk" Starling
     [screen_name] => CinnriStarling
     [location] => Avalon
     [url] => http://twitch.tv/cinnristarling
@@ -14,12 +14,12 @@ Personal Account: @NightElfPaladin
     [friends_count] => 4569
     [listed_count] => 161
     [created_at] => Wed Oct 22 21:23:15 +0000 2014
-    [favourites_count] => 212037
+    [favourites_count] => 212040
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 99887
+    [statuses_count] => 99893
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
