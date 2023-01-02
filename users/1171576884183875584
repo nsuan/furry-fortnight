@@ -5,11 +5,11 @@ stdClass Object
     [name] => Chris 🚢
     [screen_name] => chriscrockett_
     [location] => Arlington, VA
-    [url] => 
+    [url] => https://typeshare.co/chris2552
     [description] => Personal trainer | Lost over 100 pounds myself in 2011! | Helping busy people find the time & motivation to move more and hit their fitness & health goals.
     [protected] => 
     [followers_count] => 44
-    [friends_count] => 465
+    [friends_count] => 466
     [listed_count] => 3
     [created_at] => Wed Sep 11 00:11:21 +0000 2019
     [favourites_count] => 3596
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 481
+    [statuses_count] => 482
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
