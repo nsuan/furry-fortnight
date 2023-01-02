@@ -7,7 +7,7 @@ stdClass Object
     [location] => He/Him(They) — Darkmoon Faire
     [url] => http://twitch.tv/bloodthistle
     [description] => 18+ ONLY! 🔞 ∙ 24 ∙ Queer ∙ WoW, Art, RP & More ∙ Neurodivergent & Chronically Ill Artist/Goth/Furry ∙    RP/PVP/PVE MG @ Knife-MG • May post NSFW
-    [protected] => 1
+    [protected] => 
     [followers_count] => 331
     [friends_count] => 487
     [listed_count] => 2
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 6284
+    [statuses_count] => 6285
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
