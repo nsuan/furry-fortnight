@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 14726672
     [id_str] => 14726672
-    [name] => Florens ex Machina
+    [name] => Florens_ex_Machina
     [screen_name] => Flo_Machina
     [location] => Philadelphia, PA
     [url] => 
@@ -16,12 +16,12 @@ MINORS DNI 🔞
     [friends_count] => 294
     [listed_count] => 78
     [created_at] => Sat May 10 18:23:53 +0000 2008
-    [favourites_count] => 87424
+    [favourites_count] => 87438
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 77309
+    [statuses_count] => 77316
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
