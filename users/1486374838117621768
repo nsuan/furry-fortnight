@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 1320597564295499777
-    [id_str] => 1320597564295499777
-    [name] => coops
-    [screen_name] => coopsdoodles
+    [id] => 1486374838117621768
+    [id_str] => 1486374838117621768
+    [name] => Candle Dark Mode
+    [screen_name] => CandleDarkMode
     [location] => 
     [url] => 
-    [description] => personal account 29 they/them @thecoops_s
-    [protected] => 
-    [followers_count] => 298
-    [friends_count] => 232
-    [listed_count] => 1
-    [created_at] => Mon Oct 26 05:26:25 +0000 2020
-    [favourites_count] => 9004
+    [description] => 🔞NSFW and Vent account.🔞 May be horny, sad, or both. Main fandoms are anything with attractive characters. Might dump political takes here.
+
+24/m disaster bi
+    [protected] => 1
+    [followers_count] => 11
+    [friends_count] => 146
+    [listed_count] => 0
+    [created_at] => Wed Jan 26 16:26:05 +0000 2022
+    [favourites_count] => 1576
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2802
+    [statuses_count] => 687
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1320597700572663809/oFTEDWIq_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1320597700572663809/oFTEDWIq_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1320597564295499777/1613756779
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1486374978203185152/RDsR97O5_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1486374978203185152/RDsR97O5_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1486374838117621768/1643215611
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
