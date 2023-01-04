@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 1069667620205535237
-    [id_str] => 1069667620205535237
-    [name] => MADDIEBISCUITS 🍪🐰
-    [screen_name] => maddiebiscuits
-    [location] => Canada
-    [url] => https://madmaddiecomms.carrd.co/
-    [description] => 🚫NFTs🚫 •🔞• junior artist/colourist • she/her • comms closed • http://linktr.ee/maddiebiscuits
+    [id] => 1603009218524626944
+    [id_str] => 1603009218524626944
+    [name] => Emu
+    [screen_name] => TheTrueEmus
+    [location] => 
+    [url] => 
+    [description] => Age: 19
+Minors DNI
+I'm just an orange cat who likes art.
     [protected] => 
-    [followers_count] => 1773
-    [friends_count] => 1497
-    [listed_count] => 10
-    [created_at] => Mon Dec 03 19:00:08 +0000 2018
-    [favourites_count] => 1250
+    [followers_count] => 2
+    [friends_count] => 271
+    [listed_count] => 0
+    [created_at] => Wed Dec 14 12:49:42 +0000 2022
+    [favourites_count] => 4187
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 572
+    [statuses_count] => 1947
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1589140115414294528/qJa1-Ckb_normal.png
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1589140115414294528/qJa1-Ckb_normal.png
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1069667620205535237/1667715518
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1603011281145004033/E0MDztPd_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1603011281145004033/E0MDztPd_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
