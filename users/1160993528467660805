@@ -10,15 +10,15 @@ stdClass Object
 Ele/dele
     [protected] => 
     [followers_count] => 332
-    [friends_count] => 866
+    [friends_count] => 867
     [listed_count] => 0
     [created_at] => Mon Aug 12 19:16:42 +0000 2019
-    [favourites_count] => 53103
+    [favourites_count] => 53109
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 16956
+    [statuses_count] => 16959
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
