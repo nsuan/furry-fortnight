@@ -12,7 +12,7 @@ stdClass Object
 
 i: @staticffxiv | h: @MintSaDui
     [protected] => 
-    [followers_count] => 225
+    [followers_count] => 223
     [friends_count] => 251
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
@@ -21,7 +21,7 @@ i: @staticffxiv | h: @MintSaDui
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 47820
+    [statuses_count] => 47825
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
