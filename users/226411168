@@ -10,16 +10,16 @@ stdClass Object
 no longer Bryns most grey parsing PLD 🥲
 31/he-him
     [protected] => 
-    [followers_count] => 229
-    [friends_count] => 532
-    [listed_count] => 7
+    [followers_count] => 228
+    [friends_count] => 531
+    [listed_count] => 0
     [created_at] => Tue Dec 14 02:58:23 +0000 2010
-    [favourites_count] => 69124
+    [favourites_count] => 69130
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 15226
+    [statuses_count] => 15230
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
