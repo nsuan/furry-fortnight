@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2761671677
     [id_str] => 2761671677
-    [name] => BaccaMG 💚
+    [name] => BaccaMG || VTuber || Artist 💚
     [screen_name] => BaccaBMG
     [location] => The Treehouse
     [url] => https://www.twitch.tv/baccamg
@@ -16,12 +16,12 @@ Vtuber Model Made by @NickNechArt
     [friends_count] => 1978
     [listed_count] => 7
     [created_at] => Fri Sep 05 03:46:34 +0000 2014
-    [favourites_count] => 10432
+    [favourites_count] => 10438
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3477
+    [statuses_count] => 3479
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
