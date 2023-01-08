@@ -11,11 +11,11 @@ stdClass Object
 __
 art profile: @GwennHowl
     [protected] => 
-    [followers_count] => 52
-    [friends_count] => 3192
+    [followers_count] => 53
+    [friends_count] => 3193
     [listed_count] => 0
     [created_at] => Fri Apr 10 11:55:13 +0000 2020
-    [favourites_count] => 159494
+    [favourites_count] => 159485
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
