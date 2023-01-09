@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1321506829436772353
     [id_str] => 1321506829436772353
-    [name] => Aerwin is a gay and spooky bunbun 🏳️‍⚧️
+    [name] => Aerwin is a gay bunbun 🏳️‍⚧️
     [screen_name] => Aerwin_0095
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 527
     [listed_count] => 0
     [created_at] => Wed Oct 28 17:39:26 +0000 2020
-    [favourites_count] => 5013
+    [favourites_count] => 5014
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 723
+    [statuses_count] => 725
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
