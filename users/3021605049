@@ -13,7 +13,7 @@ stdClass Object
 h:@fabcrabART
     [protected] => 
     [followers_count] => 515
-    [friends_count] => 202
+    [friends_count] => 203
     [listed_count] => 8
     [created_at] => Fri Feb 06 15:56:04 +0000 2015
     [favourites_count] => 43354
@@ -21,7 +21,7 @@ h:@fabcrabART
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11815
+    [statuses_count] => 11816
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
