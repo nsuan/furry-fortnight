@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 14726672
     [id_str] => 14726672
-    [name] => Copyright Theft Victim
+    [name] => Florens_ex_Machina
     [screen_name] => Flo_Machina
     [location] => Philadelphia, PA
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 312
     [listed_count] => 78
     [created_at] => Sat May 10 18:23:53 +0000 2008
-    [favourites_count] => 89384
+    [favourites_count] => 89387
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 78115
+    [statuses_count] => 78116
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
