@@ -10,15 +10,15 @@ stdClass Object
 やあ、君を愛している!
     [protected] => 
     [followers_count] => 50
-    [friends_count] => 504
+    [friends_count] => 505
     [listed_count] => 0
     [created_at] => Tue Sep 27 15:52:09 +0000 2016
-    [favourites_count] => 521
+    [favourites_count] => 526
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 586
+    [statuses_count] => 589
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
