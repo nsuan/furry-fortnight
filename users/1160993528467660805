@@ -13,12 +13,12 @@ Ele/dele
     [friends_count] => 889
     [listed_count] => 0
     [created_at] => Mon Aug 12 19:16:42 +0000 2019
-    [favourites_count] => 54789
+    [favourites_count] => 54812
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 17384
+    [statuses_count] => 17387
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,7 +29,7 @@ Ele/dele
     [profile_background_tile] => 
     [profile_image_url] => http://pbs.twimg.com/profile_images/1613300446818336771/2iOoWIkj_normal.jpg
     [profile_image_url_https] => https://pbs.twimg.com/profile_images/1613300446818336771/2iOoWIkj_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1160993528467660805/1671633497
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1160993528467660805/1673491538
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
