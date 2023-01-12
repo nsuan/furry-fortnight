@@ -4,9 +4,9 @@ stdClass Object
     [id_str] => 885367919412105216
     [name] => ☠️
     [screen_name] => gnomishTerror
-    [location] => 23 years old.
+    [location] => .
     [url] => 
-    [description] => Welcome to my art page!!! Here youll find drawings and other such things from the recesses of my mind.
+    [description] => .
     [protected] => 1
     [followers_count] => 859
     [friends_count] => 416
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 2985
+    [statuses_count] => 2983
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
