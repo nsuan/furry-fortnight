@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 753379865756372996
     [id_str] => 753379865756372996
-    [name] => kat🔮💫
+    [name] => kat
     [screen_name] => nlghtwell
     [location] => a sewer in junkertown 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19518
+    [statuses_count] => 19520
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
