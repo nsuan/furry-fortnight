@@ -13,12 +13,12 @@ commissions: closed
     [friends_count] => 2272
     [listed_count] => 9
     [created_at] => Mon May 14 03:10:51 +0000 2012
-    [favourites_count] => 161117
+    [favourites_count] => 161123
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 16794
+    [statuses_count] => 16795
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
