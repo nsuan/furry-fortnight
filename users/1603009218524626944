@@ -10,16 +10,16 @@ stdClass Object
 Minors DNI
 I'm just an orange cat who likes art.
     [protected] => 
-    [followers_count] => 1
+    [followers_count] => 2
     [friends_count] => 387
     [listed_count] => 0
     [created_at] => Wed Dec 14 12:49:42 +0000 2022
-    [favourites_count] => 4810
+    [favourites_count] => 4811
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2409
+    [statuses_count] => 2412
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
