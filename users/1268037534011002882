@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1302171190782427144
-    [id_str] => 1302171190782427144
-    [name] => Heng Kit Lee
-    [screen_name] => HengKitLee1
-    [location] => Malaysia
+    [id] => 1268037534011002882
+    [id_str] => 1268037534011002882
+    [name] => Polarized
+    [screen_name] => GrimGortean
+    [location] => 
     [url] => 
-    [description] => 
+    [description] => Officially unused, will be used to mostly check on NWS or COD patch notes.
     [protected] => 
-    [followers_count] => 3
-    [friends_count] => 433
+    [followers_count] => 77
+    [friends_count] => 1164
     [listed_count] => 0
-    [created_at] => Sat Sep 05 09:06:43 +0000 2020
-    [favourites_count] => 3
+    [created_at] => Wed Jun 03 04:31:30 +0000 2020
+    [favourites_count] => 10220
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 0
+    [statuses_count] => 2281
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1502128096761180167/5XgCThF3_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1502128096761180167/5XgCThF3_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1302171190782427144/1646970247
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1584247585971343360/dUvsD3sh_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1584247585971343360/dUvsD3sh_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1268037534011002882/1666575350
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
