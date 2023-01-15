@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 729331131905118208
     [id_str] => 729331131905118208
-    [name] => containment bay 🌙 ADOPTABLES @ KO-FI
+    [name] => containment bay 🌙
     [screen_name] => baydews
     [location] => 26 • ace • they/he 🏳️‍⚧️ • EU
     [url] => http://www.baydews.com/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 672
     [listed_count] => 214
     [created_at] => Sun May 08 15:24:27 +0000 2016
-    [favourites_count] => 21715
+    [favourites_count] => 21716
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8782
+    [statuses_count] => 8784
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
