@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1292277821604343813
     [id_str] => 1292277821604343813
-    [name] => Gwen Aero // ART RAFFLE
+    [name] => Gwen Aero // ART RAFFLE CLOSED
     [screen_name] => aero_gwen
     [location] => 
     [url] => https://www.twitch.tv/gwenaero
@@ -14,15 +14,15 @@ I'm nice if you're nice
 Ko-fi: http://ko-fi.com/gwenaero
     [protected] => 
     [followers_count] => 327
-    [friends_count] => 3418
+    [friends_count] => 3419
     [listed_count] => 7
     [created_at] => Sun Aug 09 01:54:17 +0000 2020
-    [favourites_count] => 54678
+    [favourites_count] => 54694
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1724
+    [statuses_count] => 1728
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
