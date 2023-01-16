@@ -1,25 +1,23 @@
 stdClass Object
 (
-    [id] => 1320461873528135680
-    [id_str] => 1320461873528135680
-    [name] => GreyGleaningGroup
-    [screen_name] => GreyGleaningGoo
+    [id] => 1516539076047822850
+    [id_str] => 1516539076047822850
+    [name] => bubbles
+    [screen_name] => bubbleshasbird
     [location] => 
     [url] => 
-    [description] => An Artist and Writer that keeps on procrastinating!!!
-This is just a personal account where I enjoy some stuff~
-Warning: I retweet a lot....
+    [description] => 
     [protected] => 
-    [followers_count] => 61
-    [friends_count] => 4999
+    [followers_count] => 15
+    [friends_count] => 1276
     [listed_count] => 0
-    [created_at] => Sun Oct 25 20:28:39 +0000 2020
-    [favourites_count] => 190108
+    [created_at] => Tue Apr 19 22:08:01 +0000 2022
+    [favourites_count] => 0
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 27565
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,8 +26,8 @@ Warning: I retweet a lot....
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1320462391277223938/2anUoWiI_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1320462391277223938/2anUoWiI_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1516540321093484544/dQIDO1mi_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1516540321093484544/dQIDO1mi_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
