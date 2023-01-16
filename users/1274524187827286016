@@ -12,15 +12,15 @@ stdClass Object
 - Animator
     [protected] => 
     [followers_count] => 719
-    [friends_count] => 4924
+    [friends_count] => 4926
     [listed_count] => 3
     [created_at] => Sun Jun 21 02:07:25 +0000 2020
-    [favourites_count] => 20478
+    [favourites_count] => 20481
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 19691
+    [statuses_count] => 19692
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
