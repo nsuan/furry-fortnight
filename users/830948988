@@ -9,10 +9,10 @@ stdClass Object
     [description] => will press follow on literally any artist that piques my interest
     [protected] => 
     [followers_count] => 157
-    [friends_count] => 1718
+    [friends_count] => 1720
     [listed_count] => 0
     [created_at] => Tue Sep 18 12:27:16 +0000 2012
-    [favourites_count] => 31229
+    [favourites_count] => 31247
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1595361031445938177/oWVfs8v8_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1595361031445938177/oWVfs8v8_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1615070282280058880/DgY9uJ4n_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1615070282280058880/DgY9uJ4n_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/830948988/1642535979
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
