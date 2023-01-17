@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1246501692734136325
     [id_str] => 1246501692734136325
-    [name] => camarada garibalda
+    [name] => garibalda bagaceira
     [screen_name] => vinhodomato
     [location] => 🇧🇷
     [url] => http://sacamedelatinamerica.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4939
     [listed_count] => 1
     [created_at] => Sat Apr 04 18:15:47 +0000 2020
-    [favourites_count] => 194513
+    [favourites_count] => 194527
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 85921
+    [statuses_count] => 85923
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
