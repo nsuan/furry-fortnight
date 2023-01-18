@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2690930310
     [id_str] => 2690930310
-    [name] => geralt of nvidia (547/1000)
+    [name] => geralt of nvidia (548/1000)
     [screen_name] => holybleed
     [location] => 30+ • he/him • white
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 984
     [listed_count] => 0
     [created_at] => Tue Jul 29 20:05:20 +0000 2014
-    [favourites_count] => 418266
+    [favourites_count] => 418277
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 116390
+    [statuses_count] => 116395
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
