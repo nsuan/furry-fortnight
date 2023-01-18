@@ -11,15 +11,15 @@ stdClass Object
 pfp @thedinosaurmann
     [protected] => 
     [followers_count] => 552
-    [friends_count] => 4511
+    [friends_count] => 4512
     [listed_count] => 8
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
-    [favourites_count] => 16314
+    [favourites_count] => 16319
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 4396
+    [statuses_count] => 4398
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
