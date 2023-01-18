@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => Gaming posts, nerd stuff, etc
     [protected] => 
-    [followers_count] => 47
+    [followers_count] => 46
     [friends_count] => 438
     [listed_count] => 0
     [created_at] => Fri Jan 12 01:52:10 +0000 2018
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3614
+    [statuses_count] => 3610
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
