@@ -9,7 +9,7 @@ stdClass Object
     [description] => they/them, don't know a single thing
     [protected] => 
     [followers_count] => 27
-    [friends_count] => 1564
+    [friends_count] => 1563
     [listed_count] => 0
     [created_at] => Sat Sep 14 18:44:31 +0000 2013
     [favourites_count] => 90640
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 15982
+    [statuses_count] => 15981
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
