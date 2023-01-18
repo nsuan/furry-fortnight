@@ -1,23 +1,24 @@
 stdClass Object
 (
-    [id] => 958163464316510211
-    [id_str] => 958163464316510211
-    [name] => mya
-    [screen_name] => TsuruMyaru
-    [location] => 
+    [id] => 1069649316145315840
+    [id_str] => 1069649316145315840
+    [name] => OverlordBunBun🔞
+    [screen_name] => BunOverlord
+    [location] => An Art Cave
     [url] => 
-    [description] => @cainknightleys my meow meow ♡
+    [description] => NSFW🔞 art twitter,  29 years old
+-Will block anyone under 18
     [protected] => 
-    [followers_count] => 253
-    [friends_count] => 204
-    [listed_count] => 3
-    [created_at] => Tue Jan 30 02:22:26 +0000 2018
-    [favourites_count] => 22773
+    [followers_count] => 104
+    [friends_count] => 115
+    [listed_count] => 2
+    [created_at] => Mon Dec 03 17:47:24 +0000 2018
+    [favourites_count] => 2037
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 45883
+    [statuses_count] => 1340
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,15 +27,15 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1615063476854001702/9uRFwjqW_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1615063476854001702/9uRFwjqW_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/958163464316510211/1661353525
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1069649756215959553/TuH10QkE_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1069649756215959553/TuH10QkE_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1069649316145315840/1640753092
     [profile_link_color] => F58EA8
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
     [profile_use_background_image] => 
-    [has_extended_profile] => 1
+    [has_extended_profile] => 
     [default_profile] => 
     [default_profile_image] => 
     [following] => 
