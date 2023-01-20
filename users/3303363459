@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3303363459
     [id_str] => 3303363459
-    [name] => Sin'dorei Carbonara
+    [name] => Sin'dorei Arrabbiata
     [screen_name] => MorisDreadvale
     [location] => N’zoth’s Basement 
     [url] => http://morisdreadvaled.tumblr.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1183
     [listed_count] => 15
     [created_at] => Sat May 30 03:28:01 +0000 2015
-    [favourites_count] => 82107
+    [favourites_count] => 82125
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 38522
+    [statuses_count] => 38528
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
