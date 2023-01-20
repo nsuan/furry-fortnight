@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1965516096
     [id_str] => 1965516096
-    [name] => Caylen Foxheart™ 🦊💜 Cfz#477
+    [name] => Caylen Foxheart™ 🦊💜
     [screen_name] => caylenfoxheart
     [location] => Manchester, England
     [url] => https://www.youtube.com/channel/UCAAZWujH9WfDhNY9beq5c6g
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 2068
     [listed_count] => 3
     [created_at] => Wed Oct 16 21:26:52 +0000 2013
-    [favourites_count] => 94143
+    [favourites_count] => 94149
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 486
+    [statuses_count] => 488
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
