@@ -10,15 +10,15 @@ stdClass Object
 24 / Nsfw sometimes.
     [protected] => 
     [followers_count] => 99
-    [friends_count] => 2098
+    [friends_count] => 2099
     [listed_count] => 0
     [created_at] => Wed Mar 16 15:44:18 +0000 2016
-    [favourites_count] => 50055
+    [favourites_count] => 50075
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 11396
+    [statuses_count] => 11401
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
