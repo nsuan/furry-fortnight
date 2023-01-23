@@ -1,25 +1,23 @@
 stdClass Object
 (
-    [id] => 893114215757746177
-    [id_str] => 893114215757746177
-    [name] => Rini🌿🌙
-    [screen_name] => rini_panini
-    [location] => Dreamgrove
-    [url] => https://www.twitch.tv/rinipanini
-    [description] => ❥ I'm glad we exist in the same universe 💫
-
-Drawing my WoW adventures ✨️
+    [id] => 1011301177068261376
+    [id_str] => 1011301177068261376
+    [name] => Prince | Wolf Vtuber | Comms Open 🐺👑
+    [screen_name] => enbyprincex
+    [location] => New Jersey, USA
+    [url] => https://salemprince.carrd.co
+    [description] => 👑 US-Based Queer Black #VTuber, #VArtist & Freelance Artist. 18+ 👑 They/Them 👑 wolfqueenarts@gmail.com | http://twitch.tv/enbyprincesalem
     [protected] => 
-    [followers_count] => 3678
-    [friends_count] => 1007
-    [listed_count] => 35
-    [created_at] => Thu Aug 03 14:19:57 +0000 2017
-    [favourites_count] => 11762
+    [followers_count] => 1130
+    [friends_count] => 2420
+    [listed_count] => 22
+    [created_at] => Mon Jun 25 17:32:44 +0000 2018
+    [favourites_count] => 107201
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4292
+    [statuses_count] => 70039
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,10 +26,10 @@ Drawing my WoW adventures ✨️
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1417532565506990080/frFI5ZwR_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1417532565506990080/frFI5ZwR_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/893114215757746177/1522600451
-    [profile_link_color] => F8C471
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1594730401183973383/lnww8c8V_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1594730401183973383/lnww8c8V_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1011301177068261376/1666957987
+    [profile_link_color] => 981CEB
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
