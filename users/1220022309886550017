@@ -10,10 +10,10 @@ stdClass Object
  B: @ArsDaemonum
     [protected] => 
     [followers_count] => 338
-    [friends_count] => 1026
+    [friends_count] => 1028
     [listed_count] => 3
     [created_at] => Wed Jan 22 16:36:07 +0000 2020
-    [favourites_count] => 12384
+    [favourites_count] => 12385
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
