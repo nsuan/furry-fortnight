@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1069667620205535237
     [id_str] => 1069667620205535237
-    [name] => MADDIEBISCUITS 🍪🐰comms open
+    [name] => MADDIEBISCUITS 🍪🐰comms closed
     [screen_name] => maddiebiscuits
     [location] => Canada
     [url] => https://madmaddiecomms.carrd.co/
-    [description] => 🚫NFTs🚫 •🔞• junior artist/colourist • she/her • comms open! • http://linktr.ee/maddiebiscuits
+    [description] => 🚫NFTs🚫 •🔞• junior artist/colourist • she/her • comms closed! • http://linktr.ee/maddiebiscuits
     [protected] => 
     [followers_count] => 1844
     [friends_count] => 1530
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 757
+    [statuses_count] => 758
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
