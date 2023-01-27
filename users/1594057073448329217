@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 886476728683511808
-    [id_str] => 886476728683511808
-    [name] => Grimwulf
-    [screen_name] => TheGrimwulf
-    [location] => 
-    [url] => 
-    [description] => 25 yr old cryptid gender quitter. gods silliest clown
+    [id] => 1594057073448329217
+    [id_str] => 1594057073448329217
+    [name] => Daniel García de Diego "Alleinador"
+    [screen_name] => Alleinador
+    [location] => Spain
+    [url] => https://www.twitch.tv/alleinador
+    [description] => I'm spanish and 29 years old.
+I love blizzard games: Starcraft 2, World of Warcraft, Hearthstone... but mainly RTS games. 
+Starcraft 2 random master player.
     [protected] => 
-    [followers_count] => 47
-    [friends_count] => 1102
+    [followers_count] => 279
+    [friends_count] => 2455
     [listed_count] => 0
-    [created_at] => Sun Jul 16 06:44:56 +0000 2017
-    [favourites_count] => 31082
+    [created_at] => Sat Nov 19 19:57:11 +0000 2022
+    [favourites_count] => 165
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1648
+    [statuses_count] => 242
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1554552425100595201/C4sUFJYC_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1554552425100595201/C4sUFJYC_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/886476728683511808/1639544983
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1594391502188339200/ZuBxFHEs_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1594391502188339200/ZuBxFHEs_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1594057073448329217/1668967699
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
