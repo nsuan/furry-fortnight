@@ -10,7 +10,7 @@ stdClass Object
 
 http://twitch.tv/kypalgo
     [protected] => 
-    [followers_count] => 374
+    [followers_count] => 371
     [friends_count] => 1280
     [listed_count] => 6
     [created_at] => Sun Sep 09 11:15:43 +0000 2012
@@ -19,7 +19,7 @@ http://twitch.tv/kypalgo
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4811
+    [statuses_count] => 4812
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
