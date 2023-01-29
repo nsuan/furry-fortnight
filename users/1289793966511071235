@@ -15,12 +15,12 @@ comms OPEN
     [friends_count] => 1011
     [listed_count] => 31
     [created_at] => Sun Aug 02 05:23:46 +0000 2020
-    [favourites_count] => 108717
+    [favourites_count] => 108724
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 27736
+    [statuses_count] => 27739
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
