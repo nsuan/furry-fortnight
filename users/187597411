@@ -10,7 +10,7 @@ stdClass Object
 Just here for a fun time, not a long time.
     [protected] => 1
     [followers_count] => 22
-    [friends_count] => 10
+    [friends_count] => 12
     [listed_count] => 0
     [created_at] => Mon Sep 06 17:26:40 +0000 2010
     [favourites_count] => 195
@@ -18,7 +18,7 @@ Just here for a fun time, not a long time.
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 106
+    [statuses_count] => 126
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
