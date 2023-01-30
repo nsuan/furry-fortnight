@@ -9,7 +9,7 @@ stdClass Object
     [description] => só mais um nessa rede social, vamos ver no que vai dar.
     [protected] => 
     [followers_count] => 87
-    [friends_count] => 4189
+    [friends_count] => 4190
     [listed_count] => 0
     [created_at] => Tue May 03 14:57:32 +0000 2016
     [favourites_count] => 17096
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1376
+    [statuses_count] => 1377
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
