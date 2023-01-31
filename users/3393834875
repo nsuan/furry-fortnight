@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => 𝚎𝚖𝚎𝚝-𝚜𝚎𝚕𝚌𝚑 𝚝𝚛𝚊𝚜𝚑
     [protected] => 
-    [followers_count] => 37
-    [friends_count] => 532
+    [followers_count] => 18
+    [friends_count] => 527
     [listed_count] => 0
     [created_at] => Wed Jul 29 13:32:31 +0000 2015
     [favourites_count] => 11201
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 800
+    [statuses_count] => 789
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
