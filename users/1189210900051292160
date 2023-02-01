@@ -6,10 +6,10 @@ stdClass Object
     [screen_name] => merryjest_Art
     [location] => Colorado
     [url] => 
-    [description] => ART ACCOUNT! Send in a follow request to see my art without watermarks or glitches. It sucks, but you can thank AI Art bros for that!
-    [protected] => 1
+    [description] => ART ACCOUNT!
+    [protected] => 
     [followers_count] => 63
-    [friends_count] => 1301
+    [friends_count] => 1302
     [listed_count] => 2
     [created_at] => Tue Oct 29 16:02:36 +0000 2019
     [favourites_count] => 2684
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1754
+    [statuses_count] => 1755
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
