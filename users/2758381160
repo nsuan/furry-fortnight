@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2758381160
     [id_str] => 2758381160
-    [name] => Shay.
+    [name] => Shani
     [screen_name] => MerryCrims
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 4246
     [listed_count] => 9
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
-    [favourites_count] => 65350
+    [favourites_count] => 65351
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 76620
+    [statuses_count] => 76621
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
