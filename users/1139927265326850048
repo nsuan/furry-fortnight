@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1139927265326850048
     [id_str] => 1139927265326850048
-    [name] => PΛЯΛ IS MOURNING BEAU
+    [name] => PΛЯΛ
     [screen_name] => 72beauvertime
     [location] => Pennsylvania, USA
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 6364
+    [statuses_count] => 6360
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
