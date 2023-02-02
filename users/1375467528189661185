@@ -7,12 +7,12 @@ stdClass Object
     [location] => if you don't like me block me 
     [url] => 
     [description] => she/her | south asian | bi
-    [protected] => 
+    [protected] => 1
     [followers_count] => 330
-    [friends_count] => 460
+    [friends_count] => 459
     [listed_count] => 4
     [created_at] => Fri Mar 26 15:19:59 +0000 2021
-    [favourites_count] => 28158
+    [favourites_count] => 28157
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
