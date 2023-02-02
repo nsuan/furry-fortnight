@@ -13,7 +13,7 @@ stdClass Object
 •Commissions Info-
     [protected] => 
     [followers_count] => 85
-    [friends_count] => 332
+    [friends_count] => 333
     [listed_count] => 0
     [created_at] => Sun Oct 03 03:29:22 +0000 2021
     [favourites_count] => 821
@@ -21,7 +21,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 429
+    [statuses_count] => 430
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
