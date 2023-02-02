@@ -10,10 +10,10 @@ stdClass Object
 Leche Sama
     [protected] => 
     [followers_count] => 23847
-    [friends_count] => 3355
+    [friends_count] => 3356
     [listed_count] => 192
     [created_at] => Thu May 26 19:51:28 +0000 2016
-    [favourites_count] => 134460
+    [favourites_count] => 134463
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -27,8 +27,8 @@ Leche Sama
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1613972828855861253/0Qy1QZV-_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1613972828855861253/0Qy1QZV-_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1621256799889358849/e_RFxI3M_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1621256799889358849/e_RFxI3M_normal.jpg
     [profile_link_color] => E81C4F
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
