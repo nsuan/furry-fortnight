@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => I'm an artist who specializes in digital painting.
     [protected] => 
-    [followers_count] => 3370
+    [followers_count] => 3371
     [friends_count] => 4235
     [listed_count] => 9
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 76678
+    [statuses_count] => 76679
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
