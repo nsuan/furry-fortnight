@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 812920771
     [id_str] => 812920771
-    [name] => Kyp Algo (Magivenat)
+    [name] => Kyp Algo
     [screen_name] => KypAlgo2469
     [location] => New York, USA
     [url] => http://www.undyingresolution.com
-    [description] => Mage for Undying Resolution A - Elune-US,  Playing FFXIV and Summoners War too!  Dad Jokes and Puns are my specialty.  He/Him
+    [description] => Evoker for Undying Resolution A - Elune-US,  Playing Summoners War too!  Dad Jokes and Puns are my specialty.  He/Him
 
 http://twitch.tv/kypalgo
     [protected] => 
@@ -19,7 +19,7 @@ http://twitch.tv/kypalgo
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4826
+    [statuses_count] => 4829
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
