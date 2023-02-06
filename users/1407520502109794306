@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => เมดูซ่าเด้อออออออ
     [protected] => 
-    [followers_count] => 178
-    [friends_count] => 4965
+    [followers_count] => 177
+    [friends_count] => 4966
     [listed_count] => 3
     [created_at] => Wed Jun 23 02:07:45 +0000 2021
     [favourites_count] => 64318
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 38437
+    [statuses_count] => 38436
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
