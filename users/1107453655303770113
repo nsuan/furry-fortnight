@@ -2,9 +2,9 @@ stdClass Object
 (
     [id] => 1107453655303770113
     [id_str] => 1107453655303770113
-    [name] => Lord of Thunder
+    [name] => Tired of this
     [screen_name] => kingcecil7
-    [location] => Athens
+    [location] => 
     [url] => 
     [description] => 
     [protected] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5341
+    [statuses_count] => 5339
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -33,7 +33,7 @@ stdClass Object
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 1
+    [has_extended_profile] => 
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
