@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => All phoenixes are my children. Being a Queen is hard.
     [protected] => 
-    [followers_count] => 165
-    [friends_count] => 2096
+    [followers_count] => 164
+    [friends_count] => 2095
     [listed_count] => 0
     [created_at] => Mon May 13 05:28:43 +0000 2019
     [favourites_count] => 65028
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 15963
+    [statuses_count] => 15964
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
