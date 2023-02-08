@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => Just a werewolf living in a human world
     [protected] => 
-    [followers_count] => 169
-    [friends_count] => 4484
+    [followers_count] => 170
+    [friends_count] => 4490
     [listed_count] => 0
     [created_at] => Tue Apr 12 02:14:37 +0000 2022
     [favourites_count] => 3
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 223
+    [statuses_count] => 224
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
