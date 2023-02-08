@@ -6,18 +6,20 @@ stdClass Object
     [screen_name] => MerryCrims
     [location] => 
     [url] => 
-    [description] => I'm an artist who specializes in digital painting.
+    [description] => I'm an artist who specializes in digital painting. 
+
+they/them
     [protected] => 
     [followers_count] => 3392
-    [friends_count] => 4520
+    [friends_count] => 4568
     [listed_count] => 9
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
-    [favourites_count] => 65562
+    [favourites_count] => 65568
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 76778
+    [statuses_count] => 76788
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
