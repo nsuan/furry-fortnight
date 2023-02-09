@@ -11,15 +11,15 @@ stdClass Object
 pfp @LiRagnedHel
     [protected] => 
     [followers_count] => 555
-    [friends_count] => 4568
+    [friends_count] => 4570
     [listed_count] => 8
     [created_at] => Sun Sep 29 19:17:22 +0000 2019
-    [favourites_count] => 16560
+    [favourites_count] => 16564
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 4495
+    [statuses_count] => 4496
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
