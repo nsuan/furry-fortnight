@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1107453655303770113
     [id_str] => 1107453655303770113
-    [name] => Tired of this
+    [name] => Thunder
     [screen_name] => kingcecil7
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1781
     [listed_count] => 0
     [created_at] => Mon Mar 18 01:28:21 +0000 2019
-    [favourites_count] => 7856
+    [favourites_count] => 7864
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5360
+    [statuses_count] => 5363
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
