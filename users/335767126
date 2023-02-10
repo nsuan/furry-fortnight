@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 335767126
     [id_str] => 335767126
-    [name] => 🏳️‍⚧️ Little Birthday Guy, Zach
+    [name] => 🏳️‍⚧️Zach
     [screen_name] => itsjustbeek
     [location] => Honolulu, Hawai‘i
     [url] => https://patreon.com/itsjustbeek
@@ -16,12 +16,12 @@ stdClass Object
     [friends_count] => 1011
     [listed_count] => 32
     [created_at] => Fri Jul 15 06:09:20 +0000 2011
-    [favourites_count] => 26795
+    [favourites_count] => 26796
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 27439
+    [statuses_count] => 27442
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

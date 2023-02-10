@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 549605629
     [id_str] => 549605629
-    [name] => Nathan | Currently in Azeroth again!
+    [name] => Nathan is tired and needs a break
     [screen_name] => TheIronleaf
     [location] => In the gutter
     [url] => https://theironleaf.carrd.co/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1790
     [listed_count] => 17
     [created_at] => Mon Apr 09 22:39:11 +0000 2012
-    [favourites_count] => 22080
+    [favourites_count] => 22082
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20648
+    [statuses_count] => 20653
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
