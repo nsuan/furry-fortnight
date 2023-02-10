@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 65549762
     [id_str] => 65549762
-    [name] => Amir 🍮
+    [name] => Amir 🍮 | Milo 🐿️
     [screen_name] => SiameseBeans
     [location] => Alberta, Canada
     [url] => https://linktr.ee/tonatli
@@ -21,7 +21,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 12581
+    [statuses_count] => 12580
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
