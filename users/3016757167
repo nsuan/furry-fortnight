@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3016757167
     [id_str] => 3016757167
-    [name] => finch is sleepy 💤
+    [name] => finch is sleepy 💤 @ AWU
     [screen_name] => Scuttlepaw
     [location] => Portland, OR
     [url] => http://toyhou.se/scuttlepaw
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1505
     [listed_count] => 6
     [created_at] => Tue Feb 10 18:50:36 +0000 2015
-    [favourites_count] => 54262
+    [favourites_count] => 54265
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 10552
+    [statuses_count] => 10555
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
