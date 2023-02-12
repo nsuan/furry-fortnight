@@ -2,9 +2,9 @@ stdClass Object
 (
     [id] => 1556691802538786817
     [id_str] => 1556691802538786817
-    [name] => Nadezhda
+    [name] => Mamá de 🐈
     [screen_name] => Diysare
-    [location] => Málaga/Madrid 
+    [location] => Madrid, Comunidad de Madrid
     [url] => https://worldofwarcraft.com/es-es/character/eu/shendralar/diysare
     [description] => She/Her 🌙 Mamá de Atenea y Hades 🐈🐈‍⬛ Through love, all is possible ❤️‍🩹 Certified book nerd. 📖
     [protected] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14930
+    [statuses_count] => 14932
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
