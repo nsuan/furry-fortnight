@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2991166437
     [id_str] => 2991166437
-    [name] => 沙
+    [name] => Sha
     [screen_name] => wowanwow2010
     [location] => 
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 30
+    [statuses_count] => 29
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
