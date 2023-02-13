@@ -10,11 +10,11 @@ stdClass Object
 Age: 21
 DMs Open
     [protected] => 
-    [followers_count] => 204
-    [friends_count] => 3683
+    [followers_count] => 205
+    [friends_count] => 3685
     [listed_count] => 3
     [created_at] => Tue Apr 28 03:58:08 +0000 2020
-    [favourites_count] => 2489
+    [favourites_count] => 2490
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
