@@ -12,16 +12,16 @@ stdClass Object
 
 h:@fabcrabART pfp:@kokuuhakuu
     [protected] => 
-    [followers_count] => 519
+    [followers_count] => 518
     [friends_count] => 203
     [listed_count] => 8
     [created_at] => Fri Feb 06 15:56:04 +0000 2015
-    [favourites_count] => 44134
+    [favourites_count] => 44133
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12026
+    [statuses_count] => 12027
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

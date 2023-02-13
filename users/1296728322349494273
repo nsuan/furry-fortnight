@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1296728322349494273
     [id_str] => 1296728322349494273
-    [name] => covey; is home
+    [name] => covey; is 25? wth
     [screen_name] => rcoveypsims
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1178
     [listed_count] => 4
     [created_at] => Fri Aug 21 08:38:55 +0000 2020
-    [favourites_count] => 41237
+    [favourites_count] => 41240
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3364
+    [statuses_count] => 3367
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
