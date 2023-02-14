@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 963242283289194496
     [id_str] => 963242283289194496
-    [name] => Thessally
+    [name] => Thessaly
     [screen_name] => VoidMageO
     [location] => 
     [url] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 790
     [listed_count] => 0
     [created_at] => Tue Feb 13 02:43:51 +0000 2018
-    [favourites_count] => 64670
+    [favourites_count] => 64674
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
