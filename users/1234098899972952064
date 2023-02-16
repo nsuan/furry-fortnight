@@ -11,15 +11,15 @@ stdClass Object
 Nsfw content ahead, minors do not follow
     [protected] => 
     [followers_count] => 323
-    [friends_count] => 422
+    [friends_count] => 423
     [listed_count] => 2
     [created_at] => Sun Mar 01 12:51:38 +0000 2020
-    [favourites_count] => 3655
+    [favourites_count] => 3657
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7243
+    [statuses_count] => 7244
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
