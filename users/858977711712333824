@@ -11,16 +11,16 @@ stdClass Object
 side @kynaera
 ↓ Commissions ↓
     [protected] => 
-    [followers_count] => 6867
+    [followers_count] => 6863
     [friends_count] => 883
     [listed_count] => 67
     [created_at] => Mon May 01 09:33:40 +0000 2017
-    [favourites_count] => 22442
+    [favourites_count] => 22443
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6842
+    [statuses_count] => 6844
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
