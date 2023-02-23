@@ -10,11 +10,11 @@ stdClass Object
 
 http://beacons.ai/abstractadventures
     [protected] => 
-    [followers_count] => 1264
+    [followers_count] => 1265
     [friends_count] => 2194
-    [listed_count] => 0
+    [listed_count] => 10
     [created_at] => Fri Sep 17 06:02:38 +0000 2021
-    [favourites_count] => 9222
+    [favourites_count] => 9225
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
