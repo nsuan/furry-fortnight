@@ -15,15 +15,15 @@ stdClass Object
 i: @baydews h: @kazukisimo
     [protected] => 
     [followers_count] => 230
-    [friends_count] => 259
+    [friends_count] => 260
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 20689
+    [favourites_count] => 20691
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 49804
+    [statuses_count] => 49806
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
