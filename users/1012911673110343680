@@ -7,7 +7,7 @@ stdClass Object
     [location] => nowhere
     [url] => https://www.twitch.tv/revel3454
     [description] => central de reclamação diária
-    [protected] => 
+    [protected] => 1
     [followers_count] => 125
     [friends_count] => 890
     [listed_count] => 1
