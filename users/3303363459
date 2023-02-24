@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3303363459
     [id_str] => 3303363459
-    [name] => Sin'dorei Biscuit Dunker
+    [name] => Sin'dorei Murloc Harasser
     [screen_name] => MorisDreadvale
     [location] => N’zoth’s Basement 
     [url] => http://morisdreadvaled.tumblr.com
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1241
     [listed_count] => 14
     [created_at] => Sat May 30 03:28:01 +0000 2015
-    [favourites_count] => 84475
+    [favourites_count] => 84485
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 39763
+    [statuses_count] => 39766
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
