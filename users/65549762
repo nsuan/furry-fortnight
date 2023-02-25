@@ -13,7 +13,7 @@ stdClass Object
 🎨 i/b: CatAvocato 🎨
     [protected] => 
     [followers_count] => 430
-    [friends_count] => 1266
+    [friends_count] => 1267
     [listed_count] => 4
     [created_at] => Fri Aug 14 03:23:36 +0000 2009
     [favourites_count] => 37698
@@ -21,7 +21,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 12628
+    [statuses_count] => 12630
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
