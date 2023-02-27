@@ -12,14 +12,14 @@ header - @/kingsmiggles
     [protected] => 
     [followers_count] => 1258
     [friends_count] => 4925
-    [listed_count] => 11
+    [listed_count] => 12
     [created_at] => Fri Apr 01 22:19:58 +0000 2016
-    [favourites_count] => 87719
+    [favourites_count] => 87741
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 39285
+    [statuses_count] => 39291
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
