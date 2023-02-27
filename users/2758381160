@@ -11,7 +11,7 @@ stdClass Object
 they/them
     [protected] => 
     [followers_count] => 3425
-    [friends_count] => 5000
+    [friends_count] => 4999
     [listed_count] => 8
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
     [favourites_count] => 66870
@@ -19,7 +19,7 @@ they/them
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 78555
+    [statuses_count] => 78558
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
