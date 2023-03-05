@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1476176430409129985
     [id_str] => 1476176430409129985
-    [name] => spen 🪲
+    [name] => spen 🪲comms open
     [screen_name] => spencerland
     [location] => England, United Kingdom
     [url] => https://forms.gle/wBtn9ku3KmPgmRB3A
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 256
     [listed_count] => 17
     [created_at] => Wed Dec 29 13:01:33 +0000 2021
-    [favourites_count] => 389
+    [favourites_count] => 391
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 586
+    [statuses_count] => 588
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
