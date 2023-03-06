@@ -10,16 +10,16 @@ stdClass Object
 
 art twitt @biteydrawsthing
     [protected] => 
-    [followers_count] => 682
-    [friends_count] => 317
+    [followers_count] => 683
+    [friends_count] => 318
     [listed_count] => 8
     [created_at] => Tue Aug 19 00:25:42 +0000 2008
-    [favourites_count] => 44104
+    [favourites_count] => 44105
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 30256
+    [statuses_count] => 30257
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
