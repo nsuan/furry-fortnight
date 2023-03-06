@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2394746635
     [id_str] => 2394746635
-    [name] => Festive Prince Zexu 🏳️‍🌈✊🏿💙
+    [name] => Prince Zexu 🏳️‍🌈✊🏿💙
     [screen_name] => PrinceZexu
     [location] => Seattle, WA
     [url] => http://twitch.tv/princezexu
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 2943
     [listed_count] => 64
     [created_at] => Mon Mar 17 16:43:54 +0000 2014
-    [favourites_count] => 176578
+    [favourites_count] => 176592
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 51913
+    [statuses_count] => 51914
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
