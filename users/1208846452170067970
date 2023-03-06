@@ -17,7 +17,7 @@ stdClass Object
 i: @baydews h: @moriartsu
     [protected] => 
     [followers_count] => 228
-    [friends_count] => 259
+    [friends_count] => 260
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
     [favourites_count] => 20926
@@ -25,7 +25,7 @@ i: @baydews h: @moriartsu
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 50196
+    [statuses_count] => 50200
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
