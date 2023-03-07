@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 4848259179
     [id_str] => 4848259179
-    [name] => 🌌kels🌌
+    [name] => kels
     [screen_name] => cosmickels
     [location] => 
     [url] => https://beacons.ai/cosmickels
-    [description] => 23 ♈ woman of many almost talents
+    [description] => woman of many almost talents
     [protected] => 
     [followers_count] => 33
     [friends_count] => 166
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 1072
+    [statuses_count] => 1071
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
