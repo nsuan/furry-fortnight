@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => alt personal account for @saintjesters bc i lost the other one. 18+ .
-    [protected] => 1
+    [protected] => 
     [followers_count] => 44
     [friends_count] => 50
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 4820
+    [statuses_count] => 4821
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
