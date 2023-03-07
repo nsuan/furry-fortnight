@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 238730853
     [id_str] => 238730853
-    [name] => Tevruden's retweet account
+    [name] => Tevruden's other account
     [screen_name] => nedurvet
     [location] => 
     [url] => 
@@ -19,7 +19,7 @@ He/Him
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 64
+    [statuses_count] => 59
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
