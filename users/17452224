@@ -11,15 +11,15 @@ stdClass Object
 pfp: @fangciful
     [protected] => 
     [followers_count] => 163
-    [friends_count] => 705
+    [friends_count] => 706
     [listed_count] => 1
     [created_at] => Mon Nov 17 22:20:27 +0000 2008
-    [favourites_count] => 14028
+    [favourites_count] => 14031
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12601
+    [statuses_count] => 12603
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
