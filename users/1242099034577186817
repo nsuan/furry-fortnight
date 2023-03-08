@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1242099034577186817
     [id_str] => 1242099034577186817
-    [name] => Blizzard pins collector
+    [name] => Blizzard pins collector @Tokyo
     [screen_name] => BlizzardpinAlan
     [location] => Southern District, Hong Kong
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 677
+    [statuses_count] => 678
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
