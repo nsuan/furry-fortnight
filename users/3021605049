@@ -12,16 +12,16 @@ stdClass Object
 
 h:@fabcrabART pfp:@JubilationsArt
     [protected] => 
-    [followers_count] => 526
+    [followers_count] => 527
     [friends_count] => 203
     [listed_count] => 8
     [created_at] => Fri Feb 06 15:56:04 +0000 2015
-    [favourites_count] => 45000
+    [favourites_count] => 45001
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12205
+    [statuses_count] => 12206
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
