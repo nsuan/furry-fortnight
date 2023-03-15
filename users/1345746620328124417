@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1345746620328124417
     [id_str] => 1345746620328124417
-    [name] => Azrathel 🪨🏳️‍⚧️🇺🇦💉 (3×AFBT)
+    [name] => Azrathel 🪨🏳️‍⚧️🇺🇦💉 (4×AFBT)
     [screen_name] => Hvedrungr5
     [location] => Norway
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 869
     [listed_count] => 1
     [created_at] => Sun Jan 03 14:59:44 +0000 2021
-    [favourites_count] => 69733
+    [favourites_count] => 69741
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 10519
+    [statuses_count] => 10527
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
