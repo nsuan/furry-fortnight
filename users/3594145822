@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3594145822
     [id_str] => 3594145822
-    [name] => Luwha says i am tired & tryin'
+    [name] => Luwha is very normal. Totally normal. So normal.
     [screen_name] => luwhart
     [location] => Look behind you, don't scream!
     [url] => https://www.patreon.com/luwhart
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 18334
+    [statuses_count] => 18335
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
