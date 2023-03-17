@@ -1,23 +1,27 @@
 stdClass Object
 (
-    [id] => 730098982874046464
-    [id_str] => 730098982874046464
-    [name] => 𝖄𝖔𝖚𝖗 𝖔𝖓𝖊 𝖙𝖗𝖚𝖊 𝖕𝖆𝖓𝖓𝖎𝖊 🌹🍄
-    [screen_name] => ZumoSenpai
-    [location] => Memphis, TN
-    [url] => http://behance.net/jshowers03
-    [description] => 666 / Motivation Starved Art Fanatic 🥀/ I retweet a lot of shit / Black / Pansexual /✨19✨/ she/HER Art Only Twitter: @ZumoArt
+    [id] => 1636748028907339780
+    [id_str] => 1636748028907339780
+    [name] => EatBugs
+    [screen_name] => NixHoundSounds
+    [location] => Balmora, Vvardenfell
+    [url] => 
+    [description] => Queer artist/writer doing queer things in Bethesda IPs. Formerly of House Wet Hat Kind of Orc. One-eyed Jacks are wild. 
+
+He/Him/Jade
+
+Talk nerdy to me.
     [protected] => 
-    [followers_count] => 241
-    [friends_count] => 2572
+    [followers_count] => 5
+    [friends_count] => 32
     [listed_count] => 0
-    [created_at] => Tue May 10 18:15:36 +0000 2016
-    [favourites_count] => 13112
+    [created_at] => Fri Mar 17 15:15:26 +0000 2023
+    [favourites_count] => 14
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6779
+    [statuses_count] => 4
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +30,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1603454904940494848/E3gJQQb4_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1603454904940494848/E3gJQQb4_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/730098982874046464/1650869763
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1636750629266767873/n1iH-c5Q_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1636750629266767873/n1iH-c5Q_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1636748028907339780/1679068467
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
