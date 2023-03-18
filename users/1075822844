@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1075822844
     [id_str] => 1075822844
-    [name] => ggwp
+    [name] => fortday
     [screen_name] => KimKilWhan
     [location] => dog pound
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 62637
+    [statuses_count] => 62638
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
