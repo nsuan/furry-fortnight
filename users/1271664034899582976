@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1271664034899582976
     [id_str] => 1271664034899582976
-    [name] => holoske
+    [name] => Holoske
     [screen_name] => holoskeart
     [location] => Colorado, USA
     [url] => https://holoske.carrd.co/
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1108
+    [statuses_count] => 1109
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
