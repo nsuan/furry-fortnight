@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1006667269835980802
     [id_str] => 1006667269835980802
-    [name] => maguro @ tff23!
+    [name] => maguro
     [screen_name] => magurosoda
     [location] => they 🏳️‍🌈🐛🇵🇭
     [url] => http://ko-fi.com/magurosoda
@@ -11,15 +11,15 @@ stdClass Object
 ⚠️ I do not support GAY-I art nor is any of my art GAY-I made
     [protected] => 
     [followers_count] => 473
-    [friends_count] => 747
+    [friends_count] => 749
     [listed_count] => 4
     [created_at] => Tue Jun 12 22:39:14 +0000 2018
-    [favourites_count] => 9495
+    [favourites_count] => 9499
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 670
+    [statuses_count] => 671
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
