@@ -10,16 +10,16 @@ stdClass Object
 
 they/them
     [protected] => 
-    [followers_count] => 3470
-    [friends_count] => 4844
+    [followers_count] => 3471
+    [friends_count] => 4870
     [listed_count] => 8
     [created_at] => Sat Aug 23 10:20:39 +0000 2014
-    [favourites_count] => 68047
+    [favourites_count] => 68049
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 80152
+    [statuses_count] => 80153
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
