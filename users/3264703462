@@ -10,15 +10,15 @@ stdClass Object
 🏳️‍⚧️⚧️
     [protected] => 
     [followers_count] => 40
-    [friends_count] => 802
+    [friends_count] => 805
     [listed_count] => 0
     [created_at] => Sun May 17 02:27:15 +0000 2015
-    [favourites_count] => 7270
+    [favourites_count] => 7272
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 985
+    [statuses_count] => 987
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
