@@ -7,7 +7,7 @@ stdClass Object
     [location] => in ur closet, BOO!!!!!!!!
     [url] => 
     [description] => laconic most times.
-    [protected] => 1
+    [protected] => 
     [followers_count] => 58
     [friends_count] => 5012
     [listed_count] => 1
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3479
+    [statuses_count] => 3432
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
