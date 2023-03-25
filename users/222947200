@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 222947200
     [id_str] => 222947200
-    [name] => three sleepy magpies in a zelda hoodie
+    [name] => three sleepy magpies in a zelda hoodie 🏳️‍⚧️
     [screen_name] => bluemoonsyrup
     [location] => Unicorn country 🏴󠁧󠁢󠁳󠁣󠁴󠁿
     [url] => https://ko-fi.com/bluemoonsyrup
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 2906
     [listed_count] => 2
     [created_at] => Sat Dec 04 23:00:01 +0000 2010
-    [favourites_count] => 56506
+    [favourites_count] => 56508
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 16156
+    [statuses_count] => 16157
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
