@@ -2,14 +2,14 @@ stdClass Object
 (
     [id] => 425282237
     [id_str] => 425282237
-    [name] => Grey
-    [screen_name] => Kelandiir
+    [name] => Grey Bae
+    [screen_name] => AphelionDusk
     [location] => 
     [url] => 
     [description] => Grey • 28 •🏳‍⚧ (he/him) • 🤍💜🖤Gay Fictosexual •💍💕@witcherbatard • Mixed Native • Autistic • If u ship w my f/os, pls don't talk to me abt it. NO N//F//T//S
-    [protected] => 1
-    [followers_count] => 1778
-    [friends_count] => 301
+    [protected] => 
+    [followers_count] => 1779
+    [friends_count] => 300
     [listed_count] => 27
     [created_at] => Wed Nov 30 20:14:08 +0000 2011
     [favourites_count] => 84092
@@ -26,8 +26,9 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1619064526531616768/ay2M9Xv8_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1619064526531616768/ay2M9Xv8_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1639808215444754432/APpaRXy__normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1639808215444754432/APpaRXy__normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/425282237/1679795720
     [profile_link_color] => 92B0B6
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
