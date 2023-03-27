@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => matt, he/him, 19
 i dont know how twitter works
-    [protected] => 
+    [protected] => 1
     [followers_count] => 12
     [friends_count] => 159
     [listed_count] => 0
