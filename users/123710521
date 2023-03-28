@@ -2,9 +2,9 @@ stdClass Object
 (
     [id] => 123710521
     [id_str] => 123710521
-    [name] => Richard
+    [name] => Rich
     [screen_name] => draman22
-    [location] => New York, NY
+    [location] => New York, USA
     [url] => 
     [description] => idk man, playing games, having fun, causing a lil chaos here and there
     [protected] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 303
+    [statuses_count] => 304
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
