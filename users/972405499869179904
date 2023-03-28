@@ -6,10 +6,10 @@ stdClass Object
     [screen_name] => Tokoyyami
     [location] => Polska
     [url] => 
-    [description] => Lana&Alicia
+    [description] => Lana&Alicia 
 World of Warcraft
 Hanna and the 100
-Mróz and Richard knaak 
+Mróz
 Chelsea
 Hazard&Drogba
     [protected] => 
@@ -22,7 +22,7 @@ Hazard&Drogba
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 404
+    [statuses_count] => 401
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
