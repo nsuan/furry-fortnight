@@ -9,11 +9,11 @@ stdClass Object
     [description] => I like everything.
 24
     [protected] => 
-    [followers_count] => 69
-    [friends_count] => 5004
-    [listed_count] => 0
+    [followers_count] => 71
+    [friends_count] => 4999
+    [listed_count] => 1
     [created_at] => Sun Aug 23 04:10:39 +0000 2020
-    [favourites_count] => 74613
+    [favourites_count] => 74951
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 

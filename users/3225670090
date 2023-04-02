@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 3225670090
     [id_str] => 3225670090
-    [name] => Goobijen (Away)
+    [name] => Goobijen
     [screen_name] => Goobijen
     [location] => Whidbey Island / WA
     [url] => https://www.goobijen.com/
-    [description] => Human Artist - Commissions Closed ✨ Unable to reply while I'm out of internet range 🚢
+    [description] => Human Artist - Commissions Closed
     [protected] => 
     [followers_count] => 1259
-    [friends_count] => 482
+    [friends_count] => 481
     [listed_count] => 24
     [created_at] => Fri May 01 00:39:51 +0000 2015
-    [favourites_count] => 4327
+    [favourites_count] => 4335
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4517
+    [statuses_count] => 4523
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
