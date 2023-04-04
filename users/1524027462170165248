@@ -10,15 +10,15 @@ stdClass Object
 #paidworkonly
     [protected] => 
     [followers_count] => 219
-    [friends_count] => 1271
+    [friends_count] => 1268
     [listed_count] => 0
     [created_at] => Tue May 10 14:21:12 +0000 2022
-    [favourites_count] => 14585
+    [favourites_count] => 14594
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13550
+    [statuses_count] => 13555
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
