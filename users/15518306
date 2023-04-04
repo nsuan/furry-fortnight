@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 15518306
     [id_str] => 15518306
-    [name] => Dan Langille
+    [name] => Dan Langille @dvl@bsd.network
     [screen_name] => DLangille
     [location] => Philadelphia, PA formerly 🇨🇦 🇳🇿 🇨🇦
     [url] => http://langille.org/
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 538
     [listed_count] => 119
     [created_at] => Mon Jul 21 17:56:01 +0000 2008
-    [favourites_count] => 4294
+    [favourites_count] => 4295
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 35433
+    [statuses_count] => 35434
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
