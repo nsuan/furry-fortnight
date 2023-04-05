@@ -4,9 +4,10 @@ stdClass Object
     [id_str] => 141479301
     [name] => Ligax
     [screen_name] => ligaxthewolf
-    [location] => San Antonio, TX
+    [location] => Texas, USA
     [url] => http://www.picarto.tv/ligax
-    [description] => Owner of the Butterflyfox species. arts by ligax
+    [description] => Owner of the Butterflyfox species.
+dead acc do not send messages  or request i will not respond.
     [protected] => 1
     [followers_count] => 162
     [friends_count] => 483
@@ -17,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 771
+    [statuses_count] => 763
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
