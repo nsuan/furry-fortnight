@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 1218862642112204800
-    [id_str] => 1218862642112204800
-    [name] => The Crimson
-    [screen_name] => AlexCrimson88
-    [location] => Italia
-    [url] => http://linktr.ee/thecrimson88
-    [description] => Twitch Affiliate - Italian 3D and 2D artist, writer and game developer
+    [id] => 1478176173452500995
+    [id_str] => 1478176173452500995
+    [name] => Raven's Wrath
+    [screen_name] => Spicy_Raven
+    [location] => Rapidly approaching
+    [url] => https://ravenswrath.carrd.co/
+    [description] => A normal person :)
+
+LGBTQ+ and 🔞
     [protected] => 
-    [followers_count] => 256
-    [friends_count] => 3100
-    [listed_count] => 1
-    [created_at] => Sun Jan 19 11:48:05 +0000 2020
-    [favourites_count] => 11007
+    [followers_count] => 60
+    [friends_count] => 475
+    [listed_count] => 2
+    [created_at] => Tue Jan 04 01:27:32 +0000 2022
+    [favourites_count] => 1288
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1958
+    [statuses_count] => 911
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +28,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1550065856167682048/OimRLzMU_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1550065856167682048/OimRLzMU_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1218862642112204800/1658399449
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1637528165924106240/i5k1ejes_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1637528165924106240/i5k1ejes_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1478176173452500995/1680677100
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
