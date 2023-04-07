@@ -7,7 +7,7 @@ stdClass Object
     [location] => Dreamgrove
     [url] => 
     [description] => 
-    [protected] => 
+    [protected] => 1
     [followers_count] => 110
     [friends_count] => 1165
     [listed_count] => 1
