@@ -5,7 +5,7 @@ stdClass Object
     [name] => sar
     [screen_name] => archmagesar
     [location] => 
-    [url] => http://twitch.tv/archmagesar
+    [url] => https://twitch.tv/archmagesar
     [description] => worlds best firestarter and burger knight enthusiast 🔥 they/she 💙 twitch affiliate, variety streamer and member of ebgg
     [protected] => 
     [followers_count] => 242
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6740
+    [statuses_count] => 6741
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
