@@ -10,16 +10,16 @@ stdClass Object
 Will be a vtuber when rich enough 
 No minors allowed
     [protected] => 1
-    [followers_count] => 43
-    [friends_count] => 2454
+    [followers_count] => 42
+    [friends_count] => 2451
     [listed_count] => 8
     [created_at] => Wed Mar 23 18:54:32 +0000 2011
-    [favourites_count] => 10202
+    [favourites_count] => 10203
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12339
+    [statuses_count] => 12341
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
