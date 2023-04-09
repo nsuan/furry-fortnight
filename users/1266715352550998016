@@ -9,7 +9,7 @@ stdClass Object
     [description] => artist who lost all their work so they're takin a break & rebuilding!
     [protected] => 1
     [followers_count] => 1712
-    [friends_count] => 625
+    [friends_count] => 612
     [listed_count] => 23
     [created_at] => Sat May 30 12:57:39 +0000 2020
     [favourites_count] => 10547
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 334
+    [statuses_count] => 335
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
