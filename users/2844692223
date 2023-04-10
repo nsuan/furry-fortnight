@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2844692223
     [id_str] => 2844692223
-    [name] => Piña Drocada
+    [name] => El Droco de Pascua
     [screen_name] => drococu
     [location] => 
     [url] => http://twitch.tv/drococu
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8637
+    [statuses_count] => 8638
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
