@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1370774231349350402
     [id_str] => 1370774231349350402
-    [name] => HELLOTHERE2424
+    [name] => HelloTraveler
     [screen_name] => marc84446543
     [location] => 
     [url] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 4837
     [listed_count] => 0
     [created_at] => Sat Mar 13 16:30:52 +0000 2021
-    [favourites_count] => 2773
+    [favourites_count] => 2777
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
