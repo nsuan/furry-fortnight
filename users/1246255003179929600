@@ -11,9 +11,9 @@ in a relationship.
     [protected] => 1
     [followers_count] => 1035
     [friends_count] => 2083
-    [listed_count] => 9
+    [listed_count] => 8
     [created_at] => Sat Apr 04 01:55:28 +0000 2020
-    [favourites_count] => 18853
+    [favourites_count] => 18806
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
