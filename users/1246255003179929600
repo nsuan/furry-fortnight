@@ -10,15 +10,15 @@ stdClass Object
 in a relationship.
     [protected] => 1
     [followers_count] => 1033
-    [friends_count] => 2085
+    [friends_count] => 2086
     [listed_count] => 9
     [created_at] => Sat Apr 04 01:55:28 +0000 2020
-    [favourites_count] => 18915
+    [favourites_count] => 18927
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6285
+    [statuses_count] => 6283
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
