@@ -10,8 +10,8 @@ stdClass Object
  
 (icon: @sphinxhijinx, header: CoffeeDragon)
     [protected] => 
-    [followers_count] => 1284
-    [friends_count] => 1240
+    [followers_count] => 1283
+    [friends_count] => 1239
     [listed_count] => 34
     [created_at] => Fri May 01 07:04:18 +0000 2009
     [favourites_count] => 48161
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 29342
+    [statuses_count] => 29341
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
