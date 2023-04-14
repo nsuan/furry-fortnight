@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => Icon: @MechoTheAndroid
     [protected] => 
-    [followers_count] => 89
+    [followers_count] => 90
     [friends_count] => 1222
     [listed_count] => 3
     [created_at] => Tue Feb 05 03:24:05 +0000 2013
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 25519
+    [statuses_count] => 25518
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
