@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1102305240227885058
     [id_str] => 1102305240227885058
-    [name] => Name cannot be blank
+    [name] => Golihill
     [screen_name] => ThorgrimF
     [location] => Limbic Lobe
     [url] => https://twitter.com/ThorgrimF
@@ -11,10 +11,10 @@ Take chances, get messy, make mistakes, explore, seek patterns
 I like ttrpgs, videogames, anime, weighlifting
     [protected] => 
     [followers_count] => 143
-    [friends_count] => 2903
+    [friends_count] => 2904
     [listed_count] => 1
     [created_at] => Sun Mar 03 20:30:23 +0000 2019
-    [favourites_count] => 49565
+    [favourites_count] => 49568
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
