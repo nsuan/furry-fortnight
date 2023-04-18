@@ -10,10 +10,10 @@ stdClass Object
 sfw/nsfw
     [protected] => 
     [followers_count] => 540
-    [friends_count] => 3836
+    [friends_count] => 3837
     [listed_count] => 11
     [created_at] => Tue Mar 29 20:51:28 +0000 2022
-    [favourites_count] => 3839
+    [favourites_count] => 3843
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
