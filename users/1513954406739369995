@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1513954406739369995
     [id_str] => 1513954406739369995
-    [name] => 𝕮𝖔𝖚𝖓𝖙𝖊𝖘𝖘 𝕱𝖎𝖗𝖊𝖘𝖔𝖓𝖌, 𝖆𝖓𝖉 𝖈𝖔
+    [name] => 𝕮𝖔𝖚𝖓𝖙𝖊𝖘𝖘 𝕱𝖎𝖗𝖊𝖘𝖔𝖓𝖌 𝖆𝖓𝖉 𝖈𝖔
     [screen_name] => Thighlassian
     [location] => Azeroth
     [url] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 1099
     [listed_count] => 1
     [created_at] => Tue Apr 12 18:57:23 +0000 2022
-    [favourites_count] => 9413
+    [favourites_count] => 9414
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
