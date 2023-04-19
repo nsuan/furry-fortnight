@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => I'm 18
     [protected] => 
-    [followers_count] => 142
-    [friends_count] => 3547
+    [followers_count] => 143
+    [friends_count] => 3549
     [listed_count] => 3
     [created_at] => Fri Nov 27 09:29:01 +0000 2020
     [favourites_count] => 53
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 597
+    [statuses_count] => 599
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
