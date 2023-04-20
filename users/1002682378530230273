@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1002682378530230273
     [id_str] => 1002682378530230273
-    [name] => WildCharge | commissioned closed forever
+    [name] => WildCharge
     [screen_name] => wildchargeart
     [location] => 
     [url] => https://wildcharge.carrd.co/
-    [description] => I desire my art to be influential. I do not desire to be an influencer, there is a difference. commissions closed
+    [description] => We are all in hell together. Professional artist, nihilistic shitposter and gamer.
     [protected] => 
     [followers_count] => 8801
     [friends_count] => 1608
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 44252
+    [statuses_count] => 44253
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
