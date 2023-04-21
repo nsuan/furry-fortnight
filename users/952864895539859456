@@ -11,7 +11,7 @@ stdClass Object
 @Slugdog@mastodon.art
     [protected] => 
     [followers_count] => 105
-    [friends_count] => 1711
+    [friends_count] => 1712
     [listed_count] => 1
     [created_at] => Mon Jan 15 11:27:49 +0000 2018
     [favourites_count] => 2897
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3084
+    [statuses_count] => 3085
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
