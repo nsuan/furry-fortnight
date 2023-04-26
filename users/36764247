@@ -4,8 +4,8 @@ stdClass Object
     [id_str] => 36764247
     [name] => Vickie Lynn
     [screen_name] => VickieRioux
-    [location] => Utah
-    [url] => http://www.youtube.com/hellomymommy
+    [location] => 
+    [url] => 
     [description] => Wife • Mother • Nerd • Trying to figure life...still
     [protected] => 
     [followers_count] => 36
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2924
+    [statuses_count] => 2925
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
