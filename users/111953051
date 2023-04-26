@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 111953051
     [id_str] => 111953051
-    [name] => The Purring Waffle
+    [name] => The Purring Waffle🧇
     [screen_name] => Wafuru
     [location] => Allosimanius Syneca
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 119
     [listed_count] => 0
     [created_at] => Sat Feb 06 18:39:29 +0000 2010
-    [favourites_count] => 6358
+    [favourites_count] => 6359
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7191
+    [statuses_count] => 7192
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
