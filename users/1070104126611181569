@@ -6,13 +6,13 @@ stdClass Object
     [screen_name] => comel256
     [location] => 
     [url] => 
-    [description] => 
+    [description] => COMEL
     [protected] => 
     [followers_count] => 35
     [friends_count] => 5001
     [listed_count] => 24
     [created_at] => Tue Dec 04 23:54:40 +0000 2018
-    [favourites_count] => 14336
+    [favourites_count] => 14337
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
-    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1651321621406273538/OY4yY6ny_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1651321621406273538/OY4yY6ny_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -35,7 +35,7 @@ stdClass Object
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 1
+    [default_profile_image] => 
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
