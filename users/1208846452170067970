@@ -11,7 +11,7 @@ stdClass Object
 ♡ @LunarRavana ♡ 
 
 i: @rurukatt
-    [protected] => 1
+    [protected] => 
     [followers_count] => 235
     [friends_count] => 225
     [listed_count] => 0
@@ -21,7 +21,7 @@ i: @rurukatt
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 51721
+    [statuses_count] => 51722
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
