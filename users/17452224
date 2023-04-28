@@ -10,16 +10,16 @@ stdClass Object
 
 pfp: @natalie_corsair
     [protected] => 
-    [followers_count] => 168
+    [followers_count] => 167
     [friends_count] => 724
     [listed_count] => 1
     [created_at] => Mon Nov 17 22:20:27 +0000 2008
-    [favourites_count] => 14863
+    [favourites_count] => 14864
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13399
+    [statuses_count] => 13400
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
