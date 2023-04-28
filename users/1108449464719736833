@@ -10,16 +10,16 @@ stdClass Object
 
 Giveaway now closed.
     [protected] => 
-    [followers_count] => 11680
+    [followers_count] => 11679
     [friends_count] => 1139
     [listed_count] => 37
     [created_at] => Wed Mar 20 19:25:21 +0000 2019
-    [favourites_count] => 24555
+    [favourites_count] => 24556
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20008
+    [statuses_count] => 20010
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
