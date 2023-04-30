@@ -1,23 +1,23 @@
 stdClass Object
 (
-    [id] => 1382051247612588034
-    [id_str] => 1382051247612588034
-    [name] => Wacko Cacoethes 🍕
-    [screen_name] => elusivegoomba
-    [location] => Buttfucker’s Glittergultch
+    [id] => 1650252493907951618
+    [id_str] => 1650252493907951618
+    [name] => SoldierBros
+    [screen_name] => Soldierman476
+    [location] => In the Far West of US.
     [url] => 
-    [description] => I am nothing, insufferable queer subhuman at best.
+    [description] => Just a Simple Artist making his way into the Universe. A Fan of TF2, Gmod, Elder Scrolls, RTS Games, and etc Gaming. Also Movies, and Great Shows of all time.
     [protected] => 
-    [followers_count] => 2442
-    [friends_count] => 4977
-    [listed_count] => 8
-    [created_at] => Tue Apr 13 19:22:38 +0000 2021
-    [favourites_count] => 177693
+    [followers_count] => 46
+    [friends_count] => 1361
+    [listed_count] => 0
+    [created_at] => Sun Apr 23 21:37:29 +0000 2023
+    [favourites_count] => 96
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 26341
+    [statuses_count] => 43
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1426225307833364484/u0End2iG_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1426225307833364484/u0End2iG_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1382051247612588034/1626496977
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1650252726750662656/dTX6qIz6_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1650252726750662656/dTX6qIz6_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
