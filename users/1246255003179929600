@@ -13,12 +13,12 @@ in a relationship.
     [friends_count] => 2121
     [listed_count] => 9
     [created_at] => Sat Apr 04 01:55:28 +0000 2020
-    [favourites_count] => 19465
+    [favourites_count] => 19470
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6600
+    [statuses_count] => 6602
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
