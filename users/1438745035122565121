@@ -10,7 +10,7 @@ stdClass Object
 
 http://beacons.ai/abstractadventures
     [protected] => 
-    [followers_count] => 1294
+    [followers_count] => 1293
     [friends_count] => 2204
     [listed_count] => 11
     [created_at] => Fri Sep 17 06:02:38 +0000 2021
@@ -19,7 +19,7 @@ http://beacons.ai/abstractadventures
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3558
+    [statuses_count] => 3555
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
