@@ -5,8 +5,8 @@ stdClass Object
     [name] => Slugdog_draws
     [screen_name] => SanSlugdog
     [location] => 
-    [url] => https://slugdog.carrd.co/
-    [description] => game designer | 2D/3D artist & illustrator | part of the alphabet mafia 🏳️‍🌈
+    [url] => https://slugdog.net
+    [description] => Freelance game designer | 2D/3D artist & illustrator | part of the alphabet mafia 🏳️‍🌈
 
 @Slugdog@mastodon.art
     [protected] => 
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3135
+    [statuses_count] => 3138
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
