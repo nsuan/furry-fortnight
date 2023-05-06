@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1452338669860241408
     [id_str] => 1452338669860241408
-    [name] => Amigras (creatively bankrupt)
+    [name] => Amigras' vacation has temporarily been halted.
     [screen_name] => EorzeaSchmidt
     [location] => Sophia, Materia
     [url] => 
@@ -22,12 +22,12 @@ banner: @dadafell
     [friends_count] => 2250
     [listed_count] => 4
     [created_at] => Sun Oct 24 18:18:27 +0000 2021
-    [favourites_count] => 12856
+    [favourites_count] => 12860
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5653
+    [statuses_count] => 5655
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
