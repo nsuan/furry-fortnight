@@ -10,15 +10,15 @@ stdClass Object
 DM for commission info
     [protected] => 
     [followers_count] => 2542
-    [friends_count] => 2054
+    [friends_count] => 2056
     [listed_count] => 31
     [created_at] => Thu Mar 24 03:28:10 +0000 2016
-    [favourites_count] => 50157
+    [favourites_count] => 50163
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 8804
+    [statuses_count] => 8806
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
