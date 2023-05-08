@@ -8,8 +8,8 @@ stdClass Object
     [url] => https://twitter.com/gatizo
     [description] => 
     [protected] => 1
-    [followers_count] => 7
-    [friends_count] => 93
+    [followers_count] => 1
+    [friends_count] => 89
     [listed_count] => 1
     [created_at] => Tue Dec 01 19:14:13 +0000 2009
     [favourites_count] => 5
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 123
+    [statuses_count] => 15
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
