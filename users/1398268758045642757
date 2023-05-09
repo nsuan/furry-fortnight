@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1398268758045642757
     [id_str] => 1398268758045642757
-    [name] => a swamp
+    [name] => THE swamp
     [screen_name] => wormlonde
     [location] => 
     [url] => 
@@ -14,12 +14,12 @@ pfp by @YaboiSparrow
     [friends_count] => 260
     [listed_count] => 17
     [created_at] => Fri May 28 13:23:59 +0000 2021
-    [favourites_count] => 3862
+    [favourites_count] => 3868
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2140
+    [statuses_count] => 2142
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
