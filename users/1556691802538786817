@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1556691802538786817
     [id_str] => 1556691802538786817
-    [name] => 🌷Rose Marie. 🌻 NO MD 🛑
+    [name] => 🌷Rose Marie. 🌻
     [screen_name] => Eastbluemermaid
     [location] => Honeydukes.
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1491
     [listed_count] => 3
     [created_at] => Mon Aug 08 17:20:34 +0000 2022
-    [favourites_count] => 13566
+    [favourites_count] => 13569
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 20028
+    [statuses_count] => 20030
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
