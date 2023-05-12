@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 432784139
     [id_str] => 432784139
-    [name] => baus / 10.2 & 6.4 / ☕️
+    [name] => baus / 10.1.5 & 6.4 Spoilers / ☕️
     [screen_name] => bauscasual
     [location] => 
     [url] => https://www.artstation.com/bauscheusse
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1001
     [listed_count] => 1
     [created_at] => Fri Dec 09 19:41:07 +0000 2011
-    [favourites_count] => 71034
+    [favourites_count] => 71039
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9214
+    [statuses_count] => 9216
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
