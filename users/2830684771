@@ -11,10 +11,10 @@ stdClass Object
 AceAro
     [protected] => 
     [followers_count] => 130
-    [friends_count] => 3883
+    [friends_count] => 3882
     [listed_count] => 3
     [created_at] => Wed Sep 24 23:01:22 +0000 2014
-    [favourites_count] => 42819
+    [favourites_count] => 42820
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
