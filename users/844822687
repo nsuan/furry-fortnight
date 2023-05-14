@@ -1,23 +1,25 @@
 stdClass Object
 (
-    [id] => 1032134995429576704
-    [id_str] => 1032134995429576704
-    [name] => 🪬Maggie the Mage🌻
-    [screen_name] => maggieemage
-    [location] => Laguna Niguel, CA
-    [url] => https://www.tumblr.com/maggiemage
-    [description] => 🌈🪬 Recovering animator, production person. CalArtie. Loves stories, D&D, dinos, history & magic! She/her/sir. Ally. BLM.
+    [id] => 844822687
+    [id_str] => 844822687
+    [name] => Dreleth
+    [screen_name] => Dreleth_
+    [location] => Baltimore, MD
+    [url] => 
+    [description] => Shapeshifter • Werewolf • Therian ΘΔ 🐺🌕 • They/Them • 31 • Ace • Transformation Addict • TF Artist • 18+ please
+Pfp by @Sitenlov!
+Banner by @Crypticole_!
     [protected] => 
-    [followers_count] => 454
-    [friends_count] => 4991
-    [listed_count] => 2
-    [created_at] => Wed Aug 22 05:18:53 +0000 2018
-    [favourites_count] => 91774
+    [followers_count] => 951
+    [friends_count] => 1910
+    [listed_count] => 7
+    [created_at] => Tue Sep 25 03:58:54 +0000 2012
+    [favourites_count] => 71558
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 22276
+    [statuses_count] => 8756
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,10 +28,10 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1576226181933694976/Ixz4kVvH_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1576226181933694976/Ixz4kVvH_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1032134995429576704/1613764303
-    [profile_link_color] => 74CEBE
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1655340641197359109/L8vqGX8d_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1655340641197359109/L8vqGX8d_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/844822687/1645153391
+    [profile_link_color] => F58EA8
     [profile_sidebar_border_color] => 000000
     [profile_sidebar_fill_color] => 000000
     [profile_text_color] => 000000
