@@ -9,7 +9,7 @@ stdClass Object
     [description] => I'm 18
     [protected] => 
     [followers_count] => 172
-    [friends_count] => 3675
+    [friends_count] => 3676
     [listed_count] => 2
     [created_at] => Fri Nov 27 09:29:01 +0000 2020
     [favourites_count] => 56
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 671
+    [statuses_count] => 672
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
