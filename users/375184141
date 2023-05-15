@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 375184141
     [id_str] => 375184141
-    [name] => Tin Silverthorn Birthday Month! 🎂🎈🎁
+    [name] => Tin Silverthorn Birthday Week! 🎂🎈🎁
     [screen_name] => TinSilverthorn
     [location] => Fort Worth, TX
     [url] => http://silverthorn.house
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1248
     [listed_count] => 5
     [created_at] => Sat Sep 17 17:13:46 +0000 2011
-    [favourites_count] => 31240
+    [favourites_count] => 31241
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 22776
+    [statuses_count] => 22778
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
