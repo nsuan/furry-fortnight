@@ -13,15 +13,15 @@ stdClass Object
     'Cursed forever'
     [protected] => 
     [followers_count] => 244
-    [friends_count] => 4999
+    [friends_count] => 5000
     [listed_count] => 0
     [created_at] => Tue Jan 17 21:04:03 +0000 2017
-    [favourites_count] => 35177
+    [favourites_count] => 35189
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9054
+    [statuses_count] => 9055
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
