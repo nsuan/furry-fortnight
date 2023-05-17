@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1070650283963895809
     [id_str] => 1070650283963895809
-    [name] => Sabvenia (Comms : 1/4 )
+    [name] => Sabvenia (Comms : 0/4 open)
     [screen_name] => sabvenia
     [location] => 
     [url] => https://boosty.to/sabvenia
@@ -13,12 +13,12 @@ Art status: comms are open!
     [friends_count] => 266
     [listed_count] => 32
     [created_at] => Thu Dec 06 12:04:54 +0000 2018
-    [favourites_count] => 5247
+    [favourites_count] => 5248
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 474
+    [statuses_count] => 475
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
