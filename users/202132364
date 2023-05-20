@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 202132364
     [id_str] => 202132364
-    [name] => Greg Arious
+    [name] => Grass Toucher
     [screen_name] => Dunnesparce
     [location] => Ireland
     [url] => https://twitch.tv/dunnesparce
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1887
     [listed_count] => 4
     [created_at] => Wed Oct 13 11:17:30 +0000 2010
-    [favourites_count] => 74721
+    [favourites_count] => 74729
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 23266
+    [statuses_count] => 23267
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
