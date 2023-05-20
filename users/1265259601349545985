@@ -8,7 +8,7 @@ stdClass Object
     [url] => 
     [description] => gooflord
     [protected] => 
-    [followers_count] => 286
+    [followers_count] => 287
     [friends_count] => 1120
     [listed_count] => 2
     [created_at] => Tue May 26 12:33:09 +0000 2020
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 13834
+    [statuses_count] => 13835
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
