@@ -8,11 +8,11 @@ stdClass Object
     [url] => 
     [description] => ...
     [protected] => 
-    [followers_count] => 67
-    [friends_count] => 4623
-    [listed_count] => 2
+    [followers_count] => 65
+    [friends_count] => 4632
+    [listed_count] => 3
     [created_at] => Tue Nov 05 08:20:25 +0000 2019
-    [favourites_count] => 206
+    [favourites_count] => 207
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 

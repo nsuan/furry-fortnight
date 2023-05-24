@@ -10,16 +10,16 @@ stdClass Object
 
 NSFW: CoffeeLEWDS
     [protected] => 
-    [followers_count] => 722
+    [followers_count] => 720
     [friends_count] => 199
     [listed_count] => 6
     [created_at] => Sat Dec 15 05:39:19 +0000 2018
-    [favourites_count] => 5496
+    [favourites_count] => 5544
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 1593
+    [statuses_count] => 1597
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

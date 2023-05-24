@@ -9,17 +9,17 @@ stdClass Object
     [description] => 20+/tired -- Just your typical Alchemist
 Will be a vtuber when rich enough 
 No minors allowed
-    [protected] => 1
+    [protected] => 
     [followers_count] => 40
-    [friends_count] => 2582
+    [friends_count] => 2588
     [listed_count] => 8
     [created_at] => Wed Mar 23 18:54:32 +0000 2011
-    [favourites_count] => 10421
+    [favourites_count] => 10426
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12847
+    [statuses_count] => 12876
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
