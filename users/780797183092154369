@@ -10,7 +10,7 @@ stdClass Object
 やあ、君を愛している!
     [protected] => 
     [followers_count] => 24
-    [friends_count] => 520
+    [friends_count] => 521
     [listed_count] => 0
     [created_at] => Tue Sep 27 15:52:09 +0000 2016
     [favourites_count] => 529
@@ -18,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 599
+    [statuses_count] => 600
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
