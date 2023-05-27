@@ -11,8 +11,8 @@ stdClass Object
 ■ Views/opinions are my own + do not reflect my employer.
 ■ A @rurukatt | B @Ika_Ichisan
     [protected] => 
-    [followers_count] => 2036
-    [friends_count] => 1024
+    [followers_count] => 2032
+    [friends_count] => 1021
     [listed_count] => 11
     [created_at] => Wed Sep 28 18:44:41 +0000 2011
     [favourites_count] => 59690
@@ -20,7 +20,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 37232
+    [statuses_count] => 37231
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
