@@ -11,15 +11,15 @@ stdClass Object
 pfp: Nise_Loftsteinn
     [protected] => 
     [followers_count] => 893
-    [friends_count] => 1639
+    [friends_count] => 1640
     [listed_count] => 4
     [created_at] => Tue May 14 22:42:02 +0000 2013
-    [favourites_count] => 29821
+    [favourites_count] => 29823
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5192
+    [statuses_count] => 5193
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
