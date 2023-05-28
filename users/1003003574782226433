@@ -12,8 +12,8 @@ stdClass Object
 -
 (BG © Me, Pfp © @Ryltha )
     [protected] => 
-    [followers_count] => 1449
-    [friends_count] => 1799
+    [followers_count] => 1459
+    [friends_count] => 1824
     [listed_count] => 15
     [created_at] => Sat Jun 02 20:01:01 +0000 2018
     [favourites_count] => 94954
@@ -21,7 +21,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 31569
+    [statuses_count] => 31568
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
