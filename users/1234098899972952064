@@ -11,7 +11,7 @@ stdClass Object
 Nsfw content ahead, minors do not follow
     [protected] => 
     [followers_count] => 324
-    [friends_count] => 461
+    [friends_count] => 462
     [listed_count] => 3
     [created_at] => Sun Mar 01 12:51:38 +0000 2020
     [favourites_count] => 3862
@@ -19,7 +19,7 @@ Nsfw content ahead, minors do not follow
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7744
+    [statuses_count] => 7747
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
