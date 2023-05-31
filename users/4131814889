@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 4131814889
     [id_str] => 4131814889
-    [name] => ABCD
+    [name] => “HELP!” (abcd)
     [screen_name] => sillyammy
     [location] => 
-    [url] => http://mintandvanilla.tumblr.com
-    [description] => mia/ammy, 28. she/they. ✨ queer & ND 🏳️‍🌈 ...obsessed with indie webcomics. 🃏READ MY COMIC: @TarotTournament 🃏art only: @faebcd 🃏
+    [url] => http://loremaster.tumblr.com
+    [description] => mia/ammy, 29. she/they. ✨ queer & ND 🏳️‍🌈 ...obsessed with comics.🃏READ MY COMIC: @TarotTournament 🃏art only: @faebcd 🃏
     [protected] => 
     [followers_count] => 921
     [friends_count] => 797
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 8464
+    [statuses_count] => 8465
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
