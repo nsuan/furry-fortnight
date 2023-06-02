@@ -2,12 +2,12 @@ stdClass Object
 (
     [id] => 1083453707122077697
     [id_str] => 1083453707122077697
-    [name] => Oridian
+    [name] => Lunneth
     [screen_name] => OridianD
     [location] => Canada
     [url] => 
     [description] => I am a crafter, a geek and a dreamer. Passionated with many things, I decided to express myself here. I also suffer from high anxiety. Cover logo:@Gaz_of_Nylrac
-    [protected] => 
+    [protected] => 1
     [followers_count] => 14
     [friends_count] => 1047
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 43
+    [statuses_count] => 44
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
