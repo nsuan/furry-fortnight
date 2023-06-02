@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 3303653904
     [id_str] => 3303653904
-    [name] => lacey 🔜 Y-CON
+    [name] => lacey @ Y-CON
     [screen_name] => byelacey
     [location] => 
     [url] => http://linktr.ee/byelacey
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 997
     [listed_count] => 356
     [created_at] => Sat Aug 01 22:50:42 +0000 2015
-    [favourites_count] => 195904
+    [favourites_count] => 195905
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 51734
+    [statuses_count] => 51735
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
