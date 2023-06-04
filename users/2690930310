@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2690930310
     [id_str] => 2690930310
-    [name] => geralt of nvidia (781/1000)
+    [name] => geralt of nvidia (782/1000)
     [screen_name] => holybleed
     [location] => 
     [url] => https://togetter.com/id/holybleed
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 979
     [listed_count] => 0
     [created_at] => Tue Jul 29 20:05:20 +0000 2014
-    [favourites_count] => 437964
+    [favourites_count] => 437965
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 122464
+    [statuses_count] => 122465
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
