@@ -7,7 +7,7 @@ stdClass Object
     [location] => Shadowforge City
     [url] => 
     [description] => This is a Dark Iron fan account. Here to discuss Warcraft. I also like Diablo, StarCraft, Star Wars, Warhammer, 40K, FF14, Elder Scrolls and DND. Moonguard-US.
-    [protected] => 1
+    [protected] => 
     [followers_count] => 32
     [friends_count] => 71
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 451
+    [statuses_count] => 452
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
