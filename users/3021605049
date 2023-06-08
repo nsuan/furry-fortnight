@@ -10,7 +10,7 @@ stdClass Object
 
 "Local Canadian with ADHD attempts to draw and play games"
     [protected] => 
-    [followers_count] => 533
+    [followers_count] => 534
     [friends_count] => 204
     [listed_count] => 8
     [created_at] => Fri Feb 06 15:56:04 +0000 2015
@@ -19,7 +19,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12710
+    [statuses_count] => 12708
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
