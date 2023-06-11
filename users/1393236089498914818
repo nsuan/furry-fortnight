@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1393236089498914818
     [id_str] => 1393236089498914818
-    [name] => Unsavory Hamster
+    [name] => Joey Maeven
     [screen_name] => UnsavoryH
     [location] => Houston, TX
     [url] => 
@@ -13,15 +13,15 @@ stdClass Object
 💖Certified Monster F*cker💖
     [protected] => 
     [followers_count] => 150
-    [friends_count] => 781
+    [friends_count] => 783
     [listed_count] => 0
     [created_at] => Fri May 14 16:05:50 +0000 2021
-    [favourites_count] => 18846
+    [favourites_count] => 18860
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 3037
+    [statuses_count] => 3041
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -30,9 +30,9 @@ stdClass Object
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1634961729653284865/XgZu1VaD_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1634961729653284865/XgZu1VaD_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1393236089498914818/1675771878
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1667903154724253696/g_nVD4Dm_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1667903154724253696/g_nVD4Dm_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1393236089498914818/1686494075
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
