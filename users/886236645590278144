@@ -11,7 +11,7 @@ stdClass Object
 Icon: Esiaart
 Banner: Marosar_art
     [protected] => 
-    [followers_count] => 97
+    [followers_count] => 98
     [friends_count] => 1744
     [listed_count] => 1
     [created_at] => Sat Jul 15 14:50:56 +0000 2017
@@ -20,7 +20,7 @@ Banner: Marosar_art
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1226
+    [statuses_count] => 1227
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
