@@ -1,25 +1,23 @@
 stdClass Object
 (
-    [id] => 1374059222195929088
-    [id_str] => 1374059222195929088
-    [name] => Terizi 🐲
-    [screen_name] => Let_terizi
+    [id] => 1668219010146598912
+    [id_str] => 1668219010146598912
+    [name] => Thunderstripes
+    [screen_name] => thunderstripez
     [location] => 
-    [url] => http://wardenofchips.tumblr.com
-    [description] => Pt-br/Eng. Posto desenhos, as vezes
-
-Art acc: @Terizi_doodles
+    [url] => 
+    [description] => 3D/2D Artist | he/him | 🐯🐮🦄🏳️‍🌈
     [protected] => 
-    [followers_count] => 100
-    [friends_count] => 406
-    [listed_count] => 1
-    [created_at] => Mon Mar 22 18:04:09 +0000 2021
-    [favourites_count] => 61467
+    [followers_count] => 0
+    [friends_count] => 30
+    [listed_count] => 0
+    [created_at] => Mon Jun 12 11:30:05 +0000 2023
+    [favourites_count] => 0
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 75992
+    [statuses_count] => 0
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -28,9 +26,8 @@ Art acc: @Terizi_doodles
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1604211287172562946/G0ZAG3of_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1604211287172562946/G0ZAG3of_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1374059222195929088/1654009603
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1668222363647766529/Pt53-onO_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1668222363647766529/Pt53-onO_normal.jpg
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
