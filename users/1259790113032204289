@@ -1,26 +1,23 @@
 stdClass Object
 (
-    [id] => 747483171864846336
-    [id_str] => 747483171864846336
-    [name] => Ae'Virael
-    [screen_name] => AeVirael
-    [location] => Belarus 
+    [id] => 1259790113032204289
+    [id_str] => 1259790113032204289
+    [name] => 千小芒
+    [screen_name] => qianxm1122
+    [location] => 
     [url] => 
-    [description] => 21 y/o. Gay. Male. Belarusian ⚪🔴⚪
-NSFW🔞
-WoW and LoL player, Horde/blood elf main.
-Rus/Eng/Blr
+    [description] => 
     [protected] => 
-    [followers_count] => 64
-    [friends_count] => 976
+    [followers_count] => 0
+    [friends_count] => 212
     [listed_count] => 0
-    [created_at] => Mon Jun 27 17:34:10 +0000 2016
-    [favourites_count] => 36524
+    [created_at] => Mon May 11 10:19:17 +0000 2020
+    [favourites_count] => 2
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1996
+    [statuses_count] => 30
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -29,8 +26,8 @@ Rus/Eng/Blr
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1459217489959829505/D1652rbE_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1459217489959829505/D1652rbE_normal.jpg
+    [profile_image_url] => http://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
+    [profile_image_url_https] => https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
@@ -38,7 +35,7 @@ Rus/Eng/Blr
     [profile_use_background_image] => 1
     [has_extended_profile] => 1
     [default_profile] => 1
-    [default_profile_image] => 
+    [default_profile_image] => 1
     [following] => 
     [follow_request_sent] => 
     [notifications] => 
