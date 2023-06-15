@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => я серьезно только о вахе пишу, а в остальном материальчики и мысли собираю.
-    [protected] => 
+    [protected] => 1
     [followers_count] => 37
     [friends_count] => 1435
     [listed_count] => 1
