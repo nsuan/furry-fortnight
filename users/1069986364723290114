@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 1069986364723290114
     [id_str] => 1069986364723290114
-    [name] => on break
+    [name] => Apparentpuns
     [screen_name] => Apparentpuns
     [location] => 
     [url] => 
-    [description] => void
+    [description] => 
     [protected] => 
     [followers_count] => 531
     [friends_count] => 1277
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 27875
+    [statuses_count] => 27876
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
