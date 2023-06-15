@@ -9,7 +9,7 @@ stdClass Object
     [description] => Gamer, illustrator, writer, geek model and designer.
     [protected] => 
     [followers_count] => 150
-    [friends_count] => 253
+    [friends_count] => 255
     [listed_count] => 4
     [created_at] => Wed Jan 07 01:24:01 +0000 2009
     [favourites_count] => 113
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14207
+    [statuses_count] => 14208
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
