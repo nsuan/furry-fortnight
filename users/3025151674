@@ -10,15 +10,15 @@ stdClass Object
 Programmer, artist, adult LEGO fan
     [protected] => 
     [followers_count] => 1432
-    [friends_count] => 939
+    [friends_count] => 946
     [listed_count] => 32
     [created_at] => Sun Feb 08 15:44:52 +0000 2015
-    [favourites_count] => 35972
+    [favourites_count] => 35975
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 13986
+    [statuses_count] => 13987
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
