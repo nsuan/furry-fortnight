@@ -3,7 +3,7 @@ stdClass Object
     [id] => 982173072043094016
     [id_str] => 982173072043094016
     [name] => QTR4
-    [screen_name] => quat01S
+    [screen_name] => qtr4_s
     [location] => 
     [url] => 
     [description] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 595
     [listed_count] => 1
     [created_at] => Fri Apr 06 08:28:03 +0000 2018
-    [favourites_count] => 2831
+    [favourites_count] => 2832
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
