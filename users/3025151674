@@ -10,15 +10,15 @@ stdClass Object
 Programmer, artist, adult LEGO fan
     [protected] => 
     [followers_count] => 1433
-    [friends_count] => 952
+    [friends_count] => 953
     [listed_count] => 32
     [created_at] => Sun Feb 08 15:44:52 +0000 2015
-    [favourites_count] => 36060
+    [favourites_count] => 36069
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 14015
+    [statuses_count] => 14017
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,8 +27,8 @@ Programmer, artist, adult LEGO fan
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme1/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1567252867626536963/uRVDNZjR_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1567252867626536963/uRVDNZjR_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1670883084353302536/5Hf9esNO_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1670883084353302536/5Hf9esNO_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/3025151674/1588564901
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
