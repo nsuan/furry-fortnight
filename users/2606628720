@@ -10,11 +10,11 @@ stdClass Object
 
 @Nemo2342@mastodon.art
     [protected] => 1
-    [followers_count] => 1035
-    [friends_count] => 1099
+    [followers_count] => 1034
+    [friends_count] => 1098
     [listed_count] => 44
     [created_at] => Sun Jul 06 03:18:06 +0000 2014
-    [favourites_count] => 192645
+    [favourites_count] => 192647
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
