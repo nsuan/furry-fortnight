@@ -10,7 +10,7 @@ stdClass Object
 Art: @kazehita_
     [protected] => 
     [followers_count] => 66
-    [friends_count] => 472
+    [friends_count] => 473
     [listed_count] => 3
     [created_at] => Fri Mar 23 20:15:50 +0000 2018
     [favourites_count] => 14752
@@ -18,7 +18,7 @@ Art: @kazehita_
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2040
+    [statuses_count] => 2041
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
