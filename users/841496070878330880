@@ -11,15 +11,15 @@ stdClass Object
 My Stuff: http://melmedi.carrd.co
     [protected] => 
     [followers_count] => 342
-    [friends_count] => 5000
+    [friends_count] => 5001
     [listed_count] => 5
     [created_at] => Tue Mar 14 03:47:52 +0000 2017
-    [favourites_count] => 157548
+    [favourites_count] => 157613
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 29030
+    [statuses_count] => 29034
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
