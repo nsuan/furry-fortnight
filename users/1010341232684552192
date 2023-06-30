@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1010341232684552192
     [id_str] => 1010341232684552192
-    [name] => Bard, Prideful Troubadour
+    [name] => Bard, Wrathful Gay
     [screen_name] => BardPup
     [location] => 
     [url] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 3866
     [listed_count] => 1
     [created_at] => Sat Jun 23 01:58:15 +0000 2018
-    [favourites_count] => 33104
+    [favourites_count] => 33110
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 3179
+    [statuses_count] => 3180
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
