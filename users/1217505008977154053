@@ -6,9 +6,7 @@ stdClass Object
     [screen_name] => IzumitoART
     [location] => Zaragoza, Españita
     [url] => 
-    [description] => *•.¸♡ 𝘼𝙧𝙩𝙞𝙨𝙩𝙖 ♡¸.•* 
-     o más bien
-𝘔𝘶𝘦𝘳𝘵𝘢 𝘥𝘦 𝘩𝘢𝘮𝘣𝘳𝘦
+    [description] => ENG/ESP
 
 NSFW account--- @IzumitoNSFW
     [protected] => 
@@ -21,7 +19,7 @@ NSFW account--- @IzumitoNSFW
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1048
+    [statuses_count] => 1049
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
