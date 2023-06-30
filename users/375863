@@ -10,8 +10,8 @@ stdClass Object
 
 Mastodon: @matteo@hachyderm.io
     [protected] => 
-    [followers_count] => 570
-    [friends_count] => 2387
+    [followers_count] => 569
+    [friends_count] => 2386
     [listed_count] => 45
     [created_at] => Sat Dec 30 20:19:47 +0000 2006
     [favourites_count] => 442
