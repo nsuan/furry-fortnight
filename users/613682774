@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 613682774
     [id_str] => 613682774
-    [name] => kod 🧪💾 @ endwalker..
+    [name] => kod..
     [screen_name] => kod_exe
     [location] => 🌐 the puter
     [url] => http://lothar.tumblr.com
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 2461
     [listed_count] => 3
     [created_at] => Wed Jun 20 19:16:20 +0000 2012
-    [favourites_count] => 103153
+    [favourites_count] => 103154
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
@@ -26,8 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme15/bg.png
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme15/bg.png
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1675515494374297604/2TfdKi1n_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1675515494374297604/2TfdKi1n_normal.jpg
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1675515816672985089/O4QBZ-U0_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1675515816672985089/O4QBZ-U0_normal.jpg
     [profile_banner_url] => https://pbs.twimg.com/profile_banners/613682774/1670429651
     [profile_link_color] => 1B95E0
     [profile_sidebar_border_color] => 000000
