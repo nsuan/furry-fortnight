@@ -1,24 +1,23 @@
 stdClass Object
 (
-    [id] => 1402673537853247494
-    [id_str] => 1402673537853247494
-    [name] => Nurse Woof 🐌
-    [screen_name] => Therapybork
-    [location] => Illinois, USA
+    [id] => 1258074602833616900
+    [id_str] => 1258074602833616900
+    [name] => beeba
+    [screen_name] => bvaphonk
+    [location] => 
     [url] => 
-    [description] => Dialysis RN | D&D/WoD/RP Stuff | Ace/Gay🏳️‍🌈 | He/Him | Horror, werewolves, plants, medicine, snails,  etc. 18+
-pfp @fishndastream
+    [description] => hayyyy
     [protected] => 
-    [followers_count] => 195
-    [friends_count] => 1974
-    [listed_count] => 0
-    [created_at] => Wed Jun 09 17:06:55 +0000 2021
-    [favourites_count] => 34404
+    [followers_count] => 27
+    [friends_count] => 889
+    [listed_count] => 1
+    [created_at] => Wed May 06 16:42:21 +0000 2020
+    [favourites_count] => 23243
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 18292
+    [statuses_count] => 9216
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -27,15 +26,15 @@ pfp @fishndastream
     [profile_background_image_url] => 
     [profile_background_image_url_https] => 
     [profile_background_tile] => 
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1666547595802468365/meu22kh0_normal.jpg
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1666547595802468365/meu22kh0_normal.jpg
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1402673537853247494/1635198430
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1644833531791548416/jpCqzvs8_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1644833531791548416/jpCqzvs8_normal.jpg
+    [profile_banner_url] => https://pbs.twimg.com/profile_banners/1258074602833616900/1630765862
     [profile_link_color] => 1DA1F2
     [profile_sidebar_border_color] => C0DEED
     [profile_sidebar_fill_color] => DDEEF6
     [profile_text_color] => 333333
     [profile_use_background_image] => 1
-    [has_extended_profile] => 1
+    [has_extended_profile] => 
     [default_profile] => 1
     [default_profile_image] => 
     [following] => 
