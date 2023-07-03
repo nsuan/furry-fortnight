@@ -8,8 +8,8 @@ stdClass Object
     [url] => 
     [description] => 24
     [protected] => 1
-    [followers_count] => 19
-    [friends_count] => 1662
+    [followers_count] => 20
+    [friends_count] => 1663
     [listed_count] => 0
     [created_at] => Sun May 21 21:28:54 +0000 2017
     [favourites_count] => 170211
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 58456
+    [statuses_count] => 58458
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 

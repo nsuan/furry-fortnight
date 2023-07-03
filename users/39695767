@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 39695767
     [id_str] => 39695767
-    [name] => Prince of Potions 🔱🔮 SHOP OPEN NOW
+    [name] => Prince of Potions 🔱🔮 URGENT HELP NEEDED
     [screen_name] => princepotion
     [location] => Midwest, Hell
     [url] => https://potionprince.etsy.com
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 1750
     [listed_count] => 83
     [created_at] => Wed May 13 05:28:44 +0000 2009
-    [favourites_count] => 26843
+    [favourites_count] => 26844
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
