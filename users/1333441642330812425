@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1333441642330812425
     [id_str] => 1333441642330812425
-    [name] => Trolldaeron
+    [name] => Trolldaeron - LIVE on Twitch
     [screen_name] => Trolldaeronart
     [location] => 
     [url] => https://linktr.ee/Trolldaeron
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 2782
     [listed_count] => 15
     [created_at] => Mon Nov 30 16:04:55 +0000 2020
-    [favourites_count] => 61001
+    [favourites_count] => 61002
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 14157
+    [statuses_count] => 14158
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
