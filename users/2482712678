@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => Good job to Melon Husk for killing twitter - Those of you who know me know where to reach me, otherwise DM me
-    [protected] => 1
+    [protected] => 
     [followers_count] => 41
     [friends_count] => 532
     [listed_count] => 0
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 6906
+    [statuses_count] => 6907
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
