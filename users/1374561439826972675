@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1374561439826972675
     [id_str] => 1374561439826972675
-    [name] => Ing
+    [name] => Tea
     [screen_name] => frosted_fox
     [location] => 
     [url] => 
@@ -18,7 +18,7 @@ I fear being perceived
     [friends_count] => 529
     [listed_count] => 0
     [created_at] => Wed Mar 24 03:19:30 +0000 2021
-    [favourites_count] => 78145
+    [favourites_count] => 78148
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
