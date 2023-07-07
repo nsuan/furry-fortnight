@@ -11,15 +11,15 @@ stdClass Object
 pfp: @mawbyte
     [protected] => 
     [followers_count] => 170
-    [friends_count] => 740
+    [friends_count] => 741
     [listed_count] => 2
     [created_at] => Mon Nov 17 22:20:27 +0000 2008
-    [favourites_count] => 15337
+    [favourites_count] => 15338
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 13998
+    [statuses_count] => 13999
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
