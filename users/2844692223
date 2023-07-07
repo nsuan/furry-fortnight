@@ -2,11 +2,11 @@ stdClass Object
 (
     [id] => 2844692223
     [id_str] => 2844692223
-    [name] => LGBTDROCOQ
+    [name] => Into the Drocoverse
     [screen_name] => drococu
     [location] => 
     [url] => http://twitch.tv/drococu
-    [description] => ‘93🇲🇽🏳️‍🌈 ☀️♊️  🌙♉️  ⬆️♉️  || Caffeine addict, Fit Nerd, Teacher.
+    [description] => ‘93🇲🇽🏳️‍🌈 ☀️♊️ 🌙♉️ ⬆️♉️ || Caffeine addict, Fit Nerd, Teacher.
     [protected] => 
     [followers_count] => 143
     [friends_count] => 493
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 9043
+    [statuses_count] => 9044
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
