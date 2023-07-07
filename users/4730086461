@@ -9,7 +9,7 @@ stdClass Object
     [description] => I’m just hangin’ out
     [protected] => 
     [followers_count] => 282
-    [friends_count] => 4864
+    [friends_count] => 4863
     [listed_count] => 3
     [created_at] => Thu Jan 07 01:53:23 +0000 2016
     [favourites_count] => 152060
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 81397
+    [statuses_count] => 81398
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
