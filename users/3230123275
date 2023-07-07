@@ -9,10 +9,10 @@ stdClass Object
     [description] => ((WrA IC Twitter Project))
     [protected] => 
     [followers_count] => 29
-    [friends_count] => 65
+    [friends_count] => 0
     [listed_count] => 1
     [created_at] => Fri May 29 20:53:10 +0000 2015
-    [favourites_count] => 7
+    [favourites_count] => 0
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
