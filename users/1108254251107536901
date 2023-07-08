@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1108254251107536901
     [id_str] => 1108254251107536901
-    [name] => Handhour
+    [name] => Handhour 🍷
     [screen_name] => handhour
     [location] => Eerie Midwest of USA
     [url] => http://handhour.carrd.co
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 1053
     [listed_count] => 16
     [created_at] => Wed Mar 20 06:29:38 +0000 2019
-    [favourites_count] => 24310
+    [favourites_count] => 24313
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 12553
+    [statuses_count] => 12554
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
