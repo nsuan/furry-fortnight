@@ -12,14 +12,14 @@ I like a lot of things really.
     [protected] => 
     [followers_count] => 51
     [friends_count] => 1889
-    [listed_count] => 1
+    [listed_count] => 0
     [created_at] => Thu Apr 16 21:53:17 +0000 2009
-    [favourites_count] => 111649
+    [favourites_count] => 111655
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 30027
+    [statuses_count] => 30028
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
