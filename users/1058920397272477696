@@ -2,22 +2,22 @@ stdClass Object
 (
     [id] => 1058920397272477696
     [id_str] => 1058920397272477696
-    [name] => Nico
+    [name] => A
     [screen_name] => crazziecat78
     [location] => 
     [url] => 
-    [description] => 20
+    [description] => 23
     [protected] => 
     [followers_count] => 80
-    [friends_count] => 3568
+    [friends_count] => 3570
     [listed_count] => 2
     [created_at] => Sun Nov 04 03:14:31 +0000 2018
-    [favourites_count] => 187928
+    [favourites_count] => 187955
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1344
+    [statuses_count] => 1351
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
