@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1244670177394003975
     [id_str] => 1244670177394003975
-    [name] => 🍻🏳️‍🌈 Liv of the Valabar 🏳️‍🌈🍻
+    [name] => 🍻 Liv of the Valabar 🍻
     [screen_name] => drunk_bean
     [location] => 
     [url] => 
@@ -12,7 +12,7 @@ stdClass Object
     [friends_count] => 614
     [listed_count] => 6
     [created_at] => Mon Mar 30 16:58:05 +0000 2020
-    [favourites_count] => 18135
+    [favourites_count] => 18136
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
