@@ -10,15 +10,15 @@ stdClass Object
 pfp by @frutavel
     [protected] => 
     [followers_count] => 132
-    [friends_count] => 939
+    [friends_count] => 940
     [listed_count] => 2
     [created_at] => Tue Jan 20 09:36:59 +0000 2015
-    [favourites_count] => 2645
+    [favourites_count] => 2646
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 2151
+    [statuses_count] => 2153
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
