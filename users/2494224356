@@ -12,7 +12,7 @@ stdClass Object
 
 Boosty: http://boosty.to/maragondi
     [protected] => 
-    [followers_count] => 6345
+    [followers_count] => 6349
     [friends_count] => 350
     [listed_count] => 35
     [created_at] => Wed May 14 13:55:27 +0000 2014
@@ -21,7 +21,7 @@ Boosty: http://boosty.to/maragondi
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 662
+    [statuses_count] => 663
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
