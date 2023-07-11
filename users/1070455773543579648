@@ -11,15 +11,15 @@ poly –
 switch
     [protected] => 1
     [followers_count] => 13
-    [friends_count] => 269
+    [friends_count] => 268
     [listed_count] => 0
     [created_at] => Wed Dec 05 23:11:59 +0000 2018
-    [favourites_count] => 8165
+    [favourites_count] => 8168
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1108
+    [statuses_count] => 1109
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
