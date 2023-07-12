@@ -10,7 +10,7 @@ stdClass Object
 ♊ gemini ♊
     [protected] => 
     [followers_count] => 240
-    [friends_count] => 1225
+    [friends_count] => 1224
     [listed_count] => 1
     [created_at] => Fri Sep 30 05:46:31 +0000 2011
     [favourites_count] => 18820
@@ -18,7 +18,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1800
+    [statuses_count] => 1801
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
