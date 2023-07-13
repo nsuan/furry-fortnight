@@ -10,15 +10,15 @@ stdClass Object
 Для сбора контента, чтобы не забивать фид основе
     [protected] => 
     [followers_count] => 11
-    [friends_count] => 2685
+    [friends_count] => 2686
     [listed_count] => 4
     [created_at] => Wed Dec 23 11:41:53 +0000 2020
-    [favourites_count] => 2015
+    [favourites_count] => 2016
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 284
+    [statuses_count] => 285
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
