@@ -13,17 +13,17 @@ stdClass Object
 go follow this account: @IszyKhatayin
 
 i: @udon_118 h: @baydews
-    [protected] => 1
+    [protected] => 
     [followers_count] => 236
     [friends_count] => 222
     [listed_count] => 0
     [created_at] => Sun Dec 22 20:27:16 +0000 2019
-    [favourites_count] => 23202
+    [favourites_count] => 23203
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 55034
+    [statuses_count] => 55035
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
