@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 803943702
     [id_str] => 803943702
-    [name] => jeff, game design crime committer
+    [name] => jeff, spoony bard
     [screen_name] => JeffAHamilton
     [location] => Long Beach, CA
     [url] => https://linktr.ee/jeffahamilton
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 6250
     [listed_count] => 126
     [created_at] => Wed Sep 05 05:49:26 +0000 2012
-    [favourites_count] => 411550
+    [favourites_count] => 411561
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 66840
+    [statuses_count] => 66843
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
