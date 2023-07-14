@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 2802286845
     [id_str] => 2802286845
-    [name] => Raxef
+    [name] => Raxef @ raxef.bsky.social
     [screen_name] => raxef
     [location] => Seattle, WA
     [url] => 
@@ -14,12 +14,12 @@ PFP: @RAGEWANE
     [friends_count] => 188
     [listed_count] => 9
     [created_at] => Fri Oct 03 17:17:56 +0000 2014
-    [favourites_count] => 23479
+    [favourites_count] => 23480
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 1
     [verified] => 
-    [statuses_count] => 15209
+    [statuses_count] => 15211
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
