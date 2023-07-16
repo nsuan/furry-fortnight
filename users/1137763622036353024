@@ -2,7 +2,7 @@ stdClass Object
 (
     [id] => 1137763622036353024
     [id_str] => 1137763622036353024
-    [name] => REMEMEMESME *On Hiatus*
+    [name] => REMEMEMESME
     [screen_name] => manabunbukkake
     [location] => The Void
     [url] => 
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 4316
+    [statuses_count] => 4317
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
