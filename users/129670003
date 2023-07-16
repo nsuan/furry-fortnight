@@ -4,9 +4,9 @@ stdClass Object
     [id_str] => 129670003
     [name] => alnarra
     [screen_name] => alnarraTweets
-    [location] => Chattanooga, TN 
-    [url] => http://alnarra.com
-    [description] => ♠️💜 IT Security Professional, probably also a giant cat. He / him. You can read my blog at http://blog.alnarra.com. CISSP. My views are my own.
+    [location] => 
+    [url] => 
+    [description] => 
     [protected] => 1
     [followers_count] => 334
     [friends_count] => 1151
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 5775
+    [statuses_count] => 5774
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
@@ -26,9 +26,8 @@ stdClass Object
     [profile_background_image_url] => http://abs.twimg.com/images/themes/theme14/bg.gif
     [profile_background_image_url_https] => https://abs.twimg.com/images/themes/theme14/bg.gif
     [profile_background_tile] => 1
-    [profile_image_url] => http://pbs.twimg.com/profile_images/1544319888965214208/Bm_QM1vf_normal.png
-    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1544319888965214208/Bm_QM1vf_normal.png
-    [profile_banner_url] => https://pbs.twimg.com/profile_banners/129670003/1607679323
+    [profile_image_url] => http://pbs.twimg.com/profile_images/1680365094406967296/27q4-sRd_normal.jpg
+    [profile_image_url_https] => https://pbs.twimg.com/profile_images/1680365094406967296/27q4-sRd_normal.jpg
     [profile_link_color] => 009999
     [profile_sidebar_border_color] => EEEEEE
     [profile_sidebar_fill_color] => EFEFEF
