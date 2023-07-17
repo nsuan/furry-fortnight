@@ -7,7 +7,7 @@ stdClass Object
     [location] => 
     [url] => 
     [description] => I play video games and draw things. main art: @artdinna
-    [protected] => 1
+    [protected] => 
     [followers_count] => 224
     [friends_count] => 268
     [listed_count] => 2
@@ -17,7 +17,7 @@ stdClass Object
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 7499
+    [statuses_count] => 7501
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
