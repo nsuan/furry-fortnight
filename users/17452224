@@ -11,10 +11,10 @@ stdClass Object
 pfp: @jetgreguar
     [protected] => 
     [followers_count] => 171
-    [friends_count] => 751
+    [friends_count] => 752
     [listed_count] => 2
     [created_at] => Mon Nov 17 22:20:27 +0000 2008
-    [favourites_count] => 15398
+    [favourites_count] => 15402
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
