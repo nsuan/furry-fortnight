@@ -4,7 +4,7 @@ stdClass Object
     [id_str] => 1058920397272477696
     [name] => A
     [screen_name] => crazziecat78
-    [location] => 
+    [location] => Argentina
     [url] => 
     [description] => 23
     [protected] => 
@@ -12,12 +12,12 @@ stdClass Object
     [friends_count] => 3602
     [listed_count] => 1
     [created_at] => Sun Nov 04 03:14:31 +0000 2018
-    [favourites_count] => 189079
+    [favourites_count] => 189111
     [utc_offset] => 
     [time_zone] => 
     [geo_enabled] => 
     [verified] => 
-    [statuses_count] => 1506
+    [statuses_count] => 1514
     [lang] => 
     [contributors_enabled] => 
     [is_translator] => 
